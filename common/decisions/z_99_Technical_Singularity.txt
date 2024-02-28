@@ -1,0 +1,760 @@
+#Category only allowed player only
+Technical_Singularity_Programm = {	
+
+	#Army
+	reserch_future_infantry_equipment = {
+		icon = generic_army_support 
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}
+		
+		
+		remove_effect = { 
+			hidden_effect = { set_technology = { future_infantry_equipment = 1 } }     
+		}
+		
+		fire_only_once = yes
+	}
+
+	reserch_future_mechanized_equipment = {
+		icon = generic_army_support
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}
+
+		
+		remove_effect = { 
+			hidden_effect = { set_technology = { future_mechanized_equipment = 1 } }     
+		}
+		
+		fire_only_once = yes
+	}
+	
+	reserch_future_armor_equipment = {
+		icon = generic_army_support
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}		
+		
+		remove_effect = { 
+			hidden_effect = { set_technology = { future_modern_tank_equipment = 1 } }     
+		}
+		
+		visible = {
+			has_dlc = "No Step Back"
+		}		
+		
+		
+		fire_only_once = yes
+
+	}	
+
+	reserch_future_armor_equipment_legacy = {
+		icon = generic_army_support
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}
+		
+		
+		remove_effect = { 
+			hidden_effect = { set_technology = { future_modern_tank_equipment_legacy = 1 } }     
+		}
+		
+		visible = {
+			not = { has_dlc = "No Step Back" }
+		}		
+		
+		
+		fire_only_once = yes
+
+	}
+
+	reserch_future_derivative_armor_equipment_legacy = {
+		icon = generic_army_support
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}
+		
+		
+		remove_effect = { 
+			hidden_effect = { set_technology = { 
+					future_modern_tank_aa_equipment_legacy = 1
+					future_modern_tank_artillery_equipment_legacy = 1
+				} 
+			}     
+		}
+		
+		visible = {
+			not = { has_dlc = "No Step Back" }
+		}		
+		
+		fire_only_once = yes		
+	}
+
+
+	reserch_future_anti_air_equipment = {
+		icon = generic_army_support
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}
+		
+		
+		remove_effect = { 
+			hidden_effect = { set_technology = { 
+					future_anti_air_equipment = 1
+				} 
+			}     
+		}
+		fire_only_once = yes		
+	}
+
+	reserch_future_anti_tank_equipment = {
+		icon = generic_army_support
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}
+		
+		
+		remove_effect = { 
+			hidden_effect = { set_technology = { 
+					future_anti_tank_equipment = 1
+				} 
+			}     
+		}
+		fire_only_once = yes		
+	}
+	
+
+	#Navy
+	reserch_future_destroyer = {
+		icon = generic_naval
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}
+		
+		
+		remove_effect = { 
+			hidden_effect = { set_technology = { 
+					future_light_ship = 1
+					future_light_ship_legacy = 1					
+				} 
+			}     
+		}
+		
+		visible = {
+			has_dlc = "Man the Guns"
+		}
+		
+		fire_only_once = yes
+
+	}
+	
+	reserch_future_destroyer_legacy = {
+		icon = generic_naval
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}
+		
+		
+		remove_effect = { 
+			hidden_effect = { set_technology = { 
+					future_light_ship_legacy = 1
+				} 
+			}     
+		}
+		
+		visible = {
+			not = { has_dlc = "Man the Guns" }
+		}		
+		
+		fire_only_once = yes
+
+	}
+	
+
+	reserch_future_light_cruiser = {
+		icon = generic_naval
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}
+		
+		
+		
+		
+		
+		remove_effect = { 
+			hidden_effect = { set_technology = { 
+					future_crusier = 1 
+					future_crusier_legacy = 1 					
+				} 
+			}     
+		}
+		
+		visible = {
+			has_dlc = "Man the Guns"
+		}		
+		
+		fire_only_once = yes
+
+	}
+	
+	reserch_future_light_cruiser_legacy = {
+		icon = generic_naval
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}
+		
+		
+		
+		
+		
+		remove_effect = { 
+			hidden_effect = { set_technology = { 
+					future_crusier_legacy = 1 
+				} 
+			}     
+		}
+		
+		visible = {
+			not = { has_dlc = "Man the Guns" }
+		}		
+		
+		
+		fire_only_once = yes
+	}	
+
+	reserch_future_submarine = {
+		icon = generic_naval
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}
+		
+		
+		
+		
+		
+		remove_effect = { 
+			hidden_effect = { set_technology = { 
+			future_submarine = 1 
+			future_submarine_legacy = 1			
+			} }     
+		}
+		
+		visible = {
+			has_dlc = "Man the Guns"
+		}		
+		
+		fire_only_once = yes
+
+	}
+	
+	reserch_future_submarine_legacy = {
+		icon = generic_naval
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}
+		
+		
+		
+		
+		
+		remove_effect = { 
+			hidden_effect = { set_technology = { future_submarine_legacy = 1 } }     
+		}
+		
+		visible = {
+			not = { has_dlc = "Man the Guns" }
+		}				
+		
+		fire_only_once = yes
+
+	}
+	
+	
+	reserch_future_heavy_ship = {
+		icon = generic_naval
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}
+		
+		
+		
+		
+		
+		remove_effect = { 
+			hidden_effect = { set_technology = { 
+				future_heavy_ship = 1 
+				future_heavy_ship_legacy = 1			
+			} }     
+		}
+		
+		visible = {
+			has_dlc = "Man the Guns"
+		}		
+		
+		fire_only_once = yes
+
+	}		
+	
+	reserch_future_heavy_ship_legacy = {
+		icon = generic_naval
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}
+		
+		
+		
+		
+		
+		remove_effect = { 
+			hidden_effect = { set_technology = { future_heavy_ship_legacy = 1 } }     
+		}
+		
+		visible = {
+			not = { has_dlc = "Man the Guns" }
+		}				
+		
+		fire_only_once = yes
+
+	}		
+	
+
+	reserch_future_carrier = {
+		icon = generic_naval
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}
+		
+		
+		
+		
+		
+		remove_effect = { 
+			hidden_effect = { set_technology = { 
+					future_carrier = 1 
+					future_carrier_legacy = 1					
+					} }     
+		}
+		
+		visible = {
+			has_dlc = "Man the Guns"
+		}		
+		
+		fire_only_once = yes
+
+	}	
+	
+	reserch_future_carrier_legacy = {
+		icon = generic_naval
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}
+		
+		
+		
+		
+		
+		remove_effect = { 
+			hidden_effect = { set_technology = { future_carrier_legacy = 1 } }     
+		}
+		
+		visible = {
+			not = { has_dlc = "Man the Guns" }
+		}				
+		
+		fire_only_once = yes
+
+	}	
+	
+	
+	reserch_future_navy_parts = {
+		icon = generic_naval
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}
+		
+		
+		
+		days_remove = 10
+		
+		remove_effect = { 
+			hidden_effect = { set_technology = { future_navy_parts = 1 } }     
+		}
+		
+		visible = {
+			has_dlc = "Man the Guns"
+		}		
+		
+		fire_only_once = yes
+
+	}		
+	
+	#Air
+	reserch_future_fighter_equipment = {
+		icon = generic_air
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}
+		
+		
+		
+		
+		
+		remove_effect = { 
+			hidden_effect = { set_technology = { 
+					future_fighter_equipment = 1
+				} 
+			}     
+		}
+		fire_only_once = yes		
+	}
+
+	reserch_future_cas_equipment = {
+		icon = generic_air
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}
+		
+		
+		
+		
+		
+		remove_effect = { 
+			hidden_effect = { set_technology = { 
+					future_cas_equipment = 1
+				} 
+			}     
+		}
+		fire_only_once = yes		
+	}
+
+	reserch_future_strat_bomber_equipment = {
+		icon = generic_air
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}		
+		
+		
+		
+		
+		
+		remove_effect = { 
+			hidden_effect = { set_technology = { 
+					future_jet_strat_bomber_equipment = 1
+				} 
+			}     
+		}
+		fire_only_once = yes		
+	}	
+	
+	
+	#industry	
+	research_future_computing_machine = {
+		icon = generic_industry
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}
+		
+		
+		
+		
+		
+		remove_effect = { 
+			hidden_effect = { 
+				set_technology = { 
+					future_hardware = 1
+				} 
+				add_research_slot = 4
+			}     
+		}
+		fire_only_once = yes		
+	}
+	
+	research_future_computing_encryption = {
+		icon = generic_industry
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}
+		
+		
+		
+		
+		
+		remove_effect = { 
+			hidden_effect = { 
+				set_technology = { 
+					future_computing_encryption = 1
+				} 
+			}     
+		}
+		fire_only_once = yes		
+	}
+	
+	research_future_computing_decryption = {
+		icon = generic_industry
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}
+		
+		
+		
+		
+		
+		remove_effect = { 
+			hidden_effect = { 
+				set_technology = { 
+					future_computing_decryption = 1
+				} 
+			}     
+		}
+		fire_only_once = yes		
+	}	
+	
+	research_future_production_line = {
+		icon = generic_industry
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}
+		
+		
+		
+		
+		
+		remove_effect = { 
+			hidden_effect = { 
+				set_technology = { 
+					future_production_line = 1
+				} 
+			}     
+		}
+		fire_only_once = yes		
+	}	
+	
+	research_future_industry = {
+		icon = generic_industry
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}
+		
+		
+		
+		
+		
+		remove_effect = { 
+			hidden_effect = { 
+				set_technology = { 
+					future_industry = 1
+				} 
+			}     
+		}
+		fire_only_once = yes		
+	}
+
+	research_future_construction = {
+		icon = generic_industry
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}
+		
+		
+		
+		
+		
+		remove_effect = { 
+			hidden_effect = { 
+				set_technology = { 
+					future_construction = 1
+				} 
+			}     
+		}
+		fire_only_once = yes		
+	}
+
+	research_future_mining = {
+		icon = generic_industry
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}
+		
+		
+		
+		
+		
+		remove_effect = { 
+			hidden_effect = { 
+				set_technology = { 
+					future_mining = 1
+				} 
+			}     
+		}
+		fire_only_once = yes		
+	}	
+	
+	research_future_oil_factory = {
+		icon = generic_industry
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			always = yes
+		}
+		
+		
+		
+		
+		
+		remove_effect = { 
+			hidden_effect = { 
+				set_technology = { 
+					fuel_silos = 1
+					synth_oil_experiments = 1
+					fuel_refining = 1
+					future_oil_factory = 1
+				} 
+			}     
+		}
+		fire_only_once = yes			
+	}	
+}

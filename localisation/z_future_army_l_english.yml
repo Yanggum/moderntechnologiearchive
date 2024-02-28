@@ -1,0 +1,12 @@
+﻿l_english:
+ future_infantry:0 "미래 보병"
+ future_mechanized:0 "미래 기계화 보병"
+ future_tank:0 "미래식 전차"
+ future_sp_anti_air_brigade:0 "미래식 대공포"
+ future_sp_artillery_brigade:0 "미래식 자주포"
+ 
+ future_infantry_desc:0 ""
+ future_mechanized_desc:0 ""
+ future_tank_desc:0 ""
+ future_sp_anti_air_brigade_desc:0 ""
+ future_sp_artillery_brigade_desc:0 "" 

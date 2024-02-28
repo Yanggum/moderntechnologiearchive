@@ -1,0 +1,4038 @@
+default = {
+	mbt_hull_0 = {
+		pool = {
+			icons = {
+				GFX_GER_MBT_2
+				GFX_mbt_hull_0_a
+				GFX_mbt_hull_0_b
+				GFX_mbt_hull_0_c
+				GFX_mbt_hull_0_d
+				GFX_mbt_hull_0_e
+				GFX_mbt_hull_0_f
+				GFX_mbt_hull_0_g
+				GFX_mbt_hull_0_h
+				GFX_mbt_hull_0_i
+				GFX_mbt_hull_0_j
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_1_entity"
+				"CZE_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_04_entity"
+				"SLO_MD4_medium_armor_04_entity"
+				"FRA_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity_2"
+				"GER_MD4_medium_armor_entity_2"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity_2"
+				"IRQ_MD4_medium_armor_entity"
+				"IRQ_MD4_medium_armor_entity_2"
+				"IRQ_MD4_medium_armor_entity_3"
+				"KOR_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity_2"
+				"SOV_MD4_medium_armor_entity_6"
+				"SOV_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity_2"
+				"PER_MD4_medium_armor_entity"
+				"RAJ_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_1 = {
+		pool = {
+			icons = {
+				"gfx/interface/technologies/Generic/NSB_AFV/MBT2.dds"
+				GFX_FRA_MBT_3
+				GFX_GER_MBT_3
+				GFX_USA_MBT_3
+				GFX_mbt_hull_1_e
+				GFX_mbt_hull_1_f
+				GFX_mbt_hull_1_g
+				GFX_mbt_hull_1_h
+				GFX_mbt_hull_1_i
+				GFX_mbt_hull_1_j
+			}
+			models = {
+				"CHI_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity_2"
+				"CZE_MD4_medium_armor_1_entity"
+				"CZE_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_04_entity"
+				"SLO_MD4_medium_armor_04_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity_2"
+				"FRA_MD4_medium_armor_entity"
+				"FRA_MD4_light_armor_entity"
+				"GER_MD4_medium_armor_entity_4"
+				"GER_MD4_medium_armor_entity_2"
+				"GER_MD4_medium_armor_entity_3"
+				"IRQ_MD4_medium_armor_entity"
+				"IRQ_MD4_medium_armor_entity_2"
+				"IRQ_MD4_medium_armor_entity_3"
+				"ITA_MD4_medium_armor_entity"
+				"JAP_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity_2"							 
+				"SOV_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity_2"
+				"SOV_MD4_medium_armor_entity_5"
+				"SOV_MD4_medium_armor_entity_6"
+				"SOV_MD4_light_armor_entity_5"
+				"RAJ_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity_2"
+				"USA_MD4_light_armor_entity_2"
+				"BRA_MD4_medium_armor_entity"
+				"UKR_MD4_medium_armor_entity"
+				"PER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_2 = {
+		pool = {
+			icons = {
+				"gfx/interface/technologies/Generic/NSB_AFV/MBT4.dds"
+				GFX_ENG_MBT_5
+				GFX_FRA_MBT_1
+				GFX_FRA_MBT_4
+				GFX_GER_MBT_4
+				GFX_ITA_MBT_3
+				GFX_SOV_MBT_4
+				GFX_SPR_MBT_4
+				GFX_SWE_MBT_4
+				GFX_UKR_MBT_4
+				GFX_USA_MBT_4
+			}
+			models = {
+				"CHI_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity_2"
+				"CZE_MD4_medium_armor_1_entity"
+				"CZE_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_04_entity"
+				"SLO_MD4_medium_armor_04_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity_2"
+				"FRA_MD4_medium_armor_entity"
+				"FRA_MD4_light_armor_entity"
+				"GER_MD4_medium_armor_entity_4"
+				"GER_MD4_medium_armor_entity_2"
+				"GER_MD4_medium_armor_entity_3"
+				"IRQ_MD4_medium_armor_entity"
+				"IRQ_MD4_medium_armor_entity_2"
+				"IRQ_MD4_medium_armor_entity_3"
+				"ITA_MD4_medium_armor_entity"
+				"JAP_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity_2"
+				"SOV_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity_2"
+				"SOV_MD4_medium_armor_entity_5"
+				"SOV_MD4_medium_armor_entity_6"
+				"SOV_MD4_light_armor_entity_5"
+				"RAJ_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity_2"
+				"USA_MD4_light_armor_entity_2"
+				"BRA_MD4_medium_armor_entity"
+				"UKR_MD4_medium_armor_entity"
+				"PER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_3 = {
+		pool = {
+			icons = {
+				"gfx/interface/technologies/Generic/NSB_AFV/MBT5.dds"
+				GFX_FRA_MBT_5
+				GFX_GER_MBT_5
+				GFX_ISR_MBT_5
+				GFX_ISR_MBT_6
+				GFX_ITA_MBT_4
+				GFX_JAP_MBT_5
+				GFX_JAP_MBT_6
+				GFX_SOV_MBT_5
+				GFX_SOV_MBT_6
+				GFX_SPR_MBT_6
+				GFX_SWE_MBT_5
+				GFX_UKR_MBT_4
+				GFX_USA_MBT_5
+			}
+			models = {
+				"CHI_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity_2"
+				"CZE_MD4_medium_armor_1_entity"
+				"CZE_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_04_entity"
+				"SLO_MD4_medium_armor_04_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity_2"
+				"FRA_MD4_medium_armor_entity"
+				"FRA_MD4_light_armor_entity"
+				"GER_MD4_medium_armor_entity_4"
+				"GER_MD4_medium_armor_entity_2"
+				"GER_MD4_medium_armor_entity_3"
+				"IRQ_MD4_medium_armor_entity"
+				"IRQ_MD4_medium_armor_entity_2"
+				"IRQ_MD4_medium_armor_entity_3"
+				"ITA_MD4_medium_armor_entity"
+				"JAP_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity_2"
+				"SOV_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity_2"
+				"SOV_MD4_medium_armor_entity_5"
+				"SOV_MD4_medium_armor_entity_6"
+				"SOV_MD4_light_armor_entity_5"
+				"RAJ_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity_2"
+				"USA_MD4_light_armor_entity_2"
+				"BRA_MD4_medium_armor_entity"
+				"UKR_MD4_medium_armor_entity"
+				"PER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_4 = {
+		pool = {
+			icons = {
+				"gfx/interface/technologies/Generic/NSB_AFV/MBT7.dds"
+				GFX_ENG_MBT_7
+				GFX_FRA_MBT_7
+				GFX_GER_MBT_7
+				GFX_GER_MBT_5
+				GFX_ISR_MBT_7
+				GFX_ISR_MBT_6
+				GFX_ITA_MBT_5
+				GFX_JAP_MBT_5
+				GFX_JAP_MBT_6
+				GFX_SOV_MBT_5
+				GFX_SOV_MBT_6
+				GFX_SPR_MBT_6
+				GFX_SPR_MBT_7
+				GFX_SWE_MBT_6
+				GFX_USA_MBT_5
+				GFX_USA_MBT_6
+			}
+			models = {
+				"CHI_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity_2"
+				"CZE_MD4_medium_armor_1_entity"
+				"CZE_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_04_entity"
+				"SLO_MD4_medium_armor_04_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity_2"
+				"FRA_MD4_medium_armor_entity"
+				"FRA_MD4_light_armor_entity"
+				"GER_MD4_medium_armor_entity_4"
+				"GER_MD4_medium_armor_entity_2"
+				"GER_MD4_medium_armor_entity_3"
+				"IRQ_MD4_medium_armor_entity"
+				"IRQ_MD4_medium_armor_entity_2"
+				"IRQ_MD4_medium_armor_entity_3"
+				"ITA_MD4_medium_armor_entity"
+				"JAP_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity_2"
+				"SOV_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity_2"
+				"SOV_MD4_medium_armor_entity_5"
+				"SOV_MD4_medium_armor_entity_6"
+				"SOV_MD4_light_armor_entity_5"
+				"RAJ_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity_2"
+				"USA_MD4_light_armor_entity_2"
+				"BRA_MD4_medium_armor_entity"
+				"UKR_MD4_medium_armor_entity"
+				"PER_MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_0 = {
+		pool = {
+			icons = {
+				GFX_Rec_tank_0_medium
+				GFX_USA_Rec_tank_0_medium
+				GFX_GER_Rec_tank_0_medium
+				GFX_FRA_Rec_tank_0_medium
+				GFX_CHI_Rec_tank_0_medium
+				GFX_ISR_Rec_tank_0_medium
+				GFX_ENG_Rec_tank_0_medium
+				GFX_NKO_Rec_tank_0_medium
+				GFX_SWE_Rec_tank_0_medium
+				GFX_TUR_Rec_tank_0_medium
+				GFX_PER_Rec_tank_0_medium
+				GFX_ITA_Rec_tank_0_medium
+				GFX_JAP_Rec_tank_0_medium
+				GFX_POL_Rec_tank_0_medium
+				GFX_GER_Rec_tank_1_medium
+				
+			}
+			models = {
+				"ITA_MD4_medium_armor_entity"
+				"JAP_MD4_light_armor_entity"
+				"commonwealth_gfx_MD4_light_armor_entity_2"
+				"FRA_MD4_light_armor_entity"
+				"SOV_MD4_light_armor_entity_5"
+				"USA_MD4_light_armor_entity_2"
+			}
+		}
+	}
+
+	light_tank_hull_1 = {
+		pool = {
+			icons = {
+				GFX_Rec_tank_1_medium
+				GFX_USA_Rec_tank_1_medium
+				GFX_GER_Rec_tank_1_medium
+				GFX_FRA_Rec_tank_1_medium
+				GFX_CHI_Rec_tank_1_medium
+				GFX_ISR_Rec_tank_1_medium
+				GFX_ENG_Rec_tank_1_medium
+				GFX_NKO_Rec_tank_1_medium
+				GFX_SWE_Rec_tank_1_medium
+				GFX_GRE_Rec_tank_1_medium
+				GFX_TUR_Rec_tank_1_medium
+				GFX_PER_Rec_tank_1_medium
+				GFX_ITA_Rec_tank_1_medium
+				GFX_POL_Rec_tank_1_medium
+				GFX_GER_Rec_tank_2_medium
+			}
+			models = {
+				"ITA_MD4_medium_armor_entity"
+				"JAP_MD4_light_armor_entity"
+				"commonwealth_gfx_MD4_light_armor_entity_2"
+				"FRA_MD4_light_armor_entity"
+				"SOV_MD4_light_armor_entity_5"
+				"USA_MD4_light_armor_entity_2"
+			}
+		}
+	}
+
+	light_tank_hull_2 = {
+		pool = {
+			icons = {
+				GFX_Rec_tank_2_medium
+				GFX_USA_Rec_tank_2_medium
+				GFX_GER_Rec_tank_2_medium
+				GFX_FRA_Rec_tank_2_medium
+				GFX_CHI_Rec_tank_2_medium
+				GFX_ENG_Rec_tank_2_medium
+				GFX_NKO_Rec_tank_2_medium
+				GFX_SWE_Rec_tank_2_medium
+				GFX_TUR_Rec_tank_2_medium
+				GFX_ITA_Rec_tank_2_medium
+				GFX_JAP_Rec_tank_2_medium
+				GFX_POL_Rec_tank_2_medium
+				GFX_GER_Rec_tank_3_medium
+				GFX_JAP_Rec_tank_3_medium
+				GFX_SWE_Rec_tank_1_medium
+			}
+			models = {
+				"ITA_MD4_medium_armor_entity"
+				"JAP_MD4_light_armor_entity"
+				"commonwealth_gfx_MD4_light_armor_entity_2"
+				"FRA_MD4_light_armor_entity"
+				"SOV_MD4_light_armor_entity_5"
+				"USA_MD4_light_armor_entity_2"
+			}
+		}
+	}
+
+	light_tank_hull_3 = {
+		pool = {
+			icons = {
+				GFX_Rec_tank_3_medium
+				GFX_USA_Rec_tank_3_medium
+				GFX_GER_Rec_tank_3_medium
+				GFX_FRA_Rec_tank_3_medium
+				GFX_CHI_Rec_tank_3_medium
+				GFX_ENG_Rec_tank_3_medium
+				GFX_SWE_Rec_tank_3_medium
+				GFX_TUR_Rec_tank_3_medium
+				GFX_ITA_Rec_tank_3_medium
+				GFX_JAP_Rec_tank_3_medium
+				GFX_POL_Rec_tank_3_medium
+				GFX_USA_Rec_tank_4_medium
+				GFX_GER_Rec_tank_4_medium
+				GFX_JAP_Rec_tank_4_medium
+				GFX_SWE_Rec_tank_2_medium
+			}
+			models = {
+				"ITA_MD4_medium_armor_entity"
+				"JAP_MD4_light_armor_entity"
+				"commonwealth_gfx_MD4_light_armor_entity_2"
+				"FRA_MD4_light_armor_entity"
+				"SOV_MD4_light_armor_entity_5"
+				"USA_MD4_light_armor_entity_2"
+			}
+		}
+	}
+
+	light_tank_hull_4 = {
+		pool = {
+			icons = {
+				GFX_Rec_tank_4_medium
+				GFX_USA_Rec_tank_4_medium
+				GFX_GER_Rec_tank_4_medium
+				GFX_FRA_Rec_tank_4_medium
+				GFX_CHI_Rec_tank_4_medium
+				GFX_ENG_Rec_tank_4_medium
+				GFX_KOR_Rec_tank_4_medium
+				GFX_SWE_Rec_tank_4_medium
+				GFX_TUR_Rec_tank_4_medium
+				GFX_ITA_Rec_tank_4_medium
+				GFX_JAP_Rec_tank_4_medium
+				GFX_POL_Rec_tank_4_medium
+				GFX_FRA_Rec_tank_5_medium
+				GFX_USA_Rec_tank_5_medium
+				GFX_GER_Rec_tank_5_medium
+				GFX_ITA_Rec_tank_3_medium
+				GFX_SWE_Rec_tank_2_medium
+			}
+			models = {
+				"ITA_MD4_medium_armor_entity"
+				"JAP_MD4_light_armor_entity"
+				"commonwealth_gfx_MD4_light_armor_entity_2"
+				"FRA_MD4_light_armor_entity"
+				"SOV_MD4_light_armor_entity_5"
+				"USA_MD4_light_armor_entity_2"
+			}
+		}
+	}
+
+	spaa_hull_0 = {
+		pool = {
+			icons = {
+				GFX_SP_Anti_Air_0_medium
+				GFX_USA_SP_Anti_Air_0_medium
+				GFX_ENG_SP_Anti_Air_0_medium
+				GFX_FRA_SP_Anti_Air_0_medium
+				GFX_GER_SP_Anti_Air_0_medium
+				GFX_POL_SP_Anti_Air_0_medium
+				GFX_PER_SP_Anti_Air_0_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_1 = {
+		pool = {
+			icons = {
+				GFX_SP_Anti_Air_1_medium
+				GFX_USA_SP_Anti_Air_1_medium
+				GFX_CHI_SP_Anti_Air_1_medium
+				GFX_ENG_SP_Anti_Air_0_medium
+				GFX_FRA_SP_Anti_Air_1_medium
+				GFX_GER_SP_Anti_Air_1_medium
+				GFX_GER_SP_Anti_Air_0_medium
+				GFX_POL_SP_Anti_Air_1_medium
+				GFX_PER_SP_Anti_Air_1_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_2 = {
+		pool = {
+			icons = {
+				GFX_SP_Anti_Air_2_medium
+				GFX_USA_SP_Anti_Air_3_medium
+				GFX_SOV_SP_Anti_Air_3_medium
+				GFX_ENG_SP_Anti_Air_0_medium
+				GFX_FRA_SP_Anti_Air_2_medium
+				GFX_GER_SP_Anti_Air_1_medium
+				GFX_GER_SP_Anti_Air_0_medium
+				GFX_ITA_SP_Anti_Air_2_medium
+				GFX_JAP_SP_Anti_Air_2_medium
+				GFX_KOR_SP_Anti_Air_1_medium
+				GFX_POL_SP_Anti_Air_2_medium
+				GFX_PER_SP_Anti_Air_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_3 = {
+		pool = {
+			icons = {
+				GFX_SP_Anti_Air_3_medium
+				GFX_USA_SP_Anti_Air_3_medium
+				GFX_FRA_SP_Anti_Air_3_medium
+				GFX_GER_SP_Anti_Air_3_medium
+				GFX_ITA_SP_Anti_Air_2_medium
+				GFX_ITA_SP_Anti_Air_3_medium
+				GFX_JAP_SP_Anti_Air_2_medium
+				GFX_KOR_SP_Anti_Air_2_medium
+				GFX_KOR_SP_Anti_Air_1_medium
+				GFX_POL_SP_Anti_Air_3_medium
+				GFX_PER_SP_Anti_Air_3_medium
+				
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_4 = {
+		pool = {
+			icons = {
+				GFX_SP_Anti_Air_4_medium
+				GFX_USA_SP_Anti_Air_4_medium
+				GFX_CHI_SP_Anti_Air_4_medium
+				GFX_USA_SP_Anti_Air_3_medium
+				GFX_FRA_SP_Anti_Air_3_medium
+				GFX_FRA_SP_Anti_Air_4_medium
+				GFX_GER_SP_Anti_Air_3_medium
+				GFX_ITA_SP_Anti_Air_2_medium
+				GFX_ITA_SP_Anti_Air_4_medium
+				GFX_KOR_SP_Anti_Air_2_medium
+				GFX_PER_SP_Anti_Air_3_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+}
+
+CHI = {
+	mbt_hull_0 = {
+		pool = {
+			icons = {
+				GFX_CHI_MBT_0
+				GFX_CHI_MBT_1
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_1 = {
+		pool = {
+			icons = {
+				GFX_CHI_MBT_1
+				GFX_CHI_MBT_2
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_2 = {
+		pool = {
+			icons = {
+				GFX_CHI_MBT_4
+				GFX_CHI_MBT_2
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_3 = {
+		pool = {
+			icons = {
+				GFX_CHI_MBT_6
+				GFX_CHI_MBT_5
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_4 = {
+		pool = {
+			icons = {
+				GFX_CHI_MBT_7
+				GFX_CHI_MBT_6
+				GFX_CHI_MBT_5
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_0 = {
+		pool = {
+			icons = {
+				GFX_CHI_SP_Anti_Air_0_medium
+				GFX_CHI_SP_Anti_Air_1_medium
+			}
+			models = {
+				"CHI_MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_1 = {
+		pool = {
+			icons = {
+				GFX_CHI_SP_Anti_Air_1_medium
+				GFX_CHI_SP_Anti_Air_2_medium
+			}
+			models = {
+				"CHI_MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_2 = {
+		pool = {
+			icons = {
+				GFX_CHI_SP_Anti_Air_2_medium
+				GFX_CHI_SP_Anti_Air_3_medium
+			}
+			models = {
+				"CHI_MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_3 = {
+		pool = {
+			icons = {
+				GFX_CHI_SP_Anti_Air_3_medium
+				GFX_CHI_SP_Anti_Air_4_medium
+			}
+			models = {
+				"CHI_MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_4 = {
+		pool = {
+			icons = {
+				GFX_CHI_SP_Anti_Air_4_medium
+				GFX_CHI_SP_Anti_Air_3_medium
+			}
+			models = {
+				"CHI_MD4_medium_armor_entity"
+			}
+		}
+	}
+	light_tank_hull_0 = {
+		pool = {
+			icons = {		
+				GFX_CHI_Rec_tank_0_medium
+				GFX_CHI_Rec_tank_1_medium
+			}
+			models = {
+				"CHI_MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_1 = {
+		pool = {
+			icons = {
+				GFX_CHI_Rec_tank_1_medium
+				GFX_CHI_Rec_tank_2_medium
+			}
+			models = {
+				"CHI_MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_2 = {
+		pool = {
+			icons = {
+				GFX_CHI_Rec_tank_3_medium
+				GFX_CHI_Rec_tank_2_medium
+			}
+			models = {
+				"CHI_MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_3 = {
+		pool = {
+			icons = {
+				GFX_CHI_Rec_tank_4_medium
+				GFX_CHI_Rec_tank_3_medium
+			}
+			models = {
+				"CHI_MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_4 = {
+		pool = {
+			icons = {
+				GFX_CHI_Rec_tank_5_medium
+				GFX_CHI_Rec_tank_4_medium
+			}
+			models = {
+				"CHI_MD4_medium_armor_entity"
+			}
+		}
+	}
+}
+
+ENG = {
+	mbt_hull_0 = {
+		pool = {
+			icons = {
+				GFX_ENG_MBT_1
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_1 = {
+		pool = {
+			icons = {
+				GFX_ENG_MBT_2
+				GFX_ENG_MBT_3
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_2 = {
+		pool = {
+			icons = {
+				GFX_ENG_MBT_4
+				GFX_ENG_MBT_5
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_3 = {
+		pool = {
+			icons = {
+				GFX_ENG_MBT_5
+				GFX_ENG_MBT_6
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_4 = {
+		pool = {
+			icons = {
+				GFX_ENG_MBT_7
+				GFX_ENG_MBT_6
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_0 = {
+		pool = {
+			icons = {
+				GFX_ENG_SP_Anti_Air_0_medium
+				GFX_ENG_SP_Anti_Air_1_medium
+			}
+			models = {
+				"commonwealth_gfx_MD4_light_armor_entity_2"
+			}
+		}
+	}
+	spaa_hull_1 = {
+		pool = {
+			icons = {
+				GFX_ENG_SP_Anti_Air_1_medium
+				GFX_ENG_SP_Anti_Air_2_medium
+			}
+			models = {
+				"commonwealth_gfx_MD4_light_armor_entity_2"
+			}
+		}
+	}
+	spaa_hull_2 = {
+		pool = {
+			icons = {
+				GFX_ENG_SP_Anti_Air_2_medium
+				GFX_ENG_SP_Anti_Air_3_medium
+			}
+			models = {
+				"commonwealth_gfx_MD4_light_armor_entity_2"
+			}
+		}
+	}
+	spaa_hull_3 = {
+		pool = {
+			icons = {
+				GFX_ENG_SP_Anti_Air_3_medium
+				GFX_ENG_SP_Anti_Air_4_medium
+			}
+			models = {
+				"commonwealth_gfx_MD4_light_armor_entity_2"
+			}
+		}
+	}
+	spaa_hull_4 = {
+		pool = {
+			icons = {
+				GFX_ENG_SP_Anti_Air_4_medium
+				GFX_ENG_SP_Anti_Air_3_medium
+			}
+			models = {
+				"commonwealth_gfx_MD4_light_armor_entity_2"
+			}
+		}
+	}
+	light_tank_hull_0 = {
+		pool = {
+			icons = {		
+				GFX_ENG_Rec_tank_0_medium
+				GFX_ENG_Rec_tank_1_medium
+			}
+			models = {
+				"commonwealth_gfx_MD4_light_armor_entity_2"
+			}
+		}
+	}
+
+	light_tank_hull_1 = {
+		pool = {
+			icons = {
+				GFX_ENG_Rec_tank_1_medium
+				GFX_ENG_Rec_tank_2_medium
+			}
+			models = {
+				"commonwealth_gfx_MD4_light_armor_entity_2"
+			}
+		}
+	}
+
+	light_tank_hull_2 = {
+		pool = {
+			icons = {
+				GFX_ENG_Rec_tank_2_medium
+				GFX_ENG_Rec_tank_3_medium
+			}
+			models = {
+				"commonwealth_gfx_MD4_light_armor_entity_2"
+			}
+		}
+	}
+
+	light_tank_hull_3 = {
+		pool = {
+			icons = {
+				GFX_ENG_Rec_tank_3_medium
+				GFX_ENG_Rec_tank_4_medium
+			}
+			models = {
+				"commonwealth_gfx_MD4_light_armor_entity_2"
+			}
+		}
+	}
+
+	light_tank_hull_4 = {
+		pool = {
+			icons = {
+				GFX_ENG_Rec_tank_4_medium
+				GFX_ENG_Rec_tank_5_medium
+			}
+			models = {
+				"commonwealth_gfx_MD4_light_armor_entity_2"
+			}
+		}
+	}
+}
+
+BRA = {
+	mbt_hull_0 = {
+		pool = {
+			icons = {
+				GFX_BRA_MBT_1
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_1 = {
+		pool = {
+			icons = {
+				GFX_BRA_MBT_1
+				GFX_BRA_MBT_2
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_2 = {
+		pool = {
+			icons = {
+				GFX_BRA_MBT_4
+				GFX_BRA_MBT_2
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_3 = {
+		pool = {
+			icons = {
+				GFX_BRA_MBT_5
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_4 = {
+		pool = {
+			icons = {
+				GFX_BRA_MBT_5
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+			}
+		}
+	}
+}
+
+FRA = {
+	mbt_hull_0 = {
+		pool = {
+			icons = {
+				GFX_FRA_MBT_1
+				GFX_FRA_MBT_2
+			}
+			models = {
+				"FRA_MD4_medium_armor_entity_2"
+			}
+		}
+	}
+	mbt_hull_1 = {
+		pool = {
+			icons = {
+				GFX_FRA_MBT_2
+				GFX_FRA_MBT_3
+			}
+			models = {
+				"FRA_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_2 = {
+		pool = {
+			icons = {
+				"gfx/interface/technologies/FRA/LAND/MBT4.dds"
+			}
+			models = {
+				"FRA_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_3 = {
+		pool = {
+			icons = {
+				GFX_FRA_MBT_5
+				GFX_FRA_MBT_4
+			}
+			models = {
+				"FRA_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_4 = {
+		pool = {
+			icons = {
+				GFX_FRA_MBT_5
+				GFX_FRA_MBT_6
+				GFX_FRA_MBT_7
+			}
+			models = {
+				"FRA_MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_0 = {
+		pool = {
+			icons = {
+				GFX_FRA_SP_Anti_Air_0_medium
+				GFX_FRA_SP_Anti_Air_1_medium
+			}
+			models = {
+				"FRA_MD4_medium_armor_entity_2"
+			}
+		}
+	}
+	spaa_hull_1 = {
+		pool = {
+			icons = {
+				GFX_FRA_SP_Anti_Air_1_medium
+				GFX_FRA_SP_Anti_Air_0_medium
+			}
+			models = {
+				"FRA_MD4_medium_armor_entity_2"
+			}
+		}
+	}
+	spaa_hull_2 = {
+		pool = {
+			icons = {
+				GFX_FRA_SP_Anti_Air_2_medium
+				GFX_FRA_SP_Anti_Air_1_medium
+			}
+			models = {
+				"FRA_MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_3 = {
+		pool = {
+			icons = {
+				GFX_FRA_SP_Anti_Air_3_medium
+				GFX_FRA_SP_Anti_Air_2_medium
+				GFX_FRA_SP_Anti_Air_1_medium
+			}
+			models = {
+				"FRA_MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_4 = {
+		pool = {
+			icons = {
+				GFX_FRA_SP_Anti_Air_4_medium
+				GFX_FRA_SP_Anti_Air_3_medium
+				GFX_FRA_SP_Anti_Air_2_medium
+				GFX_FRA_SP_Anti_Air_1_medium
+			}
+			models = {
+				"FRA_MD4_medium_armor_entity"
+			}
+		}
+	}
+	light_tank_hull_0 = {
+		pool = {
+			icons = {
+				GFX_FRA_Rec_tank_0_medium
+				GFX_FRA_Rec_tank_1_medium
+			}
+			models = {
+				"FRA_MD4_light_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_1 = {
+		pool = {
+			icons = {
+				GFX_FRA_Rec_tank_1_medium
+				GFX_FRA_Rec_tank_2_medium
+			}
+			models = {
+				"FRA_MD4_light_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_2 = {
+		pool = {
+			icons = {
+				GFX_FRA_Rec_tank_3_medium
+				GFX_FRA_Rec_tank_2_medium
+				GFX_FRA_Rec_tank_4_medium
+			}
+			models = {
+				"FRA_MD4_light_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_3 = {
+		pool = {
+			icons = {
+				GFX_FRA_Rec_tank_4_medium
+				GFX_FRA_Rec_tank_2_medium
+				GFX_FRA_Rec_tank_3_medium
+				GFX_FRA_Rec_tank_5_medium
+			}
+			models = {
+				"FRA_MD4_light_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_4 = {
+		pool = {
+			icons = {
+				GFX_FRA_Rec_tank_5_medium
+				GFX_FRA_Rec_tank_4_medium
+				GFX_FRA_Rec_tank_3_medium
+			}
+			models = {
+				"FRA_MD4_light_armor_entity"
+			}
+		}
+	}
+}
+
+GER = {
+	mbt_hull_0 = {
+		pool = {
+			icons = {
+				GFX_GER_MBT_1
+				GFX_GER_MBT_2
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_1 = {
+		pool = {
+			icons = {
+				GFX_GER_MBT_3
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_2 = {
+		pool = {
+			icons = {
+				GFX_GER_MBT_4
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_3 = {
+		pool = {
+			icons = {
+				GFX_GER_MBT_5
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_4 = {
+		pool = {
+			icons = {
+				GFX_GER_MBT_7
+				GFX_GER_MBT_5
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_0 = {
+		pool = {
+			icons = {
+				GFX_GER_SP_Anti_Air_0_medium
+				GFX_GER_SP_Anti_Air_1_medium
+			}
+			models = {
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_1 = {
+		pool = {
+			icons = {
+				GFX_GER_SP_Anti_Air_1_medium
+				GFX_GER_SP_Anti_Air_2_medium
+			}
+			models = {
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_2 = {
+		pool = {
+			icons = {
+				GFX_GER_SP_Anti_Air_2_medium
+				GFX_GER_SP_Anti_Air_3_medium
+			}
+			models = {
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_3 = {
+		pool = {
+			icons = {
+				GFX_GER_SP_Anti_Air_3_medium
+				GFX_GER_SP_Anti_Air_4_medium
+			}
+			models = {
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_4 = {
+		pool = {
+			icons = {
+				GFX_GER_SP_Anti_Air_4_medium
+				GFX_GER_SP_Anti_Air_3_medium
+			}
+			models = {
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	light_tank_hull_0 = {
+		pool = {
+			icons = {		
+				GFX_GER_Rec_tank_0_medium
+				GFX_GER_Rec_tank_1_medium
+			}
+			models = {
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_1 = {
+		pool = {
+			icons = {
+				GFX_GER_Rec_tank_1_medium
+				GFX_GER_Rec_tank_2_medium
+			}
+			models = {
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_2 = {
+		pool = {
+			icons = {
+				GFX_GER_Rec_tank_3_medium
+				GFX_GER_Rec_tank_2_medium
+			}
+			models = {
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_3 = {
+		pool = {
+			icons = {
+				GFX_GER_Rec_tank_4_medium
+				GFX_GER_Rec_tank_3_medium
+			}
+			models = {
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_4 = {
+		pool = {
+			icons = {
+				GFX_GER_Rec_tank_5_medium
+				GFX_GER_Rec_tank_4_medium
+			}
+			models = {
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+}
+
+GRE = {
+	mbt_hull_0 = {
+		pool = {
+			icons = {
+				GFX_GRE_MBT_1
+				GFX_GRE_MBT_2
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_1 = {
+		pool = {
+			icons = {
+				GFX_GRE_MBT_3
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_2 = {
+		pool = {
+			icons = {
+				GFX_GRE_MBT_4
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_0 = {
+		pool = {
+			icons = {
+				GFX_GRE_SP_Anti_Air_0_medium
+				GFX_GRE_SP_Anti_Air_1_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_1 = {
+		pool = {
+			icons = {
+				GFX_GRE_SP_Anti_Air_1_medium
+				GFX_GRE_SP_Anti_Air_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_2 = {
+		pool = {
+			icons = {
+				GFX_GRE_SP_Anti_Air_2_medium
+				GFX_GRE_SP_Anti_Air_3_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_3 = {
+		pool = {
+			icons = {
+				GFX_GRE_SP_Anti_Air_3_medium
+				GFX_GRE_SP_Anti_Air_4_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_4 = {
+		pool = {
+			icons = {
+				GFX_GRE_SP_Anti_Air_4_medium
+				GFX_GRE_SP_Anti_Air_3_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	light_tank_hull_0 = {
+		pool = {
+			icons = {		
+				GFX_GRE_Rec_tank_0_medium
+				GFX_GRE_Rec_tank_1_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_1 = {
+		pool = {
+			icons = {
+				GFX_GRE_Rec_tank_1_medium
+				GFX_GRE_Rec_tank_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_2 = {
+		pool = {
+			icons = {
+				GFX_GRE_Rec_tank_3_medium
+				GFX_GRE_Rec_tank_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_3 = {
+		pool = {
+			icons = {
+				GFX_GRE_Rec_tank_4_medium
+				GFX_GRE_Rec_tank_3_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_4 = {
+		pool = {
+			icons = {
+				GFX_GRE_Rec_tank_5_medium
+				GFX_GRE_Rec_tank_4_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+}
+
+ISR = {
+	mbt_hull_0 = {
+		pool = {
+			icons = {
+				GFX_ISR_MBT_1
+				GFX_ISR_MBT_2
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_1 = {
+		pool = {
+			icons = {
+				GFX_ISR_MBT_3
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_2 = {
+		pool = {
+			icons = {
+				GFX_ISR_MBT_4
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_3 = {
+		pool = {
+			icons = {
+				GFX_ISR_MBT_5
+				GFX_ISR_MBT_6
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_4 = {
+		pool = {
+			icons = {
+				GFX_ISR_MBT_7
+				GFX_ISR_MBT_6
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+			}
+		}
+	}
+	light_tank_hull_0 = {
+		pool = {
+			icons = {		
+				GFX_ISR_Rec_tank_0_medium
+				GFX_ISR_Rec_tank_1_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_1 = {
+		pool = {
+			icons = {
+				GFX_ISR_Rec_tank_1_medium
+				GFX_ISR_Rec_tank_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_2 = {
+		pool = {
+			icons = {
+				GFX_ISR_Rec_tank_3_medium
+				GFX_ISR_Rec_tank_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_3 = {
+		pool = {
+			icons = {
+				GFX_ISR_Rec_tank_4_medium
+				GFX_ISR_Rec_tank_3_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_4 = {
+		pool = {
+			icons = {
+				GFX_ISR_Rec_tank_5_medium
+				GFX_ISR_Rec_tank_4_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+}
+
+ITA = {
+	mbt_hull_0 = {
+		pool = {
+			icons = {
+				GFX_ITA_MBT_0
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_1 = {
+		pool = {
+			icons = {
+				GFX_ITA_MBT_1
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_2 = {
+		pool = {
+			icons = {
+				GFX_ITA_MBT_3
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_3 = {
+		pool = {
+			icons = {
+				GFX_ITA_MBT_4
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_4 = {
+		pool = {
+			icons = {
+				GFX_ITA_MBT_5
+				GFX_ITA_MBT_6
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_0 = {
+		pool = {
+			icons = {
+				GFX_ITA_SP_Anti_Air_0_medium
+				GFX_ITA_SP_Anti_Air_1_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_1 = {
+		pool = {
+			icons = {
+				GFX_ITA_SP_Anti_Air_1_medium
+				GFX_ITA_SP_Anti_Air_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_2 = {
+		pool = {
+			icons = {
+				GFX_ITA_SP_Anti_Air_2_medium
+				GFX_ITA_SP_Anti_Air_3_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_3 = {
+		pool = {
+			icons = {
+				GFX_ITA_SP_Anti_Air_3_medium
+				GFX_ITA_SP_Anti_Air_4_medium
+				GFX_ITA_SP_Anti_Air_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_4 = {
+		pool = {
+			icons = {
+				GFX_ITA_SP_Anti_Air_4_medium
+				GFX_ITA_SP_Anti_Air_3_medium
+				GFX_ITA_SP_Anti_Air_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	light_tank_hull_0 = {
+		pool = {
+			icons = {		
+				GFX_ITA_Rec_tank_0_medium
+				GFX_ITA_Rec_tank_1_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_1 = {
+		pool = {
+			icons = {
+				GFX_ITA_Rec_tank_1_medium
+				GFX_ITA_Rec_tank_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_2 = {
+		pool = {
+			icons = {
+				GFX_ITA_Rec_tank_3_medium
+				GFX_ITA_Rec_tank_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_3 = {
+		pool = {
+			icons = {
+				GFX_ITA_Rec_tank_4_medium
+				GFX_ITA_Rec_tank_3_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_4 = {
+		pool = {
+			icons = {
+				GFX_ITA_Rec_tank_5_medium
+				GFX_ITA_Rec_tank_4_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+}
+
+JAP = {
+	mbt_hull_0 = {
+		pool = {
+			icons = {
+				GFX_JAP_MBT_1
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_1 = {
+		pool = {
+			icons = {
+				GFX_JAP_MBT_2
+				GFX_JAP_MBT_3
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_2 = {
+		pool = {
+			icons = {
+				GFX_JAP_MBT_4
+				GFX_JAP_MBT_5
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_3 = {
+		pool = {
+			icons = {
+				GFX_JAP_MBT_5
+				GFX_JAP_MBT_6
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_4 = {
+		pool = {
+			icons = {
+				GFX_JAP_MBT_7
+				GFX_JAP_MBT_6
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_0 = {
+		pool = {
+			icons = {
+				GFX_JAP_SP_Anti_Air_0_medium
+				GFX_JAP_SP_Anti_Air_1_medium
+			}
+			models = {
+				"JAP_MD4_light_armor_entity"
+			}
+		}
+	}
+	spaa_hull_1 = {
+		pool = {
+			icons = {
+				GFX_JAP_SP_Anti_Air_1_medium
+				GFX_JAP_SP_Anti_Air_2_medium
+			}
+			models = {
+				"JAP_MD4_light_armor_entity"
+			}
+		}
+	}
+	spaa_hull_2 = {
+		pool = {
+			icons = {
+				GFX_JAP_SP_Anti_Air_2_medium
+				GFX_JAP_SP_Anti_Air_3_medium
+			}
+			models = {
+				"JAP_MD4_light_armor_entity"
+			}
+		}
+	}
+	spaa_hull_3 = {
+		pool = {
+			icons = {
+				GFX_JAP_SP_Anti_Air_3_medium
+				GFX_JAP_SP_Anti_Air_4_medium
+				GFX_JAP_SP_Anti_Air_2_medium
+			}
+			models = {
+				"JAP_MD4_light_armor_entity"
+			}
+		}
+	}
+	spaa_hull_4 = {
+		pool = {
+			icons = {
+				GFX_JAP_SP_Anti_Air_4_medium
+				GFX_JAP_SP_Anti_Air_3_medium
+				GFX_JAP_SP_Anti_Air_2_medium
+			}
+			models = {
+				"JAP_MD4_light_armor_entity"
+			}
+		}
+	}
+	light_tank_hull_0 = {
+		pool = {
+			icons = {		
+				GFX_JAP_Rec_tank_0_medium
+				GFX_JAP_Rec_tank_1_medium
+			}
+			models = {
+				"JAP_MD4_light_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_1 = {
+		pool = {
+			icons = {
+				GFX_JAP_Rec_tank_1_medium
+				GFX_JAP_Rec_tank_2_medium
+			}
+			models = {
+				"JAP_MD4_light_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_2 = {
+		pool = {
+			icons = {
+				GFX_JAP_Rec_tank_3_medium
+				GFX_JAP_Rec_tank_2_medium
+			}
+			models = {
+				"JAP_MD4_light_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_3 = {
+		pool = {
+			icons = {
+				GFX_JAP_Rec_tank_4_medium
+				GFX_JAP_Rec_tank_3_medium
+			}
+			models = {
+				"JAP_MD4_light_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_4 = {
+		pool = {
+			icons = {
+				GFX_JAP_Rec_tank_5_medium
+				GFX_JAP_Rec_tank_4_medium
+			}
+			models = {
+				"JAP_MD4_light_armor_entity"
+			}
+		}
+	}
+}
+
+KOR = {
+	mbt_hull_0 = {
+		pool = {
+			icons = {
+				GFX_KOR_MBT_1
+				GFX_KOR_MBT_2
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_1 = {
+		pool = {
+			icons = {
+				GFX_KOR_MBT_3
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_2 = {
+		pool = {
+			icons = {
+				GFX_KOR_MBT_4
+				GFX_KOR_MBT_5
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_3 = {
+		pool = {
+			icons = {
+				GFX_KOR_MBT_5
+				GFX_KOR_MBT_6
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_4 = {
+		pool = {
+			icons = {
+				GFX_KOR_MBT_7
+				GFX_KOR_MBT_6
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_0 = {
+		pool = {
+			icons = {
+				GFX_KOR_SP_Anti_Air_0_medium
+				GFX_KOR_SP_Anti_Air_1_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_1 = {
+		pool = {
+			icons = {
+				GFX_KOR_SP_Anti_Air_1_medium
+				GFX_KOR_SP_Anti_Air_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_2 = {
+		pool = {
+			icons = {
+				GFX_KOR_SP_Anti_Air_2_medium
+				GFX_KOR_SP_Anti_Air_3_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_3 = {
+		pool = {
+			icons = {
+				GFX_KOR_SP_Anti_Air_3_medium
+				GFX_KOR_SP_Anti_Air_4_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_4 = {
+		pool = {
+			icons = {
+				GFX_KOR_SP_Anti_Air_4_medium
+				GFX_KOR_SP_Anti_Air_3_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	light_tank_hull_0 = {
+		pool = {
+			icons = {		
+				GFX_KOR_Rec_tank_0_medium
+				GFX_KOR_Rec_tank_1_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_1 = {
+		pool = {
+			icons = {
+				GFX_KOR_Rec_tank_0_medium
+				GFX_KOR_Rec_tank_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_2 = {
+		pool = {
+			icons = {
+				GFX_KOR_Rec_tank_3_medium
+				GFX_KOR_Rec_tank_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_3 = {
+		pool = {
+			icons = {
+				GFX_KOR_Rec_tank_4_medium
+				GFX_KOR_Rec_tank_3_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_4 = {
+		pool = {
+			icons = {
+				GFX_KOR_Rec_tank_5_medium
+				GFX_KOR_Rec_tank_4_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+}
+
+NKO = {
+	mbt_hull_0 = {
+		pool = {
+			icons = {
+				GFX_NKO_MBT_1
+				GFX_NKO_MBT_2
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_1 = {
+		pool = {
+			icons = {
+				GFX_NKO_MBT_3
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_2 = {
+		pool = {
+			icons = {
+				GFX_NKO_MBT_4
+				GFX_NKO_MBT_6
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_3 = {
+		pool = {
+			icons = {
+				GFX_NKO_MBT_6
+				GFX_NKO_MBT_5
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_0 = {
+		pool = {
+			icons = {
+				GFX_NKO_SP_Anti_Air_0_medium
+				GFX_NKO_SP_Anti_Air_1_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_1 = {
+		pool = {
+			icons = {
+				GFX_NKO_SP_Anti_Air_1_medium
+				GFX_NKO_SP_Anti_Air_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_2 = {
+		pool = {
+			icons = {
+				GFX_NKO_SP_Anti_Air_2_medium
+				GFX_NKO_SP_Anti_Air_3_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_3 = {
+		pool = {
+			icons = {
+				GFX_NKO_SP_Anti_Air_3_medium
+				GFX_NKO_SP_Anti_Air_4_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_4 = {
+		pool = {
+			icons = {
+				GFX_NKO_SP_Anti_Air_4_medium
+				GFX_NKO_SP_Anti_Air_3_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	light_tank_hull_0 = {
+		pool = {
+			icons = {		
+				GFX_NKO_Rec_tank_0_medium
+				GFX_NKO_Rec_tank_1_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_1 = {
+		pool = {
+			icons = {
+				GFX_NKO_Rec_tank_1_medium
+				GFX_NKO_Rec_tank_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_2 = {
+		pool = {
+			icons = {
+				GFX_NKO_Rec_tank_3_medium
+				GFX_NKO_Rec_tank_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_3 = {
+		pool = {
+			icons = {
+				GFX_NKO_Rec_tank_4_medium
+				GFX_NKO_Rec_tank_3_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_4 = {
+		pool = {
+			icons = {
+				GFX_NKO_Rec_tank_5_medium
+				GFX_NKO_Rec_tank_4_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+}
+
+PER = {
+	mbt_hull_0 = {
+		pool = {
+			icons = {
+				GFX_PER_MBT_1
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_1 = {
+		pool = {
+			icons = {
+				GFX_PER_MBT_2
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_2 = {
+		pool = {
+			icons = {
+				GFX_PER_MBT_4
+				GFX_PER_MBT_3
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_3 = {
+		pool = {
+			icons = {
+				GFX_PER_MBT_5
+				GFX_PER_MBT_4
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_0 = {
+		pool = {
+			icons = {
+				GFX_PER_SP_Anti_Air_0_medium
+				GFX_PER_SP_Anti_Air_1_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_1 = {
+		pool = {
+			icons = {
+				GFX_PER_SP_Anti_Air_1_medium
+				GFX_PER_SP_Anti_Air_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_2 = {
+		pool = {
+			icons = {
+				GFX_PER_SP_Anti_Air_2_medium
+				GFX_PER_SP_Anti_Air_3_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_3 = {
+		pool = {
+			icons = {
+				GFX_PER_SP_Anti_Air_3_medium
+				GFX_PER_SP_Anti_Air_4_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_4 = {
+		pool = {
+			icons = {
+				GFX_PER_SP_Anti_Air_4_medium
+				GFX_PER_SP_Anti_Air_3_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	light_tank_hull_0 = {
+		pool = {
+			icons = {		
+				GFX_PER_Rec_tank_0_medium
+				GFX_PER_Rec_tank_1_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_1 = {
+		pool = {
+			icons = {
+				GFX_PER_Rec_tank_1_medium
+				GFX_PER_Rec_tank_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_2 = {
+		pool = {
+			icons = {
+				GFX_PER_Rec_tank_3_medium
+				GFX_PER_Rec_tank_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_3 = {
+		pool = {
+			icons = {
+				GFX_PER_Rec_tank_4_medium
+				GFX_PER_Rec_tank_3_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_4 = {
+		pool = {
+			icons = {
+				GFX_PER_Rec_tank_5_medium
+				GFX_PER_Rec_tank_4_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+}
+RAJ = {
+	mbt_hull_0 = {
+		pool = {
+			icons = {
+				GFX_RAJ_MBT_1
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_1 = {
+		pool = {
+			icons = {
+				GFX_RAJ_MBT_2
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_2 = {
+		pool = {
+			icons = {
+				GFX_RAJ_MBT_4
+				GFX_RAJ_MBT_3
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_3 = {
+		pool = {
+			icons = {
+				GFX_RAJ_MBT_5
+				GFX_RAJ_MBT_6
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+			}
+		}
+	}
+}
+
+SAF = {
+	mbt_hull_0 = {
+		pool = {
+			icons = {
+				GFX_SAF_MBT_1
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_1 = {
+		pool = {
+			icons = {
+				GFX_SAF_MBT_2
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_2 = {
+		pool = {
+			icons = {
+				GFX_SAF_MBT_3
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+			}
+		}
+	}
+}
+
+SOV = {
+	mbt_hull_0 = {
+		pool = {
+			icons = {
+				GFX_SOV_MBT_1
+				GFX_mbt_hull_0_a
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_1 = {
+		pool = {
+			icons = {
+				GFX_SOV_MBT_2
+				GFX_SOV_MBT_3
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_2 = {
+		pool = {
+			icons = {
+				GFX_SOV_MBT_4
+				GFX_SOV_MBT_3
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_3 = {
+		pool = {
+			icons = {
+				GFX_SOV_MBT_5
+				GFX_SOV_MBT_6
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_4 = {
+		pool = {
+			icons = {
+				GFX_SOV_MBT_7
+				GFX_SOV_MBT_5
+				GFX_SOV_MBT_6
+			}
+			models = {
+				"SOV_MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_0 = {
+		pool = {
+			icons = {
+				GFX_SOV_SP_Anti_Air_0_medium
+				GFX_SOV_SP_Anti_Air_1_medium
+			}
+			models = {
+				"SOV_MD4_light_armor_entity_5"
+			}
+		}
+	}
+	spaa_hull_1 = {
+		pool = {
+			icons = {
+				GFX_SOV_SP_Anti_Air_1_medium
+				GFX_SOV_SP_Anti_Air_2_medium
+			}
+			models = {
+				"SOV_MD4_light_armor_entity_5"
+			}
+		}
+	}
+	spaa_hull_2 = {
+		pool = {
+			icons = {
+				GFX_SOV_SP_Anti_Air_2_medium
+				GFX_SOV_SP_Anti_Air_3_medium
+			}
+			models = {
+				"SOV_MD4_light_armor_entity_5"
+			}
+		}
+	}
+	spaa_hull_3 = {
+		pool = {
+			icons = {
+				GFX_SOV_SP_Anti_Air_3_medium
+				GFX_SOV_SP_Anti_Air_2_medium
+				GFX_SOV_SP_Anti_Air_4_medium
+			}
+			models = {
+				"SOV_MD4_light_armor_entity_5"
+			}
+		}
+	}
+	spaa_hull_4 = {
+		pool = {
+			icons = {
+				GFX_SOV_SP_Anti_Air_4_medium
+				GFX_SOV_SP_Anti_Air_3_medium
+			}
+			models = {
+				"SOV_MD4_light_armor_entity_5"
+			}
+		}
+	}
+	light_tank_hull_0 = {
+		pool = {
+			icons = {		
+				GFX_SOV_Rec_tank_0_medium
+				GFX_SOV_Rec_tank_1_medium
+			}
+			models = {
+				"SOV_MD4_light_armor_entity_5"
+			}
+		}
+	}
+
+	light_tank_hull_1 = {
+		pool = {
+			icons = {
+				GFX_SOV_Rec_tank_1_medium
+				GFX_SOV_Rec_tank_2_medium
+			}
+			models = {
+				"SOV_MD4_light_armor_entity_5"
+			}
+		}
+	}
+
+	light_tank_hull_2 = {
+		pool = {
+			icons = {
+				GFX_SOV_Rec_tank_2_medium
+				GFX_SOV_Rec_tank_1_medium
+				GFX_SOV_Rec_tank_3_medium
+			}
+			models = {
+				"SOV_MD4_light_armor_entity_5"
+			}
+		}
+	}
+
+	light_tank_hull_3 = {
+		pool = {
+			icons = {
+				GFX_SOV_Rec_tank_4_medium
+				GFX_SOV_Rec_tank_3_medium
+			}
+			models = {
+				"SOV_MD4_light_armor_entity_5"
+			}
+		}
+	}
+
+	light_tank_hull_4 = {
+		pool = {
+			icons = {
+				GFX_SOV_Rec_tank_4_medium
+				GFX_SOV_Rec_tank_5_medium
+			}
+			models = {
+				"SOV_MD4_light_armor_entity_5"
+			}
+		}
+	}
+}
+
+SPR = {
+	mbt_hull_0 = {
+		pool = {
+			icons = {
+				GFX_SPR_MBT_1
+				GFX_SPR_MBT_2
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_1 = {
+		pool = {
+			icons = {
+				GFX_SPR_MBT_2
+				GFX_SPR_MBT_3
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_2 = {
+		pool = {
+			icons = {
+				GFX_SPR_MBT_4
+				GFX_SPR_MBT_5
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_3 = {
+		pool = {
+			icons = {
+				GFX_SPR_MBT_5
+				GFX_SPR_MBT_6
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_4 = {
+		pool = {
+			icons = {
+				GFX_SPR_MBT_7
+				GFX_SPR_MBT_6
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+}
+
+SWE = {
+	mbt_hull_0 = {
+		pool = {
+			icons = {
+				GFX_SWE_MBT_1
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_1 = {
+		pool = {
+			icons = {
+				GFX_SWE_MBT_2
+				GFX_SWE_MBT_3
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_2 = {
+		pool = {
+			icons = {
+				GFX_SWE_MBT_4
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_3 = {
+		pool = {
+			icons = {
+				GFX_SWE_MBT_5
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_4 = {
+		pool = {
+			icons = {
+				GFX_SWE_MBT_7
+				GFX_SWE_MBT_6
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	light_tank_hull_0 = {
+		pool = {
+			icons = {		
+				GFX_SWE_Rec_tank_0_medium
+				GFX_SWE_Rec_tank_1_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_1 = {
+		pool = {
+			icons = {
+				GFX_SWE_Rec_tank_1_medium
+				GFX_SWE_Rec_tank_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_2 = {
+		pool = {
+			icons = {
+				GFX_SWE_Rec_tank_3_medium
+				GFX_SWE_Rec_tank_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_3 = {
+		pool = {
+			icons = {
+				GFX_SWE_Rec_tank_4_medium
+				GFX_SWE_Rec_tank_3_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_4 = {
+		pool = {
+			icons = {
+				GFX_SWE_Rec_tank_5_medium
+				GFX_SWE_Rec_tank_4_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+}
+
+SYR = {
+	mbt_hull_0 = {
+		pool = {
+			icons = {
+				GFX_SYR_MBT_1
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_1 = {
+		pool = {
+			icons = {
+				GFX_SYR_MBT_2
+				GFX_SYR_MBT_3
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+			}
+		}
+	}
+}
+
+TUR = {
+	mbt_hull_0 = {
+		pool = {
+			icons = {
+				GFX_TUR_MBT_1
+				GFX_TUR_MBT_2
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_1 = {
+		pool = {
+			icons = {
+				GFX_TUR_MBT_3
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_2 = {
+		pool = {
+			icons = {
+				GFX_TUR_MBT_4
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_3 = {
+		pool = {
+			icons = {
+				GFX_TUR_MBT_5
+				GFX_TUR_MBT_6
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_4 = {
+		pool = {
+			icons = {
+				GFX_TUR_MBT_7
+				GFX_TUR_MBT_6
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"CHI_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_0 = {
+		pool = {
+			icons = {
+				GFX_TUR_SP_Anti_Air_0_medium
+				GFX_TUR_SP_Anti_Air_1_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_1 = {
+		pool = {
+			icons = {
+				GFX_TUR_SP_Anti_Air_1_medium
+				GFX_TUR_SP_Anti_Air_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_2 = {
+		pool = {
+			icons = {
+				GFX_TUR_SP_Anti_Air_2_medium
+				GFX_TUR_SP_Anti_Air_3_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_3 = {
+		pool = {
+			icons = {
+				GFX_TUR_SP_Anti_Air_3_medium
+				GFX_TUR_SP_Anti_Air_4_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_4 = {
+		pool = {
+			icons = {
+				GFX_TUR_SP_Anti_Air_4_medium
+				GFX_TUR_SP_Anti_Air_3_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	light_tank_hull_0 = {
+		pool = {
+			icons = {		
+				GFX_TUR_Rec_tank_0_medium
+				GFX_TUR_Rec_tank_1_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_1 = {
+		pool = {
+			icons = {
+				GFX_TUR_Rec_tank_1_medium
+				GFX_TUR_Rec_tank_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_2 = {
+		pool = {
+			icons = {
+				GFX_TUR_Rec_tank_3_medium
+				GFX_TUR_Rec_tank_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_3 = {
+		pool = {
+			icons = {
+				GFX_TUR_Rec_tank_4_medium
+				GFX_TUR_Rec_tank_3_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_4 = {
+		pool = {
+			icons = {
+				GFX_TUR_Rec_tank_5_medium
+				GFX_TUR_Rec_tank_4_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+}
+
+UKR = {
+	mbt_hull_0 = {
+		pool = {
+			icons = {
+				GFX_UKR_MBT_1
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_1 = {
+		pool = {
+			icons = {
+				GFX_UKR_MBT_2
+				GFX_UKR_MBT_3
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_2 = {
+		pool = {
+			icons = {
+				GFX_UKR_MBT_4
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+			}
+		}
+	}
+}
+
+USA = {
+	mbt_hull_0 = {
+		pool = {
+			icons = {
+				GFX_USA_MBT_1
+				GFX_USA_MBT_2
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_1 = {
+		pool = {
+			icons = {
+				GFX_USA_MBT_3
+				GFX_USA_MBT_4
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_2 = {
+		pool = {
+			icons = {
+				GFX_USA_MBT_4
+				GFX_USA_MBT_5
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_3 = {
+		pool = {
+			icons = {
+				GFX_USA_MBT_5
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_4 = {
+		pool = {
+			icons = {
+				GFX_USA_MBT_7
+				GFX_USA_MBT_6
+				GFX_USA_MBT_5
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_0 = {
+		pool = {
+			icons = {
+				GFX_USA_SP_Anti_Air_0_medium
+			}
+			models = {
+				"USA_MD4_light_armor_entity_2"
+			}
+		}
+	}
+	spaa_hull_1 = {
+		pool = {
+			icons = {
+				GFX_USA_SP_Anti_Air_1_medium
+				GFX_USA_SP_Anti_Air_0_medium
+			}
+			models = {
+				"USA_MD4_light_armor_entity_2"
+			}
+		}
+	}
+	spaa_hull_2 = {
+		pool = {
+			icons = {
+				GFX_USA_SP_Anti_Air_2_medium
+				GFX_USA_SP_Anti_Air_1_medium
+			}
+			models = {
+				"USA_MD4_light_armor_entity_2"
+			}
+		}
+	}
+	spaa_hull_3 = {
+		pool = {
+			icons = {
+				GFX_USA_SP_Anti_Air_3_medium
+				GFX_USA_SP_Anti_Air_2_medium
+				GFX_USA_SP_Anti_Air_4_medium
+			}
+			models = {
+				"USA_MD4_light_armor_entity_2"
+			}
+		}
+	}
+	spaa_hull_4 = {
+		pool = {
+			icons = {
+				GFX_USA_SP_Anti_Air_4_medium
+				GFX_USA_SP_Anti_Air_3_medium
+			}
+			models = {
+				"USA_MD4_light_armor_entity_2"
+			}
+		}
+	}
+	light_tank_hull_0 = {
+		pool = {
+			icons = {		
+				GFX_USA_Rec_tank_0_medium
+				GFX_USA_Rec_tank_1_medium
+			}
+			models = {
+				"USA_MD4_light_armor_entity_2"
+			}
+		}
+	}
+
+	light_tank_hull_1 = {
+		pool = {
+			icons = {
+				GFX_USA_IFV_3_medium
+				GFX_USA_Rec_tank_0_medium
+				GFX_USA_Rec_tank_1_medium
+			}
+			models = {
+				"USA_MD4_light_armor_entity_2"
+			}
+		}
+	}
+
+	light_tank_hull_2 = {
+		pool = {
+			icons = {
+				GFX_USA_Rec_tank_2_medium
+				GFX_USA_IFV_3_medium
+				GFX_USA_Rec_tank_1_medium
+				GFX_USA_Rec_tank_0_medium
+			}
+			models = {
+				"USA_MD4_light_armor_entity_2"
+			}
+		}
+	}
+
+	light_tank_hull_3 = {
+		pool = {
+			icons = {
+				GFX_USA_Rec_tank_4_medium
+				GFX_USA_Rec_tank_5_medium
+			}
+			models = {
+				"USA_MD4_light_armor_entity_2"
+			}
+		}
+	}
+
+	light_tank_hull_4 = {
+		pool = {
+			icons = {
+				GFX_USA_Rec_tank_4_medium
+				GFX_USA_Rec_tank_5_medium
+			}
+			models = {
+				"USA_MD4_light_armor_entity_2"
+			}
+		}
+	}
+}
+
+POL = {
+	mbt_hull_0 = {
+		pool = {
+			icons = {
+				GFX_POL_MBT_1
+				GFX_POL_MBT_2
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_1 = {
+		pool = {
+			icons = {
+				GFX_POL_MBT_3
+				GFX_POL_MBT_4
+				GFX_POL_MBT_5
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"CZE_MD4_medium_armor_entity"
+				"SLO_MD4_medium_armor_entity"
+				"SOV_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_2 = {
+		pool = {
+			icons = {
+				GFX_POL_MBT_6
+				GFX_POL_MBT_7
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_3 = {
+		pool = {
+			icons = {
+				GFX_POL_MBT_8
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+			}
+		}
+	}
+	mbt_hull_4 = {
+		pool = {
+			icons = {
+				GFX_POL_MBT_9
+			}
+			models = {
+				"BRA_MD4_medium_armor_entity"
+				"commonwealth_gfx_MD4_medium_armor_entity"
+				"FRA_MD4_medium_armor_entity"
+				"MD4_medium_armor_entity"
+				"KOR_MD4_medium_armor_entity"
+				"GER_MD4_medium_armor_entity"
+				"USA_MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_0 = {
+		pool = {
+			icons = {
+				GFX_POL_SP_Anti_Air_0_medium
+				GFX_POL_SP_Anti_Air_1_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_1 = {
+		pool = {
+			icons = {
+				GFX_POL_SP_Anti_Air_1_medium
+				GFX_POL_SP_Anti_Air_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_2 = {
+		pool = {
+			icons = {
+				GFX_POL_SP_Anti_Air_2_medium
+				GFX_POL_SP_Anti_Air_3_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	spaa_hull_3 = {
+		pool = {
+			icons = {
+				GFX_POL_SP_Anti_Air_3_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+	light_tank_hull_0 = {
+		pool = {
+			icons = {		
+				GFX_POL_Rec_tank_0_medium
+				GFX_POL_Rec_tank_1_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_1 = {
+		pool = {
+			icons = {
+				GFX_POL_Rec_tank_1_medium
+				GFX_POL_Rec_tank_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_2 = {
+		pool = {
+			icons = {
+				GFX_POL_Rec_tank_3_medium
+				GFX_POL_Rec_tank_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_3 = {
+		pool = {
+			icons = {
+				GFX_POL_Rec_tank_4_medium
+				GFX_POL_Rec_tank_3_medium
+				GFX_POL_Rec_tank_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+
+	light_tank_hull_4 = {
+		pool = {
+			icons = {
+				GFX_POL_Rec_tank_5_medium
+				GFX_POL_Rec_tank_3_medium
+				GFX_POL_Rec_tank_2_medium
+			}
+			models = {
+				"MD4_medium_armor_entity"
+			}
+		}
+	}
+}
+
