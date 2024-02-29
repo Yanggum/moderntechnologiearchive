@@ -1,7 +1,6 @@
 ﻿l_english:
- liechtenstein_focus: "Liechtenstein Focus Tree"
- #Politics
- LIC_politics: "Head of State"
+ liechtenstein_focus: "리히텐슈타인 중점 계통도"
+ LIC_politics: "국가 원수"
  LIC_politics_desc: "Liechtenstein is one of the few countries left in Europe where the monarch still wields considerable power, as the monarch is able to control the appointment of judges, the dismissal of ministers for the government, additionally possessing veto powers and the ability to call for referendums."
  LIC_prince_regnant: "Fürst von Liechtenstein"
  LIC_prince_regnant_desc: "In 2003 Liechtenstein changed its constitution so that the Monarch can, whenever they please, and without reason dismiss the sitting government, while at the same time the people can, whenever they choose, edit the constitution to abolish the monarchy."
@@ -18,7 +17,7 @@
  LIC_Prince_Alois: "His Serene Highness"
  LIC_Prince_Alois_desc: "With Alois in charge we are surely bound for better times, he is a strong and solid leader who will make our country greater than ever before."
  LIC_Prince_Alois_leader: "His Higness of the Principality of Liechtenstein Prince Alois"
- LIC_globalization: "Globalization"
+ LIC_globalization: "세계화"
  LIC_globalization_desc: "The rest of the world has moved on from the Monarchy and all of nonsense that surrounds it, perhaps it is time that we embrace the concept of globalization."
  LIC_changing_succesion_laws: "Reform Succession Laws"
  LIC_changing_succesion_laws_desc: "Now firmly in charge of the government, the parliament has reformed the royal succession laws to handicap the monarchy, leaving it at the mercy of the people."
@@ -32,13 +31,13 @@
  LIC_fueling_society_desc: "We don't have any natural resources to speak of, but if we had, we would of course not use them, as we are focusing on making the world a better place. It is because of this that we utilize biofuel generators to fulfill our energy requirements. Green energy is the future, and hopefully this time, Liechtenstein will not be late to endorse the new trend."
  LIC_new_work_places: "Foreign Employees"
  LIC_new_work_places_desc: "Through economic integration with Austria and Switzerland it is possible to allow foreign workers to commute to our country. This will, of course, require a significant investment in transportation."
- LIC_the_military_question: "The Military Question"
+ LIC_the_military_question: "군대 문제"
  LIC_the_military_question_desc: "We have been without a military since 1869, this might not be the best way forward for our nation, we stand at a crossroads ahead of us."
- LIC_defensive_military: "Defensive Military"
+ LIC_defensive_military: "방어적인 군대"
  LIC_defensive_military_desc: "In World War 2, the Swiss described us as their weak flank, due to our lack of a standing military capable of self defence. It is time for us to strengthen our military, and to make our nation capable of self defence."
  LIC_offensive_military: "Offensive Military"
  LIC_offensive_military_desc: "We may seem insignificant from the outside looking in, but in reality, we possess the ability to punch far above our weight class. It is time that we demonstrate this to the world."
- LIC_home_defence: "Home Defence"
+ LIC_home_defence: "자국 방위"
  LIC_home_defence_desc: "Like our neighbour Switzerland, we will be known as an alpine fortress. No enemy of Liechtenstein shall enter or leave our territory without a fight."
  LIC_intervention_force: "Intervention Forces"
  LIC_intervention_force_desc: "If we are to ever be taken serious on the international stage we need to prove we are able to help in conflicts around the world, and not just at home."
@@ -56,7 +55,7 @@
  LIC_military_research_desc: "With a proper military comes the need of a proper research staff on the field, we will have to redirect fonds to make sure we get this."
  LIC_the_civilian_sector: "The Civilian Sector"
  LIC_the_civilian_sector_desc: "We hardly have the industry to make very ground breaking economic changes in our own country, we need an influx of investors for this to happen."
- LIC_roads: "Liechtensteins Roads"
+ LIC_roads: "리히텐슈타인 도로"
  LIC_roads_desc: "In our small country we have few roads, yet we our country is recommended as a road trip location, to help boost our economy with tourism we need to make new roads, and improve on the ones we already have."
  LIC_railway: "Schaan-Vaduz Railway Station"
  LIC_railway_desc: "Currently we only have 4 train stations within our country. We need to expand upon this, and make sure we got a railway to lead everywhere in our beautiful country. This will help expand tourism."
@@ -119,7 +118,7 @@
  LIC_USA_cooperation_desc: "America is the world's foremost power at the turn of the millennium. Cooperating with them to reform our tax laws will pave the roads to international prosperity for Liechtenstein."
  LIC_EU_integration: "EU Integration"
  LIC_EU_integration_desc: "Now that we've established positive relations with the members of the European Union, we can integrate our economy to be compatible with the larger European market."
- LIC_international_investments: "International Investments"
+ LIC_international_investments: "대외 투자"
  LIC_international_investments_desc: "We've created inroads with the world's two greatest markets, and our closest neighbors. Now, it's time to leverage our newly found relations to secure the financial future of the principality of Liechtenstein."
  LIC_international_research: "International Research Cooperation"
  LIC_international_research_desc: "We can reach out to our international friends and request help with our research effort, allowing Liechtenstein to begin to make up the vast technology gap."
@@ -169,15 +168,13 @@
  LIC_invest_sp_arty_desc: "Any modern army since before the second world war have relied heavily on artillery for support, our army will also require this."
  LIC_international_banking: "International Banking"
  LIC_international_banking_desc: "Liechtenstein should use its new investments to invite international bankers to our nation. Of course, someone will have to go..."
- LIC_banking_custom_tooltip: "§YInternational Bankers§! Opinion Changes by §G10§! (Current: §G[?international_bankers_opinion]§!)"
+ LIC_banking_custom_tooltip: "§Y국제 은행가§! 평판이 §G10§! 변동합니다 (현재: §G[?international_bankers_opinion]§!)"
  LIC_unlock_internal_investment: "Unlocks the §YInternal Investment§! decision."
  LIC_immigration_remove_conditions: "The additional consumer goods from the idea will be removed, should our country grow larger than 100,000 people."
  LIC_small_haven_taxes: "Corporate Tax Rate Below 20%"
  LIC_medium_haven_taxes: "Corporate Tax Rate Below 15%"
  LIC_large_haven_taxes: "Corporate Tax Rate Below 10%"
  LIC_AS_purchase_tt: "§RIf our economy or population is not large enough, we may collapse trying to support such a large air force!§!"
-
- #Ideas
  LIC_idea_abolished_military: "Abolished Military"
  LIC_idea_abolished_military_desc: "in 1868 we decided to abolish our military due to the entire ordeal being too costly, and since then we had an informal agreement with Austria and Switzerland to come to our aid if we need it."
  LIC_idea_abolished_arms_industry: "Abolished Arms Industry"
@@ -271,7 +268,6 @@
  LIC_idea_expanding_military_research: "Expanding Our Military Research"
  LIC_idea_growing_our_research: "Growing Our Research"
  LIC_idea_international_research_cooperation: "International Research Cooperation"
- #Events
  Liechtenstein.1.t: "Prince Alois"
  Liechtenstein.1.d: "As Hans Adam is getting old, it is time for Prince Alois to step up and take the reigns of government, it expected to be a smooth transition, and hopefully his reign will be bounty full."
  Liechtenstein.1.a: "The Heir apparent"
@@ -299,8 +295,6 @@
  Liechtenstein.7.b: "This is a serious threat to the international community. We must prepare!"
  Liechtenstein.7.c: "Ha! Good one, Alois!"
  Liechtenstein.7.e: "As it should be."
-
- #Decisions
  LIC_enlist_refugees: "Recruitment Efforts"
  LIC_enlist_refugees_desc: "Our country is small, weak and without much manpower to draw from when it comes to supplying our army, we gain the bulk of our army from all of the refugees we've been letting into our country."
  LIC_enlist_small: "Small Scale Recruitment Efforts"
@@ -314,25 +308,19 @@
  LIC_internal_investment: "Internal Investment"
  LIC_internal_investment_desc: "Liechtenstein, despite its small population, can rise to heights never before seen by a nation so small."
  LIC_internal_investment_count: "Total Internal Investments([?LIC_internal_invested_count]) < 5"
- #Diplomacy
  stringent_tourism_restrictions: "Stringent Tourism Restrictions"
- #Additional Income & Expenses
  LIC_international_investments_TT: "$$§G0.40§!/week\n"
  LIC_USA_cooperation_TT: "$$§G0.10§!/week\n"
  LIC_EU_cooperation_TT: "$$§G0.10§!/week\n"
  LIC_huge_haven_TT: "$$§G0.075§!/week\n"
  LIC_foreign_workers_TT: "$$§R-0.01§!/week\n"
- #For the economic Preview Additional Income Tooltip
  LIC_international_investments_idea: "International Investments: $$§G0.400§!\n"
  LIC_USA_cooperation_idea: "US Cooperation: $$§G0.100§!\n"
  LIC_EU_cooperation_idea: "EU Cooperation: $$§G0.100§!\n"
  LIC_idea_large_haven_income_tt: "Huge Tax Haven: $$§G0.075§!\n"
  LIC_idea_foreign_workers_expense_tt: "Foreign Worker Commute: $$§R0.01§!\n"
-#Traits
  LIC_trait_prince_alois: "Prince Alois"
-
-#HRE tree
- LIC_HRE_modern_empire: "A Modern Empire" #first focus
+ LIC_HRE_modern_empire: "A Modern Empire"
  LIC_HRE_modern_empire_desc: "The old Holy Roman Empire was a paragon of weakness and instability. No Longer. Liechtenstein reformed the Empire from a place of strength, and it is now time for us to assert our will upon our subjects."
  LIC_formed_HRE_tt: "Have Formed the Holy Roman Empire"
  LIC_HRE_modern_empire_tt: "Begin to fix your crumbling and decentralized domain"
@@ -358,7 +346,6 @@
  LIC_idea_HRE_stabilized_organized_desc: "Now that domestic opposition has been neutralized and the military has been reorganized in the service of their new Emperor, there remains only the natural last step; centralize the power of the nation in the throne."
  LIC_idea_new_empire: "A New Empire"
  LIC_idea_new_empire_desc: "The Empire's internal issues have been addressed. Now, we may look to the future."
- #decision
  LIC_holy_roman_empire_category: "Holy Roman Empire"
  LIC_holy_roman_empire_category_desc: "Liechtenstein is the final true principality within the former Holy Roman Empire. Naturally, the burden of restoring its rightful claims falls on us and us alone. It will not be easy, but under the guidance of our Emperor, Liechtenstein — no, the Holy Roman Empire will prevail!"
  LIC_form_HRE: "Reform The Holy Roman Empire"

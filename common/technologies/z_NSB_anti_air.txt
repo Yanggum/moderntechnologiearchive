@@ -49,7 +49,7 @@ technologies = {
 		start_year = 1965
 
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = 12 y = @1965 }
 		}
 
@@ -91,7 +91,7 @@ technologies = {
 		}
 
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = 8 y = @1965 }
 		}
 
@@ -134,7 +134,7 @@ technologies = {
 		xp_research_bonus = 1.50
 
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = 10 y = @1985 }
 		}
 
@@ -165,7 +165,7 @@ technologies = {
 		start_year = 1985
 
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = 12 y = @1985 }
 		}
 
@@ -206,7 +206,7 @@ technologies = {
 		}
 
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = 8 y = @1985 }
 		}
 		path = {
@@ -252,7 +252,7 @@ technologies = {
 		xp_research_bonus = 1.50
 
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = 10 y = @2005 }
 		}
 
@@ -284,7 +284,7 @@ technologies = {
 		start_year = 2005
 
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = 12 y = @2005 }
 		}
 
@@ -339,7 +339,7 @@ technologies = {
 		start_year = 2005
 
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = 8 y = @2005 }
 		}
 
@@ -387,7 +387,7 @@ technologies = {
 		xp_research_bonus = 1.50
 
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = 10 y = @2025 }
 		}
 
@@ -419,7 +419,7 @@ technologies = {
 		start_year = 2025
 
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = 12 y = @2025 }
 		}
 
@@ -474,7 +474,7 @@ technologies = {
 		start_year = 2025
 
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = 8 y = @2025 }
 		}
 
@@ -519,7 +519,7 @@ technologies = {
 		xp_research_bonus = 1.50
 
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = 10 y = @2035 }
 		}
 
@@ -546,7 +546,7 @@ technologies = {
 		start_year = 2035
 
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = 12 y = @2035 }
 		}
 
@@ -597,7 +597,7 @@ technologies = {
 		start_year = 2035
 
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = 8 y = @2035 }
 		}
 

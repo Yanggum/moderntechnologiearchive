@@ -58,7 +58,7 @@ technologies = {
 		start_year = 1985
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row1 y = @1985 }
 		}
 		ai_will_do = {
@@ -108,7 +108,7 @@ technologies = {
 		research_cost = 3.5
 		start_year = 2015
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row1 y = @2015 }
 		}
 
@@ -170,7 +170,7 @@ technologies = {
 		start_year = 2025
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row1 y = @2025 }
 		}
 
@@ -230,7 +230,7 @@ technologies = {
 		start_year = 2035
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row1 y = @2035 }
 		}
 
@@ -293,7 +293,7 @@ technologies = {
 		start_year = 1965
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row2 y = @1965 }
 		}
 
@@ -336,7 +336,7 @@ technologies = {
 		start_year = 1975
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row2 y = @1975 }
 		}
 
@@ -380,7 +380,7 @@ technologies = {
 		start_year = 1985
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row2 y = @1985 }
 		}
 
@@ -424,7 +424,7 @@ technologies = {
 		start_year = 2015
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row2 y = @2015 }
 		}
 
@@ -475,7 +475,7 @@ technologies = {
 		start_year = 2025
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row2 y = @2025 }
 		}
 
@@ -522,7 +522,7 @@ technologies = {
 		start_year = 2035
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row2 y = @2035 }
 		}
 
@@ -577,7 +577,7 @@ technologies = {
 		start_year = 1965
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row3 y = @1965 }
 		}
 
@@ -621,7 +621,7 @@ technologies = {
 		start_year = 1975
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row3 y = @1975 }
 		}
 
@@ -665,7 +665,7 @@ technologies = {
 		start_year = 1985
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row3 y = @1985 }
 		}
 
@@ -709,7 +709,7 @@ technologies = {
 		start_year = 1995
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row3 y = @1995 }
 		}
 
@@ -753,7 +753,7 @@ technologies = {
 		start_year = 2005
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row3 y = @2005 }
 		}
 
@@ -805,7 +805,7 @@ technologies = {
 		start_year = 2015
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row3 y = @2015 }
 		}
 
@@ -857,7 +857,7 @@ technologies = {
 		start_year = 2025
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row3 y = @2025 }
 		}
 
@@ -904,7 +904,7 @@ technologies = {
 		start_year = 2035
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row3 y = @2035 }
 		}
 
@@ -960,7 +960,7 @@ technologies = {
 		start_year = 1965
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row4 y = @1965 }
 		}
 
@@ -1004,7 +1004,7 @@ technologies = {
 		start_year = 1975
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row4 y = @1975 }
 		}
 
@@ -1048,7 +1048,7 @@ technologies = {
 		start_year = 1985
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row4 y = @1985 }
 		}
 
@@ -1092,7 +1092,7 @@ technologies = {
 		start_year = 1995
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row4 y = @1995 }
 		}
 
@@ -1137,7 +1137,7 @@ technologies = {
 		start_year = 2005
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row4 y = @2005 }
 		}
 
@@ -1189,7 +1189,7 @@ technologies = {
 		start_year = 2015
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row4 y = @2015 }
 		}
 
@@ -1241,7 +1241,7 @@ technologies = {
 		start_year = 2025
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row4 y = @2025 }
 		}
 
@@ -1288,7 +1288,7 @@ technologies = {
 		start_year = 2035
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row4 y = @2035 }
 		}
 
@@ -1343,7 +1343,7 @@ technologies = {
 		start_year = 1965
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row5 y = @1965 }
 		}
 
@@ -1387,7 +1387,7 @@ technologies = {
 		start_year = 1975
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row5 y = @1975 }
 		}
 
@@ -1430,7 +1430,7 @@ technologies = {
 		start_year = 1985
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row5 y = @1985 }
 		}
 
@@ -1473,7 +1473,7 @@ technologies = {
 		start_year = 1995
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row5 y = @1995 }
 		}
 
@@ -1516,7 +1516,7 @@ technologies = {
 		start_year = 2005
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row5 y = @2005 }
 		}
 
@@ -1568,7 +1568,7 @@ technologies = {
 		start_year = 2015
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row5 y = @2015 }
 		}
 
@@ -1620,7 +1620,7 @@ technologies = {
 		start_year = 2025
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row5 y = @2025 }
 		}
 
@@ -1667,7 +1667,7 @@ technologies = {
 		start_year = 2035
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row5 y = @2035 }
 		}
 
@@ -1719,7 +1719,7 @@ technologies = {
 		start_year = 1965
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row14 y = @1965 }
 		}
 
@@ -1780,7 +1780,7 @@ technologies = {
 		start_year = 1985
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row14 y = @1985 }
 		}
 
@@ -1830,7 +1830,7 @@ technologies = {
 		start_year = 1985
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row15 y = @1985 }
 		}
 
@@ -1885,7 +1885,7 @@ technologies = {
 		start_year = 1995
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row14 y = @1995 }
 		}
 
@@ -1941,7 +1941,7 @@ technologies = {
 		start_year = 2015
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row14 y = @2015 }
 		}
 
@@ -1973,7 +1973,7 @@ technologies = {
 		start_year = 2025
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row14 y = @2025 }
 		}
 
@@ -2006,7 +2006,7 @@ technologies = {
 		start_year = 2035
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row14 y = @2035 }
 		}
 
@@ -2036,7 +2036,7 @@ technologies = {
 		start_year = 2045
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row14 y = @2045 }
 		}
 
@@ -2081,7 +2081,7 @@ technologies = {
 		start_year = 1945
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row7 y = @1945 }
 		}
 
@@ -2127,7 +2127,7 @@ technologies = {
 		start_year = 1965
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row6 y = @1965 }
 		}
 
@@ -2181,7 +2181,7 @@ technologies = {
 		start_year = 1975
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row6 y = @1975 }
 		}
 
@@ -2235,7 +2235,7 @@ technologies = {
 		start_year = 1985
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row6 y = @1985 }
 		}
 
@@ -2289,7 +2289,7 @@ technologies = {
 		start_year = 2005
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row6 y = @2005 }
 		}
 
@@ -2350,7 +2350,7 @@ technologies = {
 		start_year = 2015
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row6 y = @2015 }
 		}
 
@@ -2412,7 +2412,7 @@ technologies = {
 		start_year = 2025
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row6 y = @2025 }
 		}
 
@@ -2469,7 +2469,7 @@ technologies = {
 		start_year = 2035
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row6 y = @2035 }
 		}
 
@@ -2534,7 +2534,7 @@ technologies = {
 		start_year = 1965
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row7 y = @1965 }
 		}
 
@@ -2588,7 +2588,7 @@ technologies = {
 		start_year = 1975
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row7 y = @1975 }
 		}
 
@@ -2642,7 +2642,7 @@ technologies = {
 		start_year = 1985
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row7 y = @1985 }
 		}
 
@@ -2696,7 +2696,7 @@ technologies = {
 		start_year = 2015
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row7 y = @2015 }
 		}
 
@@ -2758,7 +2758,7 @@ technologies = {
 		start_year = 2025
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row7 y = @2025 }
 		}
 
@@ -2815,7 +2815,7 @@ technologies = {
 		start_year = 2035
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row7 y = @2035 }
 		}
 
@@ -2879,7 +2879,7 @@ technologies = {
 		start_year = 1965
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row8 y = @1965 }
 		}
 
@@ -2928,7 +2928,7 @@ technologies = {
 		start_year = 1975
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row8 y = @1975 }
 		}
 
@@ -2977,7 +2977,7 @@ technologies = {
 		start_year = 1985
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row8 y = @1985 }
 		}
 
@@ -3026,7 +3026,7 @@ technologies = {
 		start_year = 2005
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row8 y = @2005 }
 		}
 
@@ -3083,7 +3083,7 @@ technologies = {
 		start_year = 2015
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row8 y = @2015 }
 		}
 
@@ -3140,7 +3140,7 @@ technologies = {
 		start_year = 2025
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row8 y = @2025 }
 		}
 
@@ -3192,7 +3192,7 @@ technologies = {
 		start_year = 2035
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row8 y = @2035 }
 		}
 
@@ -3250,7 +3250,7 @@ technologies = {
 		start_year = 1975
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row11 y = 6 }
 		}
 
@@ -3293,7 +3293,7 @@ technologies = {
 		start_year = 1985
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row11 y = 12 }
 		}
 
@@ -3335,7 +3335,7 @@ technologies = {
 		start_year = 2005
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row11 y = 24 }
 		}
 
@@ -3386,7 +3386,7 @@ technologies = {
 		start_year = 2015
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row11 y = 30 }
 		}
 
@@ -3436,7 +3436,7 @@ technologies = {
 		start_year = 2025
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row11 y = 36 }
 		}
 
@@ -3482,7 +3482,7 @@ technologies = {
 		start_year = 2035
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row11 y = 42 }
 		}
 
@@ -3534,7 +3534,7 @@ technologies = {
 		start_year = 1965
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row12 y = 0 }
 		}
 
@@ -3581,7 +3581,7 @@ technologies = {
 		start_year = 1975
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row12 y = 6 }
 		}
 
@@ -3627,7 +3627,7 @@ technologies = {
 		start_year = 1985
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row12 y = 12 }
 		}
 
@@ -3674,7 +3674,7 @@ technologies = {
 		start_year = 2005
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row12 y = 24 }
 		}
 
@@ -3728,7 +3728,7 @@ technologies = {
 		start_year = 2015
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row12 y = 30 }
 		}
 
@@ -3782,7 +3782,7 @@ technologies = {
 		start_year = 2025
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row12 y = 36 }
 		}
 
@@ -3832,7 +3832,7 @@ technologies = {
 		start_year = 2035
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row12 y = 42 }
 		}
 
@@ -3888,7 +3888,7 @@ technologies = {
 		start_year = 1975
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row13 y = 6 }
 		}
 
@@ -3927,7 +3927,7 @@ technologies = {
 		start_year = 1985
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row13 y = 12 }
 		}
 
@@ -3965,7 +3965,7 @@ technologies = {
 		start_year = 2015
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row13 y = 30 }
 		}
 
@@ -4012,7 +4012,7 @@ technologies = {
 		start_year = 2025
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row13 y = 36 }
 		}
 
@@ -4053,7 +4053,7 @@ technologies = {
 		start_year = 2035
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row13 y = 42 }
 		}
 
@@ -4101,7 +4101,7 @@ technologies = {
 		start_year = 1975
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row14 y = 6 }
 		}
 
@@ -4145,7 +4145,7 @@ technologies = {
 		start_year = 1985
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row14 y = 12 }
 		}
 
@@ -4188,7 +4188,7 @@ technologies = {
 		start_year = 2015
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row14 y = 30 }
 		}
 
@@ -4240,7 +4240,7 @@ technologies = {
 		start_year = 2025
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row14 y = 36 }
 		}
 
@@ -4286,7 +4286,7 @@ technologies = {
 		start_year = 2035
 
 		folder = {
-			name = naval_folder
+			name = modern_naval_folder
 			position = { x = @row14 y = 42 }
 		}
 

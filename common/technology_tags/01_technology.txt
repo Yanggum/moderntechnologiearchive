@@ -210,86 +210,86 @@ technology_Categories = {
 }
 
 technology_folders = {
-	infantry_folder = {
+	modern_modern_air_techs_folder = {
 		ledger = army
 	}
-	armour_folder = {
+	modern_armour_folder = {
 		ledger = army
 	}
-	nsb_armour_folder = {
+	nsb_modern_armour_folder = {
 		ledger = army
 		available = {
 			has_dlc = "No Step Back"
 		}
 	}
-	artillery_folder = {
+	modern_artillery_folder = {
 		ledger = army
 	}
-	bba_aircraft_folder = {
+	modern_bba_aircraft_folder = {
 		ledger = air
 		available = {
 			has_dlc = "By Blood Alone"
 		}
 	}
-	air_techs_folder = {
+	modern_air_techs_folder = {
 		ledger = air
 	}
-	fixed_wing_folder = {
+	modern_fixed_wing_folder = {
 		ledger = air
 		available = {
 			NOT = { has_dlc = "By Blood Alone" }
 		}
 	}
-	bomber_folder = {
+	modern_bomber_folder = {
 		ledger = air
 		available = {
 			NOT = { has_dlc = "By Blood Alone" }
 		}
 	}
 	#industry_folder
-	land_doctrine_folder = {
+	modern_land_doctrine_folder = {
 		ledger = army
 		doctrine = yes
 	}
-	naval_doctrine_folder = {
+	modern_naval_doctrine_folder = {
 		ledger = navy
 		doctrine = yes
 	}
-	air_doctrine_folder = {
+	modern_air_doctrine_folder = {
 		ledger = air
 		doctrine = yes
 	}
-	special_forces_airborne_doctrine_folder = {
+	modern_special_forces_airborne_doctrine_folder = {
 		ledger = hidden
 		doctrine = yes
 		available = {
 			has_dlc = "Arms Against Tyranny"
 		}
 	}
-	special_forces_airmobile_doctrine_folder = {
+	modern_special_forces_airmobile_doctrine_folder = {
 		ledger = hidden
 		doctrine = yes
 		available = {
 			has_dlc = "Arms Against Tyranny"
 		}
 	}
-	special_forces_marine_doctrine_folder = {
+	modern_special_forces_marine_doctrine_folder = {
 		ledger = hidden
 		doctrine = yes
 		available = {
 			has_dlc = "Arms Against Tyranny"
 		}
 	}
-	electronics_folder = {
+	modern_electronics_folder = {
 		ledger = civilian
 	}
-	naval_folder = {
+	modern_naval_folder = {
 		available = {
 			NOT = { has_dlc = "Man the Guns" }
 		}
 		ledger = navy
 	}
-	mtgnavalfolder = {
+	modern_mtgnavalfolder = {
 		available = {
 			has_dlc = "Man the Guns"
 		}

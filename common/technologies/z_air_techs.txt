@@ -47,7 +47,7 @@ technologies = {
 		research_cost = 1 #random
 		start_year = 1945 #
 		folder = {
-			name = air_techs_folder
+			name = modern_air_techs_folder
 			position = { x = @row3 y = @1945 }
 		}
 
@@ -94,7 +94,7 @@ technologies = {
 		research_cost = 1.7
 		start_year = 1965
 		folder = {
-			name = air_techs_folder
+			name = modern_air_techs_folder
 			position = { x = @row5 y = @1965 }
 		}
 		categories = {
@@ -128,7 +128,7 @@ technologies = {
 		research_cost = 1.7
 		start_year = 1985
 		folder = {
-			name = air_techs_folder
+			name = modern_air_techs_folder
 			position = { x = @row5 y = @1985 }
 		}
 		categories = {
@@ -168,7 +168,7 @@ technologies = {
 		research_cost = 1.7
 		start_year = 2005
 		folder = {
-			name = air_techs_folder
+			name = modern_air_techs_folder
 			position = { x = @row5 y = @2005 }
 		}
 		categories = {
@@ -209,7 +209,7 @@ technologies = {
 		research_cost = 1.7
 		start_year = 2015
 		folder = {
-			name = air_techs_folder
+			name = modern_air_techs_folder
 			position = { x = @row5 y = @2015 }
 		}
 		categories = {
@@ -247,7 +247,7 @@ technologies = {
 		research_cost = 1.7
 		start_year = 2035
 		folder = {
-			name = air_techs_folder
+			name = modern_air_techs_folder
 			position = { x = @row5 y = @2035 }
 		}
 		categories = {
@@ -284,7 +284,7 @@ technologies = {
 		start_year = 1965
 
 		folder = {
-			name = air_techs_folder
+			name = modern_air_techs_folder
 			position = { x = @row1 y = @1965 }
 		}
 
@@ -316,7 +316,7 @@ technologies = {
 		start_year = 1985
 
 		folder = {
-			name = air_techs_folder
+			name = modern_air_techs_folder
 			position = { x = @row1 y = @1995 }
 		}
 
@@ -347,7 +347,7 @@ technologies = {
 		start_year = 2005
 
 		folder = {
-			name = air_techs_folder
+			name = modern_air_techs_folder
 			position = { x = @row1 y = @2005 }
 		}
 
@@ -384,7 +384,7 @@ technologies = {
 		start_year = 2015
 
 		folder = {
-			name = air_techs_folder
+			name = modern_air_techs_folder
 			position = { x = @row1 y = @2015 }
 		}
 
@@ -418,7 +418,7 @@ technologies = {
 		start_year = 2035
 
 		folder = {
-			name = air_techs_folder
+			name = modern_air_techs_folder
 			position = { x = @row1 y = @2035 }
 		}
 
@@ -466,7 +466,7 @@ technologies = {
 		start_year = 1965
 
 		folder = {
-			name = air_techs_folder
+			name = modern_air_techs_folder
 			position = { x = @row3 y = @1965 }
 		}
 
@@ -496,7 +496,7 @@ technologies = {
 		start_year = 1985
 
 		folder = {
-			name = air_techs_folder
+			name = modern_air_techs_folder
 			position = { x = @row3 y = @1995 }
 		}
 
@@ -526,7 +526,7 @@ technologies = {
 		start_year = 2005
 
 		folder = {
-			name = air_techs_folder
+			name = modern_air_techs_folder
 			position = { x = @row3 y = @2005 }
 		}
 
@@ -568,7 +568,7 @@ technologies = {
 		start_year = 2015
 
 		folder = {
-			name = air_techs_folder
+			name = modern_air_techs_folder
 			position = { x = @row3 y = @2015 }
 		}
 
@@ -602,7 +602,7 @@ technologies = {
 		start_year = 2035
 
 		folder = {
-			name = air_techs_folder
+			name = modern_air_techs_folder
 			position = { x = @row3 y = @2035 }
 		}
 

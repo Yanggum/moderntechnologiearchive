@@ -48,7 +48,7 @@ sub_units = {
 		transport = command_control_equipment
 
 		need = {
-			Inf_equipment = 167
+			infantry_equipment = 167
 			L_AT_Equipment = 8
 			AA_Equipment = 4
 		}
@@ -135,7 +135,7 @@ sub_units = {
 		transport = util_vehicle_equipment
 
 		need = {
-			Inf_equipment = 177
+			infantry_equipment = 177
 			L_AT_Equipment = 8
 			AA_Equipment = 4
 			util_vehicle_equipment = 60
@@ -212,7 +212,7 @@ sub_units = {
 		transport = command_control_equipment
 
 		need = {
-			Inf_equipment = 250
+			infantry_equipment = 250
 			L_AT_Equipment = 12
 			AA_Equipment = 8
 			command_control_equipment = 20
@@ -291,7 +291,7 @@ sub_units = {
 		transport = util_vehicle_equipment
 
 		need = {
-			Inf_equipment = 267
+			infantry_equipment = 267
 			L_AT_Equipment = 12
 			H_AT_Equipment = 6
 			AA_Equipment = 8
@@ -368,7 +368,7 @@ sub_units = {
 		transport = apc_hull
 
 		need = {
-			Inf_equipment = 260
+			infantry_equipment = 260
 			L_AT_Equipment = 12
 			H_AT_Equipment = 6
 			AA_Equipment = 8
@@ -446,7 +446,7 @@ sub_units = {
 		transport = ifv_hull
 
 		need = {
-			Inf_equipment = 213
+			infantry_equipment = 213
 			L_AT_Equipment = 12
 			H_AT_Equipment = 6
 			AA_Equipment = 8
@@ -533,7 +533,7 @@ sub_units = {
 		can_be_parachuted = yes
 
 		need = {
-			Inf_equipment = 250
+			infantry_equipment = 250
 			L_AT_Equipment = 12
 			AA_Equipment = 8
 			command_control_equipment = 30
@@ -618,7 +618,7 @@ sub_units = {
 		can_be_parachuted = yes
 
 		need = {
-			Inf_equipment = 267
+			infantry_equipment = 267
 			L_AT_Equipment = 12
 			H_AT_Equipment = 6
 			AA_Equipment = 8
@@ -704,7 +704,7 @@ sub_units = {
 		can_be_parachuted = yes
 
 		need = {
-			Inf_equipment = 260
+			infantry_equipment = 260
 			L_AT_Equipment = 12
 			H_AT_Equipment = 6
 			AA_Equipment = 8
@@ -788,7 +788,7 @@ sub_units = {
 		can_be_parachuted = yes
 
 		need = {
-			Inf_equipment = 213
+			infantry_equipment = 213
 			L_AT_Equipment = 12
 			H_AT_Equipment = 6
 			AA_Equipment = 8
@@ -874,7 +874,7 @@ sub_units = {
 		transport = command_control_equipment
 
 		need = {
-			Inf_equipment = 250
+			infantry_equipment = 250
 			L_AT_Equipment = 12
 			AA_Equipment = 8
 			command_control_equipment = 30
@@ -964,7 +964,7 @@ sub_units = {
 		transport = command_control_equipment
 
 		need = {
-			Inf_equipment = 250
+			infantry_equipment = 250
 			L_AT_Equipment = 12
 			AA_Equipment = 8
 			command_control_equipment = 30
@@ -1053,7 +1053,7 @@ sub_units = {
 		transport = util_vehicle_equipment
 
 		need = {
-			Inf_equipment = 267
+			infantry_equipment = 267
 			L_AT_Equipment = 12
 			H_AT_Equipment = 6
 			AA_Equipment = 8
@@ -1139,7 +1139,7 @@ sub_units = {
 		transport = apc_hull
 
 		need = {
-			Inf_equipment = 260
+			infantry_equipment = 260
 			L_AT_Equipment = 12
 			H_AT_Equipment = 6
 			AA_Equipment = 8
@@ -1222,7 +1222,7 @@ sub_units = {
 		transport = ifv_hull
 
 		need = {
-			Inf_equipment = 213
+			infantry_equipment = 213
 			L_AT_Equipment = 12
 			H_AT_Equipment = 6
 			AA_Equipment = 8
@@ -1310,7 +1310,7 @@ sub_units = {
 		can_be_parachuted = yes
 
 		need = {
-			Inf_equipment = 250
+			infantry_equipment = 250
 			L_AT_Equipment = 12
 			AA_Equipment = 8
 			command_control_equipment = 35
@@ -1412,7 +1412,7 @@ sub_units = {
 		can_be_parachuted = yes
 
 		need = {
-			Inf_equipment = 213
+			infantry_equipment = 213
 			L_AT_Equipment = 12
 			AA_Equipment = 8
 			command_control_equipment = 35
@@ -1680,7 +1680,7 @@ sub_units = {
 		transport = command_control_equipment
 
 		need = {
-			Inf_equipment = 250
+			infantry_equipment = 250
 			L_AT_Equipment = 12
 			AA_Equipment = 8
 			command_control_equipment = 30
@@ -2009,14 +2009,14 @@ sub_units = {
 		hard_attack = -0.66
 
 		essential = {
-			Inf_equipment
+			infantry_equipment
 			command_control_equipment
 		}
 
 		can_be_parachuted = yes
 
 		need = {
-			Inf_equipment = 83
+			infantry_equipment = 83
 			L_AT_Equipment = 4
 			AA_Equipment = 2
 			command_control_equipment = 10
@@ -2091,14 +2091,14 @@ sub_units = {
 		transport = util_vehicle_equipment
 
 		essential = {
-			Inf_equipment
+			infantry_equipment
 			util_vehicle_equipment
 		}
 
 		can_be_parachuted = yes
 
 		need = {
-			Inf_equipment = 92
+			infantry_equipment = 92
 			L_AT_Equipment = 4
 			H_AT_Equipment = 2
 			AA_Equipment = 3
@@ -2169,7 +2169,7 @@ sub_units = {
 
 		# needed since we give so much bonus to infantry even with no mech equipment
 		essential = {
-			Inf_equipment
+			infantry_equipment
 			apc_hull
 		}
 
@@ -2179,7 +2179,7 @@ sub_units = {
 		can_be_parachuted = yes
 
 		need = {
-			Inf_equipment = 87
+			infantry_equipment = 87
 			L_AT_Equipment = 4
 			H_AT_Equipment = 2
 			AA_Equipment = 3
@@ -2262,7 +2262,7 @@ sub_units = {
 
 		# needed since we give so much bonus to infantry even with no mech equipment
 		essential = {
-			Inf_equipment
+			infantry_equipment
 			ifv_hull
 		}
 
@@ -2272,7 +2272,7 @@ sub_units = {
 		can_be_parachuted = yes
 
 		need = {
-			Inf_equipment = 72
+			infantry_equipment = 72
 			L_AT_Equipment = 4
 			H_AT_Equipment = 3
 			AA_Equipment = 2
@@ -2426,7 +2426,7 @@ sub_units = {
 
 		can_be_parachuted = yes
 
-		transport = Inf_equipment
+		transport = infantry_equipment
 
 		#transport = util_vehicle_equipment
 
@@ -2436,10 +2436,10 @@ sub_units = {
 		soft_attack = -0.66
 		hard_attack = -0.66
 
-		essential = { Inf_equipment }
+		essential = { infantry_equipment }
 
 		need = {
-			Inf_equipment = 40
+			infantry_equipment = 40
 			command_control_equipment = 10
 		}
 
@@ -2541,12 +2541,12 @@ sub_units = {
 		transport = util_vehicle_equipment
 
 		essential = {
-			Inf_equipment
+			infantry_equipment
 			command_control_equipment
 		}
 
 		need = {
-			Inf_equipment = 30
+			infantry_equipment = 30
 			command_control_equipment = 10
 			util_vehicle_equipment = 20
 		}
@@ -3134,7 +3134,7 @@ sub_units = {
 		supply_consumption = 0.0
 
 		need = {
-			Inf_equipment = 1
+			infantry_equipment = 1
 		}
 	}
 }

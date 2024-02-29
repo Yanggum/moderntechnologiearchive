@@ -347,8 +347,8 @@
  Strike_upgrade_3: "Télécommande"
  Strike_upgrade_3_desc: "Le fait de retirer l'humain de la machine permet de réaliser des missions plus dangereuses et d'utiliser des avions capables d'exercer des forces G plus élevées."
 
- electronics_folder: "Électronique"
- electronics_folder_desc: "Les progrès de l'informatique, et le protocole Internet."
+ modern_electronics_folder: "Électronique"
+ modern_electronics_folder_desc: "Les progrès de l'informatique, et le protocole Internet."
  basic_computing: "Informatique fondamentale"
  basic_computing_desc: "Il est désormais possible de fabriquer des ordinateurs électroniques numériques qui sont programmables. Bien qu'encore chères et volumineuses, ces machines permettent l'analyse intelligente bien au-delà des capacités humaines.\n"
  integrated_circuit: "Circuit intégré"
@@ -1967,8 +1967,8 @@
  module_heavy_frigate_upgrade_package: "Heavy Frigate Upgrade Package"
  module_heavy_frigate_upgrade_package_desc: "Although we have the ability to build frigates, we are at impasse regarding heavier ship classes. It would take years worth of material and investments to prepare us for heavier ships such as Destroyers. We could improve our frigates to be more competitive against heavier ships by upgrading and strengthening our frigates into a new class, the \"Heavy Frigate\".\n\n"
 
- mtgnavalfolder: "Naval Technologies"
- mtgnavalfolder_desc: "Includes all manners of technologies pertaining to our ships and vessels on the seas and along the coasts."
+ modern_mtgnavalfolder: "Naval Technologies"
+ modern_mtgnavalfolder_desc: "Includes all manners of technologies pertaining to our ships and vessels on the seas and along the coasts."
 
  NAVAL_TITLE_CORVETTE: "CORVETTES"
  NAVAL_TITLE_CORVETTE_DESC: "The smallest class of vessel considered a warship, Corvette class ships are not typically part of ‘blue water' navies. These small and fast ships are usually armed with an assortment of weapons, allowing them to perform a range of duties. Many countries are able to float Corvettes due to their affordability for small and medium sized navies.They are typically used for: coast defense and surveillance, minesweeping, anti-submarine, anti-aircraft, anti-ship and, in modern times, land attack duties."

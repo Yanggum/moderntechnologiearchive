@@ -75,7 +75,7 @@ technologies = {
 		research_cost = 1
 		start_year = 1945
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row2 y = @1945 }
 		}
 
@@ -123,7 +123,7 @@ technologies = {
 		research_cost = 2.1
 		start_year = 1965
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row1 y = @1965 }
 		}
 
@@ -155,7 +155,7 @@ technologies = {
 		research_cost = 2.2
 		start_year = 1975
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row1 y = @1975 }
 		}
 
@@ -186,7 +186,7 @@ technologies = {
 		research_cost = 2.3
 		start_year = 1985
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row1 y = @1985 }
 		}
 
@@ -217,7 +217,7 @@ technologies = {
 		research_cost = 2.4
 		start_year = 1995
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row1 y = @1995 }
 		}
 
@@ -249,7 +249,7 @@ technologies = {
 		research_cost = 2.6
 		start_year = 2015
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row1 y = @2015 }
 		}
 
@@ -289,7 +289,7 @@ technologies = {
 		research_cost = 2.7
 		start_year = 2025
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row1 y = @2025 }
 		}
 
@@ -328,7 +328,7 @@ technologies = {
 		research_cost = 2.8
 		start_year = 2035
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row1 y = @2035 }
 		}
 
@@ -368,7 +368,7 @@ technologies = {
 		research_cost = 1.4
 		start_year = 1965
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row2 y = @1965 }
 		}
 
@@ -399,7 +399,7 @@ technologies = {
 		research_cost = 1.5
 		start_year = 1975
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row2 y = @1975 }
 		}
 
@@ -430,7 +430,7 @@ technologies = {
 		research_cost = 1.6
 		start_year = 1985
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row2 y = @1985 }
 		}
 
@@ -461,7 +461,7 @@ technologies = {
 		research_cost = 1.7
 		start_year = 1995
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row2 y = @1995 }
 		}
 
@@ -492,7 +492,7 @@ technologies = {
 		research_cost = 1.8
 		start_year = 2005
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row2 y = @2005 }
 		}
 
@@ -531,7 +531,7 @@ technologies = {
 		research_cost = 1.9
 		start_year = 2015
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row2 y = @2015 }
 		}
 
@@ -569,7 +569,7 @@ technologies = {
 		research_cost = 2
 		start_year = 2025
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row2 y = @2025 }
 		}
 
@@ -604,7 +604,7 @@ technologies = {
 		start_year = 2035
 
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row2 y = @2035 }
 		}
 
@@ -645,7 +645,7 @@ technologies = {
 		research_cost = 1.7
 		start_year = 1965
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row3 y = @1965 }
 		}
 
@@ -676,7 +676,7 @@ technologies = {
 		research_cost = 1.8
 		start_year = 1975
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row3 y = @1975 }
 		}
 
@@ -707,7 +707,7 @@ technologies = {
 		research_cost = 1.9
 		start_year = 1985
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row3 y = @1985 }
 		}
 
@@ -738,7 +738,7 @@ technologies = {
 		research_cost = 2
 		start_year = 1995
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row3 y = @1995 }
 		}
 
@@ -769,7 +769,7 @@ technologies = {
 		research_cost = 2.1
 		start_year = 2005
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row3 y = @2005 }
 		}
 
@@ -808,7 +808,7 @@ technologies = {
 		research_cost = 2.2
 		start_year = 2015
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row3 y = @2015 }
 		}
 
@@ -847,7 +847,7 @@ technologies = {
 		research_cost = 2.3
 		start_year = 2025
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row3 y = @2025 }
 		}
 
@@ -881,7 +881,7 @@ technologies = {
 		research_cost = 2.4
 		start_year = 2035
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row3 y = @2035 }
 		}
 
@@ -927,7 +927,7 @@ technologies = {
 		research_cost = 1.4
 		start_year = 1965
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row4 y = @1965 }
 		}
 
@@ -977,7 +977,7 @@ technologies = {
 		research_cost = 1.5
 		start_year = 1985
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row4 y = @1985 }
 		}
 
@@ -1024,7 +1024,7 @@ technologies = {
 		research_cost = 1.6
 		start_year = 2005
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row4 y = @2005 }
 		}
 
@@ -1076,7 +1076,7 @@ technologies = {
 		research_cost = 1.7
 		start_year = 2015
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row4 y = @2015 }
 		}
 
@@ -1125,7 +1125,7 @@ technologies = {
 		research_cost = 1.8
 		start_year = 2025
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row4 y = @2025 }
 		}
 
@@ -1166,7 +1166,7 @@ technologies = {
 		research_cost = 1.9
 		start_year = 2035
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row4 y = @2035 }
 		}
 
@@ -1215,7 +1215,7 @@ technologies = {
 		research_cost = 1
 		start_year = 1965
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row5 y = @1965 }
 		}
 
@@ -1246,7 +1246,7 @@ technologies = {
 		research_cost = 1.1
 		start_year = 1975
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row5 y = @1975 }
 		}
 
@@ -1279,7 +1279,7 @@ technologies = {
 		research_cost = 1.2
 		start_year = 1985
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row5 y = @1985 }
 		}
 
@@ -1310,7 +1310,7 @@ technologies = {
 		research_cost = 1.3
 		start_year = 1995
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row5 y = @1995 }
 		}
 
@@ -1344,7 +1344,7 @@ technologies = {
 		research_cost = 1.4
 		start_year = 2005
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row5 y = @2005 }
 		}
 
@@ -1383,7 +1383,7 @@ technologies = {
 		research_cost = 1.5
 		start_year = 2015
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row5 y = @2015 }
 		}
 
@@ -1425,7 +1425,7 @@ technologies = {
 		research_cost = 1.6
 		start_year = 2025
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row5 y = @2025 }
 		}
 
@@ -1467,7 +1467,7 @@ technologies = {
 		research_cost = 1.7
 		start_year = 2035
 		folder = {
-			name = armour_folder
+			name = modern_armour_folder
 			position = { x = @row5 y = @2035 }
 		}
 

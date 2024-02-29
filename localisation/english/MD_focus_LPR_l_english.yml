@@ -1,18 +1,15 @@
 ﻿l_english:
- 
- 
- LPR_start: "People's Republic"
+ LPR_start: "인민공화국"
  LPR_focus: "Focuses of the Luhansk People's Republic"
  LPR_start_desc: "Now we have no way back. We will fight for our independence."
  LPR_vstavai_dombass: "Rise Up Donbass"
  LPR_vstavai_dombass_desc: "Every miner, teacher, soldier and worker. We will all fight for our homeland!."
- LPR_reform_army: "Reform Army"
+ LPR_reform_army: "육군 개혁"
  LPR_reform_army_desc: "It is necessary to organize all combat units into a single structure."
  LPR_reforms_army: "Complete Military Reforms"
  LPR_reforms_army_desc: "Our People's Militia is ready to defend their homeland."
  LPR_bank: "Luhansk Central Bank"
  LPR_bank_desc: "We need to organize our banking system."
- LPR_propaganda: "Turn On The Propaganda Mouthpiece"
  LPR_propaganda_desc: "It's time to convince people of the correctness of our rebellion."
  LPR_gos_granitca: "Strengthening The State Border"
  LPR_gos_granitca_desc: "The enemy will not pass!."
@@ -24,11 +21,11 @@
  LPR_war_economic_desc: "We will have to live in a war economy."
  LPR_cheburashka: "MLRS Cheburashka"
  LPR_cheburashka_desc: "Our own multiple launch rocket systems will be a great addition to the army."
- LPR_resource_from_sov: "Help From Russia"
+ LPR_resource_from_sov: "러시아의 도움"
  LPR_resource_from_sov_desc: "We have been disconnected from the Ukrainian power grid and gas supply, we hope Russia will help us."
  LPR_warehouse: "Warehouses of Weapons"
  LPR_warehouse_desc: "It's time to search the old Soviet warehouses."
- LPR_somali: "Battalion "Somali" "
+ LPR_somali: "Battalion \"Somali\" "
  LPR_somali_desc: "One of the first created battalions on the territory of our republic."
  LPR_rebuild_ruins: "Start Rebuilding The Ruins"
  LPR_rebuild_ruins_desc: "The war has brought a lot of destruction to our country. It's time to start rebuilding."
@@ -41,7 +38,7 @@
  LPR_lnr_friend: "Strengthening Friendship With The DPR"
  LPR_lnr_friend_desc: "Novorossiya should be friendly. We will continue to develop ties with the LPR."
  LPR_novorossia_create: "Novorossiya Finally Appeared"
- LPR_novorossia_create_desc: "At last..."
+ LPR_novorossia_create_desc: "마침내."
  LPR_start_lpr: "Request For Influence in the DPR"
  LPR_start_lpr_desc: "We plan to strengthen our influence in the LPR, and possibly create Novorossiya in the future. But we cannot do this without Russia's consent"
  LPR_economic_integrate: "Economic integration with the DPR"
@@ -58,7 +55,7 @@
  LPR_integrate_army1_desc: "Our armed forces have the standards of the Russian Army in full"
  LPR_vpk: "Restore Military Factories"
  LPR_vpk_desc: "It's time to revive our great factories"
- LPR_internet: "Internet Operator "Luganet""
+ LPR_internet: "Internet Operator \"Luganet\""
  LPR_internet_desc: "We are ready to develop our Internet network for the well-being of the citizens of our republic"
  LPR_rifles: "Domestic Rifles"
  LPR_rifles_desc: "We have created prototypes of our own developments among rifles for our soldiers"
@@ -86,26 +83,18 @@
  LPR_ros_invest_desc: "Our republic needs funds for development, and Russia is ready to provide them"
  LPR_ros_concept_interven: "The Foreign Political Concept of Russia"
  LPR_ros_concept_interven_desc: "We will actively participate in Russia's external military missions. Our volunteers will help wherever Russia needs them."
-
-
-
  LPR_Donbass_war_help: "Russia's Help In The War"
  LPR_Donbass_war_help_desc: "Our war for independence would not have been possible without help from Russia.  We will try to get all the help that is possible"
- LPR_smuggle_old_weapons: "Get "Humanitarian" assistance"
- LPR_hire_musicians: "Hire "Musicians""
+ LPR_smuggle_old_weapons: "Get \"Humanitarian\" assistance"
+ LPR_hire_musicians: "Hire \"Musicians\""
  LPR_get_russian_volunteers: "Host Volunteers from Russia"
  LPR_hire_russian_advisors: "Host Russian Military Advisers"
  LPR_imamat_donbass: "Imamate of Donbass"
  LPR_russian_money: "Russian Investments"
  LPR_reforming_army_sov: "Full integration into the Russian Army"
-
-
-
  LPR_unproffesional_army: "Army of Militia And Miners"
  LPR_proffesional_army: "Professional Army"
  LPR_proffesional_army2: "Professional Army"
- 
- 
  LPR_bivaluta: "Dual Currency Period"
  LPR_bivaluta_desc: ""
  LPR_energy_problems: "Problems With Energy And Gas"
@@ -114,9 +103,6 @@
  LPR_strelkov_politics: "Strelkov 's Policy"
  LPR_strelkov_politics1: "Strelkov 's Policy"
  LPR_rf_money: "Russian Investments"
-
-
  lpr.1.t: "Joining Russia"
  lpr.1.d: "Finally, Donbass is returning home. Now we will be part of a great country, sacrificing our autonomy, but did we need it?."
  lpr.1.a: "Finally!."
- 

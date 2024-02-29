@@ -1,5 +1,4 @@
 ﻿l_english:
-
- pmc_events.1.t: "[From.GetNameDef] recalls their mercenaries"
- pmc_events.1.d: "Some of our mercenary units get recalled to [From.GetNameDef] due to the orders of their overlord, they will provide compensation for such untimely contract termination but thats it."
- pmc_events.1.a: "Unfortunate."
+ pmc_events.1.t: "[From.GetNameDef] 그들의 용병을 소환하다"
+ pmc_events.1.d: "우리 용병 부대 중 일부는 [From.GetNameDef]은(는) 그들의 오버로드의 명령으로 인해, 그들은 그러한 시기적절하지 않은 계약 해지에 대한 보상을 제공할 것이지만, 그것으로 끝입니다."
+ pmc_events.1.a: "유감이군."

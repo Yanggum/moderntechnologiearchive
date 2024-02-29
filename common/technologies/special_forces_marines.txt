@@ -32,7 +32,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 0 y = 0 }
 		}
 	}
@@ -73,7 +73,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = -4 y = 2 }
 		}
 	}
@@ -104,7 +104,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = -3 y = 4 }
 		}
 	}
@@ -135,7 +135,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = -5 y = 4 }
 		}
 	}
@@ -162,7 +162,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = -3 y = 6 }
 		}
 	}
@@ -189,7 +189,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = -5 y = 6 }
 		}
 	}
@@ -224,7 +224,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = -4 y = 8 }
 		}
 	}
@@ -253,7 +253,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = -3 y = 10 }
 		}
 	}
@@ -286,7 +286,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = -5 y = 10 }
 		}
 	}
@@ -315,7 +315,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = -3 y = 12 }
 		}
 	}
@@ -393,7 +393,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = -5 y = 12 }
 		}
 	}
@@ -427,7 +427,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = -4 y = 14 }
 		}
 	}
@@ -458,7 +458,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = -3 y = 16 }
 		}
 	}
@@ -493,7 +493,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = -5 y = 16 }
 		}
 	}
@@ -520,7 +520,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = -3 y = 18 }
 		}
 	}
@@ -555,7 +555,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = -5 y = 18 }
 		}
 	}
@@ -587,7 +587,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = -3 y = 20 }
 		}
 	}
@@ -616,7 +616,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = -5 y = 20 }
 		}
 	}
@@ -669,7 +669,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = -3 y = 22 }
 		}
 	}
@@ -694,7 +694,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = -5 y = 22 }
 		}
 	}
@@ -747,7 +747,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 0 y = 2 }
 		}
 	}
@@ -790,7 +790,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 0 y = 4 }
 		}
 	}
@@ -819,7 +819,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 1 y = 6 }
 		}
 	}
@@ -867,7 +867,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = -1 y = 6 }
 		}
 	}
@@ -896,7 +896,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 1 y = 8 }
 		}
 	}
@@ -931,7 +931,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = -1 y = 8 }
 		}
 	}
@@ -967,7 +967,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 1 y = 10 }
 		}
 	}
@@ -1002,7 +1002,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = -1 y = 10 }
 		}
 	}
@@ -1034,7 +1034,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 0 y = 12 }
 		}
 	}
@@ -1063,7 +1063,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 1 y = 14 }
 		}
 	}
@@ -1099,7 +1099,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = -1 y = 14 }
 		}
 	}
@@ -1179,7 +1179,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 1 y = 16 }
 		}
 	}
@@ -1210,7 +1210,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = -1 y = 16 }
 		}
 	}
@@ -1249,7 +1249,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 1 y = 18 }
 		}
 	}
@@ -1317,7 +1317,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = -1 y = 18 }
 		}
 	}
@@ -1382,7 +1382,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 1 y = 20 }
 		}
 	}
@@ -1421,7 +1421,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = -1 y = 20 }
 		}
 	}
@@ -1459,7 +1459,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 1 y = 22 }
 		}
 	}
@@ -1483,7 +1483,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = -1 y = 22 }
 		}
 	}
@@ -1523,7 +1523,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 4 y = 2 }
 		}
 	}
@@ -1563,7 +1563,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 4 y = 4 }
 		}
 	}
@@ -1600,7 +1600,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 3 y = 6 }
 		}
 	}
@@ -1635,7 +1635,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 5 y = 6 }
 		}
 	}
@@ -1668,7 +1668,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 3 y = 8 }
 		}
 	}
@@ -1706,7 +1706,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 5 y = 8 }
 		}
 	}
@@ -1738,7 +1738,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 4 y = 10 }
 		}
 	}
@@ -1767,7 +1767,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 3 y = 12 }
 		}
 	}
@@ -1796,7 +1796,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 5 y = 12 }
 		}
 	}
@@ -1830,7 +1830,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 3 y = 14 }
 		}
 	}
@@ -1861,7 +1861,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 5 y = 14 }
 		}
 	}
@@ -1892,7 +1892,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 3 y = 16 }
 		}
 	}
@@ -1925,7 +1925,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 5 y = 16 }
 		}
 	}
@@ -1960,7 +1960,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 3 y = 18 }
 		}
 	}
@@ -1995,7 +1995,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 5 y = 18 }
 		}
 	}
@@ -2027,7 +2027,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 3 y = 20 }
 		}
 	}
@@ -2058,7 +2058,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 5 y = 20 }
 		}
 	}
@@ -2084,7 +2084,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 3 y = 22 }
 		}
 	}
@@ -2109,7 +2109,7 @@ technologies = {
 		}
 
 		folder = {
-			name = special_forces_marine_doctrine_folder
+			name = modern_special_forces_marine_doctrine_folder
 			position = { x = 5 y = 22 }
 		}
 	}

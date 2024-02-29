@@ -93,8 +93,8 @@
  plane_airframesdesc: ""
  plane_avionicsdesc: ""
 
- bba_aircraft_folder: "Фиксированное крыло самолёта"
- bba_aircraft_folder_desc: "Планеры и авиационные модули"
+ modern_bba_aircraft_folder: "Фиксированное крыло самолёта"
+ modern_bba_aircraft_folder_desc: "Планеры и авиационные модули"
 
  #TECHNOLOGIES
  gen_3_light: "Лёгкий самолёт 3-го поколения"

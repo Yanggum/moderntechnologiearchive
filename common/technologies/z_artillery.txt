@@ -61,7 +61,7 @@ technologies = {
 		research_cost = 1.2
 		start_year = 1965
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = 0 y = @1965 }
 		}
 
@@ -136,7 +136,7 @@ technologies = {
 		start_year = 1985
 
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = -3 y = @1985 }
 		}
 
@@ -166,7 +166,7 @@ technologies = {
 		start_year = 2005
 
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = -4 y = @2005 }
 		}
 
@@ -204,7 +204,7 @@ technologies = {
 		start_year = 2025
 
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = -3 y = @2025 }
 		}
 
@@ -236,7 +236,7 @@ technologies = {
 		research_cost = 1.6
 		start_year = 2035
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = -3 y = @2035 }
 		}
 
@@ -291,7 +291,7 @@ technologies = {
 		xp_research_bonus = 1.50
 
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = 0 y = @1985 }
 		}
 
@@ -333,7 +333,7 @@ technologies = {
 		xp_research_bonus = 1.50
 
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = -1 y = @2005 }
 		}
 
@@ -376,7 +376,7 @@ technologies = {
 		xp_research_bonus = 1.50
 
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = 1 y = @2005 }
 		}
 
@@ -425,7 +425,7 @@ technologies = {
 		xp_research_bonus = 1.50
 
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = 0 y = @2025 }
 		}
 
@@ -482,7 +482,7 @@ technologies = {
 		xp_research_bonus = 1.50
 
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = 0 y = @2035 }
 		}
 
@@ -525,7 +525,7 @@ technologies = {
 		research_cost = 2.2
 		start_year = 1985
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = 3 y = @1985 }
 		}
 
@@ -578,7 +578,7 @@ technologies = {
 		research_cost = 2.4
 		start_year = 2005
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = 4 y = @2005 }
 		}
 
@@ -639,7 +639,7 @@ technologies = {
 		research_cost = 2.6
 		start_year = 2025
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = 3 y = @2025 }
 		}
 
@@ -695,7 +695,7 @@ technologies = {
 		research_cost = 2.7
 		start_year = 2035
 		folder = {
-			name = artillery_folder
+			name = modern_artillery_folder
 			position = { x = 3 y = @2035 }
 		}
 

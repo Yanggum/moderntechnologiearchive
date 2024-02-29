@@ -1,32 +1,22 @@
 ﻿l_english:
- #Focuses
-
- #Events
- egypt.100.t: "Suez Canal Obstruction"
- egypt.100.d: "The large container ship known as Ever Given has been grounded in the Suez Canal! The 400-metre-long vessel was struck by strong winds in the morning resulting in the unfortunate accident. The obstruction occurred in the part of the canal where there is only one lane for ships to pass. Being one of the worlds busiest trade routes, a prolonged blockade will strike a terrible blow to trade between Europe and Asia."
- egypt.100.a: "Do whatever it takes."
- egypt.100.b: "We trust the Suez Authorities."
- egypt.100.c: "Impose the strictest caution."
-
- egypt.101.t: "The Suez Is Blocked"
+ egypt.100.t: "수에즈 운하 봉쇄"
+ egypt.100.d: "에버 기븐 (Ever Given) 이라 알려진 거대한 컨테이너 선박이 수에즈 운하에 좌초됐습니다! 400m 길이의 선박은 아침 시간의 강풍에 의해 불행한 사고를 일으켰습니다. 선박이 통행할 수 있는 수로가 하나 뿐인 부분에서 통행 장애가 발생하였습니다. 세계에서 가장 분주한 무역로 중 하나이기 때문에 장시간의 통행 장애는 유럽과 아시아 사이의 무역에 끔찍한 타격을 줄 겁니다."
+ egypt.100.a: "무슨 수를 써서라도."
+ egypt.100.b: "우리는 수에즈 당국을 믿는다."
+ egypt.100.c: "엄중한 경고를 부과한다."
+ egypt.101.t: "수에즈 운하의 봉쇄"
  egypt.101.d: "Earlier in the morning, the massive 20,000 containers-loaded container ship named Ever Given was struck by a strong sandstorm which drifted the massive freighter into the banks of the Suez Canal. This has caused a total blockade with ships on both sides pilling up nearby both entries. The Suez Canal Authorities responsible for maintaining the passage have been scrambling all available tugboats and plan to start digging momentarily.\n\n[EGY.GetLeader]'s government has announced it will do anything to clear the canal."
  egypt.101.da: "Earlier in the morning, the massive 20,000 containers-loaded container ship named Ever Given was struck by a strong sandstorm which drifted the massive freighter into the banks of the Suez Canal. This has caused a total blockade with ships on both sides pilling up nearby both entries. The Suez Canal Authorities responsible for maintaining the passage have been scrambling all available tugboats and plan to start digging momentarily.\n\n[EGY.GetLeader]'s government has announced it carry out the usual protocols for these unfortunate scenarios."
  egypt.101.db: "Earlier in the morning, the massive 20,000 containers-loaded container ship named Ever Given was struck by a strong sandstorm which drifted the massive freighter into the banks of the Suez Canal. This has caused a total blockade with ships on both sides pilling up nearby both entries. The Suez Canal Authorities responsible for maintaining the passage have been scrambling all available tugboats and plan to start digging momentarily.\n\n[EGY.GetLeader]'s government has announced it will practice great caution, to the shock of the world."
  egypt.101.a: "Well, the old cape route is still available."
-
- egypt.102.t: "Ever Given Starts Moving"
+ egypt.102.t: "에버 기븐이 움직이기 시작하다"
  egypt.102.d: "Reports that the tugboats which have tirelessly worked to make the Evergreen container ship move met a massive breakthrough. We can very soon declare passage is safe and business can return to normal."
- egypt.102.a: "At last."
-
+ egypt.102.a: "마침내."
  egypt.103.t: "The Suez Canal Is Cleared!"
  egypt.103.d: "The massive container ship that has been making a fuzz in the news recently is finally moving! Ships can once again travel through the canal. The fate of the ship is yet to be determined but the fact that everything seems to work again, makes it seem not all that important.\n\nA full investigation has already been launched by the Suez Canal authorities to get a better picture of the events leading up to the accident. Numerous law suits are already underway and this story might go on for years to come.\n\nThe Egyptian government hail this as yet another triumph."
  egypt.103.a: "Good news for once."
-
- #Ideas
- suez_canal_blocked: "Suez Canal Blocked"
- suez_blocked_aftermath: "Suez Blockage Aftermath"
-
- #Tooltips
+ suez_canal_blocked: "수에즈 운하 봉쇄"
+ suez_blocked_aftermath: "수에즈 봉쇄 여파"
  EGY_whatever_it_takes_tt: "Expect the canal be functional within a week."
  EGY_trust_authorities_tt: "Expect the canal be functional around 1-2 weeks."
  EGY_act_with_cautious_tt: "Expect the canal be functional around 2-5 weeks."

@@ -45,7 +45,7 @@ technologies = {
 		research_cost = 1.5
 		start_year = 1945 #needs to be synched maybee with other starting techs
 		folder = {
-			name = fixed_wing_folder
+			name = modern_fixed_wing_folder
 			position = { x = @row3 y = @1945 }
 		}
 
@@ -78,7 +78,7 @@ technologies = {
 		start_year = 1965
 
 		folder = {
-			name = fixed_wing_folder
+			name = modern_fixed_wing_folder
 			position = { x = @row2 y = @1965 }
 		}
 
@@ -112,7 +112,7 @@ technologies = {
 			start_year = 1985
 
 			folder = {
-				name = fixed_wing_folder
+				name = modern_fixed_wing_folder
 				position = { x = @row2 y = @1985 }
 			}
 
@@ -154,7 +154,7 @@ technologies = {
 		start_year = 1995
 
 		folder = {
-			name = fixed_wing_folder
+			name = modern_fixed_wing_folder
 			position = { x = @row2 y = @1995 }
 		}
 
@@ -182,7 +182,7 @@ technologies = {
 			start_year = 1995
 
 			folder = {
-				name = fixed_wing_folder
+				name = modern_fixed_wing_folder
 				position = { x = @row1 y = @1995 }
 			}
 
@@ -226,7 +226,7 @@ technologies = {
 			start_year = 2015
 
 			folder = {
-				name = fixed_wing_folder
+				name = modern_fixed_wing_folder
 				position = { x = @row2 y = @2005 }
 			}
 
@@ -280,7 +280,7 @@ technologies = {
 			start_year = 2020
 
 			folder = {
-				name = fixed_wing_folder
+				name = modern_fixed_wing_folder
 				position = { x = @row2 y = @2015 }
 			}
 
@@ -317,7 +317,7 @@ technologies = {
 			start_year = 2025
 
 			folder = {
-				name = fixed_wing_folder
+				name = modern_fixed_wing_folder
 				position = { x = @row1 y = @2015 }
 			}
 
@@ -369,7 +369,7 @@ technologies = {
 			start_year = 2035
 
 			folder = {
-				name = fixed_wing_folder
+				name = modern_fixed_wing_folder
 				position = { x = @row2 y = @2025 }
 			}
 
@@ -415,7 +415,7 @@ technologies = {
 			start_year = 2040
 
 			folder = {
-				name = fixed_wing_folder
+				name = modern_fixed_wing_folder
 				position = { x = @row2 y = @2035 }
 			}
 
@@ -452,7 +452,7 @@ technologies = {
 			start_year = 2045
 
 			folder = {
-				name = fixed_wing_folder
+				name = modern_fixed_wing_folder
 				position = { x = @row1 y = @2035 }
 			}
 
@@ -498,7 +498,7 @@ technologies = {
 		start_year = 1965
 
 		folder = {
-			name = fixed_wing_folder
+			name = modern_fixed_wing_folder
 			position = { x = @row3 y = @1965 }
 		}
 		categories = {
@@ -560,7 +560,7 @@ technologies = {
 			start_year = 1985
 
 			folder = {
-				name = fixed_wing_folder
+				name = modern_fixed_wing_folder
 				position = { x = @row3 y = @1985 }
 			}
 
@@ -636,7 +636,7 @@ technologies = {
 		start_year = 1995
 
 		folder = {
-			name = fixed_wing_folder
+			name = modern_fixed_wing_folder
 			position = { x = @row3 y = @1995 }
 		}
 
@@ -670,7 +670,7 @@ technologies = {
 			start_year = 1995
 
 			folder = {
-				name = fixed_wing_folder
+				name = modern_fixed_wing_folder
 				position = { x = @row4 y = @1995 }
 			}
 
@@ -748,7 +748,7 @@ technologies = {
 			start_year = 2015
 
 			folder = {
-				name = fixed_wing_folder
+				name = modern_fixed_wing_folder
 				position = { x = @row3 y = @2005 }
 			}
 
@@ -832,7 +832,7 @@ technologies = {
 		start_year = 2020
 
 		folder = {
-			name = fixed_wing_folder
+			name = modern_fixed_wing_folder
 			position = { x = @row3 y = @2015 }
 		}
 
@@ -870,7 +870,7 @@ technologies = {
 			start_year = 2025
 
 			folder = {
-				name = fixed_wing_folder
+				name = modern_fixed_wing_folder
 				position = { x = @row4 y = @2015 }
 			}
 
@@ -956,7 +956,7 @@ technologies = {
 			start_year = 2035
 
 			folder = {
-				name = fixed_wing_folder
+				name = modern_fixed_wing_folder
 				position = { x = @row3 y = @2025 }
 			}
 
@@ -1040,7 +1040,7 @@ technologies = {
 		start_year = 2040
 
 		folder = {
-			name = fixed_wing_folder
+			name = modern_fixed_wing_folder
 			position = { x = @row3 y = @2035 }
 		}
 
@@ -1078,7 +1078,7 @@ technologies = {
 			start_year = 2045
 
 			folder = {
-				name = fixed_wing_folder
+				name = modern_fixed_wing_folder
 				position = { x = @row4 y = @2035 }
 			}
 
@@ -1147,7 +1147,7 @@ technologies = {
 		start_year = 1965
 
 		folder = {
-			name = fixed_wing_folder
+			name = modern_fixed_wing_folder
 			position = { x = @row5 y = @1965 }
 		}
 		categories = {
@@ -1179,7 +1179,7 @@ technologies = {
 			start_year = 1985
 
 			folder = {
-				name = fixed_wing_folder
+				name = modern_fixed_wing_folder
 				position = { x = @row5 y = @1985 }
 			}
 
@@ -1221,7 +1221,7 @@ technologies = {
 		start_year = 1995
 
 		folder = {
-			name = fixed_wing_folder
+			name = modern_fixed_wing_folder
 			position = { x = @row5 y = @1995 }
 		}
 
@@ -1254,7 +1254,7 @@ technologies = {
 			start_year = 1995
 
 			folder = {
-				name = fixed_wing_folder
+				name = modern_fixed_wing_folder
 				position = { x = @row6 y = @1995 }
 			}
 
@@ -1298,7 +1298,7 @@ technologies = {
 			start_year = 2015
 
 			folder = {
-				name = fixed_wing_folder
+				name = modern_fixed_wing_folder
 				position = { x = @row5 y = @2005 }
 			}
 
@@ -1348,7 +1348,7 @@ technologies = {
 		start_year = 2020
 
 		folder = {
-			name = fixed_wing_folder
+			name = modern_fixed_wing_folder
 			position = { x = @row5 y = @2015 }
 		}
 
@@ -1385,7 +1385,7 @@ technologies = {
 			start_year = 2025
 
 			folder = {
-				name = fixed_wing_folder
+				name = modern_fixed_wing_folder
 				position = { x = @row6 y = @2015 }
 			}
 
@@ -1437,7 +1437,7 @@ technologies = {
 			start_year = 2035
 
 			folder = {
-				name = fixed_wing_folder
+				name = modern_fixed_wing_folder
 				position = { x = @row5 y = @2025 }
 			}
 
@@ -1487,7 +1487,7 @@ technologies = {
 			start_year = 2040
 
 			folder = {
-				name = fixed_wing_folder
+				name = modern_fixed_wing_folder
 				position = { x = @row5 y = @2035 }
 			}
 
@@ -1524,7 +1524,7 @@ technologies = {
 			start_year = 2045
 
 			folder = {
-				name = fixed_wing_folder
+				name = modern_fixed_wing_folder
 				position = { x = @row6 y = @2035 }
 			}
 
@@ -1569,7 +1569,7 @@ technologies = {
 		start_year = 1965
 
 		folder = {
-			name = fixed_wing_folder
+			name = modern_fixed_wing_folder
 			position = { x = @row7 y = @1965 }
 		}
 		categories = {
@@ -1630,7 +1630,7 @@ technologies = {
 		start_year = 1995
 
 		folder = {
-			name = fixed_wing_folder
+			name = modern_fixed_wing_folder
 			position = { x = @row7 y = @1995 }
 		}
 
@@ -1699,7 +1699,7 @@ technologies = {
 		start_year = 2015
 
 		folder = {
-			name = fixed_wing_folder
+			name = modern_fixed_wing_folder
 			position = { x = @row7 y = @2005 }
 		}
 
@@ -1776,7 +1776,7 @@ technologies = {
 		start_year = 2025
 
 		folder = {
-			name = fixed_wing_folder
+			name = modern_fixed_wing_folder
 			position = { x = @row7 y = @2015 }
 		}
 
@@ -1848,7 +1848,7 @@ technologies = {
 		start_year = 2035
 
 		folder = {
-			name = fixed_wing_folder
+			name = modern_fixed_wing_folder
 			position = { x = @row7 y = @2025 }
 		}
 
@@ -1919,7 +1919,7 @@ technologies = {
 		start_year = 1995
 
 		folder = {
-			name = fixed_wing_folder
+			name = modern_fixed_wing_folder
 			position = { x = @row8 y = @1995 }
 		}
 		categories = {
@@ -1973,7 +1973,7 @@ technologies = {
 		start_year = 2015
 
 		folder = {
-			name = fixed_wing_folder
+			name = modern_fixed_wing_folder
 			position = { x = @row8 y = @2005 }
 		}
 		categories = {
@@ -2035,7 +2035,7 @@ technologies = {
 		start_year = 2025
 
 		folder = {
-			name = fixed_wing_folder
+			name = modern_fixed_wing_folder
 			position = { x = @row8 y = @2015 }
 		}
 		categories = {

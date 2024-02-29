@@ -62,7 +62,7 @@ technologies = {
 		}
 
 		folder = {
-			name = electronics_folder #civilian_folder
+			name = modern_electronics_folder #civilian_folder
 			position = { x = 4 y = @1985 }
 		}
 
@@ -92,7 +92,7 @@ technologies = {
 		}
 
 		folder = {
-			name = electronics_folder #civilian_folder
+			name = modern_electronics_folder #civilian_folder
 			position = { x = 4 y = @1990 }
 		}
 
@@ -124,7 +124,7 @@ technologies = {
 		}
 
 		folder = {
-			name = electronics_folder #civilian_folder
+			name = modern_electronics_folder #civilian_folder
 			position = { x = 4 y = @1995 }
 		}
 
@@ -153,7 +153,7 @@ technologies = {
 		}
 
 		folder = {
-			name = electronics_folder #civilian_folder
+			name = modern_electronics_folder #civilian_folder
 			position = { x = 4 y = @2000 }
 		}
 
@@ -189,7 +189,7 @@ technologies = {
 		}
 
 		folder = {
-			name = electronics_folder #civilian_folder
+			name = modern_electronics_folder #civilian_folder
 			position = { x = 4 y = @2005 }
 		}
 
@@ -230,7 +230,7 @@ technologies = {
 		}
 
 		folder = {
-			name = electronics_folder #civilian_folder
+			name = modern_electronics_folder #civilian_folder
 			position = { x = 6 y = @2005 }
 		}
 
@@ -269,7 +269,7 @@ technologies = {
 		}
 
 		folder = {
-			name = electronics_folder #civilian_folder
+			name = modern_electronics_folder #civilian_folder
 			position = { x = 6 y = @2010 }
 		}
 
@@ -320,7 +320,7 @@ technologies = {
 		}
 
 		folder = {
-			name = electronics_folder #civilian_folder
+			name = modern_electronics_folder #civilian_folder
 			position = { x = 6 y = @2015 }
 		}
 
@@ -366,7 +366,7 @@ technologies = {
 		recon_factor = 0.10
 
 		folder = {
-			name = electronics_folder #civilian_folder
+			name = modern_electronics_folder #civilian_folder
 			position = { x = 6 y = @2020 }
 		}
 
@@ -410,7 +410,7 @@ technologies = {
 		}
 
 		folder = {
-			name = electronics_folder #civilian_folder
+			name = modern_electronics_folder #civilian_folder
 			position = { x = 4 y = @2010 }
 		}
 
@@ -454,7 +454,7 @@ technologies = {
 		}
 
 		folder = {
-			name = electronics_folder #civilian_folder
+			name = modern_electronics_folder #civilian_folder
 			position = { x = 4 y = @2015 }
 		}
 
@@ -496,7 +496,7 @@ technologies = {
 		}
 
 		folder = {
-			name = electronics_folder #civilian_folder
+			name = modern_electronics_folder #civilian_folder
 			position = { x = 4 y = @2020 }
 		}
 
@@ -539,7 +539,7 @@ technologies = {
 		}
 
 		folder = {
-			name = electronics_folder #civilian_folder
+			name = modern_electronics_folder #civilian_folder
 			position = { x = 4 y = @2025 }
 		}
 
@@ -584,7 +584,7 @@ technologies = {
 		}
 
 		folder = {
-			name = electronics_folder #civilian_folder
+			name = modern_electronics_folder #civilian_folder
 			position = { x = 4 y = @2030 }
 		}
 
@@ -626,7 +626,7 @@ technologies = {
 		land_reinforce_rate = 0.01
 
 		folder = {
-			name = electronics_folder
+			name = modern_electronics_folder
 			position = { x = 2 y = 2 }
 		}
 
@@ -653,7 +653,7 @@ technologies = {
 		research_speed_factor = 0.05
 
 		folder = {
-			name = electronics_folder
+			name = modern_electronics_folder
 			position = { x = 2 y = 4 }
 		}
 
@@ -680,7 +680,7 @@ technologies = {
 		research_speed_factor = 0.01
 
 		folder = {
-			name = electronics_folder
+			name = modern_electronics_folder
 			position = { x = 2 y = 6 }
 		}
 
@@ -720,7 +720,7 @@ technologies = {
 		}
 
 		folder = {
-			name = electronics_folder
+			name = modern_electronics_folder
 			position = { x = 4 y = 6 }
 		}
 
@@ -746,7 +746,7 @@ technologies = {
 		}
 
 		folder = {
-			name = electronics_folder
+			name = modern_electronics_folder
 			position = { x = 0 y = 6 }
 		}
 
@@ -770,7 +770,7 @@ technologies = {
 		research_speed_factor = 0.05
 
 		folder = {
-			name = electronics_folder
+			name = modern_electronics_folder
 			position = { x = 2 y = 8 }
 		}
 
@@ -805,7 +805,7 @@ technologies = {
 		research_speed_factor = 0.05
 
 		folder = {
-			name = electronics_folder
+			name = modern_electronics_folder
 			position = { x = 2 y = 10 }
 		}
 
@@ -853,7 +853,7 @@ technologies = {
 		}
 
 		folder = {
-			name = electronics_folder
+			name = modern_electronics_folder
 			position = { x = 4 y = 10 }
 		}
 
@@ -879,7 +879,7 @@ technologies = {
 		}
 
 		folder = {
-			name = electronics_folder
+			name = modern_electronics_folder
 			position = { x = 0 y = 10 }
 		}
 
@@ -902,7 +902,7 @@ technologies = {
 		research_speed_factor = 0.05
 
 		folder = {
-			name = electronics_folder
+			name = modern_electronics_folder
 			position = { x = 2 y = 14 }
 		}
 
@@ -950,7 +950,7 @@ technologies = {
 		}
 
 		folder = {
-			name = electronics_folder
+			name = modern_electronics_folder
 			position = { x = 4 y = 14 }
 		}
 
@@ -976,7 +976,7 @@ technologies = {
 		}
 
 		folder = {
-			name = electronics_folder
+			name = modern_electronics_folder
 			position = { x = 0 y = 14 }
 		}
 
@@ -999,7 +999,7 @@ technologies = {
 		research_speed_factor = 0.05
 
 		folder = {
-			name = electronics_folder
+			name = modern_electronics_folder
 			position = { x = 2 y = 18 }
 		}
 
@@ -1055,7 +1055,7 @@ technologies = {
 		}
 
 		folder = {
-			name = electronics_folder
+			name = modern_electronics_folder
 			position = { x = 4 y = 18 }
 		}
 
@@ -1081,7 +1081,7 @@ technologies = {
 		}
 
 		folder = {
-			name = electronics_folder
+			name = modern_electronics_folder
 			position = { x = 0 y = 18 }
 		}
 
@@ -1104,7 +1104,7 @@ technologies = {
 		research_speed_factor = 0.05
 
 		folder = {
-			name = electronics_folder
+			name = modern_electronics_folder
 			position = { x = 2 y = 22 }
 		}
 
@@ -1164,7 +1164,7 @@ technologies = {
 		}
 
 		folder = {
-			name = electronics_folder
+			name = modern_electronics_folder
 			position = { x = 4 y = 22 }
 		}
 
@@ -1190,7 +1190,7 @@ technologies = {
 		}
 
 		folder = {
-			name = electronics_folder
+			name = modern_electronics_folder
 			position = { x = 0 y = 22 }
 		}
 
@@ -1213,7 +1213,7 @@ technologies = {
 		research_speed_factor = 0.1
 
 		folder = {
-			name = electronics_folder
+			name = modern_electronics_folder
 			position = { x = 2 y = 28 }
 		}
 
@@ -1264,7 +1264,7 @@ technologies = {
 		}
 
 		folder = {
-			name = electronics_folder
+			name = modern_electronics_folder
 			position = { x = 4 y = 28 }
 		}
 
@@ -1290,7 +1290,7 @@ technologies = {
 		}
 
 		folder = {
-			name = electronics_folder
+			name = modern_electronics_folder
 			position = { x = 0 y = 28 }
 		}
 
