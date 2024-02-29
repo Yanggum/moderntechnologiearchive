@@ -88,12 +88,12 @@ ITA_REGIONS = {
 	}
 }
 
-##MODERN DESTROYERS ######
-ITA_MODERN_DESTROYERS_NAMES = {
-	name = NAME_THEME_MODERN_DESTROYERS
+##MODERN modern_destroyerS ######
+ITA_MODERN_modern_destroyerS_NAMES = {
+	name = NAME_THEME_MODERN_modern_destroyerS
 	for_countries = { ITA }
 	type = ship
-	ship_types = { frigate_1 frigate destroyer stealth_destroyer corvette_1 corvette }
+	ship_types = { modern_frigate_1 modern_frigate modern_destroyer stealth_modern_destroyer modern_corvette_1 modern_corvette }
 	#link_numbering_with = { ITA_MODERN_CV_NAMES }
 	fallback_name = "D %d"
 	prefix = "D "
@@ -108,11 +108,11 @@ ITA_MODERN_DESTROYERS_NAMES = {
 	}
 }
 
-ITA_MODERN_CRUISER_NAMES = {
-	name = NAME_THEME_MODERN_CRUISERS
+ITA_MODERN_modern_cruiser_NAMES = {
+	name = NAME_THEME_MODERN_modern_cruiserS
 	for_countries = { ITA }
 	type = ship
-	ship_types = { battle_cruiser cruiser }
+	ship_types = { battle_modern_cruiser modern_cruiser }
 	#link_numbering_with = { ITA_MODERN_CV_NAMES }
 	fallback_name = "C %d"
 	prefix = "C "
@@ -123,11 +123,11 @@ ITA_MODERN_CRUISER_NAMES = {
 }
 
 ITA_MODERN_CV_NAMES = {
-	name = NAME_THEME_MODERN_CARRIERS
+	name = NAME_THEME_MODERN_modern_carrierS
 	for_countries = { ITA }
 	type = ship
 	#link_numbering_with = { ITA_MODERN_CV_NAMES }
-	ship_types = { carrier }
+	ship_types = { modern_carrier }
 
 	prefix = "C "
 	fallback_name = "C %d"
@@ -139,7 +139,7 @@ ITA_MODERN_CV_NAMES = {
 
 
 ITA_MODERN_HELICOPTEROPERATORS_NAMES = {
-	name = NAME_THEME_MODERN_HELICOPTER_CARRIERS
+	name = NAME_THEME_MODERN_HELICOPTER_modern_carrierS
 	for_countries = { ITA }
 	type = ship
 		ship_types = { helicopter_operator }
@@ -191,11 +191,11 @@ ITA_MODERN_SUBMARINE_NAMES = {
 	   "349 San Vincenzo" "350 Piombino" "351 Capraia" "352 Rio" "353 Portoferraio" "354 Marciana" "355 Marciana"
 	}
 }
-ITA_MODERN_CORVETTE_NAMES = {
-	name = NAME_THEME_MODERN_CORVETTES
+ITA_MODERN_modern_corvette_NAMES = {
+	name = NAME_THEME_MODERN_modern_corvetteS
 	for_countries = { ITA }
 	type = ship
-	ship_types = { corvette_1 corvette }
+	ship_types = { modern_corvette_1 modern_corvette }
 
 	prefix = "P "
 	fallback_name = "P %d "
@@ -233,11 +233,11 @@ ITA_MODERN_CORVETTE_NAMES = {
 	}
 }
 
-ITA_MODERN_FRIGATE_NAMES = {
-	name = "Modern Frigates"
+ITA_MODERN_modern_frigate_NAMES = {
+	name = "Modern modern_frigates"
 	for_countries = { ITA }
 	type = ship
-	ship_types = { frigate }
+	ship_types = { modern_frigate }
 
 	prefix = "F "
 	fallback_name = "F %d "
@@ -274,14 +274,14 @@ ITA_MODERN_FRIGATE_NAMES = {
 	}
 }
 
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 ITA_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { ITA }
 
 	type = ship
-	ship_types = { ship_hull_light destroyer }
+	ship_types = { ship_hull_light modern_destroyer }
 
 	prefix = "D "
 	fallback_name = "D %s"
@@ -305,14 +305,14 @@ ITA_DD_HISTORICAL = {
 	}
 }
 
-### LIGHT CRUISER NAMES###
+### LIGHT modern_cruiser NAMES###
 ITA_CL_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_CL
 
 	for_countries = { ITA }
 
 	type = ship
-	ship_types = { ship_hull_cruiser light_cruiser }
+	ship_types = { ship_hull_modern_cruiser light_modern_cruiser }
 
 	prefix = "C " # Regio Incrociatore
 	fallback_name = "C %d"
@@ -329,14 +329,14 @@ ITA_CL_HISTORICAL = {
 	}
 }
 
-### HEAVY CRUISER NAMES###
+### HEAVY modern_cruiser NAMES###
 ITA_CA_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_CA
 
 	for_countries = { ITA }
 
 	type = ship
-	ship_types = { ship_hull_cruiser heavy_cruiser }
+	ship_types = { ship_hull_modern_cruiser heavy_modern_cruiser }
 
 	prefix = "C " #Incrociatore
 	fallback_name = "C %s"
@@ -357,7 +357,7 @@ ITA_MINELAYERS_HISTORICAL = {
 	for_countries = { ITA }
 
 	type = ship
-	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+	ship_types = { ship_hull_modern_cruiser light_modern_cruiser ship_hull_light modern_destroyer }
 
 	prefix = "M "
 	fallback_name = "M %d"
@@ -367,14 +367,14 @@ ITA_MINELAYERS_HISTORICAL = {
 	}
 }
 
-### BATTLESHIP NAMES ###
+### modern_battleship NAMES ###
 ITA_BB_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_BB
 
 	for_countries = { ITA }
 
 	type = ship
-	ship_types = { ship_hull_heavy battleship }
+	ship_types = { ship_hull_heavy modern_battleship }
 
 	prefix = "C " # Regia Nave
 	fallback_name = "C %s"
@@ -384,14 +384,14 @@ ITA_BB_HISTORICAL = {
 	}
 }
 
-### BATTLECRUISER NAMES ###
+### BATTLEmodern_cruiser NAMES ###
 ITA_BC_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_BC
 
 	for_countries = { ITA }
 
 	type = ship
-	ship_types = { ship_hull_heavy battle_cruiser }
+	ship_types = { ship_hull_heavy battle_modern_cruiser }
 
 	prefix = "C " # Regio Incrociatore
 	fallback_name = "C %s"
@@ -402,14 +402,14 @@ ITA_BC_HISTORICAL = {
 	}
 }
 
-### AIRCRAFT CARRIER NAMES ###
+### AIRCRAFT modern_carrier NAMES ###
 ITA_CV_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CARRIERS
+	name = NAME_THEME_HISTORICAL_modern_carrierS
 
 	for_countries = { ITA }
 
 	type = ship
-	ship_types = { carrier }
+	ship_types = { modern_carrier }
 
 	prefix = "C " # Regia Nave
 	fallback_name = "C %s"

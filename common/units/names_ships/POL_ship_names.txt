@@ -1,7 +1,7 @@
 ﻿##### Poland NAME LISTS #####
 
-POL_HELICOPTER_CARRIERS_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_HELICOPTER_CARRIERS
+POL_HELICOPTER_modern_carrierS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_HELICOPTER_modern_carrierS
 	for_countries = { POL }
 	type = ship
 	ship_types = {
@@ -15,14 +15,14 @@ POL_HELICOPTER_CARRIERS_HISTORICAL = {
 	}
 }
 
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 POL_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { POL }
 
 	type = ship
-	ship_types = { stealth_destroyer destroyer }
+	ship_types = { stealth_modern_destroyer modern_destroyer }
 
 	prefix = "ORP "
 	fallback_name = "DDG-%d"
@@ -32,12 +32,12 @@ POL_DD_HISTORICAL = {
 	}
 }
 
-POL_FRIGATES_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATES
+POL_modern_frigateS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigateS
 	for_countries = { POL }
 	type = ship
 	ship_types = {
-		frigate
+		modern_frigate
 	}
 	prefix = "ORP "
 	fallback_name = "FFG-%d"
@@ -47,14 +47,14 @@ POL_FRIGATES_HISTORICAL = {
 	}
 }
 
-### CORVETTE NAMES ###
-POL_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+POL_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { POL }
 	prefix = "ORP "
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	fallback_name = "KKG-%d"
 
 	unique = {
@@ -68,7 +68,7 @@ POL_SUBMARINES_HISTORICAL = {
 	prefix = "ORP "
 	type = ship
 	ship_types = {
-		attack_submarine missile_submarine
+		attack_submarine modern_missile_submarine
 	}
 	fallback_name = "SS-%d"
 }

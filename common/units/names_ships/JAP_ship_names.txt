@@ -1,11 +1,11 @@
 ﻿##### JAPAN NAME LISTS #####
 JAP_CV_MODERN = {
-	name = NAME_THEME_HISTORICAL_CARRIERS
+	name = NAME_THEME_HISTORICAL_modern_carrierS
 
 	for_countries = { JAP }
 
 	type = ship
-	ship_types = { carrier helicopter_operator }	
+	ship_types = { modern_carrier helicopter_operator }	
 
 	prefix = "JDS "		
 
@@ -22,7 +22,7 @@ JAP_BB_MODERN = {
 	for_countries = { JAP }
 
 	type = ship
-	ship_types = { battleship }	
+	ship_types = { modern_battleship }	
 
 	prefix = "JDS "		
 
@@ -40,7 +40,7 @@ JAP_BC_MODERN = {
 	for_countries = { JAP }
 
 	type = ship
-	ship_types = { battle_cruiser }	
+	ship_types = { battle_modern_cruiser }	
 
 	prefix = "JDS "		
 
@@ -52,12 +52,12 @@ JAP_BC_MODERN = {
 }
 
 JAP_CA_MODERN = {
-	name = NAME_THEME_HISTORICAL_CRUISER
+	name = NAME_THEME_HISTORICAL_modern_cruiser
 
 	for_countries = { JAP }
 
 	type = ship
-	ship_types = { cruiser }	
+	ship_types = { modern_cruiser }	
 
 	prefix = "JDS "		
 
@@ -72,12 +72,12 @@ JAP_CA_MODERN = {
 }
 
 JAP_DD_MODERN = {
-	name = NAME_THEME_MODERN_DESTROYERS
+	name = NAME_THEME_MODERN_modern_destroyerS
 
 	for_countries = { JAP }
 
 	type = ship
-	ship_types = { destroyer stealth_destroyer }	
+	ship_types = { modern_destroyer stealth_modern_destroyer }	
 
 	prefix = "JDS "		
 
@@ -92,12 +92,12 @@ JAP_DD_MODERN = {
 }
 
 JAP_FRIG_MODERN = {
-	name = NAME_THEME_MODERN_FRIGATES
+	name = NAME_THEME_MODERN_modern_frigateS
 
 	for_countries = { JAP }
 
 	type = ship
-	ship_types = { frigate }	
+	ship_types = { modern_frigate }	
 
 	prefix = "JDS "		
 
@@ -110,12 +110,12 @@ JAP_FRIG_MODERN = {
 }
 
 JAP_CORV_MODERN = {
-	name = NAME_THEME_MODERN_CORVETTES
+	name = NAME_THEME_MODERN_modern_corvetteS
 
 	for_countries = { JAP }
 
 	type = ship
-	ship_types = { corvette }	
+	ship_types = { modern_corvette }	
 
 	prefix = "JDS "		
 
@@ -134,7 +134,7 @@ JAP_SUB_MODERN = {
 	for_countries = { JAP }
 
 	type = ship
-	ship_types = { missile_submarine attack_submarine }	
+	ship_types = { modern_missile_submarine attack_submarine }	
 
 	prefix = "JDS "		
 

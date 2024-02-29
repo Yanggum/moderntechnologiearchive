@@ -1,11 +1,11 @@
 ﻿##Bird - Hey there! This should be a  good example of how to do this for any other nation
 ##Look for the file MD_unit_names if they are not in here
-FRA_DD_WW2_DESTROYERS_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+FRA_DD_WW2_modern_destroyerS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 	for_countries = { FRA }
 	type = ship
 	ship_types = {
-		destroyer
+		modern_destroyer
 	} ##Need the first for non-MTG/Second for MTG
 	can_use = { is_ai = no } #Eh just for the player sake
 	fallback_name = "%d Contre-Torpilleur" ##Ignore my french spelling but this is just incase all the uniques are taken up
@@ -30,7 +30,7 @@ FRA_LIGHT_DDS_WW2_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_LIGHT_DDS
 	for_countries = { FRA }
 	type = ship
-	ship_types = { destroyer }
+	ship_types = { modern_destroyer }
 	can_use = { is_ai = no } #Eh just for the player sake
 	fallback_name = "%d Légère Contre-Torpilleur"
 
@@ -49,11 +49,11 @@ FRA_LIGHT_DDS_WW2_HISTORICAL = {
 	}
 }
 
-FRA_LIGHT_CRUISERS_WW2_HISTORICAL = {
+FRA_LIGHT_modern_cruiserS_WW2_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_CL
 	for_countries = { FRA }
 	type = ship
-	ship_types = { cruiser }
+	ship_types = { modern_cruiser }
 	fallback_name = "%d Croiseur Lourd"
 
 	unique = {
@@ -66,12 +66,12 @@ FRA_LIGHT_CRUISERS_WW2_HISTORICAL = {
 	}
 }
 
-### HEAVY CRUISER NAMES###
+### HEAVY modern_cruiser NAMES###
 FRA_CA_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_CA
 	for_countries = { FRA }
 	type = ship
-	ship_types = { cruiser }
+	ship_types = { modern_cruiser }
 
 	fallback_name = "%d Croiseur Lourd"
 
@@ -91,7 +91,7 @@ FRA_MINELAYERS_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_MINELAYERS
 	for_countries = { FRA }
 	type = ship
-	ship_types = { destroyer }
+	ship_types = { modern_destroyer }
 
 	fallback_name = "%d Mouilleur de Mines"
 
@@ -106,7 +106,7 @@ FRA_MINELAYERS_HISTORICAL = {
 	}
 }
 
-### BATTLESHIP NAMES ###
+### modern_battleship NAMES ###
 FRA_BB_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_BB
 	for_countries = { FRA }
@@ -123,7 +123,7 @@ FRA_BB_HISTORICAL = {
 	}
 }
 
-### BATTLECRUISER NAMES ###
+### BATTLEmodern_cruiser NAMES ###
 FRA_BC_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_BC
 	for_countries = { FRA }
@@ -143,7 +143,7 @@ FRA_SS_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_SUBMARINES
 	for_countries = { FRA }
 	type = ship
-	ship_types = { attack_submarine missile_submarine }
+	ship_types = { attack_submarine modern_missile_submarine }
 	fallback_name = "%d Sous-Marin"
 
 	unique = {
@@ -165,14 +165,14 @@ FRA_SS_HISTORICAL = {
 	}
 }
 
-### AIRCRAFT CARRIER NAMES ###
+### AIRCRAFT modern_carrier NAMES ###
 FRA_CV_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CARRIERS
+	name = NAME_THEME_HISTORICAL_modern_carrierS
 
 	for_countries = { FRA }
 
 	type = ship
-	ship_types = { carrier }
+	ship_types = { modern_carrier }
 
 	fallback_name = "%d Porte-Avions"
 
@@ -189,7 +189,7 @@ FRA_MODERN_SUBMARINE_NAMES = {
 	name = NAME_THEME_MODERN_SUBMARINES
 	for_countries = { FRA }
 	type = ship
-	ship_types = { attack_submarine missile_submarine }
+	ship_types = { attack_submarine modern_missile_submarine }
 	fallback_name = "S%d"
 
 	unique = {
@@ -213,11 +213,11 @@ FRA_MODERN_SUBMARINE_NAMES = {
 	}
 }
 
-FRA_MODERN_FRIGATE_NAMES = {
-	name = NAME_THEME_MODERN_FRIGATES
+FRA_MODERN_modern_frigate_NAMES = {
+	name = NAME_THEME_MODERN_modern_frigateS
 	for_countries = { FRA }
 	type = ship
-	ship_types = { frigate_1 frigate destroyer stealth_destroyer corvette_1 corvette }
+	ship_types = { modern_frigate_1 modern_frigate modern_destroyer stealth_modern_destroyer modern_corvette_1 modern_corvette }
 	fallback_name = "F%d"
 
 	unique = {
@@ -239,11 +239,11 @@ FRA_MODERN_FRIGATE_NAMES = {
 	}
 }
 
-FRA_MODERN_CRUISER_NAMES = {
-	name = NAME_THEME_MODERN_CRUISERS
+FRA_MODERN_modern_cruiser_NAMES = {
+	name = NAME_THEME_MODERN_modern_cruiserS
 	for_countries = { FRA }
 	type = ship
-	ship_types = { cruiser }
+	ship_types = { modern_cruiser }
 
 	fallback_name = "D%d"
 
@@ -260,10 +260,10 @@ FRA_MODERN_CRUISER_NAMES = {
 }
 
 FRA_MODERN_CV_NAMES = {
-	name = NAME_THEME_MODERN_CARRIERS
+	name = NAME_THEME_MODERN_modern_carrierS
 	for_countries = { FRA }
 	type = ship
-	ship_types = { carrier }
+	ship_types = { modern_carrier }
 
 	fallback_name = "R%d"
 
@@ -283,7 +283,7 @@ FRA_MODERN_CV_NAMES = {
 }
 
 FRA_MODERN_HELICOPTEROPERATORS_NAMES = {
-	name = NAME_THEME_MODERN_HELICOPTER_CARRIERS
+	name = NAME_THEME_MODERN_HELICOPTER_modern_carrierS
 	for_countries = { FRA }
 	type = ship
 		ship_types = { helicopter_operator }

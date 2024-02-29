@@ -1,13 +1,13 @@
 ﻿##### VENEZUELA NAME LISTS #####
 
-### AIRCRAFT CARRIER NAMES ###
+### AIRCRAFT modern_carrier NAMES ###
 VEN_CV_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CARRIERS
+	name = NAME_THEME_HISTORICAL_modern_carrierS
 
 	for_countries = { VEN }
 
 	type = ship
-	ship_types = { carrier }
+	ship_types = { modern_carrier }
 
 	prefix = "ARBV "
 	fallback_name = "Portaaviones %d"
@@ -19,7 +19,7 @@ VEN_CV_HISTORICAL = {
 
 ### HELICOPTER OPERATOR NAMES ###
 VEN_LHA_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_HELICOPTER_CARRIERS
+	name = NAME_THEME_HISTORICAL_HELICOPTER_modern_carrierS
 
 	for_countries = { VEN }
 
@@ -34,14 +34,14 @@ VEN_LHA_HISTORICAL = {
 	}
 }
 
-### CRUISER NAMES###
-VEN_CRUISERS_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CRUISER
+### modern_cruiser NAMES###
+VEN_modern_cruiserS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_cruiser
 
 	for_countries = { VEN }
 
 	type = ship
-	ship_types = { battle_cruiser cruiser }
+	ship_types = { battle_modern_cruiser modern_cruiser }
 
 	prefix = "ARBV "
 	fallback_name = "Crucero Ligero %d"
@@ -51,14 +51,14 @@ VEN_CRUISERS_HISTORICAL = {
 	}
 }
 
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 VEN_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { VEN }
 
 	type = ship
-	ship_types = { stealth_destroyer destroyer }
+	ship_types = { stealth_modern_destroyer modern_destroyer }
 
 	prefix = "ARBV "
 	fallback_name = "Destructor %d"
@@ -69,14 +69,14 @@ VEN_DD_HISTORICAL = {
 }
 
 
-### FRIGATE NAMES###
-VEN_FRIGATE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATE
+### modern_frigate NAMES###
+VEN_modern_frigate_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigate
 
 	for_countries = { VEN }
 
 	type = ship
-	ship_types = { frigate }
+	ship_types = { modern_frigate }
 
 	prefix = "ARBV "
 	fallback_name = "Fragata %d"
@@ -87,14 +87,14 @@ VEN_FRIGATE_HISTORICAL = {
 }
 
 
-### CORVETTE NAMES ###
-VEN_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+VEN_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { VEN }
 
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	prefix = "ARBV "
 	fallback_name = "Corbeta %d"
 
@@ -105,13 +105,13 @@ VEN_CORVETTE_HISTORICAL = {
 
 
 ### SUBMARINES ###
-VEN_MISSILE_SUBMARINES_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_MISSILE_SUBMARINES
+VEN_modern_missile_submarineS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_missile_submarineS
 
 	for_countries = { VEN }
 
 	type = ship
-	ship_types = { missile_submarine }
+	ship_types = { modern_missile_submarine }
 
 	prefix = "ARBV "
 	fallback_name = "Submarino De Misiles %d"

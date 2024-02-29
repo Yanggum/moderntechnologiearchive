@@ -24,7 +24,7 @@
 			"Attinio" "Azoto" "Bromo" "Carbonio" "Elio" "Molibdeno" "Osmio" "Ossigeno" "Selenio" "Tungsteno" 
 		} 
 	} 
-	destroyer = { 
+	modern_destroyer = { 
 		prefix = "RM" 
 		generic = { "Cacciatorpedindiere" } 
 		unique = { 
@@ -51,7 +51,7 @@
 			"Carlo Alberto Racchia" "Insidioso" "Irrequieto" "Pilade Bronzetti" "Agostino Bertani" "Benedetto Cairoli" 
 		} 
 	} 
-	light_cruiser = { 
+	light_modern_cruiser = { 
 		prefix = "RM" 
 		generic = { "Incrociatore Leggero" } 
 		unique = { 
@@ -66,7 +66,7 @@
 			"Basilicata" "Campania" "Lombardia" "Calabria" "Elba" "Etruria" "Liguria" "Puglia" "Umbria" "Quarto" "Nino Bixio" "Marsala" "Libia" "Ancona" "Brindisi" 
 		} 
 	} 
-	heavy_cruiser = { 
+	heavy_modern_cruiser = { 
 		prefix = "RM" 
 		generic = { "Incrociatore Pesante" } 
 		unique = { 
@@ -78,7 +78,7 @@
 			"Vettor Pisani" "Carlo Alberto" "Marco Polo" "Giuseppe Garibaldi" "Varese" "Francesco Ferruccio" "Pisa" "Amalfi" "San Marco" 
 		} 
 	} 
-	battle_cruiser = { 
+	battle_modern_cruiser = { 
 		prefix = "RM" 
 		generic = { "Incrociatore da Battaglia" } 
 		unique = { 
@@ -88,7 +88,7 @@
 			"Principe Amedeo" "Palestra" 
 		} 
 	} 
-	battleship = { 
+	modern_battleship = { 
 		prefix = "RM" 
 		generic = { "Corazzata" } 
 		unique = { 
@@ -100,7 +100,7 @@
 			"Leonardo Da Vinci" "Dante Alighieri" 
 		} 
 	} 
-	carrier = { 
+	modern_carrier = { 
 		prefix = "RM" 
 		generic = { "Portaerei" } 
 		unique = { 

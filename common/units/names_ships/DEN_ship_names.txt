@@ -1,13 +1,13 @@
 ﻿##### DENMARK NAME LISTS #####
 
-### AIRCRAFT CARRIER NAMES ###
+### AIRCRAFT modern_carrier NAMES ###
 DEN_CV_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CARRIERS
+	name = NAME_THEME_HISTORICAL_modern_carrierS
 
 	for_countries = { DEN }
 
 	type = ship
-	ship_types = { carrier }
+	ship_types = { modern_carrier }
 
 	prefix = "HDMS "
 	fallback_name = "Hangarskib %d"
@@ -20,7 +20,7 @@ DEN_CV_HISTORICAL = {
 
 ### HELICOPTER OPERATOR NAMES ###
 DEN_LHA_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_HELICOPTER_CARRIERS
+	name = NAME_THEME_HISTORICAL_HELICOPTER_modern_carrierS
 
 	for_countries = { DEN }
 
@@ -36,34 +36,34 @@ DEN_LHA_HISTORICAL = {
 }
 
 
-### CRUISER NAMES###
-DEN_CRUISERS_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CRUISER
+### modern_cruiser NAMES###
+DEN_modern_cruiserS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_cruiser
 
 	for_countries = { DEN }
 
 	type = ship
-	ship_types = { battle_cruiser cruiser }
+	ship_types = { battle_modern_cruiser modern_cruiser }
 
 	prefix = "HDMS "
-	fallback_name = "Cruiseren %d"
+	fallback_name = "modern_cruiseren %d"
 
 	unique = {
 		"Flynderen" "Mågen" "Ørnen" "Falken" "Ulken" "Olfert Fischer" "Fyen" "Hekla" "Niels Juel" "Peder Skram" "Vitus Bering" "Sælen" "Hvalrossen" "Isbjørn"
 	}
 }
 
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 DEN_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { DEN }
 
 	type = ship
-	ship_types = { stealth_destroyer destroyer }
+	ship_types = { stealth_modern_destroyer modern_destroyer }
 
 	prefix = "HDMS "
-	fallback_name = "Destroyer %d"
+	fallback_name = "modern_destroyer %d"
 
 	unique = {
 		"Nymfen" "Najaden" "Huitfeldt" "Willemoes" "Søridderen" "Flyvefisken" "Søulven" "Hvalrossen" "Delfinen" "Sværdfisken"
@@ -71,14 +71,14 @@ DEN_DD_HISTORICAL = {
 }
 
 
-### FRIGATE NAMES###
-DEN_FRIGATE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATE
+### modern_frigate NAMES###
+DEN_modern_frigate_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigate
 
 	for_countries = { DEN }
 
 	type = ship
-	ship_types = { frigate }
+	ship_types = { modern_frigate }
 
 	prefix = "HDMS "
 	fallback_name = "Fregat %d"
@@ -88,14 +88,14 @@ DEN_FRIGATE_HISTORICAL = {
 	}
 }
 
-### CORVETTE NAMES ###
-DEN_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+DEN_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { DEN }
 
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	prefix = "HDMS "
 	fallback_name = "Korvet %d"
 
@@ -119,13 +119,13 @@ DEN_SS_HISTORICAL = {
 }
 
 ### SUBMARINES ###
-DEN_MISSILE_SUBMARINE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_MISSILE_SUBMARINES
+DEN_modern_missile_submarine_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_missile_submarineS
 
 	for_countries = { DEN }
 
 	type = ship
-	ship_types = { missile_submarine }
+	ship_types = { modern_missile_submarine }
 
 	prefix = "HDMS "
 	fallback_name = "Missil Ubåd %d"

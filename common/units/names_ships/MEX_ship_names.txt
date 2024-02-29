@@ -1,11 +1,11 @@
 ﻿##### MEXICO NAME LISTS #####
 
-MEX_FRIGATES_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATES
+MEX_modern_frigateS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigateS
 	for_countries = { MEX }
 	type = ship
 	ship_types = {
-		frigate
+		modern_frigate
 	}
 	prefix = "ARM "
 	fallback_name = "FFG-%d"
@@ -15,14 +15,14 @@ MEX_FRIGATES_HISTORICAL = {
 	}
 }
 
-### CORVETTE NAMES ###
-MEX_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+MEX_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { MEX }
 	prefix = "ARM "
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	fallback_name = "KKG-%d"
 
 	unique = {
@@ -30,14 +30,14 @@ MEX_CORVETTE_HISTORICAL = {
 	}
 }
 
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 MEX_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { MEX }
 
 	type = ship
-	ship_types = { stealth_destroyer destroyer }
+	ship_types = { stealth_modern_destroyer modern_destroyer }
 
 	prefix = "ARM "
 	fallback_name = "Destructor No.%d"
@@ -47,14 +47,14 @@ MEX_DD_HISTORICAL = {
 	}
 }
 
-### LIGHT CRUISER NAMES###
+### LIGHT modern_cruiser NAMES###
 MEX_CL_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_CL
 
 	for_countries = { MEX }
 
 	type = ship
-	ship_types = { battle_cruiser cruiser }
+	ship_types = { battle_modern_cruiser modern_cruiser }
 
 	prefix = "ARM "
 	fallback_name = "Crucero No.%d"
@@ -64,14 +64,14 @@ MEX_CL_HISTORICAL = {
 	}
 }
 
-### AIRCRAFT CARRIER NAMES ###
+### AIRCRAFT modern_carrier NAMES ###
 MEX_CV_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CARRIERS
+	name = NAME_THEME_HISTORICAL_modern_carrierS
 
 	for_countries = { MEX }
 
 	type = ship
-	ship_types = { carrier }
+	ship_types = { modern_carrier }
 
 	prefix = "ARM "
 	fallback_name = "Portaaviones No.%d"

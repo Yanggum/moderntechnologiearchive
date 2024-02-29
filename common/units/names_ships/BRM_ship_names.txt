@@ -1,9 +1,9 @@
-BRM_DESTROYERS_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+BRM_modern_destroyerS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 	for_countries = { BRM }
 	type = ship
 	ship_types = {
-		destroyer
+		modern_destroyer
 	}
 	prefix = "UMS "
 	fallback_name = "DDG-%d"
@@ -19,13 +19,13 @@ BRM_DESTROYERS_HISTORICAL = {
 	}
 }
 
-BRM_FRIGATES_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATES
+BRM_modern_frigateS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigateS
 	for_countries = { BRM }
 	type = ship
 	ship_types = {
-		frigate_1
-		frigate
+		modern_frigate_1
+		modern_frigate
 	}
 	prefix = "UMS "
 	fallback_name = "FFG-%d"
@@ -38,13 +38,13 @@ BRM_FRIGATES_HISTORICAL = {
 	}
 }
 
-BRM_CORVETTES_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTES
+BRM_modern_corvetteS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvetteS
 	for_countries = { BRM }
 	type = ship
 	ship_types = {
-		corvette_1
-		corvette
+		modern_corvette_1
+		modern_corvette
 	}
 	prefix = "UMS "
 	fallback_name = "KKG-%d"
@@ -66,7 +66,7 @@ BRM_SUBMARINES_HISTORICAL = {
 	for_countries = { BRM }
 	type = ship
 	ship_types = {
-		attack_submarine missile_submarine
+		attack_submarine modern_missile_submarine
 	}
 	prefix = "UMS "
 	fallback_name = "SS-%d"

@@ -1,5 +1,5 @@
 ﻿FRA = {
-	missile_submarine = {
+	modern_missile_submarine = {
 		prefix = ""
 		generic = { "Sous-Marin Nucléaire Lanceurs d'Engins" }
 		unique = {
@@ -34,7 +34,7 @@
 			"Minerve" "Junon" "Vénus" "Iris" "Pallas" "Cérès" "Aurore" "La Créole" "La Favorite" "La Bayadère" "L`Africaine" "L`Astrée" "L`Andromède" "L`Artémise" "Archimède"
 			}
 		}
-	nuclear_carrier = {
+	nuclear_modern_carrier = {
 		prefix = "PAN"
 		generic = { "Porte Avion Nucléaire" }
 		unique = {
@@ -47,7 +47,7 @@
 		}
 
 
-	Carrier = {
+	modern_carrier = {
 		prefix = "PA"
 		generic = { "Porte Avion" }
 		unique = {
@@ -86,7 +86,7 @@
 			"Ta'aroa" "Horo" "Tane" "Raa" "Ru" "Hina" "Maui" "Tauteni" "Temearoo" "Tuuivahiau"
 			}
 		}
-	# nuclear_cruiser = {
+	# nuclear_modern_cruiser = {
 	# 	prefix = ""
 	# 	generic = { "Croiseur Nucléaire" }
 	# 	unique = {
@@ -97,7 +97,7 @@
 	# 		"Archimède" "Fresnel" "Henri Poincaré" "Monge" "Pascal" "Pasteur" "Poncelet" "La Hire" "Jean Bureau" "Bertrand du Guesclin" "Pierre de Brézé" "Jean de Grouchy" "Jean Le Maingre"
 	# 		}
 	# 	}
-	cruiser = {
+	modern_cruiser = {
 		prefix = ""
 		generic = { "Croiseur" }
 		unique = {
@@ -109,7 +109,7 @@
 			"Laurence Parisot" "Murielle Mayette" "Sheila"
 			}
 		}
-	destroyer = {
+	modern_destroyer = {
 		prefix = ""
 		generic = { "Frégate de 1er rang" }
 		unique = {
@@ -123,9 +123,9 @@
 			}
 		}
 
-	corvette = {
+	modern_corvette = {
 		prefix = ""
-		generic = { "Corvette" }
+		generic = { "modern_corvette" }
 		unique = {
 			"Vauquelin" "Tromelin" "Tabarly" "Bougainville" "La Pérouse" "Garneray" "Surville" "Cousteau" "Riguidel" "Poupon" "Charcot" "Pléville Le Pelley" "Peyron" "de Freycinet" "de Gonneville" "Monnet"
 			"Le Toumelin" "Le Cam" "Lamazou" "Joyon" "Jeantot" "Hayet" "Bouvet de Lozier" "Gilard" "Gabbay" "Durand de Linois" "Fountaine" "de Lahorie" "Dutertre" "Beyou" "de Lahorie" "Gerbault"
@@ -224,7 +224,7 @@
 	cv_medium_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Flottille" }
-		generic_pattern = AIR_WING_NAME_FRA_CARRIER
+		generic_pattern = AIR_WING_NAME_FRA_modern_carrier
 		unique = {
 		}
 	}
@@ -279,14 +279,14 @@
 	large_modern_plane_maritime_patrol_airframe = {
 		prefix = ""
 		generic = { "Flotille" }
-		generic_pattern = AIR_WING_NAME_FRA_CARRIER
+		generic_pattern = AIR_WING_NAME_FRA_modern_carrier
 		unique = {
 		}
 	}
 	large_modern_plane_cas_airframe = {
 		prefix = ""
 		generic = { "Flotille" }
-		generic_pattern = AIR_WING_NAME_FRA_CARRIER
+		generic_pattern = AIR_WING_NAME_FRA_modern_carrier
 		unique = {
 		}
 	}

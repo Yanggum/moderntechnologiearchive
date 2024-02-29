@@ -237,7 +237,7 @@ guiTypes = {
 	}
 
 	##CV Light Airframe
-	#Generic Carrier Light Airframe cv_small_modern_plane_airframe
+	#Generic modern_carrier Light Airframe cv_small_modern_plane_airframe
 	containerWindowType = {
 		name = "equipment_designer_cv_small_modern_plane_airframe_0"
 		position = { x=0 y =0}
@@ -284,7 +284,7 @@ guiTypes = {
 		}
 	}
 
-	#Generic Carrier Light Airframe CAS cv_small_modern_plane_cas_airframe
+	#Generic modern_carrier Light Airframe CAS cv_small_modern_plane_cas_airframe
 	containerWindowType = {
 		name = "equipment_designer_cv_small_modern_plane_cas_airframe_0"
 		position = { x=0 y =0}
@@ -331,7 +331,7 @@ guiTypes = {
 		}
 	}
 
-	#Generic Carrier Light Airframe Strike cv_small_modern_plane_strike_airframe
+	#Generic modern_carrier Light Airframe Strike cv_small_modern_plane_strike_airframe
 	containerWindowType = {
 		name = "equipment_designer_cv_small_modern_plane_strike_airframe_0"
 		position = { x=0 y =0}
@@ -378,7 +378,7 @@ guiTypes = {
 		}
 	}
 
-	#Generic Carrier Light Airframe Naval Bomber cv_small_modern_plane_naval_bomber_airframe
+	#Generic modern_carrier Light Airframe Naval Bomber cv_small_modern_plane_naval_bomber_airframe
 	containerWindowType = {
 		name = "equipment_designer_cv_small_modern_plane_naval_bomber_airframe_0"
 		position = { x=0 y =0}
@@ -425,7 +425,7 @@ guiTypes = {
 		}
 	}
 
-	#Generic Carrier Light Airframe Drone cv_small_modern_plane_suicide_airframe
+	#Generic modern_carrier Light Airframe Drone cv_small_modern_plane_suicide_airframe
 	containerWindowType = {
 		name = "equipment_designer_cv_small_modern_plane_suicide_airframe_0"
 		position = { x=0 y =0}
@@ -710,7 +710,7 @@ guiTypes = {
 	}
 
 	##CV Medium Airframe
-	#Generic Carrier Medium Airframe (Multi-Role) cv_medium_modern_plane_airframe
+	#Generic modern_carrier Medium Airframe (Multi-Role) cv_medium_modern_plane_airframe
 	containerWindowType = {
 		name = "equipment_designer_cv_medium_modern_plane_airframe_0"
 		position = { x=0 y =0}
@@ -757,7 +757,7 @@ guiTypes = {
 		}
 	}
 
-	#Generic Carrier Medium Airframe AWACS (Scout) cv_medium_plane_scout_airframe
+	#Generic modern_carrier Medium Airframe AWACS (Scout) cv_medium_plane_scout_airframe
 	containerWindowType = {
 		name = "equipment_designer_cv_medium_plane_scout_airframe_0"
 		position = { x=0 y =0}
@@ -804,7 +804,7 @@ guiTypes = {
 		}
 	}
 
-	#Generic Carrier Medium Airframe Fighter (Air Superiority) cv_medium_modern_plane_fighter_airframe
+	#Generic modern_carrier Medium Airframe Fighter (Air Superiority) cv_medium_modern_plane_fighter_airframe
 	containerWindowType = {
 		name = "equipment_designer_cv_medium_modern_plane_fighter_airframe_0"
 		position = { x=0 y =0}
@@ -851,7 +851,7 @@ guiTypes = {
 		}
 	}
 
-	#Generic Carrier Medium Airframe CAS cv_medium_modern_plane_cas_airframe
+	#Generic modern_carrier Medium Airframe CAS cv_medium_modern_plane_cas_airframe
 	containerWindowType = {
 		name = "equipment_designer_cv_medium_modern_plane_cas_airframe_0"
 		position = { x=0 y =0}
@@ -898,7 +898,7 @@ guiTypes = {
 		}
 	}
 
-	#Generic Carrier Medium Airframe Transport cv_medium_modern_plane_air_transport_airframe
+	#Generic modern_carrier Medium Airframe Transport cv_medium_modern_plane_air_transport_airframe
 	containerWindowType = {
 		name = "equipment_designer_cv_medium_modern_plane_air_transport_airframe_0"
 		position = { x=0 y =0}
@@ -945,7 +945,7 @@ guiTypes = {
 		}
 	}
 
-	#Generic Carrier Medium Airframe Maritime Patrol cv_medium_modern_plane_maritime_patrol_airframe
+	#Generic modern_carrier Medium Airframe Maritime Patrol cv_medium_modern_plane_maritime_patrol_airframe
 	containerWindowType = {
 		name = "equipment_designer_cv_medium_modern_plane_maritime_patrol_airframe_0"
 		position = { x=0 y =0}

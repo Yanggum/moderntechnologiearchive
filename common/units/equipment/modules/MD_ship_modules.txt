@@ -27,7 +27,7 @@
 	# the more piercing is lower than armor, the more damage is reduced, the more piercing is higher than armor, the more critical hit chance increases
 #max_strength - hp of the ship, when used in add stats it represents the module requiring a bigger ship size
 #max_organisation - even if used in "add stats" it actually multiplies the base org of the ship
-#carrier_size - number of planes that can operate from the ship
+#modern_carrier_size - number of planes that can operate from the ship
 #naval_speed - Speed also affects the hit profile, a faster ship is going to be harder to hit
 #naval_range - Range
 #fuel_consumption 0- Consupmption of fuel
@@ -796,7 +796,7 @@ equipment_modules = {
 	module_light_flight_deck_2 = {
 		category = module_light_flight_decks_category
 		add_stats = {
-			carrier_size = 1
+			modern_carrier_size = 1
 			hg_attack = 180
 		}
 		add_average_stats = {
@@ -808,7 +808,7 @@ equipment_modules = {
 	module_light_flight_deck_3 = {
 		category = module_light_flight_decks_category
 		add_stats = {
-			carrier_size = 2
+			modern_carrier_size = 2
 			hg_attack = 40
 		}
 		add_average_stats = {
@@ -817,12 +817,12 @@ equipment_modules = {
 		dismantle_cost_ic = 1000000
 	}
 
-#CARRIER FLIGHT DECKS
+#modern_carrier FLIGHT DECKS
 	module_flight_deck_1 = {
 		category = module_flight_decks_category
 
 		add_stats = {
-			carrier_size = 1
+			modern_carrier_size = 1
 			build_cost_ic = 7000
 			max_strength = 200
 			max_organisation = 2.86
@@ -839,7 +839,7 @@ equipment_modules = {
 		category = module_flight_decks_category
 
 		add_stats = {
-			carrier_size = 2
+			modern_carrier_size = 2
 			build_cost_ic = 14000
 			max_strength = 400
 			max_organisation = 5.71
@@ -856,7 +856,7 @@ equipment_modules = {
 		category = module_flight_decks_category
 
 		add_stats = {
-			carrier_size = 3
+			modern_carrier_size = 3
 			build_cost_ic = 21000
 			max_strength = 600
 			max_organisation = 8.57
@@ -873,7 +873,7 @@ equipment_modules = {
 		category = module_flight_decks_category
 
 		add_stats = {
-			carrier_size = 4
+			modern_carrier_size = 4
 			build_cost_ic = 28000
 			max_strength = 800
 			max_organisation = 11.43
@@ -890,7 +890,7 @@ equipment_modules = {
 		category = module_flight_decks_category
 
 		add_stats = {
-			carrier_size = 5
+			modern_carrier_size = 5
 			build_cost_ic = 35000
 			max_strength = 1000
 			max_organisation = 14.28
@@ -907,7 +907,7 @@ equipment_modules = {
 		category = module_flight_decks_category
 
 		add_stats = {
-			carrier_size = 6
+			modern_carrier_size = 6
 			build_cost_ic = 42000
 			max_strength = 1200
 			max_organisation = 17.14
@@ -924,7 +924,7 @@ equipment_modules = {
 		category = module_flight_decks_category
 
 		add_stats = {
-			carrier_size = 7
+			modern_carrier_size = 7
 			build_cost_ic = 49000
 			max_strength = 1400
 			max_organisation = 20
@@ -941,7 +941,7 @@ equipment_modules = {
 		category = module_flight_decks_category
 
 		add_stats = {
-			carrier_size = 8
+			modern_carrier_size = 8
 			build_cost_ic = 56000
 			max_strength = 1600
 			max_organisation = 22.86
@@ -958,7 +958,7 @@ equipment_modules = {
 		category = module_flight_decks_category
 
 		add_stats = {
-			carrier_size = 9
+			modern_carrier_size = 9
 			build_cost_ic = 63000
 			max_strength = 1800
 			max_organisation = 25.71
@@ -975,7 +975,7 @@ equipment_modules = {
 		category = module_flight_decks_category
 
 		add_stats = {
-			carrier_size = 10
+			modern_carrier_size = 10
 			build_cost_ic = 70000
 			max_strength = 2000
 			max_organisation = 28.57
@@ -1270,8 +1270,8 @@ equipment_modules = {
 		}
 	}
 
-	module_heavy_frigate_upgrade_package = {
-		category = module_heavy_frigate_upgrade_category
+	module_heavy_modern_frigate_upgrade_package = {
+		category = module_heavy_modern_frigate_upgrade_category
 		add_equipment_type = capital_ship
 
 		add_stats = {

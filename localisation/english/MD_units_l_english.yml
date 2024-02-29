@@ -42,7 +42,7 @@
  Mot_Marine_Bat: "차량화 해병"
  Mot_Marine_Bat_desc: "차량화 해병은 정예 보병으로 도하 작전, 늪지대 작전, 상륙 침공을 수행하기 위한 특별한 훈련을 받았습니다. 경보병으로써 상륙하지만 그들은 다목적 차량을 지상 운송 수단으로 보유하고 있으며 그들에게 엄청난 기동성을 부여함과 동시에 많은 중장비를 전투에서 운용할 수 있게 합니다."
  Mech_Marine_Bat: "기계화 해병"
- Mech_Marine_Bat_desc: "Mechanized Marine Infantry are elite Infantry, with special training in amphibious operations, such as river-crossings, operation in swamps, and amphibious invasions. As they make landings protected in their specially designed Amphibious Armored Personnel Carriers, they are very much equipped to strike right away with great mobility, carrying large amounts of heavy equipment into battle."
+ Mech_Marine_Bat_desc: "Mechanized Marine Infantry are elite Infantry, with special training in amphibious operations, such as river-crossings, operation in swamps, and amphibious invasions. As they make landings protected in their specially designed Amphibious Armored Personnel modern_carriers, they are very much equipped to strike right away with great mobility, carrying large amounts of heavy equipment into battle."
  Arm_Marine_Bat: "기갑화 해병"
  Arm_Marine_Bat_desc: "기갑화 해병은 정예 보병으로 도하 작전, 늪지대 작전, 상륙 침공을 수행하기 위한 특별한 훈련을 받았습니다. 이들은 제트 추진기를 사용하는 중장갑 상륙전용 보병전투차량을 이용하여 물에서 먼 거리를 이동할 수 있으며 해안에 닿는 순간 동일한 보병전투차량에서 높은 효율의 전투를 시행할 준비가 되어있습니다."
  L_Air_assault_Bat: "공중 강습 경보병"

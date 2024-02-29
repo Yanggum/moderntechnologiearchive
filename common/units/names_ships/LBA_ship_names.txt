@@ -1,10 +1,10 @@
 ﻿LBA_CV_HISTORICAL = {
-	name = NAME_THEME_MODERN_CARRIERS
+	name = NAME_THEME_MODERN_modern_carrierS
 
 	for_countries = { LBA }
 
 	type = ship
-	ship_types = { helicopter_operator carrier }
+	ship_types = { helicopter_operator modern_carrier }
 
 	prefix = ""
 	fallback_name = "Hamilat Tayirat %d"
@@ -20,7 +20,7 @@ LBA_BB_HISTORICAL = {
 	for_countries = { LBA }
 
 	type = ship
-	ship_types = { battleship }
+	ship_types = { modern_battleship }
 
 	prefix = ""
 	fallback_name = "Safinat Harbia %d"
@@ -31,12 +31,12 @@ LBA_BB_HISTORICAL = {
 }
 
 LBA_CA_HISTORICAL = {
-	name = NAME_THEME_MODERN_CRUISERS
+	name = NAME_THEME_MODERN_modern_cruiserS
 
 	for_countries = { LBA }
 
 	type = ship
-	ship_types = { cruiser battle_cruiser }
+	ship_types = { modern_cruiser battle_modern_cruiser }
 
 	prefix = ""
 	fallback_name = "Tirad %d"
@@ -47,12 +47,12 @@ LBA_CA_HISTORICAL = {
 }
 
 LBA_DD_HISTORICAL = {
-	name = NAME_THEME_MODERN_DESTROYERS
+	name = NAME_THEME_MODERN_modern_destroyerS
 
 	for_countries = { LBA }
 
 	type = ship
-	ship_types = { destroyer stealth_destroyer }
+	ship_types = { modern_destroyer stealth_modern_destroyer }
 
 	prefix = ""
 	fallback_name = "Mudamir %d"
@@ -62,13 +62,13 @@ LBA_DD_HISTORICAL = {
 	}
 }
 
-LBA_FRIGATE_HISTORICAL = {
-	name = NAME_THEME_MODERN_FRIGATES
+LBA_modern_frigate_HISTORICAL = {
+	name = NAME_THEME_MODERN_modern_frigateS
 
 	for_countries = { LBA }
 
 	type = ship
-	ship_types = { frigate }
+	ship_types = { modern_frigate }
 
 	prefix = ""
 	fallback_name = "Firqata %d"
@@ -80,13 +80,13 @@ LBA_FRIGATE_HISTORICAL = {
 	}
 }
 
-LBA_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_MODERN_CORVETTES
+LBA_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_MODERN_modern_corvetteS
 
 	for_countries = { LBA }
 
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 
 	prefix = ""
 	fallback_name = "Kurfit %d"
@@ -104,7 +104,7 @@ LBA_SUBMARINE_HISTORICAL = {
 	for_countries = { LBA }
 
 	type = ship
-	ship_types = { missile_submarine attack_submarine }
+	ship_types = { modern_missile_submarine attack_submarine }
 
 	prefix = ""
 	fallback_name = "Ghawaasa %d"

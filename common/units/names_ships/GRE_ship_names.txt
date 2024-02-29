@@ -1,13 +1,13 @@
 ﻿##### GREECE NAME LISTS #####
 
-### AIRCRAFT CARRIER NAMES ###
+### AIRCRAFT modern_carrier NAMES ###
 GRE_CV_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CARRIERS
+	name = NAME_THEME_HISTORICAL_modern_carrierS
 
 	for_countries = { GRE }
 
 	type = ship
-	ship_types = { carrier }
+	ship_types = { modern_carrier }
 
 	prefix = "HS "
 	fallback_name = "Aeroplanoforo %d"
@@ -19,7 +19,7 @@ GRE_CV_HISTORICAL = {
 
 ### HELICOPTER OPERATOR NAMES ###
 GRE_LHA_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_HELICOPTER_CARRIERS
+	name = NAME_THEME_HISTORICAL_HELICOPTER_modern_carrierS
 
 	for_countries = { GRE }
 
@@ -35,14 +35,14 @@ GRE_LHA_HISTORICAL = {
 }
 
 
-### CRUISER NAMES###
-GRE_CRUISER_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CRUISER
+### modern_cruiser NAMES###
+GRE_modern_cruiser_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_cruiser
 
 	for_countries = { GRE }
 
 	type = ship
-	ship_types = { battle_cruiser cruiser }
+	ship_types = { battle_modern_cruiser modern_cruiser }
 
 	prefix = "HS "
 	fallback_name = "Katadromiko %d"
@@ -52,14 +52,14 @@ GRE_CRUISER_HISTORICAL = {
 	}
 }
 
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 GRE_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { GRE }
 
 	type = ship
-	ship_types = { stealth_destroyer destroyer }
+	ship_types = { stealth_modern_destroyer modern_destroyer }
 
 	prefix = "HS "
 	fallback_name = "Metafero %d"
@@ -70,14 +70,14 @@ GRE_DD_HISTORICAL = {
 }
 
 
-### FRIGATE NAMES###
-GRE_FRIGATE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATE
+### modern_frigate NAMES###
+GRE_modern_frigate_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigate
 
 	for_countries = { GRE }
 
 	type = ship
-	ship_types = { frigate }
+	ship_types = { modern_frigate }
 
 	prefix = "HS "
 	fallback_name = "Fregáta %d"
@@ -88,14 +88,14 @@ GRE_FRIGATE_HISTORICAL = {
 	}
 }
 
-### CORVETTE NAMES ###
-GRE_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+GRE_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { GRE }
 
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	prefix = "HS "
 	fallback_name = "Korvéta %d"
 
@@ -105,13 +105,13 @@ GRE_CORVETTE_HISTORICAL = {
 }
 
 ### MISSILE SUBMARINES NAMES ###
-GRE_MISSILE_SUBMARINE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_MISSILE_SUBMARINES
+GRE_modern_missile_submarine_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_missile_submarineS
 
 	for_countries = { GRE }
 
 	type = ship
-	ship_types = { missile_submarine }
+	ship_types = { modern_missile_submarine }
 
 	prefix = "HS "
 	fallback_name = "Ypovrýchio Pyrávlon %d"

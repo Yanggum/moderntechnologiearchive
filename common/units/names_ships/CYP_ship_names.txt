@@ -3,14 +3,14 @@
 ### Fictional Prefix: CNGS (Cyprus National Guard Ship)
 ### Uses NATO style fall back names despite not being a member of NATO.
 
-### CRUISER NAMES###
-CYP_CRUISERS_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CRUISER
+### modern_cruiser NAMES###
+CYP_modern_cruiserS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_cruiser
 
 	for_countries = { CYP }
 
 	type = ship
-	ship_types = { battle_cruiser cruiser }
+	ship_types = { battle_modern_cruiser modern_cruiser }
 
 	prefix = "CNGS "
 	fallback_name = "CGN-%d"
@@ -20,14 +20,14 @@ CYP_CRUISERS_HISTORICAL = {
 	}
 }
 
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 CYP_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { CYP }
 
 	type = ship
-	ship_types = { stealth_destroyer destroyer }
+	ship_types = { stealth_modern_destroyer modern_destroyer }
 
 	prefix = "CNGS "
 	fallback_name = "DDG-%d"
@@ -37,14 +37,14 @@ CYP_DD_HISTORICAL = {
 	}
 }
 
-### FRIGATE NAMES###
-CYP_FRIGATE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATE
+### modern_frigate NAMES###
+CYP_modern_frigate_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigate
 
 	for_countries = { CYP }
 
 	type = ship
-	ship_types = { frigate }
+	ship_types = { modern_frigate }
 
 	prefix = "CNGS "
 	fallback_name = "FFG-%d"
@@ -55,14 +55,14 @@ CYP_FRIGATE_HISTORICAL = {
 }
 
 
-### CORVETTE NAMES ###
-CYP_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+CYP_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { CYP }
 
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	prefix = "CNGS "
 	fallback_name = "KKG-%d"
 
@@ -72,13 +72,13 @@ CYP_CORVETTE_HISTORICAL = {
 }
 
 ### MISSILE SUBMARINES NAMES ###
-CYP_MISSILE_SUBMARINE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_MISSILE_SUBMARINES
+CYP_modern_missile_submarine_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_missile_submarineS
 
 	for_countries = { CYP }
 
 	type = ship
-	ship_types = { missile_submarine }
+	ship_types = { modern_missile_submarine }
 
 	prefix = "CNGS "
 	fallback_name = "SSGN-%d"

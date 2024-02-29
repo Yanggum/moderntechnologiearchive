@@ -1,49 +1,49 @@
 ﻿##### EGYPT NAME LISTS #####
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 EGY_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { EGY }
 
 	type = ship
-	ship_types = { stealth_destroyer destroyer }
+	ship_types = { stealth_modern_destroyer modern_destroyer }
 
 	prefix = "ERN "
-	fallback_name = "Destroyer%d"
+	fallback_name = "modern_destroyer%d"
 
 	unique = {
 		"Domiat" "Ibrahim-El-Awal" "El Qaher" "El Fateh" "Sham"
 	}
 }
 
-### LIGHT CRUISER NAMES###
+### LIGHT modern_cruiser NAMES###
 EGY_CL_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_CL
 
 	for_countries = { EGY }
 
 	type = ship
-	ship_types = { battle_cruiser cruiser }
+	ship_types = { battle_modern_cruiser modern_cruiser }
 
 	prefix = "ARS "
-	fallback_name = "Light Cruiser %d"
+	fallback_name = "Light modern_cruiser %d"
 
 	unique = {
 		"Domiat" "Ibrahim-El-Awal" "El Qaher" "El Fateh" "Sham"
 	}
 }
 
-### HEAVY CRUISER NAMES###
+### HEAVY modern_cruiser NAMES###
 EGY_CA_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_CA
 
 	for_countries = { EGY }
 
 	type = ship
-	ship_types = { battle_cruiser cruiser }
+	ship_types = { battle_modern_cruiser modern_cruiser }
 
 	prefix = "ERN "
-	fallback_name = "Heavy Cruiser %d"
+	fallback_name = "Heavy modern_cruiser %d"
 
 	unique = {
 		"Domiat" "Ibrahim-El-Awal" "El Qaher" "El Fateh" "Sham"
@@ -51,45 +51,45 @@ EGY_CA_HISTORICAL = {
 }
 
 
-### BATTLESHIP NAMES ###
+### modern_battleship NAMES ###
 EGY_BB_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_BB
 
 	for_countries = { EGY }
 
 	type = ship
-	ship_types = { battleship_hull_0 }
+	ship_types = { modern_battleship_hull_0 }
 
 	prefix = "ERN "
-	fallback_name = "Battleship %d"
+	fallback_name = "modern_battleship %d"
 }
 
-### BATTLECRUISER NAMES ###
+### BATTLEmodern_cruiser NAMES ###
 EGY_BC_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_BC
 
 	for_countries = { EGY }
 
 	type = ship
-	ship_types = { battle_cruiser }
+	ship_types = { battle_modern_cruiser }
 
 	prefix = "ERN "
-	fallback_name = "Battlecruiser %d"
+	fallback_name = "Battlemodern_cruiser %d"
 
 
 }
 
-### AIRCRAFT CARRIER NAMES ###
+### AIRCRAFT modern_carrier NAMES ###
 EGY_CV_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CARRIERS
+	name = NAME_THEME_HISTORICAL_modern_carrierS
 
 	for_countries = { EGY }
 
 	type = ship
-	ship_types = { carrier }
+	ship_types = { modern_carrier }
 
 	prefix = "ARS "
-	fallback_name = "Aircraft Carrier %d"
+	fallback_name = "Aircraft modern_carrier %d"
 
 
 }
@@ -101,7 +101,7 @@ EGY_SS_HISTORICAL = {
 	for_countries = { EGY }
 
 	type = ship
-	ship_types = { attack_submarine missile_submarine }
+	ship_types = { attack_submarine modern_missile_submarine }
 
 	prefix = "ARS "
 	fallback_name = "Submarine %d"

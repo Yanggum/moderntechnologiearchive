@@ -1,13 +1,13 @@
 ﻿##### ARGENTINA NAME LISTS #####
 
-### AIRCRAFT CARRIER NAMES ###
+### AIRCRAFT modern_carrier NAMES ###
 ARG_CV_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CARRIERS
+	name = NAME_THEME_HISTORICAL_modern_carrierS
 
 	for_countries = { ARG }
 
 	type = ship
-	ship_types = { carrier }
+	ship_types = { modern_carrier }
 
 	prefix = "ARA "
 	fallback_name = "V-%d"
@@ -19,7 +19,7 @@ ARG_CV_HISTORICAL = {
 
 ### HELICOPTER OPERATOR NAMES ###
 ARG_LHA_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_HELICOPTER_CARRIERS
+	name = NAME_THEME_HISTORICAL_HELICOPTER_modern_carrierS
 
 	for_countries = { ARG }
 
@@ -34,14 +34,14 @@ ARG_LHA_HISTORICAL = {
 	}
 }
 
-### CRUISER NAMES###
-ARG_CRUISERS_HISTORICAL = {
+### modern_cruiser NAMES###
+ARG_modern_cruiserS_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_CL
 
 	for_countries = { ARG }
 
 	type = ship
-	ship_types = { battle_cruiser cruiser }
+	ship_types = { battle_modern_cruiser modern_cruiser }
 
 	prefix = "ARA "
 	fallback_name = "CG-%d"
@@ -51,14 +51,14 @@ ARG_CRUISERS_HISTORICAL = {
 	}
 }
 
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 ARG_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { ARG }
 
 	type = ship
-	ship_types = { stealth_destroyer destroyer }
+	ship_types = { stealth_modern_destroyer modern_destroyer }
 
 	prefix = "ARA "
 	fallback_name = "D-%d"
@@ -68,14 +68,14 @@ ARG_DD_HISTORICAL = {
 	}
 }
 
-### FRIGATE NAMES###
-ARG_FRIGATE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATE
+### modern_frigate NAMES###
+ARG_modern_frigate_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigate
 
 	for_countries = { ARG }
 
 	type = ship
-	ship_types = { frigate }
+	ship_types = { modern_frigate }
 
 	prefix = "ARA "
 	fallback_name = "P-%d"
@@ -85,14 +85,14 @@ ARG_FRIGATE_HISTORICAL = {
 	}
 }
 
-### CORVETTE NAMES ###
-ARG_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+ARG_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { ARG }
 
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	prefix = "ARA "
 	fallback_name = "C-%d"
 
@@ -109,7 +109,7 @@ ARG_SS_HISTORICAL = {
 	for_countries = { ARG }
 
 	type = ship
-	ship_types = { attack_submarine missile_submarine }
+	ship_types = { attack_submarine modern_missile_submarine }
 
 	prefix = "ARA "
 	fallback_name = "S-%d"

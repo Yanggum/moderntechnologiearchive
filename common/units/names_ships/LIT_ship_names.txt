@@ -1,13 +1,13 @@
 ﻿##### Lithuania NAME LISTS #####
 
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 LIT_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { LIT }
 
 	type = ship
-	ship_types = { stealth_destroyer destroyer }
+	ship_types = { stealth_modern_destroyer modern_destroyer }
 
 	prefix = "LKL "
 	fallback_name = "DDG-%d"
@@ -17,12 +17,12 @@ LIT_DD_HISTORICAL = {
 	}
 }
 
-LIT_FRIGATES_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATES
+LIT_modern_frigateS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigateS
 	for_countries = { LIT }
 	type = ship
 	ship_types = {
-		frigate
+		modern_frigate
 	}
 	prefix = "LKL "
 	fallback_name = "FFG-%d"
@@ -32,14 +32,14 @@ LIT_FRIGATES_HISTORICAL = {
 	}
 }
 
-### CORVETTE NAMES ###
-LIT_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+LIT_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { LIT }
 	prefix = "LKL "
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	fallback_name = "KKG-%d"
 
 	unique = {
@@ -53,7 +53,7 @@ LIT_SUBMARINES_HISTORICAL = {
 	prefix = "LKL "
 	type = ship
 	ship_types = {
-		attack_submarine missile_submarine
+		attack_submarine modern_missile_submarine
 	}
 	fallback_name = "SS-%d"
 }

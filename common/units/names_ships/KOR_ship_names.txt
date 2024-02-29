@@ -2,7 +2,7 @@
 
 ### HELICOPTER OPERATOR NAMES ###
 KOR_LHA_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_HELICOPTER_CARRIERS
+	name = NAME_THEME_HISTORICAL_HELICOPTER_modern_carrierS
 
 	for_countries = { KOR }
 
@@ -17,14 +17,14 @@ KOR_LHA_HISTORICAL = {
 	}
 }
 
-### CRUISER NAMES###
-KOR_CRUISERS_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CRUISER
+### modern_cruiser NAMES###
+KOR_modern_cruiserS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_cruiser
 
 	for_countries = { KOR }
 
 	type = ship
-	ship_types = { battle_cruiser cruiser }
+	ship_types = { battle_modern_cruiser modern_cruiser }
 
 	prefix = "ROKS "
 	fallback_name = "CGN-%d"
@@ -34,14 +34,14 @@ KOR_CRUISERS_HISTORICAL = {
 	}
 }
 
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 KOR_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { KOR }
 
 	type = ship
-	ship_types = { stealth_destroyer destroyer }
+	ship_types = { stealth_modern_destroyer modern_destroyer }
 
 	prefix = "ROKS "
 	fallback_name = "DDG-%d"
@@ -51,14 +51,14 @@ KOR_DD_HISTORICAL = {
 	}
 }
 
-### FRIGATE NAMES###
-KOR_FRIGATE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATE
+### modern_frigate NAMES###
+KOR_modern_frigate_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigate
 
 	for_countries = { KOR }
 
 	type = ship
-	ship_types = { frigate }
+	ship_types = { modern_frigate }
 
 	prefix = "ROKS "
 	fallback_name = "FFG-%d"
@@ -68,14 +68,14 @@ KOR_FRIGATE_HISTORICAL = {
 	}
 }
 
-### CORVETTE NAMES ###
-KOR_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+KOR_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { KOR }
 
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	prefix = "ROKS "
 	fallback_name = "KKG-%d"
 
@@ -85,13 +85,13 @@ KOR_CORVETTE_HISTORICAL = {
 }
 
 ### MISSILE SUBMARINES NAMES ###
-KOR_MISSILE_SUBMARINE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_MISSILE_SUBMARINES
+KOR_modern_missile_submarine_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_missile_submarineS
 
 	for_countries = { KOR }
 
 	type = ship
-	ship_types = { missile_submarine }
+	ship_types = { modern_missile_submarine }
 
 	prefix = "ROKS "
 	fallback_name = "SSGN-%d"

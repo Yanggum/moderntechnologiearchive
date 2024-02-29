@@ -1,13 +1,13 @@
 ##### Iceland NAME LISTS #####
 
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 ICE_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { ICE }
 
 	type = ship
-	ship_types = { stealth_destroyer destroyer }
+	ship_types = { stealth_modern_destroyer modern_destroyer }
 
 	prefix = "INV "
 	fallback_name = "DDG-%d"
@@ -17,12 +17,12 @@ ICE_DD_HISTORICAL = {
 	}
 }
 
-ICE_FRIGATES_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATES
+ICE_modern_frigateS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigateS
 	for_countries = { ICE }
 	type = ship
 	ship_types = {
-		frigate
+		modern_frigate
 	}
 	prefix = "INV "
 	fallback_name = "FFG-%d"
@@ -32,14 +32,14 @@ ICE_FRIGATES_HISTORICAL = {
 	}
 }
 
-### CORVETTE NAMES ###
-ICE_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+ICE_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { ICE }
 	prefix = "INV "
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	fallback_name = "KKG-%d"
 
 	unique = {
@@ -53,7 +53,7 @@ ICE_SUBMARINES_HISTORICAL = {
 	prefix = "INV "
 	type = ship
 	ship_types = {
-		attack_submarine missile_submarine
+		attack_submarine modern_missile_submarine
 	}
 	fallback_name = "SS-%d"
 }

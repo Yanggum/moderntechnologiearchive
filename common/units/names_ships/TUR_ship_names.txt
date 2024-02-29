@@ -1,11 +1,11 @@
 ﻿##### TURKEY NAME LISTS #####
 
-### REGULAR DESTROYER NAMES###
-TUR_MODERN_DESTROYERS_NAMES = {
-	name = NAME_THEME_MODERN_DESTROYERS
+### REGULAR modern_destroyer NAMES###
+TUR_MODERN_modern_destroyerS_NAMES = {
+	name = NAME_THEME_MODERN_modern_destroyerS
 	for_countries = { TUR }
 	type = ship
-	ship_types = { destroyer stealth_destroyer }
+	ship_types = { modern_destroyer stealth_modern_destroyer }
 
 	prefix = "TCG "
 	fallback_name = "TCG Muhrip (D-%d)"
@@ -16,12 +16,12 @@ TUR_MODERN_DESTROYERS_NAMES = {
 
 }
 
-### FRIGATE NAMES###
-TUR_MODERN_FRIGATE_NAMES = {
-	name = NAME_THEME_MODERN_FRIGATES
+### modern_frigate NAMES###
+TUR_MODERN_modern_frigate_NAMES = {
+	name = NAME_THEME_MODERN_modern_frigateS
 	for_countries = { TUR }
 	type = ship
-	ship_types = { frigate }
+	ship_types = { modern_frigate }
 
 	prefix = "TCG "
 	fallback_name = "TCG Fırkateyn (F-%d)"
@@ -31,12 +31,12 @@ TUR_MODERN_FRIGATE_NAMES = {
 	}
 }
 
-######## Corvette Names ##########
-TUR_MODERN_CORVETTE_NAMES = {
-	name = NAME_THEME_MODERN_CORVETTES
+######## modern_corvette Names ##########
+TUR_MODERN_modern_corvette_NAMES = {
+	name = NAME_THEME_MODERN_modern_corvetteS
 	for_countries = { TUR }
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 
 	prefix = "TCG "
 	fallback_name = "TCG Korvet (F-%d)"
@@ -47,14 +47,14 @@ TUR_MODERN_CORVETTE_NAMES = {
 }
 
 
-### BATTLESHIP NAMES ###
+### modern_battleship NAMES ###
 TUR_BB_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_BB
 
 	for_countries = { TUR }
 
 	type = ship
-	ship_types = { ship_hull_heavy battleship }
+	ship_types = { ship_hull_heavy modern_battleship }
 
 	prefix = "TCG "
 	fallback_name = "TCG Savaş Gemisi (BB-%d)"
@@ -64,12 +64,12 @@ TUR_BB_HISTORICAL = {
 	}
 }
 
-### CRUISER NAMES ###
-TUR_MODERN_CRUISERS_NAMES = {
-	name = NAME_THEME_MODERN_CRUISERS
+### modern_cruiser NAMES ###
+TUR_MODERN_modern_cruiserS_NAMES = {
+	name = NAME_THEME_MODERN_modern_cruiserS
 	for_countries = { TUR }
 	type = ship
-	ship_types = { cruiser battle_cruiser }
+	ship_types = { modern_cruiser battle_modern_cruiser }
 
 	prefix = "TCG "
 	fallback_name = "Muharebe Kruvazör (CGN-%d)"
@@ -79,14 +79,14 @@ TUR_MODERN_CRUISERS_NAMES = {
 
 }
 
-### AIRCRAFT CARRIER NAMES ###
+### AIRCRAFT modern_carrier NAMES ###
 TUR_CV_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CARRIERS
+	name = NAME_THEME_HISTORICAL_modern_carrierS
 
 	for_countries = { TUR }
 
 	type = ship
-	ship_types = { carrier }
+	ship_types = { modern_carrier }
 
 	prefix = "TCG "
 	fallback_name = "TCG Uçak Gemisi (CV-%d)"
@@ -98,7 +98,7 @@ TUR_CV_HISTORICAL = {
 
 ### LHA NAMES ###
 TUR_LHA_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_HELICOPTER_CARRIERS
+	name = NAME_THEME_HISTORICAL_HELICOPTER_modern_carrierS
 
 	for_countries = { TUR }
 
@@ -129,11 +129,11 @@ TUR_MODERN_SUBMARINES_NAMES = {
 }
 
 ### MISSILE SUBMARINES ###
-TUR_MISSILE_SUBMARINES_NAMES = {
-	name = NAME_THEME_MODERN_MISSILE_SUBMARINES
+TUR_modern_missile_submarineS_NAMES = {
+	name = NAME_THEME_MODERN_modern_missile_submarineS
 	for_countries = { TUR }
 	type = ship
-	ship_types = { missile_submarine }
+	ship_types = { modern_missile_submarine }
 
 	prefix = "TUR "
 	fallback_name = "TCG Nükleer Denizaltı (ND-%d)"

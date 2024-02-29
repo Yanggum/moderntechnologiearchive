@@ -1,10 +1,10 @@
-################# Equipment Designer Window layouts: Destroyer Hulls (new format examples) #################
+################# Equipment Designer Window layouts: modern_destroyer Hulls (new format examples) #################
 
 guiTypes = {
 
-	################# Equipment Archetype: destroyer #################
+	################# Equipment Archetype: modern_destroyer #################
 	containerWindowType = {
-		name = "equipment_designer_destroyer"
+		name = "equipment_designer_modern_destroyer"
 		# NOTE: to keep aligned with the window "equipment_modules" in equipmentdesignerview.gui
 		position = { x=0 y=0 }
 		size = { width=512 height=260 }
@@ -16,7 +16,7 @@ guiTypes = {
 
 		iconType = {
 			name = "equipment_image"
-			spriteType = "GFX_SD_tv_destroyer"
+			spriteType = "GFX_SD_tv_modern_destroyer"
 			position = { x=0 y=0 }
 		}
 

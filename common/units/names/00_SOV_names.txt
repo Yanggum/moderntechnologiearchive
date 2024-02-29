@@ -18,7 +18,7 @@
 		}
 	}
 
-	corvette = {
+	modern_corvette = {
 		prefix = ""
 		generic = { "Esminets" }
 		unique = {
@@ -30,7 +30,7 @@
 		}
 	}
 
-	frigate = {
+	modern_frigate = {
 		prefix = ""
 		generic = { "Esminets" }
 		unique = {
@@ -41,7 +41,7 @@
 		}
 	}
 
-	destroyer = {
+	modern_destroyer = {
 		prefix = ""
 		generic = { "Esminets" }
 		unique = {
@@ -53,7 +53,7 @@
 
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = ""
 		generic = { "Legkiy Kreyser" }
 		unique = {
@@ -65,7 +65,7 @@
 			"Vasily Chapaev" "Admiral Yumashev" "Nikolayev" "Ochakov" "Kerch" "Azov" "Tashkent" "Tallin" "Admiral Flota Lobov" "Komsomolets" "Admiral Gorshkov"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = ""
 		generic = { "Tyazhely Kreyser" }
 		unique = {
@@ -75,7 +75,7 @@
 			"Admiral Senyavin" "Dmitry Pozharski" "Oktyabrskaya Revolutsiya" "Murmansk" "Mikhail Kutuzov" "Grozny" "Admiral Fokin" "Admiral Golovko" "Khabarovsk"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = ""
 		generic = { "Linejnyj Kreyser" }
 		unique = {
@@ -85,7 +85,7 @@
 			"Admiral Ushakov" "Admiral Lazarev" "Admiral Nakhimov" "Yuri Andropov" "Admiral Kuznetsov"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = ""
 		generic = { "Linkor" }
 		unique = {
@@ -95,7 +95,7 @@
 			 "Murmansk" "Vladivostok" "Karl Marx" "Vladamir Lenin" "Iosef Stalin" "Volya" "Engels" "Aleksandr Nevskiy" "Admiral Kuznetsov"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = ""
 		generic = { "Avianosets" }
 		unique = {

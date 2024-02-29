@@ -1,8 +1,8 @@
 ﻿########## CONFEDERATE SHIP NAMES ##################
 
-### CSA AIRCRAFT CARRIER NAMES ###
+### CSA AIRCRAFT modern_carrier NAMES ###
 USA_CV_CONFEDERATE = {
-	name = NAME_THEME_CONFEDERATE_CARRIERS
+	name = NAME_THEME_CONFEDERATE_modern_carrierS
 
 	for_countries = { CSA USA }
 	can_use = {
@@ -12,7 +12,7 @@ USA_CV_CONFEDERATE = {
 		}
 	}
 	type = ship
-	ship_types = { carrier }
+	ship_types = { modern_carrier }
 
 	prefix = "CSS "
 	fallback_name = "CVN-%d"
@@ -47,8 +47,8 @@ USA_LHA_CONFEDERATE = {
 }
 
 
-### CSA CRUISER NAMES###
-CSA_CRUISER_CONFEDERATE = {
+### CSA modern_cruiser NAMES###
+CSA_modern_cruiser_CONFEDERATE = {
 	name = NAME_THEME_CONFEDERATE_CA
 
 	for_countries = { CSA USA }
@@ -59,7 +59,7 @@ CSA_CRUISER_CONFEDERATE = {
 		}
 	}
 	type = ship
-	ship_types = { battle_cruiser cruiser }
+	ship_types = { battle_modern_cruiser modern_cruiser }
 
 	prefix = "CSS "
 	fallback_name = "CGN-%d"
@@ -75,7 +75,7 @@ CSA_CRUISER_CONFEDERATE = {
 	}
 }
 
-### CSA DESTROYER NAMES###
+### CSA modern_destroyer NAMES###
 CSA_DD_CONFEDERATE = {
 	name = NAME_THEME_CONFEDERATE_DD
 
@@ -87,7 +87,7 @@ CSA_DD_CONFEDERATE = {
 		}
 	}
 	type = ship
-	ship_types = { stealth_destroyer destroyer }
+	ship_types = { stealth_modern_destroyer modern_destroyer }
 
 	prefix = "CSS "
 	fallback_name = "DDG-%d"
@@ -98,9 +98,9 @@ CSA_DD_CONFEDERATE = {
 	}
 }
 
-### FRIGATE NAMES###
-CSS_FRIGATE_CONFEDERATE = {
-	name = NAME_THEME_HISTORICAL_FRIGATE
+### modern_frigate NAMES###
+CSS_modern_frigate_CONFEDERATE = {
+	name = NAME_THEME_HISTORICAL_modern_frigate
 
 	for_countries = { CSA USA }
 	can_use = {
@@ -110,7 +110,7 @@ CSS_FRIGATE_CONFEDERATE = {
 		}
 	}
 	type = ship
-	ship_types = { frigate }
+	ship_types = { modern_frigate }
 
 	prefix = "CSS "
 	fallback_name = "FFG-%d"
@@ -121,9 +121,9 @@ CSS_FRIGATE_CONFEDERATE = {
 }
 
 
-### CORVETTE NAMES ###
-CSS_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+CSS_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { CSA USA }
 	can_use = {
@@ -133,7 +133,7 @@ CSS_CORVETTE_HISTORICAL = {
 		}
 	}
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	prefix = "CSS "
 	fallback_name = "KKG-%d"
 
@@ -144,8 +144,8 @@ CSS_CORVETTE_HISTORICAL = {
 }
 
 ### MISSILE SUBMARINES NAMES ###
-CHI_MISSILE_SUBMARINE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_MISSILE_SUBMARINES
+CHI_modern_missile_submarine_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_missile_submarineS
 
 	for_countries = { CSA USA }
 	can_use = {
@@ -155,7 +155,7 @@ CHI_MISSILE_SUBMARINE_HISTORICAL = {
 		}
 	}
 	type = ship
-	ship_types = { missile_submarine }
+	ship_types = { modern_missile_submarine }
 
 	prefix = "CSS "
 	fallback_name = "SSGN-%d"

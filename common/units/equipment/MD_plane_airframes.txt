@@ -672,14 +672,14 @@ equipments = {
 			}
 		}
 	}
-	#Carrier Small Plane Airframe
+	#modern_carrier Small Plane Airframe
 	#Archetype
 	cv_small_modern_plane_airframe = {
 		year = 1960
 		is_archetype = yes
 		is_convertable = yes
-		carrier_capable = yes
-		default_carrier_composition_weight = 1
+		modern_carrier_capable = yes
+		default_modern_carrier_composition_weight = 1
 		picture = archetype_fighter_equipment
 		is_buildable = no
 		#set base type & mission
@@ -895,7 +895,7 @@ equipments = {
 			special_slot_type_3 = empty
 		}
 	}
-	#base small carrier plane
+	#base small modern_carrier plane
 	cv_small_modern_plane_airframe_0 = {
 		abbreviation = "cspa0"
 		year = 1960
@@ -917,9 +917,9 @@ equipments = {
 			plane_bba_engine_upgrade
 		}
 	}
-	#Gen 3 Small Carrier Airframe (1965)
-	#Carrier aircraft receive a 5% debuff to range, agility stats
-	#Carrier aircraft receive a 5% buff to air defense stat
+	#Gen 3 Small modern_carrier Airframe (1965)
+	#modern_carrier aircraft receive a 5% debuff to range, agility stats
+	#modern_carrier aircraft receive a 5% buff to air defense stat
 	#Weight and build cost increased to account for sturdier airframe
 	cv_small_modern_plane_airframe_1 = {
 		abbreviation = "cspa1"
@@ -1006,7 +1006,7 @@ equipments = {
 			}
 		}
 	}
-	#Gen 4 Light Carrier Airframe (1985)
+	#Gen 4 Light modern_carrier Airframe (1985)
 	cv_small_modern_plane_airframe_2 = {
 		abbreviation = "cspa2"
 		year = 1985
@@ -1103,7 +1103,7 @@ equipments = {
 			}
 		}
 	}
-	#Gen 5 Light Carrier Airframe (2015)
+	#Gen 5 Light modern_carrier Airframe (2015)
 	cv_small_modern_plane_airframe_3 = {
 		abbreviation = "cspa3"
 		year = 2015
@@ -1213,7 +1213,7 @@ equipments = {
 			}
 		}
 	}
-	#Gen 6 Light Carrier Airframe (2035)
+	#Gen 6 Light modern_carrier Airframe (2035)
 	cv_small_modern_plane_airframe_4 = {
 		abbreviation = "cspa4"
 		year = 2035
@@ -2157,15 +2157,15 @@ equipments = {
 			}
 		}
 	}
-	#Medium Plane Carrier Airframe
+	#Medium Plane modern_carrier Airframe
 	#Archetype
 	cv_medium_modern_plane_airframe = {
 		year = 1960
 		#set base info
 		is_archetype = yes
 		is_convertable = yes
-		carrier_capable = yes
-		default_carrier_composition_weight = 1
+		modern_carrier_capable = yes
+		default_modern_carrier_composition_weight = 1
 		picture = archetype_strat_bomber_equipment
 		is_buildable = no
 		#set base type and missions
@@ -2442,9 +2442,9 @@ equipments = {
 			plane_bba_engine_upgrade
 		}
 	}
-	#Gen 3 Medium Carrier Airframe (1965)
-	#Carrier aircraft receive a 5% debuff to range, agility stats
-	#Carrier aircraft receive a 5% buff to air defense stat
+	#Gen 3 Medium modern_carrier Airframe (1965)
+	#modern_carrier aircraft receive a 5% debuff to range, agility stats
+	#modern_carrier aircraft receive a 5% buff to air defense stat
 	#Weight and build cost increased to account for sturdier airframe
 	cv_medium_modern_plane_airframe_1 = {
 		abbreviation = "cmpa1"
@@ -2561,7 +2561,7 @@ equipments = {
 			}
 		}
 	}
-	#Gen 4 Medium Carrier Airframe (1985)
+	#Gen 4 Medium modern_carrier Airframe (1985)
 	cv_medium_modern_plane_airframe_2 = {
 		abbreviation = "cmpa2"
 		year = 1985
@@ -2686,7 +2686,7 @@ equipments = {
 			}
 		}
 	}
-	#Gen 5 Medium Carrier Airframe (2015)
+	#Gen 5 Medium modern_carrier Airframe (2015)
 	cv_medium_modern_plane_airframe_3 = {
 		abbreviation = "cmpa3"
 		year = 2015
@@ -2828,7 +2828,7 @@ equipments = {
 			}
 		}
 	}
-	#Gen 6 Medium Carrier Airframe (2035)
+	#Gen 6 Medium modern_carrier Airframe (2035)
 	cv_medium_modern_plane_airframe_4 = {
 		abbreviation = "cmpa4"
 		year = 2035

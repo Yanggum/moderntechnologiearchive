@@ -1,8 +1,8 @@
-################# Equipment Designer Window layouts: patrol_boat hull (new format examples) #################
+################# Equipment Designer Window layouts: modern_patrol_boat hull (new format examples) #################
 guiTypes = {
-	################# Equipment Archetype: patrol_boat #################
+	################# Equipment Archetype: modern_patrol_boat #################
 	containerWindowType = {
-		name = "equipment_designer_patrol_boat"
+		name = "equipment_designer_modern_patrol_boat"
 		# NOTE: to keep aligned with the window "equipment_modules" in equipmentdesignerview.gui
 		position = { x=0 y=0 }
 		size = { width=512 height=260 }
@@ -14,7 +14,7 @@ guiTypes = {
 
 		iconType = {
 			name = "equipment_image"
-			spriteType = "GFX_SD_tv_destroyer"
+			spriteType = "GFX_SD_tv_modern_destroyer"
 			position = { x=0 y=0 }
 		}
 
@@ -47,7 +47,7 @@ guiTypes = {
 
 					iconType = {
 						name = "image"
-						spriteType = "GFX_SM_corvette_hull_ciws"
+						spriteType = "GFX_SM_modern_corvette_hull_ciws"
 						position = { x=330 y=0 }
 					}
 				}
@@ -59,7 +59,7 @@ guiTypes = {
 
 					iconType = {
 						name = "highlight"
-						spriteType = "GFX_SM_corvette_hull_ciws@highlight"
+						spriteType = "GFX_SM_modern_corvette_hull_ciws@highlight"
 						position = { x=330 y=0 }
 					}
 				}

@@ -1,11 +1,11 @@
 ﻿
 IRE_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { IRE }
 
 	type = ship
-	ship_types = { stealth_destroyer destroyer }
+	ship_types = { stealth_modern_destroyer modern_destroyer }
 
 	prefix = "LÉ "
 	fallback_name = "DDG-%d"
@@ -15,12 +15,12 @@ IRE_DD_HISTORICAL = {
 	}
 }
 
-IRE_FRIGATES_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATES
+IRE_modern_frigateS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigateS
 	for_countries = { IRE }
 	type = ship
 	ship_types = {
-		frigate
+		modern_frigate
 	}
 	prefix = "LÉ "
 	fallback_name = "FFG-%d"
@@ -30,14 +30,14 @@ IRE_FRIGATES_HISTORICAL = {
 	}
 }
 
-### CORVETTE NAMES ###
-IRE_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+IRE_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { IRE }
 	prefix = "LÉ "
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	fallback_name = "KKG-%d"
 
 	unique = {
@@ -51,7 +51,7 @@ IRE_SUBMARINES_HISTORICAL = {
 	prefix = "LÉ "
 	type = ship
 	ship_types = {
-		attack_submarine missile_submarine
+		attack_submarine modern_missile_submarine
 	}
 	fallback_name = "SS-%d"
 }

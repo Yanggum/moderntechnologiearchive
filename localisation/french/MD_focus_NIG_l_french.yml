@@ -301,12 +301,12 @@
  NIG_royal_naval_doctrines_desc: "The Royal Navy is one of the world's leading naval powers. Our former suzerain could potentially teach us a thing or two about proper naval doctrines and tactics. "
  NIG_victory_is_from_god: "Victory is from God Alone"
  NIG_victory_is_from_god_desc: "The phrase 'Victory is from God Alone' has been the motto of the Nigerian Army since its founding in the 1960s. It encompasses the religious importance of the Nigerian people."
- NIG_frigates: "Frigate Designs"
- NIG_frigates_desc: "Frigates appear to be the heaviest ships we can maintain. The last frigate we held in service was commissioned in the 1980s. Our ships are incredibly out of date and are in need of a facelift."
+ NIG_modern_frigates: "modern_frigate Designs"
+ NIG_modern_frigates_desc: "modern_frigates appear to be the heaviest ships we can maintain. The last modern_frigate we held in service was commissioned in the 1980s. Our ships are incredibly out of date and are in need of a facelift."
  NIG_light_submarines: "Anti-Ship Light Submarines"
  NIG_light_submarines_desc: "Light submarines may prove to be beneficial when it comes to anti-piracy operations or local convoy raiding should we ever go to war."
- NIG_corvettes: "Patrol Boats"
- NIG_corvettes_desc: "Nigeria does not have a large naval presence, nor will it ever. Patrol boats and other lightships will be far more efficient for our limited dry dock space."
+ NIG_modern_corvettes: "Patrol Boats"
+ NIG_modern_corvettes_desc: "Nigeria does not have a large naval presence, nor will it ever. Patrol boats and other lightships will be far more efficient for our limited dry dock space."
 
  #Flags/Tooltips/Custom Shit
  NIG_not_islamic_majority_trigger_TT: "Has not drifted too close to the Christians"

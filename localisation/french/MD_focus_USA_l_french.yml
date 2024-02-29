@@ -234,7 +234,7 @@
  USA_focus_culling_air_force_excesses: "Culling Air Force Excesses"
  USA_focus_culling_air_force_excesses_desc: "The Air Force is known for being one of the “softer” branches of our military and judging by a fair amount of lifestyles being had its no wonder. Therefore we will start reallocating these redundancies into better avenues of refinement for our flyboys."
  USA_focus_standardizing_naval_production: "Standardizing Naval Production"
- USA_focus_standardizing_naval_production_desc: "Our navy is the largest in the world but its overtly diverse and cumbersome, the cruiser is the modern queen of the sea and to that we must refine this class in order to make it the primary of the US fleets."
+ USA_focus_standardizing_naval_production_desc: "Our navy is the largest in the world but its overtly diverse and cumbersome, the modern_cruiser is the modern queen of the sea and to that we must refine this class in order to make it the primary of the US fleets."
  USA_focus_centralized_military_rd_department: "Centralized Military R&D Department"
  USA_focus_centralized_military_rd_department_desc: "Each branch practically has its own R&D department, this is costly in more bureaucratic ways and to that we need to unify and standardize the format of a central Military R&D department."
  USA_focus_vehicle_varient_standards: "Vehicle Variant Standards"
@@ -1897,7 +1897,7 @@
  #USA Events - Non News
  ##Cole Bombing
  usa.2.t: "USS Cole Bombing"
- usa.2.d: "The guided-missile destroyer USS Cole (DDG-67) was attacked by two Al-Qaeda terrorists on [GetDateText]. The Cole, at port in Yemen, was hit by an explosion in the left flank, killing 17 sailors and injuring 39. Over the later years, United States judges found Islamic elements inside the government of Sudan at least involved in the attack."
+ usa.2.d: "The guided-missile modern_destroyer USS Cole (DDG-67) was attacked by two Al-Qaeda terrorists on [GetDateText]. The Cole, at port in Yemen, was hit by an explosion in the left flank, killing 17 sailors and injuring 39. Over the later years, United States judges found Islamic elements inside the government of Sudan at least involved in the attack."
  usa.2.o1: "They will be missed."
  usa.2.o2: "Demand Sudan Pay for the Damages!"
 
@@ -2181,7 +2181,7 @@
  usa_news.9.d: "\"The current system is utterly unacceptable. The people and the nation state are getting wrecked by the swamps of politics and the economic oligarchs and back-room backstabber that run our country from the shadows.\"\n\n[USA.GetLeader], President of the United States, has today caused a lot of raised eyebrows when going on a rant about the political process that a Fox News pundit called 'unhinged' and that was insulted as 'unpresidential and completely unprecedented' by a speaker on the CNN network.\n\nIt is however yet unclear whether or not [USA.GetLeader] was advocating a radical swing towards the far right and the \"nation state\" or towards the far left and the \"people\"."
  usa_news.9.o1: "How unexpected."
  usa_news.18.t: "USS Cole Bombing"
- usa_news.18.d: "The United States Naval Command has reported that the Destroyer USS Cole was attacked by the Al-Qaeda network, killing 17 American servicemen. American intelligence reports point to the government of Sudan as a possible supporter of the two attackers."
+ usa_news.18.d: "The United States Naval Command has reported that the modern_destroyer USS Cole was attacked by the Al-Qaeda network, killing 17 American servicemen. American intelligence reports point to the government of Sudan as a possible supporter of the two attackers."
  usa_news.18.o1: "They will regret this."
  usa_news.18.o2: "Send our condolences to the Americans."
  usa_news.18.o3: "Dead Americans? Good."
@@ -2805,7 +2805,7 @@
  econ_event.25.o1: "Syndial Is Found Guilty"
  econ_event.25.o2: "Syndial Is Found Not Guilty"
  econ_event.26.t: "United States v. Ryan's World, Inc."
- econ_event.26.d: "On or about December 14, 1994, March 17, 1999 and March 3, 2000, defendant filed some Tender of Service Signature Sheet forms with the Military Traffic Management Command. The TOSS forms required defendant to attach a list of the names of the freight forwarders with which it had a common financial and/or administrative control relationship. Defendant checked the box indicating that it was not in a CFAC with any other carrier or forwarder. During the relevant period, in a matter within the jurisdiction of the DOD, a department of the United States, the defendant did knowingly and willfully make false, fraudulent, and fictitious material statements and representations on Certificates of Carrier Responsibility and TOSS forms filed with MTMC, and did knowingly conceal a material fact from MTMC: to wit, its eligibility to participate in the ITGBL program, through its statements and representations."
+ econ_event.26.d: "On or about December 14, 1994, March 17, 1999 and March 3, 2000, defendant filed some Tender of Service Signature Sheet forms with the Military Traffic Management Command. The TOSS forms required defendant to attach a list of the names of the freight forwarders with which it had a common financial and/or administrative control relationship. Defendant checked the box indicating that it was not in a CFAC with any other modern_carrier or forwarder. During the relevant period, in a matter within the jurisdiction of the DOD, a department of the United States, the defendant did knowingly and willfully make false, fraudulent, and fictitious material statements and representations on Certificates of modern_carrier Responsibility and TOSS forms filed with MTMC, and did knowingly conceal a material fact from MTMC: to wit, its eligibility to participate in the ITGBL program, through its statements and representations."
  econ_event.26.o1: "Ryan's World, Inc. Is Found Guilty"
  econ_event.26.o2: "Ryan's World, Inc. Is Found Not Guilty"
  econ_event.27.t: "United States v. John R. Olsen"

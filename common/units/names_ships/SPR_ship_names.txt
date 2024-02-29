@@ -1,12 +1,12 @@
 ﻿##### SPAIN NAME LISTS #####
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 SPR_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { SPR }
 
 	type = ship
-	ship_types = { ship_hull_light destroyer }
+	ship_types = { ship_hull_light modern_destroyer }
 
 	prefix = "ARE "
 	fallback_name = "Destructor %d"
@@ -18,14 +18,14 @@ SPR_DD_HISTORICAL = {
 	}
 }
 
-### LIGHT CRUISER NAMES###
+### LIGHT modern_cruiser NAMES###
 SPR_CL_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_CL
 
 	for_countries = { SPR }
 
 	type = ship
-	ship_types = { ship_hull_cruiser light_cruiser }
+	ship_types = { ship_hull_modern_cruiser light_modern_cruiser }
 
 	prefix = "ARE "
 	fallback_name = "Crucero Ligero %d"
@@ -35,14 +35,14 @@ SPR_CL_HISTORICAL = {
 	}
 }
 
-### HEAVY CRUISER NAMES###
+### HEAVY modern_cruiser NAMES###
 SPR_CA_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_CA
 
 	for_countries = { SPR }
 
 	type = ship
-	ship_types = { ship_hull_cruiser heavy_cruiser }
+	ship_types = { ship_hull_modern_cruiser heavy_modern_cruiser }
 
 	prefix = "ARE "
 	fallback_name = "Crucero Pesado %d"
@@ -53,14 +53,14 @@ SPR_CA_HISTORICAL = {
 }
 
 
-### BATTLESHIP NAMES ###
+### modern_battleship NAMES ###
 SPR_BB_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_BB
 
 	for_countries = { SPR }
 
 	type = ship
-	ship_types = { ship_hull_heavy battleship }
+	ship_types = { ship_hull_heavy modern_battleship }
 
 	prefix = "ARE "
 	fallback_name = "Acorazado %d"
@@ -70,14 +70,14 @@ SPR_BB_HISTORICAL = {
 	}
 }
 
-### BATTLECRUISER NAMES ###
+### BATTLEmodern_cruiser NAMES ###
 SPR_BC_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_BC
 
 	for_countries = { SPR }
 
 	type = ship
-	ship_types = { ship_hull_heavy battle_cruiser }
+	ship_types = { ship_hull_heavy battle_modern_cruiser }
 
 	prefix = "ARE "
 	fallback_name = "Crucero de Batalla %d"
@@ -87,14 +87,14 @@ SPR_BC_HISTORICAL = {
 	}
 }
 
-### AIRCRAFT CARRIER NAMES ###
+### AIRCRAFT modern_carrier NAMES ###
 SPR_CV_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CARRIERS
+	name = NAME_THEME_HISTORICAL_modern_carrierS
 
 	for_countries = { SPR }
 
 	type = ship
-	ship_types = { carrier }
+	ship_types = { modern_carrier }
 
 	prefix = "ARE "
 	fallback_name = "Portaaviones %d"
@@ -111,7 +111,7 @@ SPR_SS_HISTORICAL = {
 	for_countries = { SPR }
 
 	type = ship
-	ship_types = { missile_submarine attack_submarine }
+	ship_types = { modern_missile_submarine attack_submarine }
 
 	prefix = "ARE "
 	fallback_name = "S%d"
@@ -143,11 +143,11 @@ SPR_SS_HISTORICAL = {
 	}
 }
 
-SPR_MODERN_DESTROYERS_NAMES = {
-	name = NAME_THEME_MODERN_DESTROYERS
+SPR_MODERN_modern_destroyerS_NAMES = {
+	name = NAME_THEME_MODERN_modern_destroyerS
 	for_countries = { SPR }
 	type = ship
-	ship_types = { destroyer stealth_destroyer }
+	ship_types = { modern_destroyer stealth_modern_destroyer }
 
 
 	prefix = "ARE "
@@ -158,11 +158,11 @@ SPR_MODERN_DESTROYERS_NAMES = {
 	}
 }
 
-SPR_MODERN_FRIGATE_NAMES = {
-	name = NAME_THEME_MODERN_FRIGATES
+SPR_MODERN_modern_frigate_NAMES = {
+	name = NAME_THEME_MODERN_modern_frigateS
 	for_countries = { SPR }
 	type = ship
-	ship_types = { frigate }
+	ship_types = { modern_frigate }
 
 	prefix = "ARE "
 	fallback_name = "F%d "
@@ -179,7 +179,7 @@ SPR_MODERN_SUBMARINES_NAMES = {
 
 	prefix = "ARE "
 	fallback_name = "F%d "
-	ship_types = { missile_submarine attack_submarine }
+	ship_types = { modern_missile_submarine attack_submarine }
 
 	unique = {
 		"Galerna" "Tramontana" "Alhambra" "Prado" "Toledo" "Palencia" "Lugo" "Manresa" "Badajoz" "Lleida" "Almería"

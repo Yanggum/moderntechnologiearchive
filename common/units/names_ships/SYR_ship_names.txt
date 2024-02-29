@@ -1,27 +1,27 @@
 ﻿##### NEW ZEALAND NAME LISTS #####
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 SYR_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { SYR }
 
 	type = ship
-	ship_types = { destroyer }
+	ship_types = { modern_destroyer }
 
 	prefix = "SARS "
-	fallback_name = "Destroyer %s"
+	fallback_name = "modern_destroyer %s"
 
 	unique = {
 		"Al-Qurayya" "Al-Shaheel" "Al-Suwaydah" "Al-Afra" "Al-Filah" "Al-Aminah" "Al-Saqqalibah" "Al-Shal" "Al-Suwaydiyah" "Al-Qardaha" "Al-Maklub" "Al-Talasah" "Al-Muayzil" "Al-Himma" "Al-Mahmudi" "Al-Khaznawi" "Al-Shahba" "Al-Tibah" "Al-Zuhrah" "Al-Ruwaq" "Al-Hayal" "Al-Sawma" "Al-Malah" "Al-Hawz" "Al-Niyl" 
 	}
 }
 
-SYR_FRIGATES_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATES
+SYR_modern_frigateS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigateS
 	for_countries = { SYR }
 	type = ship
 	ship_types = {
-		frigate
+		modern_frigate
 	}
 	prefix = "SARS "
 	fallback_name = "FFG-%d"
@@ -31,14 +31,14 @@ SYR_FRIGATES_HISTORICAL = {
 	}
 }
 
-### CORVETTE NAMES ###
-SYR_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+SYR_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { SYR }
 	prefix = "SARS "
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	fallback_name = "KKG-%d"
 
 	unique = {
@@ -46,17 +46,17 @@ SYR_CORVETTE_HISTORICAL = {
 	}
 }
 
-### LIGHT CRUISER NAMES###
+### LIGHT modern_cruiser NAMES###
 SYR_CL_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_CL
 
 	for_countries = { SYR }
 
 	type = ship
-	ship_types = { cruiser }
+	ship_types = { modern_cruiser }
 
 	prefix = "SARS "
-	fallback_name = "Light Cruiser %s"
+	fallback_name = "Light modern_cruiser %s"
 
 	unique = {
 		"Al-Qusayr" "Al-Misfirah" "Al-Mansourah" "Al-Houla" "Al-Hasya" "Al-Maama" "Al-Fukhari" "Al-Qunaytirah" "Al-Masht" "Al-Nisr" "Al-Daiyq" "Al-Quwaisib" "Al-Turayf" "Al-Tahira" "Al-Suhba" "Al-Muhajir" "Al-Raml" "Al-Bayda" "Al-Tahona" "Al-Rahwa" "Al-Sifah" 
@@ -65,7 +65,7 @@ SYR_CL_HISTORICAL = {
 
 ### LHA NAMES ###
 SYR_LHA_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_HELICOPTER_CARRIERS
+	name = NAME_THEME_HISTORICAL_HELICOPTER_modern_carrierS
 
 	for_countries = { SYR }
 
@@ -87,7 +87,7 @@ SYR_SS_HISTORICAL = {
 	for_countries = { SYR }
 
 	type = ship
-	ship_types = { attack_submarine missile_submarine }
+	ship_types = { attack_submarine modern_missile_submarine }
 
 	prefix = "SARS "
 	fallback_name = "Submarine %s"

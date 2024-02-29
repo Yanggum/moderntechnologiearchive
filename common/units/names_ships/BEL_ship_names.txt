@@ -1,13 +1,13 @@
 ﻿##### BELGIUM NAME LISTS #####
 
-### AIRCRAFT CARRIER NAMES ###
+### AIRCRAFT modern_carrier NAMES ###
 BEL_CV_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CARRIERS
+	name = NAME_THEME_HISTORICAL_modern_carrierS
 
 	for_countries = { BEL }
 
 	type = ship
-	ship_types = { carrier }
+	ship_types = { modern_carrier }
 
 	prefix = "BNS "
 	fallback_name = "CVN-%d"
@@ -19,7 +19,7 @@ BEL_CV_HISTORICAL = {
 
 ### HELICOPTER OPERATOR NAMES ###
 BEL_LHA_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_HELICOPTER_CARRIERS
+	name = NAME_THEME_HISTORICAL_HELICOPTER_modern_carrierS
 
 	for_countries = { BEL }
 
@@ -34,15 +34,15 @@ BEL_LHA_HISTORICAL = {
 	}
 }
 
-### CRUISER NAMES###
-BEL_CRUISERS_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CRUISER
+### modern_cruiser NAMES###
+BEL_modern_cruiserS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_cruiser
 
 	for_countries = { BEL }
 
 	type = ship
-	#ship_types = { ship_hull_cruiser light_cruiser }
-	ship_types = { battle_cruiser cruiser }
+	#ship_types = { ship_hull_modern_cruiser light_modern_cruiser }
+	ship_types = { battle_modern_cruiser modern_cruiser }
 
 	prefix = "BNS "
 	fallback_name = "CGN-%d"
@@ -52,14 +52,14 @@ BEL_CRUISERS_HISTORICAL = {
 	}
 }
 
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 BEL_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { BEL }
 
 	type = ship
-	ship_types = { stealth_destroyer destroyer }
+	ship_types = { stealth_modern_destroyer modern_destroyer }
 
 	prefix = "BNS "
 	fallback_name = "DDG-%d"
@@ -70,14 +70,14 @@ BEL_DD_HISTORICAL = {
 }
 
 
-### FRIGATE NAMES###
-BEL_FRIGATE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATE
+### modern_frigate NAMES###
+BEL_modern_frigate_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigate
 
 	for_countries = { BEL }
 
 	type = ship
-	ship_types = { frigate }
+	ship_types = { modern_frigate }
 
 	prefix = "BNS "
 	fallback_name = "FFG-%d"
@@ -87,14 +87,14 @@ BEL_FRIGATE_HISTORICAL = {
 	}
 }
 
-### CORVETTE NAMES ###
-BEL_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+BEL_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { BEL }
 
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	prefix = "BNS "
 	fallback_name = "KKG-%d"
 
@@ -104,13 +104,13 @@ BEL_CORVETTE_HISTORICAL = {
 }
 
 ### MISSILE SUBMARINES NAMES ###
-BEL_MISSILE_SUBMARINE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_MISSILE_SUBMARINES
+BEL_modern_missile_submarine_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_missile_submarineS
 
 	for_countries = { BEL }
 
 	type = ship
-	ship_types = { missile_submarine }
+	ship_types = { modern_missile_submarine }
 
 	prefix = "BNS "
 	fallback_name = "SSGN-%d"
@@ -123,7 +123,7 @@ BEL_SS_HISTORICAL = {
 	for_countries = { BEL }
 
 	type = ship
-	ship_types = { attack_submarine missile_submarine }
+	ship_types = { attack_submarine modern_missile_submarine }
 
 	prefix = "BNS "
 	fallback_name = "SSN-%d"

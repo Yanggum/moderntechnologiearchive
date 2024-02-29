@@ -1,13 +1,13 @@
 ﻿## Latvia Ship Name list##
 
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 LAT_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { LAT }
 
 	type = ship
-	ship_types = { stealth_destroyer destroyer }
+	ship_types = { stealth_modern_destroyer modern_destroyer }
 
 	prefix = "LVNS "
 	fallback_name = "DDG-%d"
@@ -17,12 +17,12 @@ LAT_DD_HISTORICAL = {
 	}
 }
 
-LAT_FRIGATES_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATES
+LAT_modern_frigateS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigateS
 	for_countries = { LAT }
 	type = ship
 	ship_types = {
-		frigate
+		modern_frigate
 	}
 	prefix = "LVNS "
 	fallback_name = "FFG-%d"
@@ -32,14 +32,14 @@ LAT_FRIGATES_HISTORICAL = {
 	}
 }
 
-### CORVETTE NAMES ###
-LAT_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+LAT_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { LAT }
 	prefix = "LVNS "
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	fallback_name = "KKG-%d"
 
 	unique = {
@@ -53,7 +53,7 @@ LAT_SUBMARINES_HISTORICAL = {
 	prefix = "LVNS "
 	type = ship
 	ship_types = {
-		attack_submarine missile_submarine
+		attack_submarine modern_missile_submarine
 	}
 	fallback_name = "SS-%d"
 }

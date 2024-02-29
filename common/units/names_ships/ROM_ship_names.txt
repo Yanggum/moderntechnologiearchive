@@ -1,13 +1,13 @@
 ﻿##### Romania NAME LISTS #####
 
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 ROM_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { ROM }
 
 	type = ship
-	ship_types = { stealth_destroyer destroyer }
+	ship_types = { stealth_modern_destroyer modern_destroyer }
 
 	prefix = "NMS "
 	fallback_name = "DDG-%d"
@@ -17,12 +17,12 @@ ROM_DD_HISTORICAL = {
 	}
 }
 
-ROM_FRIGATES_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATES
+ROM_modern_frigateS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigateS
 	for_countries = { ROM }
 	type = ship
 	ship_types = {
-		frigate
+		modern_frigate
 	}
 	prefix = "NMS "
 	fallback_name = "FFG-%d"
@@ -32,14 +32,14 @@ ROM_FRIGATES_HISTORICAL = {
 	}
 }
 
-### CORVETTE NAMES ###
-ROM_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+ROM_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { ROM }
 	prefix = "NMS "
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	fallback_name = "KKG-%d"
 
 	unique = {
@@ -53,7 +53,7 @@ ROM_SUBMARINES_HISTORICAL = {
 	prefix = "NMS "
 	type = ship
 	ship_types = {
-		attack_submarine missile_submarine
+		attack_submarine modern_missile_submarine
 	}
 	fallback_name = "SS-%d"
 }

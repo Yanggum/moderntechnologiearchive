@@ -11,175 +11,175 @@ spriteTypes = {
 	}
 
 	SpriteType = {
-		name = "GFX_patrol_boat_1_medium"
+		name = "GFX_modern_patrol_boat_1_medium"
 		texturefile = "gfx/interface/technologies/GEN/NAV/CRV1.dds"
 	}
 
-	#### Corvettes ####
+	#### modern_corvettes ####
 
 	SpriteType = {
-		name = "GFX_corvette_hull_1_medium"
+		name = "GFX_modern_corvette_hull_1_medium"
 		texturefile = "gfx/interface/technologies/GEN/NAV/CRV1.dds"
 	}
 	SpriteType = {
-		name = "GFX_corvette_hull_2_medium"
+		name = "GFX_modern_corvette_hull_2_medium"
 		texturefile = "gfx/interface/technologies/GEN/NAV/CRV2.dds"
 	}
 	SpriteType = {
-		name = "GFX_corvette_hull_3_medium"
+		name = "GFX_modern_corvette_hull_3_medium"
 		texturefile = "gfx/interface/technologies/GEN/NAV/CRV3.dds"
 	}
 	SpriteType = {
-		name = "GFX_corvette_hull_4_medium"
+		name = "GFX_modern_corvette_hull_4_medium"
 		texturefile = "gfx/interface/technologies/GEN/NAV/CRV5.dds"
 	}
 	SpriteType = {
-		name = "GFX_corvette_hull_5_medium"
+		name = "GFX_modern_corvette_hull_5_medium"
 		texturefile = "gfx/interface/technologies/GEN/NAV/CRV7.dds"
 	}
 	SpriteType = {
-		name = "GFX_corvette_hull_6_medium"
+		name = "GFX_modern_corvette_hull_6_medium"
 		texturefile = "gfx/interface/technologies/GEN/NAV/CRV8.dds"
 	}
 
-	#### Frigates ####
+	#### modern_frigates ####
 
 	SpriteType = {
-		name = "GFX_frigate_hull_1_medium"
+		name = "GFX_modern_frigate_hull_1_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/F1.dds"
 	}
 	SpriteType = {
-		name = "GFX_frigate_hull_2_medium"
+		name = "GFX_modern_frigate_hull_2_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/F2.dds"
 	}
 	SpriteType = {
-		name = "GFX_frigate_hull_3_medium"
+		name = "GFX_modern_frigate_hull_3_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/F2.dds"
 	}
 	SpriteType = {
-		name = "GFX_frigate_hull_4_medium"
+		name = "GFX_modern_frigate_hull_4_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/F5.dds"
 	}
 	SpriteType = {
-		name = "GFX_frigate_hull_5_medium"
+		name = "GFX_modern_frigate_hull_5_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/F6.dds"
 	}
 	SpriteType = {
-		name = "GFX_frigate_hull_6_medium"
+		name = "GFX_modern_frigate_hull_6_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/F8.dds"
 	}
 
-	#### Destroyers ####
+	#### modern_destroyers ####
 
 	SpriteType = {
-		name = "GFX_destroyer_hull_1_medium"
+		name = "GFX_modern_destroyer_hull_1_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/DDG1.dds"
 	}
 	SpriteType = {
-		name = "GFX_destroyer_hull_2_medium"
+		name = "GFX_modern_destroyer_hull_2_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/DDG2.dds"
 	}
 	SpriteType = {
-		name = "GFX_destroyer_hull_3_medium"
+		name = "GFX_modern_destroyer_hull_3_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/DDG4.dds"
 	}
 	SpriteType = {
-		name = "GFX_destroyer_hull_4_medium"
+		name = "GFX_modern_destroyer_hull_4_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/DDG5.dds"
 	}
 	SpriteType = {
-		name = "GFX_destroyer_hull_5_medium"
+		name = "GFX_modern_destroyer_hull_5_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/DDG8.dds"
 	}
 
-	#### Stealth Destroyer ####
+	#### Stealth modern_destroyer ####
 
 	SpriteType = {
-		name = "GFX_stealth_destroyer_hull_1_medium"
+		name = "GFX_stealth_modern_destroyer_hull_1_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/SDDG1.dds"
 	}
 	SpriteType = {
-		name = "GFX_stealth_destroyer_hull_2_medium"
+		name = "GFX_stealth_modern_destroyer_hull_2_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/SDDG2.dds"
 	}
 	SpriteType = {
-		name = "GFX_stealth_destroyer_hull_3_medium"
+		name = "GFX_stealth_modern_destroyer_hull_3_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/SDDG4.dds"
 	}
 
-	#### Cruisers ####
+	#### modern_cruisers ####
 
 	SpriteType = {
-		name = "GFX_cruiser_hull_1_medium"
+		name = "GFX_modern_cruiser_hull_1_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/CA1.dds"
 	}
 	SpriteType = {
-		name = "GFX_cruiser_hull_2_medium"
+		name = "GFX_modern_cruiser_hull_2_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/CA2.dds"
 	}
 	SpriteType = {
-		name = "GFX_cruiser_hull_3_medium"
+		name = "GFX_modern_cruiser_hull_3_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/CA3.dds"
 	}
 	SpriteType = {
-		name = "GFX_cruiser_hull_4_medium"
+		name = "GFX_modern_cruiser_hull_4_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/CA5.dds"
 	}
 	SpriteType = {
-		name = "GFX_cruiser_hull_5_medium"
+		name = "GFX_modern_cruiser_hull_5_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/CA7.dds"
 	}
 
-	#### Battle Cruisers ####
+	#### Battle modern_cruisers ####
 
 	SpriteType = {
-		name = "GFX_battle_cruiser_hull_1_medium"
+		name = "GFX_battle_modern_cruiser_hull_1_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/CA1.dds"
 	}
 	SpriteType = {
-		name = "GFX_battle_cruiser_hull_2_medium"
+		name = "GFX_battle_modern_cruiser_hull_2_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/CA2.dds"
 	}
 	SpriteType = {
-		name = "GFX_battle_cruiser_hull_3_medium"
+		name = "GFX_battle_modern_cruiser_hull_3_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/CA3.dds"
 	}
 
-	#### Battleships ####
+	#### modern_battleships ####
 
 	SpriteType = {
-		name = "GFX_battleship_hull_1_medium"
+		name = "GFX_modern_battleship_hull_1_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/BB1.dds"
 	}
 	SpriteType = {
-		name = "GFX_battleship_hull_2_medium"
+		name = "GFX_modern_battleship_hull_2_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/BB1.dds"
 	}
 	SpriteType = {
-		name = "GFX_battleship_hull_3_medium"
+		name = "GFX_modern_battleship_hull_3_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/BB1.dds"
 	}
 
-	#### Aircraft Carriers ####
+	#### Aircraft modern_carriers ####
 
 	SpriteType = {
-		name = "GFX_carrier_hull_1_medium"
+		name = "GFX_modern_carrier_hull_1_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/CVN0.dds"
 	}
 	SpriteType = {
-		name = "GFX_carrier_hull_2_medium"
+		name = "GFX_modern_carrier_hull_2_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/CVN1.dds"
 	}
 	SpriteType = {
-		name = "GFX_carrier_hull_3_medium"
+		name = "GFX_modern_carrier_hull_3_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/CVN3.dds"
 	}
 	SpriteType = {
-		name = "GFX_carrier_hull_4_medium"
+		name = "GFX_modern_carrier_hull_4_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/CVN5.dds"
 	}
 	SpriteType = {
-		name = "GFX_carrier_hull_5_medium"
+		name = "GFX_modern_carrier_hull_5_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/CVN7.dds"
 	}
 
@@ -205,27 +205,27 @@ spriteTypes = {
 	###### Attack Submarines ######
 
 	SpriteType = {
-		name = "GFX_missile_submarine_hull_1_medium"
+		name = "GFX_modern_missile_submarine_hull_1_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/SSBN1.dds"
 	}
 	SpriteType = {
-		name = "GFX_missile_submarine_hull_2_medium"
+		name = "GFX_modern_missile_submarine_hull_2_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/SSBN2.dds"
 	}
 	SpriteType = {
-		name = "GFX_missile_submarine_hull_3_medium"
+		name = "GFX_modern_missile_submarine_hull_3_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/SSBN3.dds"
 	}
 	SpriteType = {
-		name = "GFX_missile_submarine_hull_4_medium"
+		name = "GFX_modern_missile_submarine_hull_4_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/SSBN4.dds"
 	}
 	SpriteType = {
-		name = "GFX_missile_submarine_hull_5_medium"
+		name = "GFX_modern_missile_submarine_hull_5_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/SSBN5.dds"
 	}
 	SpriteType = {
-		name = "GFX_missile_submarine_hull_6_medium"
+		name = "GFX_modern_missile_submarine_hull_6_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/SSBN6.dds"
 	}
 
@@ -257,18 +257,18 @@ spriteTypes = {
 	}
 
 ##################### GREECE ########################
-	#### Frigates ####
+	#### modern_frigates ####
 
 	SpriteType = {
-		name = "GFX_GRE_frigate_hull_1_medium"
+		name = "GFX_GRE_modern_frigate_hull_1_medium"
 		texturefile = "gfx/interface/technologies/GRE/NAV/IPIROS.dds"
 	}
 	SpriteType = {
-		name = "GFX_GRE_frigate_hull_2_medium"
+		name = "GFX_GRE_modern_frigate_hull_2_medium"
 		texturefile = "gfx/interface/technologies/GRE/NAV/ELI.dds"
 	}
 	SpriteType = {
-		name = "GFX_GRE_frigate_hull_1_medium"
+		name = "GFX_GRE_modern_frigate_hull_1_medium"
 		texturefile = "gfx/interface/technologies/GRE/NAV/MEKO200.dds"
 	}
 	SpriteType = {
@@ -280,11 +280,11 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/GRE/NAV/ETNA.dds"
 	}
 	SpriteType = {
-		name = "GFX_GRE_corvette_medium"
+		name = "GFX_GRE_modern_corvette_medium"
 		texturefile = "gfx/interface/technologies/GRE/NAV/LACOMB.dds"
 	}
 	SpriteType = {
-		name = "GFX_GRE_corvette_hull_3_medium"
+		name = "GFX_GRE_modern_corvette_hull_3_medium"
 		texturefile = "gfx/interface/technologies/GRE/NAV/LACOMB.dds"
 	}
 
@@ -292,15 +292,15 @@ spriteTypes = {
 	#### Random Ships ####
 
 	SpriteType = {
-		name = "GFX_ITA_destroyer_hull_5_medium"
+		name = "GFX_ITA_modern_destroyer_hull_5_medium"
 		texturefile = "gfx/interface/technologies/ITA/NAV/Bergamini.dds"
 	}
 	SpriteType = {
-		name = "GFX_ITA_destroyer_hull_4_medium"
+		name = "GFX_ITA_modern_destroyer_hull_4_medium"
 		texturefile = "gfx/interface/technologies/ITA/NAV/Bergamini.dds"
 	}
 	SpriteType = {
-		name = "GFX_ITA_destroyer_hull_2_medium"
+		name = "GFX_ITA_modern_destroyer_hull_2_medium"
 		texturefile = "gfx/interface/technologies/ITA/NAV/DelaPenne.dds"
 	}
 	SpriteType = {
@@ -312,7 +312,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/ITA/NAV/Trieste.dds"
 	}
 	SpriteType = {
-		name = "GFX_ITA_carrier_hull_4_medium"
+		name = "GFX_ITA_modern_carrier_hull_4_medium"
 		texturefile = "gfx/interface/technologies/ITA/NAV/Cavour.dds"
 	}
 
@@ -339,245 +339,245 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/JAP/NAV/SS4.dds"
 	}
 	SpriteType = {
-		name = "GFX_JAP_frigate_hull_2_medium"
+		name = "GFX_JAP_modern_frigate_hull_2_medium"
 		texturefile = "gfx/interface/technologies/JAP/NAV/F2.dds"
 	}
 	SpriteType = {
-		name = "GFX_JAP_frigate_hull_3_medium"
+		name = "GFX_JAP_modern_frigate_hull_3_medium"
 		texturefile = "gfx/interface/technologies/JAP/NAV/F2.dds"
 	}
 	SpriteType = {
-		name = "GFX_JAP_destroyer_hull_1_medium"
+		name = "GFX_JAP_modern_destroyer_hull_1_medium"
 		texturefile = "gfx/interface/technologies/JAP/NAV/DDG1.dds"
 	}
 	SpriteType = {
-		name = "GFX_JAP_destroyer_hull_2_medium"
+		name = "GFX_JAP_modern_destroyer_hull_2_medium"
 		texturefile = "gfx/interface/technologies/JAP/NAV/DDG2.dds"
 	}
 	SpriteType = {
-		name = "GFX_JAP_destroyer_hull_3_medium"
+		name = "GFX_JAP_modern_destroyer_hull_3_medium"
 		texturefile = "gfx/interface/technologies/JAP/NAV/DDG3.dds"
 	}
 ############################################################################################
 ## ----------------------- United States --------------------------------------------
 	###### Nuclear Attack Submarines ######
 	SpriteType = {
-		name = "GFX_USA_missile_submarine_hull_1_medium"
+		name = "GFX_USA_modern_missile_submarine_hull_1_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/SSN1.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_missile_submarine_hull_2_medium"
+		name = "GFX_USA_modern_missile_submarine_hull_2_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/SSN2.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_missile_submarine_hull_3_medium"
+		name = "GFX_USA_modern_missile_submarine_hull_3_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/SSN3.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_missile_submarine_hull_4_medium"
+		name = "GFX_USA_modern_missile_submarine_hull_4_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/SSN4.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_missile_submarine_hull_5_medium"
+		name = "GFX_USA_modern_missile_submarine_hull_5_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/SSN4.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_missile_submarine_hull_6_medium"
+		name = "GFX_USA_modern_missile_submarine_hull_6_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/SSN6.dds"
 	}
-	#### Frigates ####
+	#### modern_frigates ####
 
 	SpriteType = {
-		name = "GFX_USA_frigate_hull_1_medium"
+		name = "GFX_USA_modern_frigate_hull_1_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/F1.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_frigate_hull_2_medium"
+		name = "GFX_USA_modern_frigate_hull_2_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/F2.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_frigate_hull_3_medium"
+		name = "GFX_USA_modern_frigate_hull_3_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/F2.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_frigate_hull_4_medium"
+		name = "GFX_USA_modern_frigate_hull_4_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/F5.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_frigate_hull_5_medium"
+		name = "GFX_USA_modern_frigate_hull_5_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/F6.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_frigate_hull_6_medium"
+		name = "GFX_USA_modern_frigate_hull_6_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/F8.dds"
 	}
 
-	#### Destroyers ####
+	#### modern_destroyers ####
 
 	SpriteType = {
-		name = "GFX_USA_destroyer_hull_1_medium"
+		name = "GFX_USA_modern_destroyer_hull_1_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/DDG1.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_destroyer_hull_2_medium"
+		name = "GFX_USA_modern_destroyer_hull_2_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/DDG4.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_destroyer_hull_3_medium"
+		name = "GFX_USA_modern_destroyer_hull_3_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/DDG6.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_destroyer_hull_4_medium"
+		name = "GFX_USA_modern_destroyer_hull_4_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/DDG7.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_destroyer_hull_5_medium"
+		name = "GFX_USA_modern_destroyer_hull_5_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/DDG8.dds"
 	}
 
 ############################################################################################
 ## ----------------------- Russian federation Cyka --------------------------------------------
 
-	#### Frigates ####
+	#### modern_frigates ####
 
 	SpriteType = {
-		name = "GFX_SOV_frigate_hull_1_medium"
+		name = "GFX_SOV_modern_frigate_hull_1_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/F1.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_frigate_hull_2_medium"
+		name = "GFX_SOV_modern_frigate_hull_2_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/F2.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_frigate_hull_3_medium"
+		name = "GFX_SOV_modern_frigate_hull_3_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/F3.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_frigate_hull_4_medium"
+		name = "GFX_SOV_modern_frigate_hull_4_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/F5.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_frigate_hull_5_medium"
+		name = "GFX_SOV_modern_frigate_hull_5_medium"
 		texturefile = "gfx/interface/technologies/CHI/NAV/F5.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_frigate_hull_6_medium"
+		name = "GFX_SOV_modern_frigate_hull_6_medium"
 		texturefile = "gfx/interface/technologies/CHI/NAV/F7.dds"
 	}
 
-	#### Nuclear Aircraft Carriers #####
+	#### Nuclear Aircraft modern_carriers #####
 
 
 	SpriteType = {
-		name = "GFX_SOV_carrier_hull_1_medium"
+		name = "GFX_SOV_modern_carrier_hull_1_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/CVN1.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_carrier_hull_2_medium"
+		name = "GFX_SOV_modern_carrier_hull_2_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/CVN2.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_carrier_hull_4_medium"
+		name = "GFX_SOV_modern_carrier_hull_4_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/CVN3.dds"
 	}
 
 
-	#### Aircraft Carriers ####
+	#### Aircraft modern_carriers ####
 
 	SpriteType = {
-		name = "GFX_SOV_carrier_hull_3_medium"
+		name = "GFX_SOV_modern_carrier_hull_3_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/CV2.dds"
 	}
 
 
-	#### Destroyers ####
+	#### modern_destroyers ####
 
 	SpriteType = {
-		name = "GFX_SOV_destroyer_hull_1_medium"
+		name = "GFX_SOV_modern_destroyer_hull_1_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/DDG1.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_destroyer_hull_2_medium"
+		name = "GFX_SOV_modern_destroyer_hull_2_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/DDG2.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_destroyer_hull_3_medium"
+		name = "GFX_SOV_modern_destroyer_hull_3_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/DDG4.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_destroyer_hull_4_medium"
+		name = "GFX_SOV_modern_destroyer_hull_4_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/DDG5.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_destroyer_hull_5_medium"
+		name = "GFX_SOV_modern_destroyer_hull_5_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/DDG7.dds"
 	}
 
-	#### Cruisers ####
+	#### modern_cruisers ####
 
 	SpriteType = {
-		name = "GFX_SOV_cruiser_hull_1_medium"
+		name = "GFX_SOV_modern_cruiser_hull_1_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/CA1.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_cruiser_hull_2_medium"
+		name = "GFX_SOV_modern_cruiser_hull_2_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/CA2.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_cruiser_hull_3_medium"
+		name = "GFX_SOV_modern_cruiser_hull_3_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/CA3.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_cruiser_hull_4_medium"
+		name = "GFX_SOV_modern_cruiser_hull_4_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/CA4.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_cruiser_hull_5_medium"
+		name = "GFX_SOV_modern_cruiser_hull_5_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/CA5.dds"
 	}
 	###### Attack Submarines ######
 
 	SpriteType = {
-		name = "GFX_SOV_missile_submarine_hull_1_medium"
+		name = "GFX_SOV_modern_missile_submarine_hull_1_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/SSBN1.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_missile_submarine_hull_2_medium"
+		name = "GFX_SOV_modern_missile_submarine_hull_2_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/SSBN2.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_missile_submarine_hull_3_medium"
+		name = "GFX_SOV_modern_missile_submarine_hull_3_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/SSBN3.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_missile_submarine_hull_4_medium"
+		name = "GFX_SOV_modern_missile_submarine_hull_4_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/SSBN4.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_missile_submarine_hull_5_medium"
+		name = "GFX_SOV_modern_missile_submarine_hull_5_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/SSBN5.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_missile_submarine_hull_6_medium"
+		name = "GFX_SOV_modern_missile_submarine_hull_6_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/SSBN6.dds"
 	}
 
-	#### Corvettes ####
+	#### modern_corvettes ####
 
 	SpriteType = {
-		name = "GFX_SOV_corvette_hull_1_medium"
+		name = "GFX_SOV_modern_corvette_hull_1_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/CRV1.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_corvette_hull_2_medium"
+		name = "GFX_SOV_modern_corvette_hull_2_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/CRV2.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_corvette_hull_3_medium"
+		name = "GFX_SOV_modern_corvette_hull_3_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/CRV3.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_corvette_hull_4_medium"
+		name = "GFX_SOV_modern_corvette_hull_4_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/CRV5.dds"
 	}
 	###### Hunter Submarines ######
@@ -610,148 +610,148 @@ spriteTypes = {
 ############################################################################################
 ## ----------------------- People's Republic of China  --------------------------------------------
 
-	#### Destroyers ####
+	#### modern_destroyers ####
 
 	SpriteType = {
-		name = "GFX_CHI_destroyer_hull_1_medium"
+		name = "GFX_CHI_modern_destroyer_hull_1_medium"
 		texturefile = "gfx/interface/technologies/CHI/NAV/DDG1.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_destroyer_hull_2_medium"
+		name = "GFX_CHI_modern_destroyer_hull_2_medium"
 		texturefile = "gfx/interface/technologies/CHI/NAV/DDG2.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_destroyer_hull_3_medium"
+		name = "GFX_CHI_modern_destroyer_hull_3_medium"
 		texturefile = "gfx/interface/technologies/CHI/NAV/DDG5.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_destroyer_hull_4_medium"
+		name = "GFX_CHI_modern_destroyer_hull_4_medium"
 		texturefile = "gfx/interface/technologies/CHI/NAV/DDG7.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_destroyer_hull_5_medium"
+		name = "GFX_CHI_modern_destroyer_hull_5_medium"
 		texturefile = "gfx/interface/technologies/CHI/NAV/DDG9.dds"
 	}
 
-	#### Frigates ####
+	#### modern_frigates ####
 
 	SpriteType = {
-		name = "GFX_CHI_frigate_hull_1_medium"
+		name = "GFX_CHI_modern_frigate_hull_1_medium"
 		texturefile = "gfx/interface/technologies/CHI/NAV/F1.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_frigate_hull_2_medium"
+		name = "GFX_CHI_modern_frigate_hull_2_medium"
 		texturefile = "gfx/interface/technologies/CHI/NAV/F1.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_frigate_hull_3_medium"
+		name = "GFX_CHI_modern_frigate_hull_3_medium"
 		texturefile = "gfx/interface/technologies/CHI/NAV/F2.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_frigate_hull_4_medium"
+		name = "GFX_CHI_modern_frigate_hull_4_medium"
 		texturefile = "gfx/interface/technologies/CHI/NAV/F4.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_frigate_hull_5_medium"
+		name = "GFX_CHI_modern_frigate_hull_5_medium"
 		texturefile = "gfx/interface/technologies/CHI/NAV/F5.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_frigate_hull_6_medium"
+		name = "GFX_CHI_modern_frigate_hull_6_medium"
 		texturefile = "gfx/interface/technologies/CHI/NAV/F7.dds"
 	}
-    ###CARRIERS###
-	#### Aircraft Carriers ####
+    ###modern_carrierS###
+	#### Aircraft modern_carriers ####
 
 	SpriteType = {
-		name = "GFX_CHI_carrier_hull_2_medium"
+		name = "GFX_CHI_modern_carrier_hull_2_medium"
 		texturefile = "gfx/interface/technologies/CHI/NAV/CVN1.dds"
 	}
-	#### Cruisers ####
+	#### modern_cruisers ####
 
 	SpriteType = {
-		name = "GFX_CHI_cruiser_hull_1_medium"
+		name = "GFX_CHI_modern_cruiser_hull_1_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/CA1.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_cruiser_hull_2_medium"
+		name = "GFX_CHI_modern_cruiser_hull_2_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/CA2.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_cruiser_hull_3_medium"
+		name = "GFX_CHI_modern_cruiser_hull_3_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/CA3.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_cruiser_hull_4_medium"
+		name = "GFX_CHI_modern_cruiser_hull_4_medium"
 		texturefile = "gfx/interface/technologies/CHI/NAV/CA4.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_cruiser_hull_5_medium"
+		name = "GFX_SOV_modern_cruiser_hull_5_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/CA5.dds"
 	}
-	#### Nuclear Aircraft Carriers #####
+	#### Nuclear Aircraft modern_carriers #####
 
 	SpriteType = {
-		name = "GFX_CHI_carrier_hull_1_medium"
+		name = "GFX_CHI_modern_carrier_hull_1_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/CVN1.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_carrier_hull_2_medium"
+		name = "GFX_CHI_modern_carrier_hull_2_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/CVN2.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_carrier_hull_3_medium"
+		name = "GFX_CHI_modern_carrier_hull_3_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/CVN3.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_carrier_hull_4_medium"
+		name = "GFX_CHI_modern_carrier_hull_4_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/CVN5.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_carrier_hull_5_medium"
+		name = "GFX_CHI_modern_carrier_hull_5_medium"
 		texturefile = "gfx/interface/technologies/USA/NAV/CVN6.dds"
 	}
-	#### Corvettes ####
+	#### modern_corvettes ####
 
 	SpriteType = {
-		name = "GFX_CHI_corvette_hull_1_medium"
+		name = "GFX_CHI_modern_corvette_hull_1_medium"
 		texturefile = "gfx/interface/technologies/CHI/NAV/CRV3.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_corvette_hull_2_medium"
+		name = "GFX_CHI_modern_corvette_hull_2_medium"
 		texturefile = "gfx/interface/technologies/CHI/NAV/CRV3.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_corvette_hull_3_medium"
+		name = "GFX_CHI_modern_corvette_hull_3_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/CRV3.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_corvette_hull_4_medium"
+		name = "GFX_CHI_modern_corvette_hull_4_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/CRV5.dds"
 	}
 	###### Attack Submarines ######
 
 	SpriteType = {
-		name = "GFX_CHI_missile_submarine_hull_1_medium"
+		name = "GFX_CHI_modern_missile_submarine_hull_1_medium"
 		texturefile = "gfx/interface/technologies/CHI/NAV/SSBN1.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_missile_submarine_hull_2_medium"
+		name = "GFX_CHI_modern_missile_submarine_hull_2_medium"
 		texturefile = "gfx/interface/technologies/CHI/NAV/SSBN2.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_missile_submarine_hull_3_medium"
+		name = "GFX_CHI_modern_missile_submarine_hull_3_medium"
 		texturefile = "gfx/interface/technologies/CHI/NAV/SSBN3.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_missile_submarine_hull_4_medium"
+		name = "GFX_CHI_modern_missile_submarine_hull_4_medium"
 		texturefile = "gfx/interface/technologies/CHI/NAV/SSBN4.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_missile_submarine_hull_5_medium"
+		name = "GFX_CHI_modern_missile_submarine_hull_5_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/SSBN5.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_missile_submarine_hull_6_medium"
+		name = "GFX_CHI_modern_missile_submarine_hull_6_medium"
 		texturefile = "gfx/interface/technologies/SOV/NAV/SSBN6.dds"
 	}
 	###### Diesel Attack Submarines ######
@@ -816,15 +816,15 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/Generic/mtg/R1.dds"
 	}
 
-	#Carrier Modules
+	#modern_carrier Modules
 
 	# SpriteType = {
-	# 	name = "GFX_aircraft_carrier_engineering_medium"
+	# 	name = "GFX_aircraft_modern_carrier_engineering_medium"
 	# 	texturefile = "gfx/interface/technologies/Generic/mtg/DECK1.dds"
 	# }
 
 	# SpriteType = {
-	# 	name = "GFX_aircraft_carrier_engineering_1_medium"
+	# 	name = "GFX_aircraft_modern_carrier_engineering_1_medium"
 	# 	texturefile = "gfx/interface/technologies/Generic/mtg/DECK2.dds"
 	# }
 
@@ -1215,8 +1215,8 @@ spriteTypes = {
 	}
 
 	SpriteType = {
-		name = "GFX_carrier_battlegroups_medium"
-		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/carrier_battlegroups.dds"
+		name = "GFX_modern_carrier_battlegroups_medium"
+		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/modern_carrier_battlegroups.dds"
 	}
 
 	SpriteType = {
@@ -1225,13 +1225,13 @@ spriteTypes = {
 	}
 
 	SpriteType = {
-		name = "GFX_carrier_task_forces_medium"
-		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/carrier_task_forces.dds"
+		name = "GFX_modern_carrier_task_forces_medium"
+		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/modern_carrier_task_forces.dds"
 	}
 
 	SpriteType = {
-		name = "GFX_carrier_primacy_medium"
-		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/carrier_primacy.dds"
+		name = "GFX_modern_carrier_primacy_medium"
+		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/modern_carrier_primacy.dds"
 	}
 
 	SpriteType = {
@@ -1245,8 +1245,8 @@ spriteTypes = {
 	}
 
 	SpriteType = {
-		name = "GFX_carrier_operations_medium"
-		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/carrier_operations.dds"
+		name = "GFX_modern_carrier_operations_medium"
+		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/modern_carrier_operations.dds"
 	}
 
 	SpriteType = {
@@ -1265,7 +1265,7 @@ spriteTypes = {
 	}
 
 	SpriteType = {
-		name = "GFX_advanced_missile_submarine_warfare_medium"
+		name = "GFX_advanced_modern_missile_submarine_warfare_medium"
 		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/advanced_submarine_warfare.dds"
 	}
 
@@ -1275,7 +1275,7 @@ spriteTypes = {
 	}
 
 	SpriteType = {
-		name = "GFX_unrestricted_missile_submarine_warfare_medium"
+		name = "GFX_unrestricted_modern_missile_submarine_warfare_medium"
 		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/unrestricted_submarine_warfare.dds"
 	}
 
@@ -1285,12 +1285,12 @@ spriteTypes = {
 	}
 
 	SpriteType = {
-		name = "GFX_missile_submarine_offensive_medium"
+		name = "GFX_modern_missile_submarine_offensive_medium"
 		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/submarine_offensive.dds"
 	}
 
 	SpriteType = {
-		name = "GFX_missile_submarine_offensive_bs_medium"
+		name = "GFX_modern_missile_submarine_offensive_bs_medium"
 		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/submarine_offensive.dds"
 	}
 
@@ -1320,12 +1320,12 @@ spriteTypes = {
 	}
 
 	SpriteType = {
-		name = "GFX_missile_submarine_operations_bs_medium"
+		name = "GFX_modern_missile_submarine_operations_bs_medium"
 		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/submarine_operations.dds"
 	}
 
 	SpriteType = {
-		name = "GFX_missile_submarine_operations_medium"
+		name = "GFX_modern_missile_submarine_operations_medium"
 		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/submarine_operations.dds"
 	}
 
@@ -1340,8 +1340,8 @@ spriteTypes = {
 	}
 
 	SpriteType = {
-		name = "GFX_escort_carriers_medium"
-		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/escort_carriers.dds"
+		name = "GFX_escort_modern_carriers_medium"
+		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/escort_modern_carriers.dds"
 	}
 
 	SpriteType = {
@@ -1410,13 +1410,13 @@ spriteTypes = {
 	}
 
 	SpriteType = {
-		name = "GFX_subsidiary_carrier_role_ti_medium"
-		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/subsidiary_carrier_role.dds"
+		name = "GFX_subsidiary_modern_carrier_role_ti_medium"
+		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/subsidiary_modern_carrier_role.dds"
 	}
 
 	SpriteType = {
-		name = "GFX_subsidiary_carrier_role_medium"
-		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/subsidiary_carrier_role.dds"
+		name = "GFX_subsidiary_modern_carrier_role_medium"
+		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/subsidiary_modern_carrier_role.dds"
 	}
 
 	SpriteType = {
@@ -1436,7 +1436,7 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_cat_jeune_ecole_two_medium"
-		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/frigate_primacy.dds"
+		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/modern_frigate_primacy.dds"
 	}
 
 	SpriteType = {
@@ -1471,7 +1471,7 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_the_new_ship_of_the_line_medium"
-		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/heavy_frigates.dds"
+		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/heavy_modern_frigates.dds"
 	}
 
 	SpriteType = {
@@ -1491,7 +1491,7 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_riveted_ship_hulls_medium"
-		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/improved_cruiser_armor_scheme.dds"
+		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/improved_modern_cruiser_armor_scheme.dds"
 	}
 
 	SpriteType = {
@@ -1510,8 +1510,8 @@ spriteTypes = {
 	}
 
 	SpriteType = {
-		name = "GFX_frigate_go_brrrt_medium"
-		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/subsidiary_carrier_role.dds"
+		name = "GFX_modern_frigate_go_brrrt_medium"
+		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/subsidiary_modern_carrier_role.dds"
 	}
 
 	SpriteType = {
@@ -1531,6 +1531,6 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_the_ship_to_end_all_wars_medium"
-		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/carrier_operations.dds"
+		texturefile = "gfx/interface/technologies/Generic/naval_doctrine/modern_carrier_operations.dds"
 	}
 }

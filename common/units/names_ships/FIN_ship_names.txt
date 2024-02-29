@@ -1,13 +1,13 @@
 ﻿##### FINLAND NAME LISTS #####
 
-### AIRCRAFT CARRIER NAMES ###
+### AIRCRAFT modern_carrier NAMES ###
 FIN_CV_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CARRIERS
+	name = NAME_THEME_HISTORICAL_modern_carrierS
 
 	for_countries = { FIN }
 
 	type = ship
-	ship_types = { carrier }
+	ship_types = { modern_carrier }
 
 	prefix = "FNS "
 	fallback_name = "Lentotukialus %d"
@@ -20,7 +20,7 @@ FIN_CV_HISTORICAL = {
 
 ### HELICOPTER OPERATOR NAMES ###
 FIN_LHA_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_HELICOPTER_CARRIERS
+	name = NAME_THEME_HISTORICAL_HELICOPTER_modern_carrierS
 
 	for_countries = { FIN }
 
@@ -36,14 +36,14 @@ FIN_LHA_HISTORICAL = {
 }
 
 
-### CRUISER NAMES###
-FIN_CRUISER_HISTORICAL = {
+### modern_cruiser NAMES###
+FIN_modern_cruiser_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_CL
 
 	for_countries = { FIN }
 
 	type = ship
-	ship_types = { battle_cruiser cruiser }
+	ship_types = { battle_modern_cruiser modern_cruiser }
 
 	prefix = "FNS "
 	fallback_name = "Risteilijä %d"
@@ -53,14 +53,14 @@ FIN_CRUISER_HISTORICAL = {
 	}
 }
 
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 FIN_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { FIN }
 
 	type = ship
-	ship_types = { stealth_destroyer destroyer }
+	ship_types = { stealth_modern_destroyer modern_destroyer }
 
 	prefix = "FNS "
 	fallback_name = "Hävittäjä %d"
@@ -70,14 +70,14 @@ FIN_DD_HISTORICAL = {
 	}
 }
 
-### FRIGATE NAMES###
-FIN_FRIGATE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATE
+### modern_frigate NAMES###
+FIN_modern_frigate_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigate
 
 	for_countries = { FIN }
 
 	type = ship
-	ship_types = { frigate }
+	ship_types = { modern_frigate }
 
 	prefix = "FNS "
 	fallback_name = "Fregatti %d"
@@ -88,14 +88,14 @@ FIN_FRIGATE_HISTORICAL = {
 }
 
 
-### CORVETTE NAMES ###
-FIN_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+FIN_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { FIN }
 
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	prefix = "FNS "
 	fallback_name = "Korvetti-%d"
 
@@ -105,13 +105,13 @@ FIN_CORVETTE_HISTORICAL = {
 }
 
 ### MISSILE SUBMARINES NAMES ###
-FIN_MISSILE_SUBMARINE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_MISSILE_SUBMARINES
+FIN_modern_missile_submarine_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_missile_submarineS
 
 	for_countries = { FIN }
 
 	type = ship
-	ship_types = { missile_submarine }
+	ship_types = { modern_missile_submarine }
 
 	prefix = "FNS "
 	fallback_name = "Ohjus Sukellusvene-%d"

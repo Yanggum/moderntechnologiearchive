@@ -39,17 +39,17 @@ technologies = {
 	@row17 = 30
 
 	#Ship Program
-	N_B_Cruiser_2 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech N_B_Cruiser_2" }
+	N_B_modern_cruiser_2 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech N_B_modern_cruiser_2" }
 		enable_equipments = {
-			N_B_Cruiser_2
+			N_B_modern_cruiser_2
 		}
 		path = {
-			leads_to_tech = N_B_Cruiser_5
+			leads_to_tech = N_B_modern_cruiser_5
 			research_cost_coeff = 1
 		}
 		# path = {
-			# leads_to_tech = missile_cruiser_1
+			# leads_to_tech = missile_modern_cruiser_1
 			# research_cost_coeff = 0.75
 		# }
 
@@ -88,21 +88,21 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_N_CRUISER
+			Cat_N_modern_cruiser
 		}
 	}
 	#2015
-	N_B_Cruiser_5 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech N_B_Cruiser_5" }
+	N_B_modern_cruiser_5 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech N_B_modern_cruiser_5" }
 		enable_equipments = {
-			N_B_Cruiser_5
+			N_B_modern_cruiser_5
 		}
 		path = {
-			leads_to_tech = N_B_Cruiser_6
+			leads_to_tech = N_B_modern_cruiser_6
 			research_cost_coeff = 1
 		}
 		# path = {
-			# leads_to_tech = missile_cruiser_4
+			# leads_to_tech = missile_modern_cruiser_4
 			# research_cost_coeff = 0.75
 		# }
 		research_cost = 3.5
@@ -146,22 +146,22 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_N_CRUISER
+			Cat_N_modern_cruiser
 		}
 	}
 	#2025
-	N_B_Cruiser_6 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech N_B_Cruiser_6" }
+	N_B_modern_cruiser_6 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech N_B_modern_cruiser_6" }
 
 		enable_equipments = {
-			N_B_Cruiser_6
+			N_B_modern_cruiser_6
 		}
 		path = {
-			leads_to_tech = N_B_Cruiser_7
+			leads_to_tech = N_B_modern_cruiser_7
 			research_cost_coeff = 1
 		}
 		# path = {
-			# leads_to_tech = missile_cruiser_5
+			# leads_to_tech = missile_modern_cruiser_5
 			# research_cost_coeff = 0.75
 		# }
 
@@ -209,19 +209,19 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_N_CRUISER
+			Cat_N_modern_cruiser
 		}
 	}
 	#2035
-	N_B_Cruiser_7 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech N_B_Cruiser_7" }
+	N_B_modern_cruiser_7 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech N_B_modern_cruiser_7" }
 
 		enable_equipments = {
-			N_B_Cruiser_7
+			N_B_modern_cruiser_7
 		}
 
 		# path = {
-			# leads_to_tech = missile_cruiser_6
+			# leads_to_tech = missile_modern_cruiser_6
 			# research_cost_coeff = 0.75
 		# }
 
@@ -269,22 +269,22 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_N_CRUISER
+			Cat_N_modern_cruiser
 		}
 	}
 
-	###Cruisers###
+	###modern_cruisers###
 
 	#1965
-	cruiser_1 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech cruiser_1" }
+	modern_cruiser_1 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_cruiser_1" }
 
 		enable_equipments = {
-			cruiser_1
+			modern_cruiser_1
 		}
 
 		path = {
-			leads_to_tech = cruiser_2
+			leads_to_tech = modern_cruiser_2
 			research_cost_coeff = 1
 		}
 
@@ -316,19 +316,19 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_M_Cruiser
+			Cat_M_modern_cruiser
 		}
 	}
 	#1975
-	cruiser_2 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech cruiser_2" }
+	modern_cruiser_2 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_cruiser_2" }
 
 		enable_equipments = {
-			cruiser_2
+			modern_cruiser_2
 		}
 
 		path = {
-			leads_to_tech = missile_cruiser_1
+			leads_to_tech = missile_modern_cruiser_1
 			research_cost_coeff = 1
 		}
 		research_cost = 2.1
@@ -359,19 +359,19 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_M_Cruiser
+			Cat_M_modern_cruiser
 		}
 	}
 	#1985
-	missile_cruiser_1 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_cruiser_1" }
+	missile_modern_cruiser_1 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_modern_cruiser_1" }
 
 		enable_equipments = {
-			missile_cruiser_1
+			missile_modern_cruiser_1
 		}
 
 		path = {
-			leads_to_tech = missile_cruiser_4
+			leads_to_tech = missile_modern_cruiser_4
 			research_cost_coeff = 1
 		}
 
@@ -403,19 +403,19 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_M_Cruiser
+			Cat_M_modern_cruiser
 		}
 	}
 	#2015
-	missile_cruiser_4 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_cruiser_4" }
+	missile_modern_cruiser_4 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_modern_cruiser_4" }
 
 		enable_equipments = {
-			missile_cruiser_4
+			missile_modern_cruiser_4
 		}
 
 		path = {
-			leads_to_tech = missile_cruiser_5
+			leads_to_tech = missile_modern_cruiser_5
 			research_cost_coeff = 1
 		}
 
@@ -455,19 +455,19 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_M_Cruiser
+			Cat_M_modern_cruiser
 		}
 	}
 	#2025
-	missile_cruiser_5 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_cruiser_5" }
+	missile_modern_cruiser_5 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_modern_cruiser_5" }
 
 		enable_equipments = {
-			missile_cruiser_5
+			missile_modern_cruiser_5
 		}
 
 		path = {
-			leads_to_tech = missile_cruiser_6
+			leads_to_tech = missile_modern_cruiser_6
 			research_cost_coeff = 1
 		}
 
@@ -506,15 +506,15 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_M_Cruiser
+			Cat_M_modern_cruiser
 		}
 	}
 	#2035
-	missile_cruiser_6 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_cruiser_6" }
+	missile_modern_cruiser_6 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_modern_cruiser_6" }
 
 		enable_equipments = {
-			missile_cruiser_6
+			missile_modern_cruiser_6
 		}
 
 		research_cost = 3.3
@@ -553,22 +553,22 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_M_Cruiser
+			Cat_M_modern_cruiser
 		}
 	}
 
-	###Destroyer###
+	###modern_destroyer###
 
 	#1965
-	destroyer_1 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech destroyer_1" }
+	modern_destroyer_1 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_destroyer_1" }
 
 		enable_equipments = {
-			destroyer_1
+			modern_destroyer_1
 		}
 
 		path = {
-			leads_to_tech = destroyer_2
+			leads_to_tech = modern_destroyer_2
 			research_cost_coeff = 1
 		}
 
@@ -600,19 +600,19 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_DESTROYER
+			Cat_modern_destroyer
 		}
 	}
 	#1975
-	destroyer_2 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech destroyer_2" }
+	modern_destroyer_2 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_destroyer_2" }
 
 		enable_equipments = {
-			destroyer_2
+			modern_destroyer_2
 		}
 
 		path = {
-			leads_to_tech = missile_destroyer_1
+			leads_to_tech = missile_modern_destroyer_1
 			research_cost_coeff = 1
 		}
 
@@ -644,19 +644,19 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_DESTROYER
+			Cat_modern_destroyer
 		}
 	}
 	#1985
-	missile_destroyer_1 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_destroyer_1" }
+	missile_modern_destroyer_1 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_modern_destroyer_1" }
 
 		enable_equipments = {
-			missile_destroyer_1
+			missile_modern_destroyer_1
 		}
 
 		path = {
-			leads_to_tech = missile_destroyer_2
+			leads_to_tech = missile_modern_destroyer_2
 			research_cost_coeff = 1
 		}
 
@@ -688,19 +688,19 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_DESTROYER
+			Cat_modern_destroyer
 		}
 	}
 	#1995
-	missile_destroyer_2 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_destroyer_2" }
+	missile_modern_destroyer_2 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_modern_destroyer_2" }
 
 		enable_equipments = {
-			missile_destroyer_2
+			missile_modern_destroyer_2
 		}
 
 		path = {
-			leads_to_tech = missile_destroyer_3
+			leads_to_tech = missile_modern_destroyer_3
 			research_cost_coeff = 1
 		}
 
@@ -732,19 +732,19 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_DESTROYER
+			Cat_modern_destroyer
 		}
 	}
 	#2005
-	missile_destroyer_3 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_destroyer_3" }
+	missile_modern_destroyer_3 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_modern_destroyer_3" }
 
 		enable_equipments = {
-			missile_destroyer_3
+			missile_modern_destroyer_3
 		}
 
 		path = {
-			leads_to_tech = missile_destroyer_4
+			leads_to_tech = missile_modern_destroyer_4
 			research_cost_coeff = 1
 		}
 
@@ -784,19 +784,19 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_DESTROYER
+			Cat_modern_destroyer
 		}
 	}
 	#2015
-	missile_destroyer_4 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_destroyer_4" }
+	missile_modern_destroyer_4 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_modern_destroyer_4" }
 
 		enable_equipments = {
-			missile_destroyer_4
+			missile_modern_destroyer_4
 		}
 
 		path = {
-			leads_to_tech = missile_destroyer_5
+			leads_to_tech = missile_modern_destroyer_5
 			research_cost_coeff = 1
 		}
 
@@ -836,19 +836,19 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_DESTROYER
+			Cat_modern_destroyer
 		}
 	}
 	#2025
-	missile_destroyer_5 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_destroyer_5" }
+	missile_modern_destroyer_5 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_modern_destroyer_5" }
 
 		enable_equipments = {
-			missile_destroyer_5
+			missile_modern_destroyer_5
 		}
 
 		path = {
-			leads_to_tech = missile_destroyer_6
+			leads_to_tech = missile_modern_destroyer_6
 			research_cost_coeff = 1
 		}
 
@@ -888,15 +888,15 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_DESTROYER
+			Cat_modern_destroyer
 		}
 	}
 	#2035
-	missile_destroyer_6 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_destroyer_6" }
+	missile_modern_destroyer_6 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_modern_destroyer_6" }
 
 		enable_equipments = {
-			missile_destroyer_6
+			missile_modern_destroyer_6
 		}
 
 		research_cost = 3.1
@@ -935,23 +935,23 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_DESTROYER
+			Cat_modern_destroyer
 		}
 	}
 
 
-	###Frigate###
+	###modern_frigate###
 
 	#1965
-	frigate_1 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech frigate_1" }
+	modern_frigate_1 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_frigate_1" }
 
 		enable_equipments = {
-			frigate_1
+			modern_frigate_1
 		}
 
 		path = {
-			leads_to_tech = frigate_2
+			leads_to_tech = modern_frigate_2
 			research_cost_coeff = 1
 		}
 
@@ -983,19 +983,19 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_FRIGATE
+			Cat_modern_frigate
 		}
 	}
 	#1975
-	frigate_2 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech frigate_2" }
+	modern_frigate_2 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_frigate_2" }
 
 		enable_equipments = {
-			frigate_2
+			modern_frigate_2
 		}
 
 		path = {
-			leads_to_tech = missile_frigate_1
+			leads_to_tech = missile_modern_frigate_1
 			research_cost_coeff = 1
 		}
 
@@ -1027,19 +1027,19 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_FRIGATE
+			Cat_modern_frigate
 		}
 	}
 	#1985
-	missile_frigate_1 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_frigate_1" }
+	missile_modern_frigate_1 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_modern_frigate_1" }
 
 		enable_equipments = {
-			missile_frigate_1
+			missile_modern_frigate_1
 		}
 
 		path = {
-			leads_to_tech = missile_frigate_2
+			leads_to_tech = missile_modern_frigate_2
 			research_cost_coeff = 1
 		}
 
@@ -1071,19 +1071,19 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_FRIGATE
+			Cat_modern_frigate
 		}
 	}
 	#1995
-	missile_frigate_2 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_frigate_2" }
+	missile_modern_frigate_2 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_modern_frigate_2" }
 
 		enable_equipments = {
-			missile_frigate_2
+			missile_modern_frigate_2
 		}
 
 		path = {
-			leads_to_tech = missile_frigate_3
+			leads_to_tech = missile_modern_frigate_3
 			research_cost_coeff = 1
 		}
 
@@ -1115,19 +1115,19 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_FRIGATE
+			Cat_modern_frigate
 		}
 	}
 	#2005
-	missile_frigate_3 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_frigate_3" }
+	missile_modern_frigate_3 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_modern_frigate_3" }
 
 		enable_equipments = {
-			missile_frigate_3
+			missile_modern_frigate_3
 		}
 
 		path = {
-			leads_to_tech = missile_frigate_4
+			leads_to_tech = missile_modern_frigate_4
 			research_cost_coeff = 1
 		}
 
@@ -1168,19 +1168,19 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_FRIGATE
+			Cat_modern_frigate
 		}
 	}
 	#2015
-	missile_frigate_4 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_frigate_4" }
+	missile_modern_frigate_4 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_modern_frigate_4" }
 
 		enable_equipments = {
-			missile_frigate_4
+			missile_modern_frigate_4
 		}
 
 		path = {
-			leads_to_tech = missile_frigate_5
+			leads_to_tech = missile_modern_frigate_5
 			research_cost_coeff = 1
 		}
 
@@ -1220,19 +1220,19 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_FRIGATE
+			Cat_modern_frigate
 		}
 	}
 	#2025
-	missile_frigate_5 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_frigate_5" }
+	missile_modern_frigate_5 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_modern_frigate_5" }
 
 		enable_equipments = {
-			missile_frigate_5
+			missile_modern_frigate_5
 		}
 
 		path = {
-			leads_to_tech = missile_frigate_6
+			leads_to_tech = missile_modern_frigate_6
 			research_cost_coeff = 1
 		}
 
@@ -1272,15 +1272,15 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_FRIGATE
+			Cat_modern_frigate
 		}
 	}
 	#2035
-	missile_frigate_6 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_frigate_6" }
+	missile_modern_frigate_6 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_modern_frigate_6" }
 
 		enable_equipments = {
-			missile_frigate_6
+			missile_modern_frigate_6
 		}
 
 		research_cost = 2.9
@@ -1319,22 +1319,22 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_FRIGATE
+			Cat_modern_frigate
 		}
 	}
 
 	####Correvete###
 
 	#1965
-	corvette_1 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech corvette_1" }
+	modern_corvette_1 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_corvette_1" }
 
 		enable_equipments = {
-			corvette_1
+			modern_corvette_1
 		}
 
 		path = {
-			leads_to_tech = corvette_2
+			leads_to_tech = modern_corvette_2
 			research_cost_coeff = 1
 		}
 
@@ -1366,19 +1366,19 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_CORVETTE
+			Cat_modern_corvette
 		}
 	}
 	#1975
-	corvette_2 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech corvette_2" }
+	modern_corvette_2 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_corvette_2" }
 
 		enable_equipments = {
-			corvette_2
+			modern_corvette_2
 		}
 
 		path = {
-			leads_to_tech = missile_corvette_1
+			leads_to_tech = missile_modern_corvette_1
 			research_cost_coeff = 1
 		}
 
@@ -1410,19 +1410,19 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_CORVETTE
+			Cat_modern_corvette
 		}
 	}
 	#1985
-	missile_corvette_1 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_corvette_1" }
+	missile_modern_corvette_1 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_modern_corvette_1" }
 
 		enable_equipments = {
-			missile_corvette_1
+			missile_modern_corvette_1
 		}
 
 		path = {
-			leads_to_tech = missile_corvette_2
+			leads_to_tech = missile_modern_corvette_2
 			research_cost_coeff = 1
 		}
 
@@ -1453,19 +1453,19 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_CORVETTE
+			Cat_modern_corvette
 		}
 	}
 	#1995
-	missile_corvette_2 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_corvette_2" }
+	missile_modern_corvette_2 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_modern_corvette_2" }
 
 		enable_equipments = {
-			missile_corvette_2
+			missile_modern_corvette_2
 		}
 
 		path = {
-			leads_to_tech = missile_corvette_3
+			leads_to_tech = missile_modern_corvette_3
 			research_cost_coeff = 1
 		}
 
@@ -1496,19 +1496,19 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_CORVETTE
+			Cat_modern_corvette
 		}
 	}
 	#2005
-	missile_corvette_3 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_corvette_3" }
+	missile_modern_corvette_3 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_modern_corvette_3" }
 
 		enable_equipments = {
-			missile_corvette_3
+			missile_modern_corvette_3
 		}
 
 		path = {
-			leads_to_tech = missile_corvette_4
+			leads_to_tech = missile_modern_corvette_4
 			research_cost_coeff = 1
 		}
 		research_cost = 2.1
@@ -1547,19 +1547,19 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_CORVETTE
+			Cat_modern_corvette
 		}
 	}
 	#2015
-	missile_corvette_4 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_corvette_4" }
+	missile_modern_corvette_4 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_modern_corvette_4" }
 
 		enable_equipments = {
-			missile_corvette_4
+			missile_modern_corvette_4
 		}
 
 		path = {
-			leads_to_tech = missile_corvette_5
+			leads_to_tech = missile_modern_corvette_5
 			research_cost_coeff = 1
 		}
 
@@ -1599,19 +1599,19 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_CORVETTE
+			Cat_modern_corvette
 		}
 	}
 	#2025
-	missile_corvette_5 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_corvette_5" }
+	missile_modern_corvette_5 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_modern_corvette_5" }
 
 		enable_equipments = {
-			missile_corvette_5
+			missile_modern_corvette_5
 		}
 
 		path = {
-			leads_to_tech = missile_corvette_6
+			leads_to_tech = missile_modern_corvette_6
 			research_cost_coeff = 1
 		}
 
@@ -1651,15 +1651,15 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_CORVETTE
+			Cat_modern_corvette
 		}
 	}
 	#2035
-	missile_corvette_6 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_corvette_6" }
+	missile_modern_corvette_6 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_modern_corvette_6" }
 
 		enable_equipments = {
-			missile_corvette_6
+			missile_modern_corvette_6
 		}
 
 		research_cost = 2.7
@@ -1698,7 +1698,7 @@ technologies = {
 		categories = {
 			Cat_NAVAL_EQP
 			Cat_SURFACE_SHIP
-			Cat_CORVETTE
+			Cat_modern_corvette
 		}
 	}
 
@@ -2067,7 +2067,7 @@ technologies = {
 		}
 
 		path = {
-			leads_to_tech = missile_submarine_1
+			leads_to_tech = modern_missile_submarine_1
 			research_cost_coeff = 1
 		}
 
@@ -2517,15 +2517,15 @@ technologies = {
 	### SSGN - Nuclear-Powered Guided Missile Submarine ###
 
 	#1965
-	missile_submarine_1 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_submarine_1" }
+	modern_missile_submarine_1 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_missile_submarine_1" }
 
 		enable_equipments = {
-			missile_submarine_1
+			modern_missile_submarine_1
 		}
 
 		path = {
-			leads_to_tech = missile_submarine_2
+			leads_to_tech = modern_missile_submarine_2
 			research_cost_coeff = 1
 		}
 
@@ -2571,15 +2571,15 @@ technologies = {
 	}
 
 	#1975
-	missile_submarine_2 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_submarine_2" }
+	modern_missile_submarine_2 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_missile_submarine_2" }
 
 		enable_equipments = {
-			missile_submarine_2
+			modern_missile_submarine_2
 		}
 
 		path = {
-			leads_to_tech = missile_submarine_3
+			leads_to_tech = modern_missile_submarine_3
 			research_cost_coeff = 1
 		}
 
@@ -2625,15 +2625,15 @@ technologies = {
 	}
 
 	#1985
-	missile_submarine_3 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_submarine_3" }
+	modern_missile_submarine_3 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_missile_submarine_3" }
 
 		enable_equipments = {
-			missile_submarine_3
+			modern_missile_submarine_3
 		}
 
 		path = {
-			leads_to_tech = missile_submarine_5
+			leads_to_tech = modern_missile_submarine_5
 			research_cost_coeff = 1
 		}
 
@@ -2679,15 +2679,15 @@ technologies = {
 	}
 
 	#2015
-	missile_submarine_5 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_submarine_5" }
+	modern_missile_submarine_5 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_missile_submarine_5" }
 
 		enable_equipments = {
-			missile_submarine_5
+			modern_missile_submarine_5
 		}
 
 		path = {
-			leads_to_tech = missile_submarine_6
+			leads_to_tech = modern_missile_submarine_6
 			research_cost_coeff = 1
 		}
 
@@ -2741,15 +2741,15 @@ technologies = {
 	}
 
 	#2025
-	missile_submarine_6 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_submarine_6" }
+	modern_missile_submarine_6 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_missile_submarine_6" }
 
 		enable_equipments = {
-			missile_submarine_6
+			modern_missile_submarine_6
 		}
 
 		path = {
-			leads_to_tech = missile_submarine_7
+			leads_to_tech = modern_missile_submarine_7
 			research_cost_coeff = 1
 		}
 
@@ -2803,11 +2803,11 @@ technologies = {
 	}
 
 	#2035
-	missile_submarine_7 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech missile_submarine_7" }
+	modern_missile_submarine_7 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_missile_submarine_7" }
 
 		enable_equipments = {
-			missile_submarine_7
+			modern_missile_submarine_7
 		}
 
 		research_cost = 3.9
@@ -3231,17 +3231,17 @@ technologies = {
 		}
 	}
 
-	###	CARRIER	###
+	###	modern_carrier	###
 
-	Nuclear_carrier_0 = { #1975
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech Nuclear_carrier_0" }
+	Nuclear_modern_carrier_0 = { #1975
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech Nuclear_modern_carrier_0" }
 
 		enable_equipments = {
-			Nuclear_carrier_0
+			Nuclear_modern_carrier_0
 		}
 
 		path = {
-			leads_to_tech = Nuclear_carrier_1
+			leads_to_tech = Nuclear_modern_carrier_1
 			research_cost_coeff = 1
 		}
 
@@ -3272,19 +3272,19 @@ technologies = {
 
 		categories = {
 			Cat_NAVAL_EQP
-			Cat_CARRIER
+			Cat_modern_carrier
 			Cat_N_CV
 		}
 	}
-	Nuclear_carrier_1 = { #1985
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech Nuclear_carrier_1" }
+	Nuclear_modern_carrier_1 = { #1985
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech Nuclear_modern_carrier_1" }
 
 		enable_equipments = {
-			Nuclear_carrier_1
+			Nuclear_modern_carrier_1
 		}
 
 		path = {
-			leads_to_tech = Nuclear_carrier_2
+			leads_to_tech = Nuclear_modern_carrier_2
 			research_cost_coeff = 1
 		}
 
@@ -3315,19 +3315,19 @@ technologies = {
 
 		categories = {
 			Cat_NAVAL_EQP
-			Cat_CARRIER
+			Cat_modern_carrier
 			Cat_N_CV
 		}
 	}
-	Nuclear_carrier_2 = { #2005
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech Nuclear_carrier_2" }
+	Nuclear_modern_carrier_2 = { #2005
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech Nuclear_modern_carrier_2" }
 
 		enable_equipments = {
-			Nuclear_carrier_2
+			Nuclear_modern_carrier_2
 		}
 
 		path = {
-			leads_to_tech = Nuclear_carrier_3
+			leads_to_tech = Nuclear_modern_carrier_3
 			research_cost_coeff = 1
 		}
 
@@ -3365,19 +3365,19 @@ technologies = {
 
 		categories = {
 			Cat_NAVAL_EQP
-			Cat_CARRIER
+			Cat_modern_carrier
 			Cat_N_CV
 		}
 	}
-	Nuclear_carrier_3 = { #2015
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech Nuclear_carrier_3" }
+	Nuclear_modern_carrier_3 = { #2015
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech Nuclear_modern_carrier_3" }
 
 		enable_equipments = {
-			Nuclear_carrier_3
+			Nuclear_modern_carrier_3
 		}
 
 		path = {
-			leads_to_tech = Nuclear_carrier_4
+			leads_to_tech = Nuclear_modern_carrier_4
 			research_cost_coeff = 1
 		}
 
@@ -3416,18 +3416,18 @@ technologies = {
 
 		categories = {
 			Cat_NAVAL_EQP
-			Cat_CARRIER
+			Cat_modern_carrier
 			Cat_N_CV
 		}
 	}
-	Nuclear_carrier_4 = { #2025
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech Nuclear_carrier_4" }
+	Nuclear_modern_carrier_4 = { #2025
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech Nuclear_modern_carrier_4" }
 
 		enable_equipments = {
-			Nuclear_carrier_4
+			Nuclear_modern_carrier_4
 		}
 		path = {
-			leads_to_tech = Nuclear_carrier_5
+			leads_to_tech = Nuclear_modern_carrier_5
 			research_cost_coeff = 1
 		}
 
@@ -3466,15 +3466,15 @@ technologies = {
 
 		categories = {
 			Cat_NAVAL_EQP
-			Cat_CARRIER
+			Cat_modern_carrier
 			Cat_N_CV
 		}
 	}
-	Nuclear_carrier_5 = { #2035
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech Nuclear_carrier_5" }
+	Nuclear_modern_carrier_5 = { #2035
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech Nuclear_modern_carrier_5" }
 
 		enable_equipments = {
-			Nuclear_carrier_5
+			Nuclear_modern_carrier_5
 		}
 
 		research_cost = 10.4
@@ -3512,20 +3512,20 @@ technologies = {
 
 		categories = {
 			Cat_NAVAL_EQP
-			Cat_CARRIER
+			Cat_modern_carrier
 			Cat_N_CV
 		}
 	}
 	####################################
-	modern_carrier_0 = { #1965
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_carrier_0" }
+	modern_modern_carrier_0 = { #1965
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_modern_carrier_0" }
 
 		enable_equipments = {
-			carrier_0
+			modern_carrier_0
 		}
 
 		path = {
-			leads_to_tech = modern_carrier_1
+			leads_to_tech = modern_modern_carrier_1
 			research_cost_coeff = 1
 		}
 
@@ -3560,19 +3560,19 @@ technologies = {
 
 		categories = {
 			Cat_NAVAL_EQP
-			Cat_CARRIER
+			Cat_modern_carrier
 			Cat_CV
 		}
 	}
-	modern_carrier_1 = { #1975
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_carrier_1" }
+	modern_modern_carrier_1 = { #1975
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_modern_carrier_1" }
 
 		enable_equipments = {
-			carrier_1
+			modern_carrier_1
 		}
 
 		path = {
-			leads_to_tech = modern_carrier_2
+			leads_to_tech = modern_modern_carrier_2
 			research_cost_coeff = 1
 		}
 
@@ -3607,19 +3607,19 @@ technologies = {
 
 		categories = {
 			Cat_NAVAL_EQP
-			Cat_CARRIER
+			Cat_modern_carrier
 			Cat_CV
 		}
 	}
-	modern_carrier_2 = { #1985
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_carrier_2" }
+	modern_modern_carrier_2 = { #1985
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_modern_carrier_2" }
 
 		enable_equipments = {
-			carrier_2
+			modern_carrier_2
 		}
 
 		path = {
-			leads_to_tech = modern_carrier_3
+			leads_to_tech = modern_modern_carrier_3
 			research_cost_coeff = 1
 		}
 
@@ -3653,19 +3653,19 @@ technologies = {
 
 		categories = {
 			Cat_NAVAL_EQP
-			Cat_CARRIER
+			Cat_modern_carrier
 			Cat_CV
 		}
 	}
-	modern_carrier_3 = { #2005
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_carrier_3" }
+	modern_modern_carrier_3 = { #2005
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_modern_carrier_3" }
 
 		enable_equipments = {
-			carrier_3
+			modern_carrier_3
 		}
 
 		path = {
-			leads_to_tech = modern_carrier_4
+			leads_to_tech = modern_modern_carrier_4
 			research_cost_coeff = 1
 		}
 
@@ -3708,18 +3708,18 @@ technologies = {
 
 		categories = {
 			Cat_NAVAL_EQP
-			Cat_CARRIER
+			Cat_modern_carrier
 			Cat_CV
 		}
 	}
-	modern_carrier_4 = { #2015
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_carrier_4" }
+	modern_modern_carrier_4 = { #2015
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_modern_carrier_4" }
 
 		enable_equipments = {
-			carrier_4
+			modern_carrier_4
 		}
 		path = {
-			leads_to_tech = modern_carrier_5
+			leads_to_tech = modern_modern_carrier_5
 			research_cost_coeff = 1
 		}
 
@@ -3762,18 +3762,18 @@ technologies = {
 
 		categories = {
 			Cat_NAVAL_EQP
-			Cat_CARRIER
+			Cat_modern_carrier
 			Cat_CV
 		}
 	}
-	modern_carrier_5 = { #2025
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_carrier_5" }
+	modern_modern_carrier_5 = { #2025
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_modern_carrier_5" }
 
 		enable_equipments = {
-			carrier_5
+			modern_carrier_5
 		}
 		path = {
-			leads_to_tech = modern_carrier_6
+			leads_to_tech = modern_modern_carrier_6
 			research_cost_coeff = 1
 		}
 
@@ -3816,15 +3816,15 @@ technologies = {
 
 		categories = {
 			Cat_NAVAL_EQP
-			Cat_CARRIER
+			Cat_modern_carrier
 			Cat_CV
 		}
 	}
-	modern_carrier_6 = { #2035
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_carrier_6" }
+	modern_modern_carrier_6 = { #2035
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech modern_modern_carrier_6" }
 
 		enable_equipments = {
-			carrier_4
+			modern_carrier_4
 		}
 
 		research_cost = 5.4
@@ -3866,7 +3866,7 @@ technologies = {
 
 		categories = {
 			Cat_NAVAL_EQP
-			Cat_CARRIER
+			Cat_modern_carrier
 			Cat_CV
 		}
 	}
@@ -3906,7 +3906,7 @@ technologies = {
 
 		categories = {
 			Cat_NAVAL_EQP
-			Cat_CARRIER
+			Cat_modern_carrier
 			Cat_LHA
 		}
 	}
@@ -3945,7 +3945,7 @@ technologies = {
 
 		categories = {
 			Cat_NAVAL_EQP
-			Cat_CARRIER
+			Cat_modern_carrier
 			Cat_LHA
 		}
 	}
@@ -3991,7 +3991,7 @@ technologies = {
 
 		categories = {
 			Cat_NAVAL_EQP
-			Cat_CARRIER
+			Cat_modern_carrier
 			Cat_LHA
 		}
 	}
@@ -4038,7 +4038,7 @@ technologies = {
 
 		categories = {
 			Cat_NAVAL_EQP
-			Cat_CARRIER
+			Cat_modern_carrier
 			Cat_LHA
 		}
 	}
@@ -4079,7 +4079,7 @@ technologies = {
 
 		categories = {
 			Cat_NAVAL_EQP
-			Cat_CARRIER
+			Cat_modern_carrier
 			Cat_LHA
 		}
 	}
@@ -4123,7 +4123,7 @@ technologies = {
 
 		categories = {
 			Cat_NAVAL_EQP
-			Cat_CARRIER
+			Cat_modern_carrier
 			Cat_LPD
 			Cat_TRANS_SHIP
 		}
@@ -4167,7 +4167,7 @@ technologies = {
 
 		categories = {
 			Cat_NAVAL_EQP
-			Cat_CARRIER
+			Cat_modern_carrier
 			Cat_LPD
 			Cat_TRANS_SHIP
 		}
@@ -4218,7 +4218,7 @@ technologies = {
 
 		categories = {
 			Cat_NAVAL_EQP
-			Cat_CARRIER
+			Cat_modern_carrier
 			Cat_LPD
 			Cat_TRANS_SHIP
 		}
@@ -4270,7 +4270,7 @@ technologies = {
 
 		categories = {
 			Cat_NAVAL_EQP
-			Cat_CARRIER
+			Cat_modern_carrier
 			Cat_LPD
 			Cat_TRANS_SHIP
 		}
@@ -4316,7 +4316,7 @@ technologies = {
 
 		categories = {
 			Cat_NAVAL_EQP
-			Cat_CARRIER
+			Cat_modern_carrier
 			Cat_LPD
 			Cat_TRANS_SHIP
 		}

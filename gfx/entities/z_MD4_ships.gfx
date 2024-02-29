@@ -6,22 +6,22 @@ objectTypes = {
 
 	pdxmesh = {
 		name = "generic_attack_submarine_mesh"
-		file = "gfx/models/units/ships/USA_submarine.mesh"
+		file = "gfx/models/units/ships/USA_modern_submarine.mesh"
 	}
 	pdxmesh = {
 		name = "USA_attack_submarine_mesh"
-		file = "gfx/models/units/ships/USA_attack_submarine.mesh"
+		file = "gfx/models/units/ships/USA_attack_modern_submarine.mesh"
 	}
 	pdxmesh = {
 		name = "CHI_attack_submarine_mesh"
-		file = "gfx/models/units/ships/CHI_attack_submarine.mesh"
+		file = "gfx/models/units/ships/CHI_attack_modern_submarine.mesh"
 	}
 	pdxmesh = {
-		name = "CHI_missile_submarine_mesh"
-		file = "gfx/models/units/ships/CHI_missile_submarine.mesh"
+		name = "CHI_modern_missile_submarine_mesh"
+		file = "gfx/models/units/ships/CHI_missile_modern_submarine.mesh"
 	}
 	pdxmesh = {
-		name = "SOV_missile_submarine_mesh"
+		name = "SOV_modern_missile_submarine_mesh"
 		file = "gfx/models/units/ships/typhoon-class.mesh"
 	}
 
@@ -30,12 +30,12 @@ objectTypes = {
 	####################
 
 	pdxmesh = {
-		name = "generic_missile_submarine_mesh"
-		file = "gfx/models/units/ships/USA_submarine.mesh"
+		name = "generic_modern_missile_submarine_mesh"
+		file = "gfx/models/units/ships/USA_modern_submarine.mesh"
 	}
 	pdxmesh = {
-		name = "USA_missile_submarine_mesh"
-		file = "gfx/models/units/ships/USA_missile_submarine.mesh"
+		name = "USA_modern_missile_submarine_mesh"
+		file = "gfx/models/units/ships/CHI_missile_modern_submarine.mesh"
 	}
 
 	##########################
@@ -44,61 +44,61 @@ objectTypes = {
 
 	pdxmesh = {
 		name = "generic_diesel_attack_submarine_mesh"
-		file = "gfx/models/units/ships/USA_submarine.mesh"
+		file = "gfx/models/units/ships/USA_modern_submarine.mesh"
 	}
 	pdxmesh = {
 		name = "USA_diesel_attack_submarine_mesh"
-		file = "gfx/models/units/ships/USA_submarine.mesh"
+		file = "gfx/models/units/ships/USA_modern_submarine.mesh"
 	}
 
 	###########
-	# CARRIER #
+	# modern_carrier #
 	###########
 
 	pdxmesh = {
-		name = "generic_Nuclear_carrier_mesh"
-		file = "gfx/models/units/ships/USA_carrier.mesh"
+		name = "generic_Nuclear_modern_carrier_mesh"
+		file = "gfx/models/units/ships/USA_modern_carrier.mesh"
 	}
 	pdxmesh = {
-		name = "USA_Nuclear_carrier_mesh"
-		file = "gfx/models/units/ships/USA_carrier.mesh"
-	}
-
-	pdxmesh = {
-		name = "SOV_Nuclear_carrier_mesh"
-		file = "gfx/models/units/ships/SOV_carrier.mesh"
+		name = "USA_Nuclear_modern_carrier_mesh"
+		file = "gfx/models/units/ships/USA_modern_carrier.mesh"
 	}
 
 	pdxmesh = {
-		name = "ENG_Nuclear_carrier_mesh"
-		file = "gfx/models/units/ships/ENG_carrier.mesh"
+		name = "SOV_Nuclear_modern_carrier_mesh"
+		file = "gfx/models/units/ships/SOV_modern_carrier.mesh"
+	}
+
+	pdxmesh = {
+		name = "ENG_Nuclear_modern_carrier_mesh"
+		file = "gfx/models/units/ships/ENG_modern_carrier.mesh"
 	}
 	###########
-	# CARRIER #
+	# modern_carrier #
 	###########
 
 	pdxmesh = {
-		name = "generic_carrier_mesh"
-		file = "gfx/models/units/ships/USA_carrier.mesh"
+		name = "generic_modern_carrier_mesh"
+		file = "gfx/models/units/ships/USA_modern_carrier.mesh"
 	}
 	pdxmesh = {
-		name = "USA_carrier_mesh"
-		file = "gfx/models/units/ships/USA_carrier.mesh"
-	}
-
-	pdxmesh = {
-		name = "SOV_carrier_mesh"
-		file = "gfx/models/units/ships/SOV_carrier.mesh"
-	}
-	pdxmesh = {
-		name = "CHI_carrier_mesh"
-		file = "gfx/models/units/ships/CHI_carrier.mesh"
+		name = "USA_modern_carrier_mesh"
+		file = "gfx/models/units/ships/USA_modern_carrier.mesh"
 	}
 
+	pdxmesh = {
+		name = "SOV_modern_carrier_mesh"
+		file = "gfx/models/units/ships/SOV_modern_carrier.mesh"
+	}
+	pdxmesh = {
+		name = "CHI_modern_carrier_mesh"
+		file = "gfx/models/units/ships/CHI_modern_carrier.mesh"
+	}
+
 
 	pdxmesh = {
-		name = "ENG_carrier_mesh"
-		file = "gfx/models/units/ships/ENG_carrier.mesh"
+		name = "ENG_modern_carrier_mesh"
+		file = "gfx/models/units/ships/ENG_modern_carrier.mesh"
 	}
 	###########
 	#   LHA   #
@@ -106,21 +106,21 @@ objectTypes = {
 
 	pdxmesh = {
 		name = "generic_LHA_mesh"
-		file = "gfx/models/units/ships/USA_carrier.mesh"
+		file = "gfx/models/units/ships/USA_modern_carrier.mesh"
 	}
 	pdxmesh = {
 		name = "USA_LHA_mesh"
-		file = "gfx/models/units/ships/USA_carrier.mesh"
+		file = "gfx/models/units/ships/USA_modern_carrier.mesh"
 	}
 
 	pdxmesh = {
 		name = "SOV_LHA_mesh"
-		file = "gfx/models/units/ships/SOV_carrier.mesh"
+		file = "gfx/models/units/ships/SOV_modern_carrier.mesh"
 	}
 
 	pdxmesh = {
 		name = "ENG_LHA_mesh"
-		file = "gfx/models/units/ships/ENG_carrier.mesh"
+		file = "gfx/models/units/ships/ENG_modern_carrier.mesh"
 	}
 	###########
 	#   LPD   #
@@ -128,31 +128,31 @@ objectTypes = {
 
 	pdxmesh = {
 		name = "generic_LPD_mesh"
-		file = "gfx/models/units/ships/USA_carrier.mesh"
+		file = "gfx/models/units/ships/USA_modern_carrier.mesh"
 	}
 	pdxmesh = {
 		name = "USA_LPD_mesh"
-		file = "gfx/models/units/ships/USA_carrier.mesh"
+		file = "gfx/models/units/ships/USA_modern_carrier.mesh"
 	}
 
 	pdxmesh = {
 		name = "SOV_LPD_mesh"
-		file = "gfx/models/units/ships/SOV_carrier.mesh"
+		file = "gfx/models/units/ships/SOV_modern_carrier.mesh"
 	}
 
 	pdxmesh = {
 		name = "ENG_LPD_mesh"
-		file = "gfx/models/units/ships/ENG_carrier.mesh"
+		file = "gfx/models/units/ships/ENG_modern_carrier.mesh"
 	}
 
 	##############
-	# BATTLESHIP #
+	# modern_battleship #
 	##############
 	pdxmesh = {
-		name = "generic_battleship_mesh"
+		name = "generic_modern_battleship_mesh"
 		file = "gfx/models/units/ships/generic_battleship.mesh"
 
-		animation = { id = "idle"			type = "generic_battleship_idle_animation" }
+		animation = { id = "idle"			type = "generic_battleship_idle_animation"  }
 		animation = { id = "attack"			type = "generic_battleship_attack_animation" }
 		animation = { id = "defend"			type = "generic_battleship_defend_animation" }
 		animation = { id = "damaged_attack"	type = "generic_battleship_attack_animation" }
@@ -162,187 +162,187 @@ objectTypes = {
 	}
 
 	#################
-	# nuclear cruiser #
+	# nuclear modern_cruiser #
 	#################
 
 	pdxmesh = {
-		name = "generic_nuclear_cruiser_mesh"
-		file = "gfx/models/units/ships/USA_light_cruiser.mesh"
+		name = "generic_nuclear_modern_cruiser_mesh"
+		file = "gfx/models/units/ships/USA_light_modern_cruiser.mesh"
 	}
 	pdxmesh = {
-		name = "USA_nuclear_cruiser_mesh"
-		file = "gfx/models/units/ships/USA_light_cruiser.mesh"
-	}
-
-	pdxmesh = {
-		name = "ENG_nuclear_cruiser_mesh"
-		file = "gfx/models/units/ships/ENG_light_cruiser.mesh"
-
+		name = "USA_nuclear_modern_cruiser_mesh"
+		file = "gfx/models/units/ships/USA_light_modern_cruiser.mesh"
 	}
 
 	pdxmesh = {
-		name = "SOV_nuclear_cruiser_mesh"
-		file = "gfx/models/units/ships/SOV_light_cruiser.mesh"
+		name = "ENG_nuclear_modern_cruiser_mesh"
+		file = "gfx/models/units/ships/ENG_light_modern_cruiser.mesh"
 
 	}
 
-	#################
-	# battlecruiser #
-	#################
-
 	pdxmesh = {
-		name = "generic_battle_cruiser_mesh"
-		file = "gfx/models/units/ships/battle_cruiser.mesh"
+		name = "SOV_nuclear_modern_cruiser_mesh"
+		file = "gfx/models/units/ships/SOV_light_modern_cruiser.mesh"
+
 	}
 
 	#################
-	# cruiser #
+	# battlemodern_cruiser #
 	#################
 
 	pdxmesh = {
-		name = "generic_cruiser_mesh"
-		file = "gfx/models/units/ships/USA_light_cruiser.mesh"
+		name = "generic_battle_modern_cruiser_mesh"
+		file = "gfx/models/units/ships/modern_battle_cruiser.mesh"
+	}
+
+	#################
+	# modern_cruiser #
+	#################
+
+	pdxmesh = {
+		name = "generic_modern_cruiser_mesh"
+		file = "gfx/models/units/ships/USA_light_modern_cruiser.mesh"
 	}
 	pdxmesh = {
-		name = "USA_cruiser_mesh"
-		file = "gfx/models/units/ships/USA_light_cruiser.mesh"
+		name = "USA_modern_cruiser_mesh"
+		file = "gfx/models/units/ships/USA_light_modern_cruiser.mesh"
 	}
 	
 	pdxmesh = {
-		name = "CHI_cruiser_mesh"
-		file = "gfx/models/units/ships/CHI_cruiser.mesh"
+		name = "CHI_modern_cruiser_mesh"
+		file = "gfx/models/units/ships/CHI_modern_cruiser.mesh"
 	}
 
 	pdxmesh = {
-		name = "ENG_cruiser_mesh"
-		file = "gfx/models/units/ships/ENG_light_cruiser.mesh"
+		name = "ENG_modern_cruiser_mesh"
+		file = "gfx/models/units/ships/ENG_light_modern_cruiser.mesh"
 
 	}
 
 	pdxmesh = {
-		name = "SOV_cruiser_mesh"
-		file = "gfx/models/units/ships/SOV_light_cruiser.mesh"
+		name = "SOV_modern_cruiser_mesh"
+		file = "gfx/models/units/ships/SOV_light_modern_cruiser.mesh"
 
 	}
 	
 	#####################
-	# STEALTH DESTROYER #
+	# STEALTH modern_destroyer #
 	#####################
 
 	pdxmesh = {
-		name = "generic_stealth_destroyer_mesh"
-		file = "gfx/models/units/ships/USA_destroyer.mesh"
+		name = "generic_stealth_modern_destroyer_mesh"
+		file = "gfx/models/units/ships/USA_modern_destroyer.mesh"
 	}
 	
 	pdxmesh = {
-		name = "USA_stealth_destroyer_mesh"
-		file = "gfx/models/units/ships/USA_stealth_destroyer.mesh"
+		name = "USA_stealth_modern_destroyer_mesh"
+		file = "gfx/models/units/ships/USA_stealth_modern_destroyer.mesh"
 	}
 	
 	pdxmesh = {
-		name = "CHI_stealth_destroyer_mesh"
-		file = "gfx/models/units/ships/CHI_stealth_destroyer.mesh"
+		name = "CHI_stealth_modern_destroyer_mesh"
+		file = "gfx/models/units/ships/CHI_stealth_modern_destroyer.mesh"
 	}
 
 	#############
-	# DESTROYER #
+	# modern_destroyer #
 	#############
 
 	pdxmesh = {
-		name = "generic_destroyer_mesh"
-		file = "gfx/models/units/ships/USA_destroyer.mesh"
+		name = "generic_modern_destroyer_mesh"
+		file = "gfx/models/units/ships/USA_modern_destroyer.mesh"
 	}
 	pdxmesh = {
-		name = "USA_destroyer_mesh"
-		file = "gfx/models/units/ships/USA_destroyer.mesh"
+		name = "USA_modern_destroyer_mesh"
+		file = "gfx/models/units/ships/USA_modern_destroyer.mesh"
 	}
 
 	pdxmesh = {
-		name = "ENG_destroyer_mesh"
-		file = "gfx/models/units/ships/ENG_destroyer.mesh"
+		name = "ENG_modern_destroyer_mesh"
+		file = "gfx/models/units/ships/ENG_modern_destroyer.mesh"
 	}
 	
 	pdxmesh = {
-		name = "CHI_destroyer_mesh"
-		file = "gfx/models/units/ships/CHI_destroyer.mesh"
+		name = "CHI_modern_destroyer_mesh"
+		file = "gfx/models/units/ships/CHI_modern_destroyer.mesh"
 	}
 	
 	pdxmesh = {
-		name = "SOV_destroyer_mesh"
-		file = "gfx/models/units/ships/SOV_destroyer.mesh"
+		name = "SOV_modern_destroyer_mesh"
+		file = "gfx/models/units/ships/SOV_modern_destroyer.mesh"
 	}
 	
 	pdxmesh = {
-		name = "KOR_destroyer_mesh"
-		file = "gfx/models/units/ships/KOR_destroyer.mesh"
+		name = "KOR_modern_destroyer_mesh"
+		file = "gfx/models/units/ships/KOR_modern_destroyer.mesh"
 	}
 	
 	###########
-	# FRIGATE #
+	# modern_frigate #
 	###########
 
 	pdxmesh = {
-		name = "generic_frigate_mesh"
-		file = "gfx/models/units/ships/generic_frigate.mesh"
+		name = "generic_modern_frigate_mesh"
+		file = "gfx/models/units/ships/generic_modern_frigate.mesh"
 	}
 
 	pdxmesh = {
-		name = "ENG_frigate_mesh"
-		file = "gfx/models/units/ships/ENG_frigate.mesh"
+		name = "ENG_modern_frigate_mesh"
+		file = "gfx/models/units/ships/ENG_modern_frigate.mesh"
 	}
 
 	pdxmesh = {
-		name = "SOV_frigate_mesh"
-		file = "gfx/models/units/ships/SOV_frigate.mesh"
+		name = "SOV_modern_frigate_mesh"
+		file = "gfx/models/units/ships/SOV_modern_frigate.mesh"
 	}
 
 	pdxmesh = {
-		name = "USA_frigate_mesh"
-		file = "gfx/models/units/ships/USA_frigate.mesh"
+		name = "USA_modern_frigate_mesh"
+		file = "gfx/models/units/ships/USA_modern_frigate.mesh"
 	}
 	
 	pdxmesh = {
-		name = "CHI_frigate_mesh"
-		file = "gfx/models/units/ships/CHI_frigate.mesh"
+		name = "CHI_modern_frigate_mesh"
+		file = "gfx/models/units/ships/CHI_modern_frigate.mesh"
 	}
 
 	pdxmesh = {
-		name = "GER_frigate_mesh"
-		file = "gfx/models/units/ships/GER_frigate_BW.mesh"
+		name = "GER_modern_frigate_mesh"
+		file = "gfx/models/units/ships/GER_modern_frigate_BW.mesh"
 	}
 
 	pdxmesh = {
-		name = "KOR_frigate_mesh"
-		file = "gfx/models/units/ships/KOR_frigate.mesh"
+		name = "KOR_modern_frigate_mesh"
+		file = "gfx/models/units/ships/KOR_modern_frigate.mesh"
 	}
 
 	############
-	# CORVETTE #
+	# modern_corvette #
 	############
 
 	pdxmesh = {
-		name = "generic_corvette_mesh"
-		file = "gfx/models/units/ships/generic_corvette.mesh"
+		name = "generic_modern_corvette_mesh"
+		file = "gfx/models/units/ships/generic_modern_corvette.mesh"
 	}
 	
 	pdxmesh = {
-		name = "USA_corvette_mesh"
-		file = "gfx/models/units/ships/USA_corvette.mesh"
+		name = "USA_modern_corvette_mesh"
+		file = "gfx/models/units/ships/USA_modern_corvette.mesh"
 	}
 	
 	pdxmesh = {
-		name = "CHI_corvette_mesh"
-		file = "gfx/models/units/ships/CHI_corvette.mesh"
+		name = "CHI_modern_corvette_mesh"
+		file = "gfx/models/units/ships/CHI_modern_corvette.mesh"
 	}
 
 	pdxmesh = {
-		name = "ENG_corvette_mesh"
-		file = "gfx/models/units/ships/ENG_corvette.mesh"
+		name = "ENG_modern_corvette_mesh"
+		file = "gfx/models/units/ships/ENG_modern_corvette.mesh"
 	}
 
 	pdxmesh = {
-		name = "SOV_corvette_mesh"
-		file = "gfx/models/units/ships/SOV_corvette.mesh"
+		name = "SOV_modern_corvette_mesh"
+		file = "gfx/models/units/ships/SOV_modern_corvette.mesh"
 	}
 
 	pdxmesh = {
@@ -358,7 +358,7 @@ objectTypes = {
 	}
 
 	pdxmesh = {
-		name = "KOR_corvette_mesh"
+		name = "KOR_modern_corvette_mesh"
 		file = "gfx/models/units/ships/pcc772.mesh"
 	}
 

@@ -1,6 +1,6 @@
 ﻿l_french:
  ###Defense Companies ---- The defense companies here in this seciton are used for Ship/Heli/Armor and other types of designers
- #Note to Bird: Expand Defense Companies to include more about specific unit "types" such as Corvettes, Frigates, Destroyers etc
+ #Note to Bird: Expand Defense Companies to include more about specific unit "types" such as modern_corvettes, modern_frigates, modern_destroyers etc
  Defense_companies: "Entreprises de défense"
  Generic_naval_manufacturer: "Entreprise navale générique"
  Generic_naval_manufacturer2: "Entreprise de sous-marins générique"
@@ -40,18 +40,18 @@
  Cat_SURFACE_SHIP_9: "Constructeur de navires de surface"
  Cat_SURFACE_SHIP_10: "Constructeur de navires de surface"
 
- Cat_CARRIER: "Porte-avions"
- Cat_CARRIER_research: "Recherche sur les porte-avions"
- Cat_CARRIER_1: "Constructeur de porte-avions"
- Cat_CARRIER_2: "Constructeur de porte-avions"
- Cat_CARRIER_3: "Constructeur de porte-avions"
- Cat_CARRIER_4: "Constructeur de porte-avions"
- Cat_CARRIER_5: "Constructeur de porte-avions"
- Cat_CARRIER_6: "Constructeur de porte-avions"
- Cat_CARRIER_7: "Constructeur de porte-avions"
- Cat_CARRIER_8: "Constructeur de porte-avions"
- Cat_CARRIER_9: "Constructeur de porte-avions"
- Cat_CARRIER_10: "Constructeur de porte-avions"
+ Cat_modern_carrier: "Porte-avions"
+ Cat_modern_carrier_research: "Recherche sur les porte-avions"
+ Cat_modern_carrier_1: "Constructeur de porte-avions"
+ Cat_modern_carrier_2: "Constructeur de porte-avions"
+ Cat_modern_carrier_3: "Constructeur de porte-avions"
+ Cat_modern_carrier_4: "Constructeur de porte-avions"
+ Cat_modern_carrier_5: "Constructeur de porte-avions"
+ Cat_modern_carrier_6: "Constructeur de porte-avions"
+ Cat_modern_carrier_7: "Constructeur de porte-avions"
+ Cat_modern_carrier_8: "Constructeur de porte-avions"
+ Cat_modern_carrier_9: "Constructeur de porte-avions"
+ Cat_modern_carrier_10: "Constructeur de porte-avions"
 
  Cat_NAVAL_ESCORT_1: "Constructeur de navires d'escorte"
  Cat_NAVAL_ESCORT_1_MTG: "Constructeur de navires d'escorte"

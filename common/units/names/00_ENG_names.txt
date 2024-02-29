@@ -25,9 +25,9 @@
 			"Acasta" "Agate" "Aggressor" "Agile" "Aladdin" "Alcestis" "Asgard" "Assurance" "Astarte"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "HMS"
-		generic = { "Destroyer"	}
+		generic = { "modern_destroyer"	}
 		unique = {
 			# Starting with G-class ships
 			"Gallant" "Garland" "Gipsy" "Glowworm" "Grafton" "Grenade" "Grenville" "Greyhound" "Griffin" "Hardy" "Hasty" "Havock" "Hereward" "Hero" "Hostile" "Hotspur" "Hunter" "Hyperion"
@@ -57,9 +57,9 @@
 			"Cutlass" "Dagger" "Culverin" "Howitzer" "Longbow" "Sword" "Musket" "Lance" "Carronade" "Claymore" "Dirk" "Grenade" "Halberd" "Poniard" "Rifle" "Spear"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "HMS"
-		generic = { "Light Cruiser" }
+		generic = { "Light modern_cruiser" }
 		unique = {
 			# Starting with Leander class (less HMNZS ships)
 			"Ajax" "Neptune" "Orion" "Amphion" "Apollo" "Arethusa" "Aurora" "Galatea" "Penelope" "Southampton" "Birmingham" "Glasgow" "Newcastle" "Sheffield" "Gloucester" "Liverpool"
@@ -72,9 +72,9 @@
 			"Enterprise" "Achilles" "Ajax" "Leander" "Neptune" "Orion"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "HMS"
-		generic = { "Heavy Cruiser" }
+		generic = { "Heavy modern_cruiser" }
 		unique = {
 			"Cavendish" "Raleigh" "Imperieuse" "Orlando" "Blake" "Surrey" "Blenheim"
 			"Hawkins" "Frobisher" "Effingham" "Cumberland" "Berwick" "Cornwall" "Suffolk" "Kent" "London" "Devonshire" "Shropshire" "Sussex" "Norfolk" "Dorsetshire"
@@ -84,26 +84,26 @@
 			"Diadem" "Niobe" "Amphitrite" "Ariadne" "Spartiate" "Hogue" "Bacchante" "Euryalus" "Drake" "Good Hope" "Essex" "Hampshire" "Carnarvon" "Antrim" "Roxburgh" "Argyll" "Duke of Edinburgh" "Cochrane"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "HMS"
-		generic = { "Battlecruiser" }
+		generic = { "Battlemodern_cruiser" }
 		unique = {
 			"Anson" "Howe" "Jellicoe" "Beatty" "Resistance" "Incomparable" "Invincible" "Inflexible" "Indomitable" "Indefatigable" "Princess Royal" "Queen Mary" "Tiger"
 			"Renown" "Repulse" "Courageous" "Glorious" "Furious" "Hood" "Rodney"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "HMS"
-		generic = { "Battleship" }
+		generic = { "modern_battleship" }
 		unique = {
 			"King George V" "Prince of Wales" "Duke of York" "Anson" "Howe" "Jellicoe" "Beatty" "Lion" "Temeraire" "Conqueror" "Thunderer" "Vanguard" "Agincourt" "Resistance"
 			"Bellerophon" "Superb" "St Vincent" "Collingwood" "Neptune" "Colossus" "Hercules" "Orion" "Monarch" "Centurion" "Audacious" "Ajax" "Erin" "Iron Duke" "Marlborough"
 			"Benbow" "Emperor of India" "Warspite" "Valiant" "Barham" "Malaya" "Revenge" "Resolution" "Royal Oak" "Royal Sovereign" "Ramillies" "Renown" "Repulse" "Nelson" "Rodney"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "HMS"
-		generic = { "Carrier" }
+		generic = { "modern_carrier" }
 		unique = {
 			"Queen Elizabeth" "Prince of Wales" "Ark Royal" "Illustrious" "Formidable" "Victorious" "Indomitable" "Implacable" "Indefatigable"
 			"Unicorn" "Colossus" "Glory" "Ocean" "Theseus" "Triumph" "Venerable" "Vengeance" "Warrior" "Perseus" "Pioneer"

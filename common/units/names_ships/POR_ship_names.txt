@@ -1,13 +1,13 @@
 ﻿##### Portugal NAME LISTS #####
 
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 POR_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { POR }
 
 	type = ship
-	ship_types = { stealth_destroyer destroyer }
+	ship_types = { stealth_modern_destroyer modern_destroyer }
 
 	prefix = "NRP "
 	fallback_name = "DDG-%d"
@@ -17,12 +17,12 @@ POR_DD_HISTORICAL = {
 	}
 }
 
-POR_FRIGATES_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATES
+POR_modern_frigateS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigateS
 	for_countries = { POR }
 	type = ship
 	ship_types = {
-		frigate
+		modern_frigate
 	}
 	prefix = "NRP "
 	fallback_name = "FFG-%d"
@@ -32,14 +32,14 @@ POR_FRIGATES_HISTORICAL = {
 	}
 }
 
-### CORVETTE NAMES ###
-POR_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+POR_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { POR }
 	prefix = "NRP "
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	fallback_name = "KKG-%d"
 
 	unique = {
@@ -53,7 +53,7 @@ POR_SUBMARINES_HISTORICAL = {
 	prefix = "NRP "
 	type = ship
 	ship_types = {
-		attack_submarine missile_submarine
+		attack_submarine modern_missile_submarine
 	}
 	fallback_name = "SS-%d"
 }

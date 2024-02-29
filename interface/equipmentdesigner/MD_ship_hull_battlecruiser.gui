@@ -1,10 +1,10 @@
-################# Equipment Designer Window layouts: Cruiser Hulls (new format examples) #################
+################# Equipment Designer Window layouts: modern_cruiser Hulls (new format examples) #################
 
 guiTypes = {
 
-	################# Equipment Archetype: cruiser #################
+	################# Equipment Archetype: modern_cruiser #################
 	containerWindowType = {
-		name = "equipment_designer_battle_cruiser"
+		name = "equipment_designer_battle_modern_cruiser"
 		# NOTE: to keep aligned with the window "equipment_modules" in equipmentdesignerview.gui
 		position = { x=0 y=0 }
 		size = { width=512 height=260 }
@@ -16,7 +16,7 @@ guiTypes = {
 
 		iconType = {
 			name = "equipment_image"
-			spriteType = "GFX_SD_tv_battle_cruiser"
+			spriteType = "GFX_SD_tv_battle_modern_cruiser"
 			position = { x=0 y=0 }
 		}
 

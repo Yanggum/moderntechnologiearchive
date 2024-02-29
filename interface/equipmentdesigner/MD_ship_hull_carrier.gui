@@ -2,9 +2,9 @@
 
 guiTypes = {
 
-	################# Equipment Archetype: equipment_designer_carrier #################
+	################# Equipment Archetype: equipment_designer_modern_carrier #################
 	containerWindowType = {
-		name = "equipment_designer_carrier"
+		name = "equipment_designer_modern_carrier"
 		# NOTE: to keep aligned with the window "equipment_modules" in equipmentdesignerview.gui
 		position = { x=0 y=0 }
 		size = { width=512 height=260 }
@@ -16,7 +16,7 @@ guiTypes = {
 
 		iconType = {
 			name = "equipment_image"
-			spriteType = "GFX_SD_tv_carrier"
+			spriteType = "GFX_SD_tv_modern_carrier"
 			position = { x=0 y=0 }
 		}
 

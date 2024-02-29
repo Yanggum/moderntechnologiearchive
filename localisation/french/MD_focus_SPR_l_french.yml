@@ -897,7 +897,7 @@ l_french:
  SPR_floan: "FLOAN"
  SPR_floan_desc: "The FLOAN division of our navy is the aircraft wing of our navy. It supports naval operations around our coast."
  SPR_floans_dream: "FLOAN's Dream"
- SPR_floans_dream_desc: "We do not currently possess a carrier but it would be the dream of our navy to poesess one of these grand vessels."
+ SPR_floans_dream_desc: "We do not currently possess a modern_carrier but it would be the dream of our navy to poesess one of these grand vessels."
  SPR_capital_ship_modernization: "Capital Ship Modernization"
  SPR_capital_ship_modernization_desc: "Our heavier vessels appear to have some outdated technologies on-board. Modernizing the equipment will keep the equipment up-to-date and competitive against some of the other nations we may come into contact with."
  SPR_spanish_armada_resurgent: "Spanish Armada Resurgent"

@@ -47,11 +47,11 @@ ideas = {
 			allowed_civil_war = { always = yes }
 			on_add = { log = "[GetDateText]: [Root.GetName]: add idea green_water_navy_hidden_spirit" }
 			equipment_bonus = {
-				corvette = {
+				modern_corvette = {
 					build_cost_ic = -0.1
 					instant = yes
 				}
-				frigate = {
+				modern_frigate = {
 					build_cost_ic = -0.1
 					instant = yes
 				}
@@ -66,31 +66,31 @@ ideas = {
 			allowed_civil_war = { always = yes }
 			on_add = { log = "[GetDateText]: [Root.GetName]: add idea green_water_navy_hidden_spirit" }
 			equipment_bonus = {
-				corvette = {
+				modern_corvette = {
 					build_cost_ic = -0.05
 					instant = yes
 				}
-				frigate = {
+				modern_frigate = {
 					build_cost_ic = -0.05
 					instant = yes
 				}
-				destroyer = {
+				modern_destroyer = {
 					build_cost_ic = -0.05
 					instant = yes
 				}
-				stealth_destroyer = {
+				stealth_modern_destroyer = {
 					build_cost_ic = 5
 					instant = yes
 				}
-				cruiser = {
+				modern_cruiser = {
 					build_cost_ic = 5
 					instant = yes
 				}
-				battle_cruiser = {
+				battle_modern_cruiser = {
 					build_cost_ic = 7
 					instant = yes
 				}
-				battleship_hull_0 = {
+				modern_battleship_hull_0 = {
 					build_cost_ic = 7
 					instant = yes
 				}
@@ -98,7 +98,7 @@ ideas = {
 					build_cost_ic = 8
 					instant = yes
 				}
-				carrier = {
+				modern_carrier = {
 					build_cost_ic = 8
 					instant = yes
 				}
@@ -117,7 +117,7 @@ ideas = {
 					build_cost_ic = -0.25
 					instant = yes
 				}
-				missile_submarine = {
+				modern_missile_submarine = {
 					build_cost_ic = 3
 					instant = yes
 				}
@@ -132,15 +132,15 @@ ideas = {
 			allowed_civil_war = { always = yes }
 			on_add = { log = "[GetDateText]: [Root.GetName]: add idea conscript_navy_hidden_spirit" }
 			equipment_bonus = {
-				corvette = {
+				modern_corvette = {
 					build_cost_ic = -0.05
 					instant = yes
 				}
-				frigate = {
+				modern_frigate = {
 					build_cost_ic = -0.05
 					instant = yes
 				}
-				patrol_boat = {
+				modern_patrol_boat = {
 					build_cost_ic = -0.05
 					instant = yes
 				}

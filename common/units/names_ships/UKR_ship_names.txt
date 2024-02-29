@@ -1,10 +1,10 @@
 ﻿##### UKRAINE NAME LISTS #####
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 UKR_DD = {
-	name = NAME_THEME_MODERN_DESTROYERS
+	name = NAME_THEME_MODERN_modern_destroyerS
 
 	for_countries = { UKR }
-	ship_types = { destroyer stealth_destroyer }
+	ship_types = { modern_destroyer stealth_modern_destroyer }
 
 	type = ship
 	fallback_name = "Esminets UE-4%d"
@@ -19,10 +19,10 @@ UKR_DD = {
 
 ### FREGAT NAMES###
 UKR_FRE = {
-	name = NAME_THEME_MODERN_FRIGATES
+	name = NAME_THEME_MODERN_modern_frigateS
 
 	for_countries = { UKR }
-	ship_types = { frigate }
+	ship_types = { modern_frigate }
 	type = ship
 	fallback_name = "FREGAT UF-3%d"
 
@@ -35,12 +35,12 @@ UKR_FRE = {
 }
 
 
-### CORVETTE NAMES###
+### modern_corvette NAMES###
 UKR_COR = {
-	name = NAME_THEME_MODERN_CORVETTES
+	name = NAME_THEME_MODERN_modern_corvetteS
 
 	for_countries = { UKR }
-	ship_types = { corvette_1 corvette }
+	ship_types = { modern_corvette_1 modern_corvette }
 	type = ship
 	fallback_name = "Corvet UK-2%d"
 
@@ -52,12 +52,12 @@ UKR_COR = {
 	}
 }
 
-### CRUISER NAMES###
+### modern_cruiser NAMES###
 UKR_CA = {
-	name = NAME_THEME_MODERN_CRUISERS
+	name = NAME_THEME_MODERN_modern_cruiserS
 
 	for_countries = { UKR }
-	ship_types = { cruiser }
+	ship_types = { modern_cruiser }
 	type = ship
 	fallback_name = "Kreiser U-1%d"
 
@@ -73,12 +73,12 @@ UKR_CA = {
 }
 
 
-### BATTLESHIP NAMES ###
+### modern_battleship NAMES ###
 UKR_BB = {
 	name = NAME_THEME_HISTORICAL_BB
 
 	for_countries = { UKR }
-	ship_types = { cruiser battleship }
+	ship_types = { modern_cruiser modern_battleship }
 	type = ship
 	fallback_name = "Liniini korabel UL-0%d"
 
@@ -88,14 +88,14 @@ UKR_BB = {
 	}
 }
 
-### BATTLECRUISER NAMES ###
+### BATTLEmodern_cruiser NAMES ###
 UKR_BC_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_BC
 
 	for_countries = { UKR }
 
 	type = ship
-	ship_types = { battle_cruiser }
+	ship_types = { battle_modern_cruiser }
 
 	fallback_name = "Raketnii Kreiser URK-0%d"
 
@@ -104,12 +104,12 @@ UKR_BC_HISTORICAL = {
 	}
 }
 
-### AIRCRAFT CARRIER NAMES ###
+### AIRCRAFT modern_carrier NAMES ###
 UKR_CV = {
-	name = NAME_THEME_MODERN_CARRIERS
+	name = NAME_THEME_MODERN_modern_carrierS
 
 	for_countries = { UKR }
-	ship_types = { carrier }
+	ship_types = { modern_carrier }
 
 	type = ship
 
@@ -121,9 +121,9 @@ UKR_CV = {
 }
 
 
-### LHA/LHD CARRIER NAMES ###
+### LHA/LHD modern_carrier NAMES ###
 UKR_LHA_LHD = {
-	name = NAME_THEME_MODERN_HELICOPTER_CARRIERS
+	name = NAME_THEME_MODERN_HELICOPTER_modern_carrierS
 
 	for_countries = { UKR }
 		ship_types = { helicopter_operator }
@@ -149,7 +149,7 @@ UKR_SS = {
 	for_countries = { UKR }
 
 	type = ship
-	ship_types = { missile_submarine attack_submarine }
+	ship_types = { modern_missile_submarine attack_submarine }
 
 	fallback_name = "Pidvodni Choven U%d"
 

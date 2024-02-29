@@ -1,9 +1,9 @@
-﻿SIA_AIRCRAFT_CARRIERS_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_AIRCRAFT_CARRIERS
+﻿SIA_AIRCRAFT_modern_carrierS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_AIRCRAFT_modern_carrierS
 	for_countries = { SIA }
 	type = ship
 	ship_types = {
-		carrier
+		modern_carrier
 	}
 	fallback_name = "CV-%d"
 
@@ -12,8 +12,8 @@
 	}
 }
 
-SIA_HELICOPTER_CARRIERS_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_HELICOPTER_CARRIERS
+SIA_HELICOPTER_modern_carrierS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_HELICOPTER_modern_carrierS
 	for_countries = { SIA }
 	type = ship
 	ship_types = {
@@ -26,13 +26,13 @@ SIA_HELICOPTER_CARRIERS_HISTORICAL = {
 	}
 }
 
-SIA_DESTROYERS_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+SIA_modern_destroyerS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 	for_countries = { SIA }
 	type = ship
 	ship_types = {
-		stealth_destroyer
-		destroyer
+		stealth_modern_destroyer
+		modern_destroyer
 	}
 	fallback_name = "DDG-%d"
 
@@ -42,12 +42,12 @@ SIA_DESTROYERS_HISTORICAL = {
 	}
 }
 
-SIA_FRIGATES_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATES
+SIA_modern_frigateS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigateS
 	for_countries = { SIA }
 	type = ship
 	ship_types = {
-		frigate
+		modern_frigate
 	}
 	fallback_name = "FFG-%d"
 
@@ -56,14 +56,14 @@ SIA_FRIGATES_HISTORICAL = {
 	}
 }
 
-### CORVETTE NAMES ###
-SIA_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+SIA_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { SIA }
 
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	fallback_name = "KKG-%d"
 
 	unique = {
@@ -76,7 +76,7 @@ SIA_SUBMARINES_HISTORICAL = {
 	for_countries = { SIA }
 	type = ship
 	ship_types = {
-		attack_submarine missile_submarine
+		attack_submarine modern_missile_submarine
 	}
 	fallback_name = "SS-%d"
 }

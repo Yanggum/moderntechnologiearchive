@@ -3,14 +3,14 @@
 #### Fictional Prefix: CRS (CROATIAN REPUBLIC SHIP)
 #### Uses NATO Hull Designations as Fallback names
 
-### AIRCRAFT CARRIER NAMES ###
+### AIRCRAFT modern_carrier NAMES ###
 CRO_CV_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CARRIERS
+	name = NAME_THEME_HISTORICAL_modern_carrierS
 
 	for_countries = { CRO }
 
 	type = ship
-	ship_types = { carrier }
+	ship_types = { modern_carrier }
 
 	prefix = "CRS "
 	fallback_name = "CVN-%d"
@@ -22,7 +22,7 @@ CRO_CV_HISTORICAL = {
 
 ### HELICOPTER OPERATOR NAMES ###
 CRO_LHA_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_HELICOPTER_CARRIERS
+	name = NAME_THEME_HISTORICAL_HELICOPTER_modern_carrierS
 
 	for_countries = { CRO }
 
@@ -37,14 +37,14 @@ CRO_LHA_HISTORICAL = {
 	}
 }
 
-### CRUISER NAMES###
-CRO_CRUISERS_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CRUISER
+### modern_cruiser NAMES###
+CRO_modern_cruiserS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_cruiser
 
 	for_countries = { CRO }
 
 	type = ship
-	ship_types = { battle_cruiser cruiser }
+	ship_types = { battle_modern_cruiser modern_cruiser }
 
 	prefix = "CRS "
 	fallback_name = "CGN-%d"
@@ -54,14 +54,14 @@ CRO_CRUISERS_HISTORICAL = {
 	}
 }
 
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 CRO_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { CRO }
 
 	type = ship
-	ship_types = { stealth_destroyer destroyer }
+	ship_types = { stealth_modern_destroyer modern_destroyer }
 
 	prefix = "CRS "
 	fallback_name = "DDG-%d"
@@ -71,14 +71,14 @@ CRO_DD_HISTORICAL = {
 	}
 }
 
-### FRIGATE NAMES###
-CRO_FRIGATE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATE
+### modern_frigate NAMES###
+CRO_modern_frigate_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigate
 
 	for_countries = { CRO }
 
 	type = ship
-	ship_types = { frigate }
+	ship_types = { modern_frigate }
 
 	prefix = "CRS "
 	fallback_name = "FFG-%d"
@@ -89,14 +89,14 @@ CRO_FRIGATE_HISTORICAL = {
 }
 
 
-### CORVETTE NAMES ###
-CRO_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+CRO_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { CRO }
 
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	prefix = "CRS "
 	fallback_name = "KKG-%d"
 
@@ -106,13 +106,13 @@ CRO_CORVETTE_HISTORICAL = {
 }
 
 ### MISSILE SUBMARINES NAMES ###
-CRO_MISSILE_SUBMARINE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_MISSILE_SUBMARINES
+CRO_modern_missile_submarine_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_missile_submarineS
 
 	for_countries = { CRO }
 
 	type = ship
-	ship_types = { missile_submarine }
+	ship_types = { modern_missile_submarine }
 
 	prefix = "CRS "
 	fallback_name = "SSGN-%d"

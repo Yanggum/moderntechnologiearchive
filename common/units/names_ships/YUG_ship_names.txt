@@ -24,7 +24,7 @@ YUGOSLAV_LEADERS_HISTORICAL = {
 
 ### ORG HELICOPTER OPERATOR NAMES ###
 YUGOSLAV_LHA_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_HELICOPTER_CARRIERS
+	name = NAME_THEME_HISTORICAL_HELICOPTER_modern_carrierS
 
 	for_countries = { SER }
 
@@ -44,9 +44,9 @@ YUGOSLAV_LHA_HISTORICAL = {
 }
 
 
-### ORG CRUISER NAMES###
-YUGOSLAV_CRUISERS_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CRUISER
+### ORG modern_cruiser NAMES###
+YUGOSLAV_modern_cruiserS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_cruiser
 
 	for_countries = { SER }
 
@@ -55,7 +55,7 @@ YUGOSLAV_CRUISERS_HISTORICAL = {
 	}
 
 	type = ship
-	ship_types = { battle_cruiser cruiser }
+	ship_types = { battle_modern_cruiser modern_cruiser }
 
 	prefix = "VPBR "
 	fallback_name = "CGN-%d"
@@ -66,9 +66,9 @@ YUGOSLAV_CRUISERS_HISTORICAL = {
 }
 
 
-### ORG DESTROYER NAMES###
+### ORG modern_destroyer NAMES###
 YUGOSLAV_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { SER }
 
@@ -77,7 +77,7 @@ YUGOSLAV_DD_HISTORICAL = {
 	}
 
 	type = ship
-	ship_types = { stealth_destroyer destroyer }
+	ship_types = { stealth_modern_destroyer modern_destroyer }
 
 	prefix = "RE "
 	fallback_name = "DDG-%d"
@@ -88,9 +88,9 @@ YUGOSLAV_DD_HISTORICAL = {
 }
 
 
-### FRIGATE NAMES###
-YUGOSLAV_FRIGATE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATE
+### modern_frigate NAMES###
+YUGOSLAV_modern_frigate_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigate
 
 	for_countries = { SER }
 
@@ -99,7 +99,7 @@ YUGOSLAV_FRIGATE_HISTORICAL = {
 	}
 
 	type = ship
-	ship_types = { frigate }
+	ship_types = { modern_frigate }
 
 	prefix = "TČ "
 	fallback_name = "FFG-%d"
@@ -110,9 +110,9 @@ YUGOSLAV_FRIGATE_HISTORICAL = {
 }
 
 
-### CORVETTE NAMES ###
-YUGOSLAV_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+YUGOSLAV_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { SER }
 
@@ -121,7 +121,7 @@ YUGOSLAV_CORVETTE_HISTORICAL = {
 	}
 
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 
 	prefix = "PČ "
 	fallback_name = "KKG-%d"
@@ -132,8 +132,8 @@ YUGOSLAV_CORVETTE_HISTORICAL = {
 }
 
 ### MISSILE SUBMARINES NAMES ###
-YUGOSLAV_MISSILE_SUBMARINE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_MISSILE_SUBMARINES
+YUGOSLAV_modern_missile_submarine_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_missile_submarineS
 
 	for_countries = { SER }
 	can_use = {
@@ -141,7 +141,7 @@ YUGOSLAV_MISSILE_SUBMARINE_HISTORICAL = {
 	}
 
 	type = ship
-	ship_types = { missile_submarine }
+	ship_types = { modern_missile_submarine }
 
 	prefix = "ROCS "
 	fallback_name = "SSGN-%d"
@@ -158,7 +158,7 @@ YUGOSLAV_SS_HISTORICAL = {
 
 	type = ship
 	#ship_types = { ship_hull_submarine submarine }
-	ship_types = { attack_submarine missile_submarine }
+	ship_types = { attack_submarine modern_missile_submarine }
 
 	prefix = "ROCS "
 	fallback_name = "SSN-%d"

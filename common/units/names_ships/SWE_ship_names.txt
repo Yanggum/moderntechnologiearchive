@@ -1,12 +1,12 @@
 ﻿##### SWEDEN NAME LISTS #####
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 SWE_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { SWE }
 
 	type = ship
-	ship_types = { ship_hull_light corvette frigate destroyer }
+	ship_types = { ship_hull_light modern_corvette modern_frigate modern_destroyer }
 
 	prefix = "HMS "
 	fallback_name = "Jagare %d"
@@ -20,14 +20,14 @@ SWE_DD_HISTORICAL = {
 	}
 }
 
-### LIGHT CRUISER NAMES###
+### LIGHT modern_cruiser NAMES###
 SWE_CL_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_CL
 
 	for_countries = { SWE }
 
 	type = ship
-	ship_types = { ship_hull_cruiser light_cruiser cruiser }
+	ship_types = { ship_hull_modern_cruiser light_modern_cruiser modern_cruiser }
 
 	prefix = "HMS "
 	fallback_name = "Lätt Kryśsare %d"
@@ -39,14 +39,14 @@ SWE_CL_HISTORICAL = {
 	}
 }
 
-### HEAVY CRUISER NAMES###
+### HEAVY modern_cruiser NAMES###
 SWE_CA_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_CA
 
 	for_countries = { SWE }
 
 	type = ship
-	ship_types = { ship_hull_cruiser heavy_cruiser cruiser battle_cruiser }
+	ship_types = { ship_hull_modern_cruiser heavy_modern_cruiser modern_cruiser battle_modern_cruiser }
 
 	prefix = "HMS "
 	fallback_name = "Tung Kryśsare %d"
@@ -59,14 +59,14 @@ SWE_CA_HISTORICAL = {
 }
 
 
-### BATTLESHIP NAMES ###
+### modern_battleship NAMES ###
 SWE_BB_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_BB
 
 	for_countries = { SWE }
 
 	type = ship
-	ship_types = { ship_hull_heavy battleship battleship_hull_0 }
+	ship_types = { ship_hull_heavy modern_battleship modern_battleship_hull_0 }
 
 	prefix = "HMS "
 	fallback_name = "Slagskepp %d"
@@ -76,14 +76,14 @@ SWE_BB_HISTORICAL = {
 	}
 }
 
-### BATTLECRUISER NAMES ###
+### BATTLEmodern_cruiser NAMES ###
 SWE_BC_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_BC
 
 	for_countries = { SWE }
 
 	type = ship
-	ship_types = { ship_hull_heavy battle_cruiser }
+	ship_types = { ship_hull_heavy battle_modern_cruiser }
 
 	prefix = "HMS "
 	fallback_name = "Stridsskepp %d"
@@ -93,14 +93,14 @@ SWE_BC_HISTORICAL = {
 	}
 }
 
-### AIRCRAFT CARRIER NAMES ###
+### AIRCRAFT modern_carrier NAMES ###
 SWE_CV_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CARRIERS
+	name = NAME_THEME_HISTORICAL_modern_carrierS
 
 	for_countries = { SWE }
 
 	type = ship
-	ship_types = { carrier }
+	ship_types = { modern_carrier }
 
 	prefix = "HMS "
 	fallback_name = "Hangarfartyg %d"
@@ -117,7 +117,7 @@ SWE_SS_HISTORICAL = {
 	for_countries = { SWE }
 
 	type = ship
-	ship_types = { ship_hull_submarine submarine attack_submarine missile_submarine }
+	ship_types = { ship_hull_submarine submarine attack_submarine modern_missile_submarine }
 
 	prefix = "HMS "
 	fallback_name = "Ubåt %d"

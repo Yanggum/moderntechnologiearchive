@@ -1,9 +1,9 @@
 ﻿##### Britain NAME LISTS Republic #####
 #### USES FICTIONAL PREFIX: UKS (United Kingdom Ship)
 
-### AIRCRAFT CARRIER NAMES ###
+### AIRCRAFT modern_carrier NAMES ###
 ENG_REPUBLIC_CV_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CARRIERS
+	name = NAME_THEME_HISTORICAL_modern_carrierS
 
 	for_countries = { ENG }
 
@@ -12,10 +12,10 @@ ENG_REPUBLIC_CV_HISTORICAL = {
 	}
 
 	type = ship
-	ship_types = { carrier }
+	ship_types = { modern_carrier }
 
 	prefix = "UKS"
-	fallback_name = "Carrier %d"
+	fallback_name = "modern_carrier %d"
 
 	unique = {
 		"Illustrious" "Formidable" "Victorious" "Implacable" "Indefatigable" "Audacious" "Eagle" "Europa" "Andromeda" "Centaur" "Albion" "Bulwark" "Elephant" "Leviathan" "Arrogant" "Monmouth" "Polyphemus"
@@ -25,7 +25,7 @@ ENG_REPUBLIC_CV_HISTORICAL = {
 
 ### LHA NAMES ###
 ENG_REPUBLIC_LHA_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_HELICOPTER_CARRIERS
+	name = NAME_THEME_HISTORICAL_HELICOPTER_modern_carrierS
 
 	for_countries = { ENG }
 
@@ -37,7 +37,7 @@ ENG_REPUBLIC_LHA_HISTORICAL = {
 		ship_types = { helicopter_operator }
 
 	prefix = "UKS"
-	fallback_name = "Helicopter Carrier %d"
+	fallback_name = "Helicopter modern_carrier %d"
 
 	unique = {
 		# CVL Names
@@ -45,9 +45,9 @@ ENG_REPUBLIC_LHA_HISTORICAL = {
 	}
 }
 
-### CRUISER NAMES###
-ENG_REPUBLIC_CRUISER_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CRUISER
+### modern_cruiser NAMES###
+ENG_REPUBLIC_modern_cruiser_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_cruiser
 
 	for_countries = { ENG }
 
@@ -56,10 +56,10 @@ ENG_REPUBLIC_CRUISER_HISTORICAL = {
 	}
 
 	type = ship
-	ship_types = { battle_cruiser cruiser }
+	ship_types = { battle_modern_cruiser modern_cruiser }
 
 	prefix = "UKS"
-	fallback_name = "Cruiser %d"
+	fallback_name = "modern_cruiser %d"
 
 	unique = {
 		# Starting with Leander class (less HMNZS ships)
@@ -77,9 +77,9 @@ ENG_REPUBLIC_CRUISER_HISTORICAL = {
 }
 
 
-### DESTROYER NAMES###
+### modern_destroyer NAMES###
 ENG_REPUBLIC_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { ENG }
 
@@ -88,10 +88,10 @@ ENG_REPUBLIC_DD_HISTORICAL = {
 	}
 
 	type = ship
-	ship_types = { stealth_destroyer destroyer }
+	ship_types = { stealth_modern_destroyer modern_destroyer }
 
 	prefix = "UKS"
-	fallback_name = "Destroyer %d"
+	fallback_name = "modern_destroyer %d"
 
 	unique = {
 		# Starting with Hunt class ships
@@ -101,9 +101,9 @@ ENG_REPUBLIC_DD_HISTORICAL = {
 	}
 }
 
-### FRIGATE NAMES###
-ENG_REPUBLIC_FRIGATE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATE
+### modern_frigate NAMES###
+ENG_REPUBLIC_modern_frigate_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigate
 
 	for_countries = { ENG }
 
@@ -112,10 +112,10 @@ ENG_REPUBLIC_FRIGATE_HISTORICAL = {
 	}
 
 	type = ship
-	ship_types = { frigate }
+	ship_types = { modern_frigate }
 
 	prefix = "UKS"
-	fallback_name = "Destroyer %d"
+	fallback_name = "modern_destroyer %d"
 
 	unique = {
 		# Starting with G-class ships
@@ -125,9 +125,9 @@ ENG_REPUBLIC_FRIGATE_HISTORICAL = {
 }
 
 
-### CORVETTE NAMES ###
-ENG_REPUBLIC_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+ENG_REPUBLIC_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { ENG }
 
@@ -136,9 +136,9 @@ ENG_REPUBLIC_CORVETTE_HISTORICAL = {
 	}
 
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	prefix = "UKS"
-	fallback_name = "Corvette-%d"
+	fallback_name = "modern_corvette-%d"
 
 	unique = {
 		"Bedale" "Silverton" "Tickham" "Bolebroke" "Border" "Eskdale" "Glaisdale" "Haldon" "Hatherleigh" "Modbury" "Leeds" "Lewes" "Ludlow" "Bath" "Brighton" "Campbelltown" "Caldwell" "Castleton" "Charlestown" "Chelsea" "Columbia" "Georgetown" "Hamilton" "Lancaster" "Leamington" "Lincoln" "Mansfield" "Montgomery" "Newark" "Newmarket" "Newport" "Niagara" "Richmond" "Roxburgh" "St. Albans" "St. Clair" "St. Mary's" "Salisbury" "Wells" "Belmont" "Beverley" "Bradford" "Broadwater" "Broadway" "Burnham" "Burwell" "Buxton" "Cameron" "Chesterfield" "Churchill" "Clare" "Ramsey" "Reading" "Ripley" "Rockingham" "Sherwood" "Stanley"
@@ -152,8 +152,8 @@ ENG_REPUBLIC_CORVETTE_HISTORICAL = {
 }
 
 ### MISSILE SUBMARINES NAMES ###
-ENG_REPUBLIC_MISSILE_SUBMARINE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_MISSILE_SUBMARINES
+ENG_REPUBLIC_modern_missile_submarine_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_missile_submarineS
 
 	for_countries = { ENG }
 
@@ -162,7 +162,7 @@ ENG_REPUBLIC_MISSILE_SUBMARINE_HISTORICAL = {
 	}
 
 	type = ship
-	ship_types = { missile_submarine }
+	ship_types = { modern_missile_submarine }
 
 	prefix = "UKS"
 	fallback_name = "Missile Submarine %d"

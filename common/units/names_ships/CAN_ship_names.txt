@@ -1,15 +1,15 @@
 ﻿##### CANADA NAME LISTS #####
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 CAN_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { CAN }
 
 	type = ship
-	ship_types = { ship_hull_light destroyer }
+	ship_types = { ship_hull_light modern_destroyer }
 
 	prefix = "HMCS "
-	fallback_name = "Destroyer %s"
+	fallback_name = "modern_destroyer %s"
 
 	unique = {
 		"Fraser" "St. Laurent" "Ottawa" "Restigouche" "Assiniboine" "Margaree" "Kootenay"
@@ -24,17 +24,17 @@ CAN_DD_HISTORICAL = {
 }
 
 
-### LIGHT CRUISER NAMES###
+### LIGHT modern_cruiser NAMES###
 CAN_CL_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_CL
 
 	for_countries = { CAN }
 
 	type = ship
-	ship_types = { ship_hull_cruiser light_cruiser }
+	ship_types = { ship_hull_modern_cruiser light_modern_cruiser }
 
 	prefix = "HMCS "
-	fallback_name = "Light Cruiser %s"
+	fallback_name = "Light modern_cruiser %s"
 
 	unique = {
 		"Ontario" "Québec" "Aurora" "Rainbow" "Niobe" "British Columbia" "Nova Scotia" "New Brunswick" "Manitoba" "Alberta" "Saskatchewan"
@@ -45,17 +45,17 @@ CAN_CL_HISTORICAL = {
 	}
 }
 
-### HEAVY CRUISER NAMES###
+### HEAVY modern_cruiser NAMES###
 CAN_CA_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_CA
 
 	for_countries = { CAN }
 
 	type = ship
-	ship_types = { ship_hull_cruiser heavy_cruiser }
+	ship_types = { ship_hull_modern_cruiser heavy_modern_cruiser }
 
 	prefix = "HMCS "
-	fallback_name = "Heavy Cruiser %s"
+	fallback_name = "Heavy modern_cruiser %s"
 
 	unique = {
 		"Kingston" "Ontario" "Québec" "British Columbia" "Nova Scotia" "New Brunswick" "Manitoba" "Alberta" "Saskatchewan"
@@ -66,51 +66,51 @@ CAN_CA_HISTORICAL = {
  	}
 }
 
-### BATTLESHIP NAMES ###
+### modern_battleship NAMES ###
 CAN_BB_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_BB
 
 	for_countries = { CAN }
 
 	type = ship
-	ship_types = { ship_hull_heavy battleship }
+	ship_types = { ship_hull_heavy modern_battleship }
 
 	prefix = "HMCS "
-	fallback_name = "Battleship %s"
+	fallback_name = "modern_battleship %s"
 
 	unique = {
 		"Canada" "Dominion" "Ontario" "Québec" "British Columbia" "Nova Scotia" "New Brunswick" "Manitoba" "Alberta" "Saskatchewan" "Prince Edward Island"
 	}
 }
 
-### BATTLECRUISER NAMES ###
+### BATTLEmodern_cruiser NAMES ###
 CAN_BC_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_BC
 
 	for_countries = { CAN }
 
 	type = ship
-	ship_types = { ship_hull_heavy battle_cruiser }
+	ship_types = { ship_hull_heavy battle_modern_cruiser }
 
 	prefix = "HMCS "
-	fallback_name = "Battlecruiser %s"
+	fallback_name = "Battlemodern_cruiser %s"
 
 	unique = {
 		"Canada" "Dominion" "Ontario" "Québec" "British Columbia" "Nova Scotia" "New Brunswick" "Manitoba" "Alberta" "Saskatchewan" "Prince Edward Island"
 	}
 }
 
-### AIRCRAFT CARRIER NAMES ###
+### AIRCRAFT modern_carrier NAMES ###
 CAN_CV_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CARRIERS
+	name = NAME_THEME_HISTORICAL_modern_carrierS
 
 	for_countries = { CAN }
 
 	type = ship
-	ship_types = { carrier }
+	ship_types = { modern_carrier }
 
 	prefix = "HMCS "
-	fallback_name = "Carrier %s"
+	fallback_name = "modern_carrier %s"
 
 	unique = {
 		"Warrior" "Magnificent" "Bonaventure" "Powerful" "Nabob" "Puncher"
@@ -140,7 +140,7 @@ CAN_MODERN_SUBMARINE_NAMES = {
 	name = NAME_THEME_MODERN_SUBMARINES
 	for_countries = { CAN }
 	type = ship
-	ship_types = { attack_submarine missile_submarine }
+	ship_types = { attack_submarine modern_missile_submarine }
 
 	prefix = "HMCS "
 	fallback_name = "%d "
@@ -151,11 +151,11 @@ CAN_MODERN_SUBMARINE_NAMES = {
 	}
 }
 
-CAN_MODERN_DESTROYERS_NAMES = {
-	name = NAME_THEME_MODERN_DESTROYERS
+CAN_MODERN_modern_destroyerS_NAMES = {
+	name = NAME_THEME_MODERN_modern_destroyerS
 	for_countries = { CAN }
 	type = ship
-	ship_types = { destroyer }
+	ship_types = { modern_destroyer }
 
 	prefix = "HMCS "
 	fallback_name = "%d "
@@ -166,11 +166,11 @@ CAN_MODERN_DESTROYERS_NAMES = {
 	}
 }
 
-CAN_MODERN_FRIGATE_NAMES = {
-	name = NAME_THEME_MODERN_FRIGATES
+CAN_MODERN_modern_frigate_NAMES = {
+	name = NAME_THEME_MODERN_modern_frigateS
 	for_countries = { CAN }
 	type = ship
-	ship_types = { frigate }
+	ship_types = { modern_frigate }
 
 	prefix = "HMCS "
 	fallback_name = "F%d "
@@ -181,11 +181,11 @@ CAN_MODERN_FRIGATE_NAMES = {
 	}
 }
 
-CAN_MODERN_CORVETTE_NAMES = {
-	name = NAME_THEME_MODERN_CORVETTES
+CAN_MODERN_modern_corvette_NAMES = {
+	name = NAME_THEME_MODERN_modern_corvetteS
 	for_countries = { CAN }
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 
 	prefix = "HMCS "
 	fallback_name = "F%d "
@@ -197,10 +197,10 @@ CAN_MODERN_CORVETTE_NAMES = {
 }
 
 CAN_MODERN_CV_NAMES = {
-	name = NAME_THEME_MODERN_CARRIERS
+	name = NAME_THEME_MODERN_modern_carrierS
 	for_countries = { CAN }
 	type = ship
-	ship_types = { carrier }
+	ship_types = { modern_carrier }
 
 	prefix = "HMCS "
 	fallback_name = "F%d "

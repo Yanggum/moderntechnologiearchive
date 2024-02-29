@@ -23,10 +23,10 @@
 			"Diablo" "Medregal" "Requin" "Irex" "Sea Leopard" "Odax" "Sirago" "Pomodon" "Remora" "Sarda" "Spinax" "Volador" "Comber" "Sea Panther" "Tiburon" "Kinn" "Springeren"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "USS"
 		generic = {
-			"Destroyer"
+			"modern_destroyer"
 		}
 		unique = {
 			"John Finn" "Ralph Johnson" "Rafael Peralta" "Thomas Hudner" "Paul Ignatius" "Daniel Inouye" "Delbert D. Black" "Carl M. Levin" "Frank E. Petersen Jr." "John Basilone" "Lenah H. Sutcliffe Higbee" "Harvey C. Barnum Jr." "Jack H. Lucas" "Louis H. Wilson, Jr." "Dewey" "Hull" "Macdonough" "Worden" "Dale" "Monaghan" "Aylwin" "Porter" "Selfridge" "McDougal" "Winslow" "Phelps" "Clark" "Moffett" "Balch"
@@ -60,9 +60,9 @@
 			"Morton" "Parsons" "Richard S Edwards" "Turner Joy" "Charles F Adams" "John King" "Lawrence" "Biddle" "Barney" "Henry B Wilson " "Lynde McCormick" "Towers"
 			}
 		}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "USS"
-		generic = { "Light Cruiser" }
+		generic = { "Light modern_cruiser" }
 		unique = {
 			# From Wiki (Built/Served/Fought)
 			"Omaha" "Milwaukee" "Cincinnati" "Raleigh" "Detroit" "Richmond" "Concord" "Trenton" "Marblehead" "Memphis" "Brooklyn" "Philadelphia" "Savannah" "Nashville" "Phoenix" "Boise" "Honolulu"
@@ -73,9 +73,9 @@
 			"Newark" "New Haven" "Buffalo" "Wilmington" "Vallejo" "Roanoke" "Tallahassee" "Cheyenne" "Chattanooga" "Worcester" "Gary" "Providence" "Portsmouth"
 			}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "USS"
-		generic = { "Heavy Cruiser" }
+		generic = { "Heavy modern_cruiser" }
 		unique = {
 			"Pensacola" "Salt Lake City" "Northampton" "Chester" "Louisville" "Chicago" "Houston" "Augusta"
 			"New Orleans" "Portland" "Astoria" "Indianapolis" "Minneapolis" "Tuscaloosa" "San Francisco" "Quincy" "Vincennes" "Wichita"
@@ -85,9 +85,9 @@
 			"Cambridge" "Bridgeport" "Kansas City" "Tulsa" "Norfolk" "Scranton" "Dallas" "Vallejo" "Gary"
 			}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "USS"
-		generic = { "Battle Cruiser" }
+		generic = { "Battle modern_cruiser" }
 		unique = {
 			#wiki: Historic list of Alaska Class
 			"Alaska" "Guam" "Hawaii" "Philippines" "Puerto Rico" "Samoa" "Virgin Islands"
@@ -95,9 +95,9 @@
 			"District of Columbia" "Panama Canal" "Wake Island" "Midway Island" "Johnston Atoll" "Palmyra Island" "Baker Island" "Howland Island" "Jarvis Island"
 			}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "USS"
-		generic = { "Battleship" }
+		generic = { "modern_battleship" }
 		unique = {
 			# From Wiki (Served)
 			"Arkansas" "New York" "Texas" "Nevada" "Oklahoma" "Pennsylvania" "Arizona" "New Mexico" "Mississippi" "Idaho" "Tennessee" "California" "Colorado" "Maryland" "West Virginia"
@@ -110,9 +110,9 @@
 			"Wyoming"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "USS"
-		generic = { "Carrier" }
+		generic = { "modern_carrier" }
 		unique = {
 			"John F. Kennedy" "Enterprise" "Independence" "Bill Clinton" "George W. Bush" "Barrack H. Obama" "Donald J. Trump" "Lexington" "Saratoga" "Ranger" "Yorktown" "Enterprise" "Hornet"
 			"Essex" "Intrepid" "Franklin" "Ticonderoga" "Randolph" "Bunker Hill" "Hancock" "Bennington" "Boxer" "Bon Homme Richard" "Shangri-la" "Lake Champlain" "Tarawa" "Antietam"
@@ -175,7 +175,7 @@
 	cv_small_modern_plane_airframe = {
 		prefix = ""
 		generic = { "VMFA-" }
-		generic_pattern = AIR_WING_NAME_USA_CARRIER
+		generic_pattern = AIR_WING_NAME_USA_modern_carrier
 		unique = {
 		"VMFA-112" "VMFA-115" "VMFA-121" "VMFA-122" "VMFA-211" "VMFA-214" "VMFA(AW)-224" "VMFA-225" "VMFA-232" "VMFA-242" "VMFA-312" "VMFA-314" "VMFA-323" "VMFA(AW)-533" "VMFA-542"
 		}
@@ -184,7 +184,7 @@
 	cv_small_modern_plane_strike_airframe = {
 		prefix = ""
 		generic = { "VMA-" }
-		generic_pattern = AIR_WING_NAME_USA_CARRIER
+		generic_pattern = AIR_WING_NAME_USA_modern_carrier
 		unique = {
 		"VMA-223" "VMA-231"
 		}
@@ -193,7 +193,7 @@
 	cv_small_modern_plane_naval_bomber_airframe = {
 		prefix = ""
 		generic = { "VMFA-" }
-		generic_pattern = AIR_WING_NAME_USA_CARRIER
+		generic_pattern = AIR_WING_NAME_USA_modern_carrier
 		unique = {
 		"VMFA-112" "VMFA-115" "VMFA-121" "VMFA-122" "VMFA-211" "VMFA-214" "VMFA(AW)-224" "VMFA-225" "VMFA-232" "VMFA-242" "VMFA-312" "VMFA-314" "VMFA-323" "VMFA(AW)-533" "VMFA-542"
 		}
@@ -202,7 +202,7 @@
 	cv_small_modern_plane_suicide_airframe = {
 		prefix = ""
 		generic = { "VMU-" }
-		generic_pattern = AIR_WING_NAME_USA_CARRIER
+		generic_pattern = AIR_WING_NAME_USA_modern_carrier
 		unique = {
 		"VMU-1" "VMU-2" "VMU-3" "VMU-4"
 		}
@@ -238,7 +238,7 @@
 	medium_modern_plane_maritime_patrol_airframe = {
 		prefix = ""
 		generic = { "VP-" }
-		generic_pattern = AIR_WING_NAME_USA_CARRIER
+		generic_pattern = AIR_WING_NAME_USA_modern_carrier
 		unique = {
 		"VP-1" "VP-4" "VP-8" "VP-9" "VP-10" "VP-16" "VP-26" "VP-30" "VP-40" "VP-45" "VP-46"
 		}
@@ -264,7 +264,7 @@
 	cv_medium_modern_plane_airframe = {
 		prefix = ""
 		generic = { "VFA-" }
-		generic_pattern = AIR_WING_NAME_USA_CARRIER
+		generic_pattern = AIR_WING_NAME_USA_modern_carrier
 		unique = {
 		"VFA-2" "VFA-11" "VFA-14" "VFA-22" "VFA-25" "VFA-27" "VFA-31" "VFA-32" "VFA-34" "VFA-37" "VFA-41" "VFA-81" "VFA-83" "VFA-86" "VFA-87" "VFA-94" "VFA-97" "VFA-102" "VFA-103" "VFA-105" "VFA-106" "VFA-113" "VFA-115" "VFA-122" "VFA-125" "VFA-131" "VFA-136" "VFA-137" "VFA-143" "VFA-146" "VFA-147" "VFA-151" "VFA-154" "VFA-192" "VFA-195" "VFA-311" "VFA-213"
 		}
@@ -273,7 +273,7 @@
 	cv_medium_modern_plane_fighter_airframe = {
 		prefix = ""
 		generic = { "VF-" }
-		generic_pattern = AIR_WING_NAME_USA_CARRIER
+		generic_pattern = AIR_WING_NAME_USA_modern_carrier
 		unique = {
 		"VF-1" "VF-2" "VF-11" "VF-14" "VF-21" "VF-24" "VF-31" "VF-32" "VF-33" "VF-41" "VF-51" "VF-74" "VF-84" "VF-101" "VF-102" "VF-103" "VF-111" "VF-114" "VF-124" "VF-142" "VF-143" "VF-154" "VF-191" "VF-194" "VF-201" "VF-202" "VF-211" "VF-213" "VF-301" "VF-302"
 		}
@@ -282,7 +282,7 @@
 	cv_medium_modern_plane_cas_airframe = {
 		prefix = ""
 		generic = { "VA-" }
-		generic_pattern = AIR_WING_NAME_USA_CARRIER
+		generic_pattern = AIR_WING_NAME_USA_modern_carrier
 		unique = {
 		"VA-34" "VA-35" "VA-36" "VA-42" "VA-52" "VA-55" "VA-65" "VA-75" "VA-85" "VA-95" "VA-115" "VA-128" "VA-145" "VA-155" "VA-165" "VA-196" "VA-205" "VA-304"
 		}
@@ -291,7 +291,7 @@
 	cv_medium_modern_plane_maritime_patrol_airframe = {
 		prefix = ""
 		generic = { "VP-" }
-		generic_pattern = AIR_WING_NAME_USA_CARRIER
+		generic_pattern = AIR_WING_NAME_USA_modern_carrier
 		unique = {
 		"VP-1" "VP-4" "VP-8" "VP-9" "VP-10" "VP-16" "VP-26" "VP-30" "VP-40" "VP-45" "VP-46"
 		}
@@ -300,7 +300,7 @@
 	cv_medium_modern_plane_air_transport_airframe = {
 		prefix = ""
 		generic = { "VRC-" }
-		generic_pattern = AIR_WING_NAME_USA_CARRIER
+		generic_pattern = AIR_WING_NAME_USA_modern_carrier
 		unique = {
 		"VRC-30" "VRC-40"
 		}
@@ -309,7 +309,7 @@
 	cv_medium_plane_scout_airframe = {
 		prefix = ""
 		generic = { "VAW-" }
-		generic_pattern = AIR_WING_NAME_USA_CARRIER
+		generic_pattern = AIR_WING_NAME_USA_modern_carrier
 		unique = {
 		"VAW-113" "VAW-115" "VAW-116" "VAW-117" "VAW-120" "VAW-121" "VAW-123" "VAW-124" "VAW-125" "VAW-126"
 		}
@@ -371,7 +371,7 @@
 	transport_helicopter_equipment = {
 		prefix = ""
 		generic = { "Helicopter Squadron" }
-		generic_pattern = AIR_WING_NAME_USA_CARRIER
+		generic_pattern = AIR_WING_NAME_USA_modern_carrier
 		unique = {
 		}
 	}

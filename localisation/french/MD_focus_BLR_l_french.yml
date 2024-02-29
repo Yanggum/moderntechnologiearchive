@@ -94,7 +94,7 @@
  BLR_start_distribution: "Starting the Distribution"
  BLR_start_distribution_desc: "The car is ready, now it remains to establish conveyor production"
  BLR_volatv2: "Volat V-2"
- BLR_volatv2_desc: "MZKT-690003 Volat V-2 is a Belarusian all—wheel drive armored personnel carrier with an 8x8 wheel formula."
+ BLR_volatv2_desc: "MZKT-690003 Volat V-2 is a Belarusian all—wheel drive armored personnel modern_carrier with an 8x8 wheel formula."
  BLR_kaiman: "Kaiman"
  BLR_kaiman_desc: "MBTS Kaiman - is a Belarusian armored reconnaissance and patrol vehicle."
  BLR_b200_Polonez: "B-200 Polonez"
@@ -226,7 +226,7 @@
  BLR_buy_mig_fleet: "Mig 29"
  BLR_buy_mig_fleet_desc: "Russia is ready to sell us several fighters at a good discount."
  BLR_su33: "Sukhoi Su-33"
- BLR_su33_desc: "The Sukhoi Su-33 is an all-weather carrier-based twin-engine air superiority fighter designed by Sukhoi and manufactured by Komsomolsk-on-Amur Aircraft Production Association, derived from the Su-27 and initially known as the Su-27K. Compared with the Su-27, the Su-33 has a strengthened undercarriage and structure, folding wings and stabilators, all for carrier operations. The Su-33 has canards, and its wings are larger than the Su-27 for a slower stall speed. The Su-33 has upgraded engines and a twin nose wheel, and is air refuelable."
+ BLR_su33_desc: "The Sukhoi Su-33 is an all-weather modern_carrier-based twin-engine air superiority fighter designed by Sukhoi and manufactured by Komsomolsk-on-Amur Aircraft Production Association, derived from the Su-27 and initially known as the Su-27K. Compared with the Su-27, the Su-33 has a strengthened undercarriage and structure, folding wings and stabilators, all for modern_carrier operations. The Su-33 has canards, and its wings are larger than the Su-27 for a slower stall speed. The Su-33 has upgraded engines and a twin nose wheel, and is air refuelable."
  BLR_kornet: "9M133 Kornet"
  BLR_kornet_desc: "The 9M133 Kornet is a second generation Russian man-portable anti-tank guided missile intended for use against main battle tanks. It was first introduced into service with the Russian army in 1998."
  BLR_zsu23m: "ZSU-23-4 Shilka"
@@ -1367,11 +1367,11 @@
  BLR_140zadov_category: "140th Repair Plant"
  BLR_140zadov_category_desc: "The 140th Repair Plant is a state-owned enterprise of the military—industrial complex of Belarus, which specializes in the repair and modernization of armored vehicles and engines for it"
  BLR_140_btr60: "BTR-60MB1"
- BLR_140_btr60_desc: "One of the Belarusian variants of modernization of the Soviet armored personnel carrier BTR-60PB."
+ BLR_140_btr60_desc: "One of the Belarusian variants of modernization of the Soviet armored personnel modern_carrier BTR-60PB."
  BLR_140_btr70: "BTR-70MB1"
- BLR_140_btr70_desc: "One of the Belarusian variants of modernization of the Soviet armored personnel carrier BTR-70."
+ BLR_140_btr70_desc: "One of the Belarusian variants of modernization of the Soviet armored personnel modern_carrier BTR-70."
  BLR_140_kobra_k: "Cobra-K"
- BLR_140_kobra_k_desc: "One of the Belarusian-Slovak variants of modernization of the Soviet armored personnel carrier BTR-70."
+ BLR_140_kobra_k_desc: "One of the Belarusian-Slovak variants of modernization of the Soviet armored personnel modern_carrier BTR-70."
 
 
 

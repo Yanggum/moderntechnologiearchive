@@ -362,18 +362,18 @@ GER = {
 		}
 	}
 
-	light_tank_destroyer_chassis = {
+	light_tank_modern_destroyer_chassis = {
 		pool = {
 			icons = {
-				GFX_GER_light_fixed_AFA #Basic Tank Destroyer
-				GFX_GER_light_fixed_AFB #Basic Tank Destroyer
-				GFX_GER_light_fixed_AFC #Basic Tank Destroyer
-				GFX_GER_light_fixed_BFA #Improved Tank Destroyer
-				GFX_GER_light_fixed_BFB #Improved Tank Destroyer
-				GFX_GER_light_fixed_BFC #Improved Tank Destroyer
-				GFX_GER_light_fixed_CFA #Advanced Tank Destroyer
-				GFX_GER_light_fixed_CFB #Advanced Tank Destroyer
-				GFX_GER_light_fixed_CFC #Advanced Tank Destroyer
+				GFX_GER_light_fixed_AFA #Basic Tank modern_destroyer
+				GFX_GER_light_fixed_AFB #Basic Tank modern_destroyer
+				GFX_GER_light_fixed_AFC #Basic Tank modern_destroyer
+				GFX_GER_light_fixed_BFA #Improved Tank modern_destroyer
+				GFX_GER_light_fixed_BFB #Improved Tank modern_destroyer
+				GFX_GER_light_fixed_BFC #Improved Tank modern_destroyer
+				GFX_GER_light_fixed_CFA #Advanced Tank modern_destroyer
+				GFX_GER_light_fixed_CFB #Advanced Tank modern_destroyer
+				GFX_GER_light_fixed_CFC #Advanced Tank modern_destroyer
 			}
 		}
 		pool = {
@@ -385,12 +385,12 @@ GER = {
 			}
 		}
 	}
-	light_tank_destroyer_chassis_0 = {
+	light_tank_modern_destroyer_chassis_0 = {
 		pool = {
 			icons = {
-				GFX_GER_light_fixed_AFA #Basic Tank Destroyer -> Pick oldest tank
-				GFX_GER_light_fixed_AFB #Basic Tank Destroyer -> Pick oldest tank
-				GFX_GER_light_fixed_AFC #Basic Tank Destroyer -> Pick oldest tank
+				GFX_GER_light_fixed_AFA #Basic Tank modern_destroyer -> Pick oldest tank
+				GFX_GER_light_fixed_AFB #Basic Tank modern_destroyer -> Pick oldest tank
+				GFX_GER_light_fixed_AFC #Basic Tank modern_destroyer -> Pick oldest tank
 			}
 		}
 		pool = {
@@ -401,12 +401,12 @@ GER = {
 			}
 		}
 	}
-	light_tank_destroyer_chassis_1 = {
+	light_tank_modern_destroyer_chassis_1 = {
 		pool = {
 			icons = {
-				GFX_GER_light_fixed_AFA #Basic Tank Destroyer
-				GFX_GER_light_fixed_AFB #Basic Tank Destroyer
-				GFX_GER_light_fixed_AFC #Basic Tank Destroyer
+				GFX_GER_light_fixed_AFA #Basic Tank modern_destroyer
+				GFX_GER_light_fixed_AFB #Basic Tank modern_destroyer
+				GFX_GER_light_fixed_AFC #Basic Tank modern_destroyer
 			}
 		}
 		pool = {
@@ -417,12 +417,12 @@ GER = {
 			}
 		}
 	}
-	light_tank_destroyer_chassis_2 = {
+	light_tank_modern_destroyer_chassis_2 = {
 		pool = {
 			icons = {
-				GFX_GER_light_fixed_BFA #Improved Tank Destroyer
-				GFX_GER_light_fixed_BFB #Improved Tank Destroyer
-				GFX_GER_light_fixed_BFC #Improved Tank Destroyer
+				GFX_GER_light_fixed_BFA #Improved Tank modern_destroyer
+				GFX_GER_light_fixed_BFB #Improved Tank modern_destroyer
+				GFX_GER_light_fixed_BFC #Improved Tank modern_destroyer
 			}
 		}
 		pool = {
@@ -433,12 +433,12 @@ GER = {
 			}
 		}
 	}
-	light_tank_destroyer_chassis_3 = {
+	light_tank_modern_destroyer_chassis_3 = {
 		pool = {
 			icons = {
-				GFX_GER_light_fixed_CFA #Advanced Tank Destroyer
-				GFX_GER_light_fixed_CFB #Advanced Tank Destroyer
-				GFX_GER_light_fixed_CFC #Advanced Tank Destroyer
+				GFX_GER_light_fixed_CFA #Advanced Tank modern_destroyer
+				GFX_GER_light_fixed_CFB #Advanced Tank modern_destroyer
+				GFX_GER_light_fixed_CFC #Advanced Tank modern_destroyer
 			}
 		}
 	}
@@ -675,7 +675,7 @@ GER = {
 		}
 	}
 
-	medium_tank_destroyer_chassis = {
+	medium_tank_modern_destroyer_chassis = {
 		pool = {
 			limit = { has_dlc = "Death or Dishonor" }
 			weight = 2
@@ -686,7 +686,7 @@ GER = {
 			}
 		}
 	}
-	medium_tank_destroyer_chassis_0 = {
+	medium_tank_modern_destroyer_chassis_0 = {
 		
 		pool = {
 			limit = { has_dlc = "Death or Dishonor" }
@@ -696,7 +696,7 @@ GER = {
 			}
 		}
 	}
-	medium_tank_destroyer_chassis_1 = {
+	medium_tank_modern_destroyer_chassis_1 = {
 		
 		pool = {
 			limit = { has_dlc = "Death or Dishonor" }
@@ -706,7 +706,7 @@ GER = {
 			}
 		}
 	}
-	medium_tank_destroyer_chassis_2 = {
+	medium_tank_modern_destroyer_chassis_2 = {
 		pool = {
 			limit = { has_dlc = "Death or Dishonor" }
 			weight = 2
@@ -715,7 +715,7 @@ GER = {
 			}
 		}
 	}
-	medium_tank_destroyer_chassis_3 = {
+	medium_tank_modern_destroyer_chassis_3 = {
 		pool = {
 			limit = { has_dlc = "Death or Dishonor" }
 			weight = 2
@@ -908,23 +908,23 @@ GER = {
 		}
 	}
 
-	heavy_tank_destroyer_chassis = {
+	heavy_tank_modern_destroyer_chassis = {
 		pool = {
 			icons = { #German Generic heavy tanks naming is messed up (of course! how could it not? :D ) So a heavy_AXX is Improved (instead of basic), heavy_BXX is Advanced (instead of improved) and a heavy_CXX is Basic (instead of advanced)
 				# Basic
-				GFX_GER_heavy_fixed_CFA #Basic Heavy Tank Destroyer -> Grosstraktor chassis
- 				GFX_GER_heavy_fixed_CFB #Basic Heavy Tank Destroyer -> Grosstraktor chassis
- 				GFX_GER_heavy_fixed_CFC #Basic Heavy Tank Destroyer -> Grosstraktor chassis
+				GFX_GER_heavy_fixed_CFA #Basic Heavy Tank modern_destroyer -> Grosstraktor chassis
+ 				GFX_GER_heavy_fixed_CFB #Basic Heavy Tank modern_destroyer -> Grosstraktor chassis
+ 				GFX_GER_heavy_fixed_CFC #Basic Heavy Tank modern_destroyer -> Grosstraktor chassis
 
  				#Improved
- 				GFX_GER_heavy_fixed_AFA #Improved Heavy Tank Destroyer -> Panzerjäger Tiger chassis (Improved Heavy SPAT)
- 				GFX_GER_heavy_fixed_AFB #Improved Heavy Tank Destroyer -> Panzerjäger Tiger chassis (Improved Heavy SPAT)
- 				GFX_GER_heavy_fixed_AFC #Improved Heavy Tank Destroyer -> Panzerjäger Tiger chassis (Improved Heavy SPAT)
+ 				GFX_GER_heavy_fixed_AFA #Improved Heavy Tank modern_destroyer -> Panzerjäger Tiger chassis (Improved Heavy SPAT)
+ 				GFX_GER_heavy_fixed_AFB #Improved Heavy Tank modern_destroyer -> Panzerjäger Tiger chassis (Improved Heavy SPAT)
+ 				GFX_GER_heavy_fixed_AFC #Improved Heavy Tank modern_destroyer -> Panzerjäger Tiger chassis (Improved Heavy SPAT)
 
  				#Advanced -> No idea really they don't look advanced but wouldn't make sense in terms of naming otherwise (naming doesn't make sense anyways tbh)
- 				GFX_GER_heavy_fixed_BFA #Advanced Heavy Tank Destroyer -> Looks like Panzer VI chassis (Imrpoved Heavy Tank)
- 				GFX_GER_heavy_fixed_BFB #Advanced Heavy Tank Destroyer -> Looks like Panzer VI chassis (Imrpoved Heavy Tank)
- 				GFX_GER_heavy_fixed_BFC #Advanced Heavy Tank Destroyer -> Looks like Panzer VI chassis (Improved Heavy Tank)
+ 				GFX_GER_heavy_fixed_BFA #Advanced Heavy Tank modern_destroyer -> Looks like Panzer VI chassis (Imrpoved Heavy Tank)
+ 				GFX_GER_heavy_fixed_BFB #Advanced Heavy Tank modern_destroyer -> Looks like Panzer VI chassis (Imrpoved Heavy Tank)
+ 				GFX_GER_heavy_fixed_BFC #Advanced Heavy Tank modern_destroyer -> Looks like Panzer VI chassis (Improved Heavy Tank)
 			}
 		}
 		pool = {
@@ -936,30 +936,30 @@ GER = {
 			}
 		}
 	}
-	heavy_tank_destroyer_chassis_0 = {
+	heavy_tank_modern_destroyer_chassis_0 = {
 		pool = {
 			icons = {
-				GFX_GER_heavy_fixed_CFA #Pick oldest tank (Basic Heavy Tank Destroyer)
- 				GFX_GER_heavy_fixed_CFB #Pick oldest tank (Basic Heavy Tank Destroyer)
- 				GFX_GER_heavy_fixed_CFC #Pick oldest tank (Basic Heavy Tank Destroyer)
+				GFX_GER_heavy_fixed_CFA #Pick oldest tank (Basic Heavy Tank modern_destroyer)
+ 				GFX_GER_heavy_fixed_CFB #Pick oldest tank (Basic Heavy Tank modern_destroyer)
+ 				GFX_GER_heavy_fixed_CFC #Pick oldest tank (Basic Heavy Tank modern_destroyer)
 			}
 		}
 	}
-	heavy_tank_destroyer_chassis_1 = {
+	heavy_tank_modern_destroyer_chassis_1 = {
 		pool = {
 			icons = {
-				GFX_GER_heavy_fixed_CFA #Basic Heavy Tank Destroyer
- 				GFX_GER_heavy_fixed_CFB #Basic Heavy Tank Destroyer
- 				GFX_GER_heavy_fixed_CFC #Basic Heavy Tank Destroyer
+				GFX_GER_heavy_fixed_CFA #Basic Heavy Tank modern_destroyer
+ 				GFX_GER_heavy_fixed_CFB #Basic Heavy Tank modern_destroyer
+ 				GFX_GER_heavy_fixed_CFC #Basic Heavy Tank modern_destroyer
 			}
 		}
 	}
-	heavy_tank_destroyer_chassis_2 = {
+	heavy_tank_modern_destroyer_chassis_2 = {
 		pool = {
 			icons = {
-				GFX_GER_heavy_fixed_AFA #Improved Heavy Tank Destroyer
- 				GFX_GER_heavy_fixed_AFB #Improved Heavy Tank Destroyer
- 				GFX_GER_heavy_fixed_AFC #Improved Heavy Tank Destroyer
+				GFX_GER_heavy_fixed_AFA #Improved Heavy Tank modern_destroyer
+ 				GFX_GER_heavy_fixed_AFB #Improved Heavy Tank modern_destroyer
+ 				GFX_GER_heavy_fixed_AFC #Improved Heavy Tank modern_destroyer
 			}
 		}
 		pool = {
@@ -970,12 +970,12 @@ GER = {
 			}
 		}
 	}
-	heavy_tank_destroyer_chassis_3 = {
+	heavy_tank_modern_destroyer_chassis_3 = {
 		pool = {
 			icons = {
-				GFX_GER_heavy_fixed_BFA #Advanced Heavy Tank Destroyer
- 				GFX_GER_heavy_fixed_BFB #Advanced Heavy Tank Destroyer
- 				GFX_GER_heavy_fixed_BFC #Advanced Heavy Tank Destroyer
+				GFX_GER_heavy_fixed_BFA #Advanced Heavy Tank modern_destroyer
+ 				GFX_GER_heavy_fixed_BFB #Advanced Heavy Tank modern_destroyer
+ 				GFX_GER_heavy_fixed_BFC #Advanced Heavy Tank modern_destroyer
 			}
 		}
 		pool = {
@@ -1931,7 +1931,7 @@ ENG = {
 		}
 	}
 	
-	light_tank_destroyer_chassis_2 = {
+	light_tank_modern_destroyer_chassis_2 = {
 		pool = {
 			weight = 1.1
 			icons = { GFX_ENG_light_BCC }
@@ -2024,7 +2024,7 @@ ENG = {
 		}
 	}
 	
-	medium_tank_destroyer_chassis_1 = {
+	medium_tank_modern_destroyer_chassis_1 = {
 		pool = {
 			weight = 1.1
 			icons = { 
@@ -2100,7 +2100,7 @@ ENG = {
 		}
 	}
 	
-	medium_tank_destroyer_chassis_3 = {
+	medium_tank_modern_destroyer_chassis_3 = {
 		pool = {
 			weight = 1.1
 			icons = { 
@@ -2630,7 +2630,7 @@ JAP = {
 		}
 	}
 	
-	light_tank_destroyer_chassis_2 = {
+	light_tank_modern_destroyer_chassis_2 = {
 		pool = {
 			icons = { GFX_JAP_light_BAB_camo }
 		}
@@ -9916,7 +9916,7 @@ FIN = {
 			icons = { 
 				#GFX_FIN_gwtank_medium #Don't show GW tank in modern techs
 				GFX_FIN_improved_light_art_medium
-				GFX_FIN_gw_tank_destroyer_vickers_medium
+				GFX_FIN_gw_tank_modern_destroyer_vickers_medium
 				GFX_FIN_basic_light_tank_medium
 				GFX_FIN_improved_light_tank_medium
 				GFX_FIN_advanced_light_tank_medium
@@ -9947,7 +9947,7 @@ FIN = {
 		pool = {
 			weight = 2
 			icons = {
-				GFX_FIN_gw_tank_destroyer_vickers_medium
+				GFX_FIN_gw_tank_modern_destroyer_vickers_medium
 				GFX_FIN_gw_tank_renault_medium
 				GFX_FIN_gwtank_medium
 				GFX_FIN_gw_light_tank_medium
@@ -9991,11 +9991,11 @@ FIN = {
 		}
 	}
 
-	light_tank_destroyer_chassis = {
+	light_tank_modern_destroyer_chassis = {
 		pool = {
 			weight = 0.9 #So that normal light tanks go first if not Inter-War chassis
 			icons = {
-				GFX_FIN_gw_tank_destroyer_vickers_medium
+				GFX_FIN_gw_tank_modern_destroyer_vickers_medium
 			}
 			models = {
 				#TODO_Manu: In the future, check if maybe normal Vickers model makes sense
@@ -10003,11 +10003,11 @@ FIN = {
 		}
 	}
 
-	light_tank_destroyer_chassis_0 = {
+	light_tank_modern_destroyer_chassis_0 = {
 		pool = {
 			weight = 2
 			icons = {
-				GFX_FIN_gw_tank_destroyer_vickers_medium
+				GFX_FIN_gw_tank_modern_destroyer_vickers_medium
 			}
 			models = {
 				#TODO_Manu: In the future, check if maybe normal Vickers model makes sense
@@ -10039,7 +10039,7 @@ FIN = {
 			}
 			models = {
 				#FIN_medium_gw_armor_0_entity #T-28 #Don't show GW Tank in modern techs
-				FIN_medium_tank_destroyer_brigade_0_entity #Sturmgeschütz III (with wooden logs)
+				FIN_medium_tank_modern_destroyer_brigade_0_entity #Sturmgeschütz III (with wooden logs)
 				FIN_medium_armor_entity #Panzer IV (with leaf camo)
 			}
 		}
@@ -10082,24 +10082,24 @@ FIN = {
 		}
 	}
 
-	medium_tank_destroyer_chassis = {
+	medium_tank_modern_destroyer_chassis = {
 		pool = {
 			icons = { 
 
 			}
 			models = {
-				FIN_medium_tank_destroyer_brigade_0_entity #Sturmgeschütz III (with wooden logs)
+				FIN_medium_tank_modern_destroyer_brigade_0_entity #Sturmgeschütz III (with wooden logs)
 			}
 		}
 	}
 
-	medium_tank_destroyer_chassis_0 = {
+	medium_tank_modern_destroyer_chassis_0 = {
 		pool = {
 			icons = { 
 			
 			}
 			models = {
-				FIN_medium_tank_destroyer_brigade_0_entity #Sturmgeschütz III (with wooden logs)
+				FIN_medium_tank_modern_destroyer_brigade_0_entity #Sturmgeschütz III (with wooden logs)
 			}
 		}
 	}
@@ -10187,7 +10187,7 @@ SWE = {
 			models = {
 				SWE_light_sp_anti_air_brigade_0_entity 		#L-62 Anti II Basic
 				SWE_light_sp_anti_air_brigade_1_entity 		#Lvkv fm/43 Advanced (Has wrong entity name for its actutal tier)
-				SWE_light_tank_destroyer_brigade_1_entity 		#Strv m/40L (L60S III) - Pvkv Värjan	Advanced (Has wrong entity name for its actutal tier)
+				SWE_light_tank_modern_destroyer_brigade_1_entity 		#Strv m/40L (L60S III) - Pvkv Värjan	Advanced (Has wrong entity name for its actutal tier)
 				#SWE_iw_armor_entity 	#m21 (light armor IW)	#No Interwar in modern techs
 				SWE_light_armor_0_entity 	#Strv m38 (L60S) Basic
 				SWE_light_armor_1_entity #Strv m39 (L60 II) Improved
@@ -10255,7 +10255,7 @@ SWE = {
 		}
 	}
 
-	light_tank_destroyer_chassis = {
+	light_tank_modern_destroyer_chassis = {
 		pool = {
 			limit = {
 				has_dlc = "Arms Against Tyranny"
@@ -10264,7 +10264,7 @@ SWE = {
 				GFX_SWE_advanced_light_td_medium #Strv m/40L (L60S III) - Pvkv Värjan
 			}
 			models = {
-				SWE_light_tank_destroyer_brigade_1_entity 		#Strv m/40L (L60S III) - Pvkv Värjan	Advanced (Has wrong entity name for its actutal tier)
+				SWE_light_tank_modern_destroyer_brigade_1_entity 		#Strv m/40L (L60S III) - Pvkv Värjan	Advanced (Has wrong entity name for its actutal tier)
 			}
 		}
 	}
@@ -10357,8 +10357,8 @@ SWE = {
 			models = {
 				SWE_medium_sp_artillery_brigade_entity #SAV m43 (Stormartillerivagn) (Basic Medium SPG)
 				SWE_medium_sp_artillery_brigade_2_entity #SAV m43 (Stormartillerivagn 2 advanced) (Advanced Medium SPG)
-				SWE_medium_tank_destroyer_brigade_entity #IKV-72 (Medium)
-				SWE_medium_tank_destroyer_brigade_2_entity #Pvkv m/43 (Advanced)
+				SWE_medium_tank_modern_destroyer_brigade_entity #IKV-72 (Medium)
+				SWE_medium_tank_modern_destroyer_brigade_2_entity #Pvkv m/43 (Advanced)
 				SWE_medium_armor_entity #m41 (Improved Medium Tank)
 				SWE_medium_armor_2_entity #m42 (Advanced Medium Tank)
 			}
@@ -10421,7 +10421,7 @@ SWE = {
 		}
 	}
 
-	medium_tank_destroyer_chassis = {
+	medium_tank_modern_destroyer_chassis = {
 		pool = {
 			limit = {
 				has_dlc = "Arms Against Tyranny"
@@ -10430,13 +10430,13 @@ SWE = {
 				GFX_SWE_advanced_medium_td_medium
 			}
 			models = {
-				SWE_medium_tank_destroyer_brigade_entity #IKV-72 (Medium)
-				SWE_medium_tank_destroyer_brigade_2_entity #Pvkv m/43 (Medium)
+				SWE_medium_tank_modern_destroyer_brigade_entity #IKV-72 (Medium)
+				SWE_medium_tank_modern_destroyer_brigade_2_entity #Pvkv m/43 (Medium)
 			}
 		}
 	}
 
-	medium_tank_destroyer_chassis_0 = {
+	medium_tank_modern_destroyer_chassis_0 = {
 		pool = {
 			limit = {
 				has_dlc = "Arms Against Tyranny"
@@ -10445,12 +10445,12 @@ SWE = {
 			
 			}
 			models = {
-				SWE_medium_tank_destroyer_brigade_entity #IKV-72 (Medium) #Show oldest model
+				SWE_medium_tank_modern_destroyer_brigade_entity #IKV-72 (Medium) #Show oldest model
 			}
 		}
 	}
 
-	medium_tank_destroyer_chassis_1 = {
+	medium_tank_modern_destroyer_chassis_1 = {
 		pool = {
 			limit = {
 				has_dlc = "Arms Against Tyranny"
@@ -10459,12 +10459,12 @@ SWE = {
 			
 			}
 			models = {
-				SWE_medium_tank_destroyer_brigade_entity #IKV-72 (Medium) #Show oldest model
+				SWE_medium_tank_modern_destroyer_brigade_entity #IKV-72 (Medium) #Show oldest model
 			}
 		}
 	}
 
-	medium_tank_destroyer_chassis_2 = {
+	medium_tank_modern_destroyer_chassis_2 = {
 		pool = {
 			limit = {
 				has_dlc = "Arms Against Tyranny"
@@ -10473,12 +10473,12 @@ SWE = {
 			
 			}
 			models = {
-				SWE_medium_tank_destroyer_brigade_entity #IKV-72 (Medium)
+				SWE_medium_tank_modern_destroyer_brigade_entity #IKV-72 (Medium)
 			}
 		}
 	}
 
-	medium_tank_destroyer_chassis_3 = {
+	medium_tank_modern_destroyer_chassis_3 = {
 		pool = {
 			limit = {
 				has_dlc = "Arms Against Tyranny"
@@ -10487,7 +10487,7 @@ SWE = {
 			
 			}
 			models = {
-				SWE_medium_tank_destroyer_brigade_2_entity #Pvkv m/43 (Medium)
+				SWE_medium_tank_modern_destroyer_brigade_2_entity #Pvkv m/43 (Medium)
 			}
 		}
 	}
@@ -10644,14 +10644,14 @@ SWE = {
 				GFX_SWE_main_battle_tank_medium
 			}
 			models = {
-				SWE_modern_tank_destroyer_brigade_entity #(Pvkv m/43)
+				SWE_modern_tank_modern_destroyer_brigade_entity #(Pvkv m/43)
 				SWE_modern_sp_artillery_brigade_entity #(#fm 43/44)
 				SWE_modern_armor_entity #(Strv 81 Centurion)
 			}
 		}
 	}
 
-	modern_tank_destroyer_chassis = {
+	modern_tank_modern_destroyer_chassis = {
 		pool = {
 			limit = {
 				has_dlc = "Arms Against Tyranny"
@@ -10660,7 +10660,7 @@ SWE = {
 				#GFX_SWE_main_battle_tank_medium 	#same icon as modern tank chassis. Maybe this should be adjusted?
 			}
 			models = {
-				SWE_modern_tank_destroyer_brigade_entity #(Pvkv m/43)
+				SWE_modern_tank_modern_destroyer_brigade_entity #(Pvkv m/43)
 			}
 		}
 	}		

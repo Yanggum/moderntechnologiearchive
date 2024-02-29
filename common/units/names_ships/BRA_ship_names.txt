@@ -1,14 +1,14 @@
 ﻿##### Brazil NAME LISTS #####
 
-#Historic destroyers and torpedo boats
-### REGULAR DESTROYER NAMES###
+#Historic modern_destroyers and torpedo boats
+### REGULAR modern_destroyer NAMES###
 BRA_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { BRA }
 
 	type = ship
-	ship_types = { destroyer stealth_destroyer destroyer }
+	ship_types = { modern_destroyer stealth_modern_destroyer modern_destroyer }
 
 	prefix = "CEa "
 	fallback_name = "Be-%d"
@@ -18,16 +18,16 @@ BRA_DD_HISTORICAL = {
 	}
 }
 
-#Historic names of cruisers ironclads and monitors followed by names of Presidents
-### CRUISER NAMES###
-BRA_CRUISERS_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CRUISER
+#Historic names of modern_cruisers ironclads and monitors followed by names of Presidents
+### modern_cruiser NAMES###
+BRA_modern_cruiserS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_cruiser
 
 	for_countries = { BRA }
 
 	type = ship
-	#ship_types = { ship_hull_cruiser light_cruiser }
-	ship_types = { battle_cruiser cruiser }
+	#ship_types = { ship_hull_modern_cruiser light_modern_cruiser }
+	ship_types = { battle_modern_cruiser modern_cruiser }
 
 	prefix = "CLm "
 	fallback_name = "C-%d"
@@ -37,15 +37,15 @@ BRA_CRUISERS_HISTORICAL = {
 	}
 }
 
-#Names of historic battleships followed by State Capitals then the Royal Family
-### BATTLESHIP NAMES###
-BRA_BATTLESHIPS_HISTORICAL = {
+#Names of historic modern_battleships followed by State Capitals then the Royal Family
+### modern_battleship NAMES###
+BRA_modern_battleshipS_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_BB
 
 	for_countries = { BRA }
 
 	type = ship
-	ship_types = { battle_cruiser battleship }
+	ship_types = { battle_modern_cruiser modern_battleship }
 
 	prefix = "CBa "
 	fallback_name = "CB-%d"
@@ -56,14 +56,14 @@ BRA_BATTLESHIPS_HISTORICAL = {
 }
 
 # Named after states and the Capital
-### AIRCRAFT CARRIER NAMES ###
+### AIRCRAFT modern_carrier NAMES ###
 BRA_CV_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CARRIERS
+	name = NAME_THEME_HISTORICAL_modern_carrierS
 
 	for_countries = { BRA }
 
 	type = ship
-	ship_types = { carrier }
+	ship_types = { modern_carrier }
 
 	prefix = "NAe "
 	fallback_name = "A-%d"
@@ -76,7 +76,7 @@ BRA_CV_HISTORICAL = {
 # Named after Oceons followed by Seas
 ### HELICOPTER OPERATOR NAMES ###
 BRA_LHA_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_HELICOPTER_CARRIERS
+	name = NAME_THEME_HISTORICAL_HELICOPTER_modern_carrierS
 
 	for_countries = { BRA }
 
@@ -92,14 +92,14 @@ BRA_LHA_HISTORICAL = {
 }
 
 # Characteristics followed historic gunboats and midrange ships by legacy list
-### FRIGATE NAMES###
-BRA_FRIGATE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATE
+### modern_frigate NAMES###
+BRA_modern_frigate_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigate
 
 	for_countries = { BRA }
 
 	type = ship
-	ship_types = { frigate }
+	ship_types = { modern_frigate }
 
 	prefix = "Fg "
 	fallback_name = "F-%d"
@@ -110,14 +110,14 @@ BRA_FRIGATE_HISTORICAL = {
 }
 
 # Historical light ships
-### CORVETTE NAMES ###
-BRA_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+BRA_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { BRA }
 
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	prefix = "Cv "
 	fallback_name = "P-%d"
 
@@ -134,7 +134,7 @@ BRA_AUXILIARY_SHIPS = {
 	for_countries = { BRA }
 
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	prefix = "NV "
 	fallback_name = "NA-%d"
 
@@ -151,7 +151,7 @@ BRA_SS_HISTORICAL = {
 	for_countries = { BRA }
 
 	type = ship
-	ship_types = { attack_submarine missile_submarine }
+	ship_types = { attack_submarine modern_missile_submarine }
 
 	prefix = "S "
 	fallback_name = "SA-%d"
@@ -163,13 +163,13 @@ BRA_SS_HISTORICAL = {
 
 #Based on the names of admirals and important figures in naval history
 ### MISSILE SUBMARINES NAMES ###
-BRA_MISSILE_SUBMARINE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_MISSILE_SUBMARINES
+BRA_modern_missile_submarine_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_missile_submarineS
 
 	for_countries = { BRA }
 
 	type = ship
-	ship_types = { missile_submarine }
+	ship_types = { modern_missile_submarine }
 
 	prefix = "S "
 	fallback_name = "SM-%d"

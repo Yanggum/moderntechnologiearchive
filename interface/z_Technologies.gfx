@@ -236,7 +236,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_subtech_cag"
-		textureFile = "gfx/interface/subtech_carrier_plane.dds"
+		textureFile = "gfx/interface/subtech_modern_carrier_plane.dds"
 	}
 	spriteType = {
 		name = "GFX_subtech_airborne"
@@ -293,8 +293,8 @@ spriteTypes = {
 		textureFile = "gfx/interface/technologies/subtech_rocket.dds"
 	}
 	spriteType = {
-		name = "GFX_subtech_heavy_battleship"
-		textureFile = "gfx/interface/subtech_heavy_battleship.dds"
+		name = "GFX_subtech_heavy_modern_battleship"
+		textureFile = "gfx/interface/subtech_heavy_modern_battleship.dds"
 	}
 
 	spriteType = {
@@ -309,7 +309,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_subtech_cag"
-		textureFile = "gfx/interface/subtech_carrier_plane.dds"
+		textureFile = "gfx/interface/subtech_modern_carrier_plane.dds"
 	}
 	###### StartUp Techs ######
 
@@ -2078,7 +2078,7 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_aircraft_carrier_engineering_medium"
+		name = "GFX_aircraft_modern_carrier_engineering_medium"
 		texturefile = "gfx/interface/technologies/Generic/mtg/BLUEPRINT.dds"
 	}
 	spriteType = {

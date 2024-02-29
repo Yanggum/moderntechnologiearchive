@@ -126,6 +126,7 @@ script_enum_equipment_category = {
 	maritime_patrol_plane
 	air_transport
 	carrier
+	#modern_carrier
 	support
 	amphibious
 	anti_air
@@ -170,6 +171,7 @@ script_enum_equipment_bonus_type = {
 	maritime_patrol_plane
 	air_transport
 	carrier
+	#modern_carrier
 	support
 	amphibious
 	anti_air
@@ -816,26 +818,26 @@ script_enum_equipment_bonus_type = {
 	convoy_1
 	submarine
 	screen_ship
-	carrier
-	carrier_hull_1
-	carrier_hull_2
-	carrier_hull_3
-	carrier_hull_4
-	carrier_hull_5
-	Nuclear_carrier_0
-	Nuclear_carrier_1
-	Nuclear_carrier_2
-	Nuclear_carrier_3
-	Nuclear_carrier_4
-	Nuclear_carrier_5
-	Nuclear_carrier_6
-	carrier_0
-	carrier_1
-	carrier_2
-	carrier_3
-	carrier_4
-	carrier_5
-	carrier_6
+	modern_carrier
+	modern_carrier_hull_1
+	modern_carrier_hull_2
+	modern_carrier_hull_3
+	modern_carrier_hull_4
+	modern_carrier_hull_5
+	Nuclear_modern_carrier_0
+	Nuclear_modern_carrier_1
+	Nuclear_modern_carrier_2
+	Nuclear_modern_carrier_3
+	Nuclear_modern_carrier_4
+	Nuclear_modern_carrier_5
+	Nuclear_modern_carrier_6
+	modern_carrier_0
+	modern_carrier_1
+	modern_carrier_2
+	modern_carrier_3
+	modern_carrier_4
+	modern_carrier_5
+	modern_carrier_6
 	LHA_0
 	LHA_1
 	LHA_2
@@ -1072,20 +1074,20 @@ script_enum_equipment_bonus_type = {
 	cv_awacs_equipment_2
 
 	# Ship
-	missile_submarine
-	missile_submarine_hull_1
-	missile_submarine_hull_2
-	missile_submarine_hull_3
-	missile_submarine_hull_4
-	missile_submarine_hull_5
-	missile_submarine_hull_6
-	missile_submarine_1
-	missile_submarine_2
-	missile_submarine_3
-	missile_submarine_4
-	missile_submarine_5
-	missile_submarine_6
-	missile_submarine_7
+	modern_missile_submarine
+	modern_missile_submarine_hull_1
+	modern_missile_submarine_hull_2
+	modern_missile_submarine_hull_3
+	modern_missile_submarine_hull_4
+	modern_missile_submarine_hull_5
+	modern_missile_submarine_hull_6
+	modern_missile_submarine_1
+	modern_missile_submarine_2
+	modern_missile_submarine_3
+	modern_missile_submarine_4
+	modern_missile_submarine_5
+	modern_missile_submarine_6
+	modern_missile_submarine_7
 	attack_submarine
 	attack_submarine_hull_1
 	attack_submarine_hull_2
@@ -1107,85 +1109,85 @@ script_enum_equipment_bonus_type = {
 	diesel_attack_submarine_5
 	diesel_attack_submarine_6
 	diesel_attack_submarine_7
-	patrol_boat
-	patrol_boat_1
-	corvette
-	corvette_hull_1
-	corvette_hull_2
-	corvette_hull_3
-	corvette_hull_4
-	corvette_hull_5
-	corvette_hull_6
-	corvette_1
-	corvette_2
-	missile_corvette_1
-	missile_corvette_2
-	missile_corvette_3
-	missile_corvette_4
-	missile_corvette_5
-	missile_corvette_6
-	frigate
-	frigate_hull_1
-	frigate_hull_2
-	frigate_hull_3
-	frigate_hull_4
-	frigate_hull_5
-	frigate_hull_6
-	frigate_1
-	frigate_2
-	missile_frigate_1
-	missile_frigate_2
-	missile_frigate_3
-	missile_frigate_4
-	missile_frigate_5
-	missile_frigate_6
-	cruiser
-	cruiser_hull_1
-	cruiser_hull_2
-	cruiser_hull_3
-	cruiser_hull_4
-	cruiser_hull_5
-	cruiser_1
-	cruiser_2
-	missile_cruiser_1
-	missile_cruiser_4
-	missile_cruiser_5
-	missile_cruiser_6
-	N_B_Cruiser_2
-	N_B_Cruiser_5
-	N_B_Cruiser_6
-	N_B_Cruiser_7
-	battle_cruiser
-	battle_cruiser_hull_1
-	battle_cruiser_hull_2
-	battle_cruiser_hull_3
-	battleship_hull_0
-	battleship_hull_1
-	battleship_hull_2
-	battleship_hull_3
+	modern_patrol_boat
+	modern_patrol_boat_1
+	modern_corvette
+	modern_corvette_hull_1
+	modern_corvette_hull_2
+	modern_corvette_hull_3
+	modern_corvette_hull_4
+	modern_corvette_hull_5
+	modern_corvette_hull_6
+	modern_corvette_1
+	modern_corvette_2
+	missile_modern_corvette_1
+	missile_modern_corvette_2
+	missile_modern_corvette_3
+	missile_modern_corvette_4
+	missile_modern_corvette_5
+	missile_modern_corvette_6
+	modern_frigate
+	modern_frigate_hull_1
+	modern_frigate_hull_2
+	modern_frigate_hull_3
+	modern_frigate_hull_4
+	modern_frigate_hull_5
+	modern_frigate_hull_6
+	modern_frigate_1
+	modern_frigate_2
+	missile_modern_frigate_1
+	missile_modern_frigate_2
+	missile_modern_frigate_3
+	missile_modern_frigate_4
+	missile_modern_frigate_5
+	missile_modern_frigate_6
+	modern_cruiser
+	modern_cruiser_hull_1
+	modern_cruiser_hull_2
+	modern_cruiser_hull_3
+	modern_cruiser_hull_4
+	modern_cruiser_hull_5
+	modern_cruiser_1
+	modern_cruiser_2
+	missile_modern_cruiser_1
+	missile_modern_cruiser_4
+	missile_modern_cruiser_5
+	missile_modern_cruiser_6
+	N_B_modern_cruiser_2
+	N_B_modern_cruiser_5
+	N_B_modern_cruiser_6
+	N_B_modern_cruiser_7
+	battle_modern_cruiser
+	battle_modern_cruiser_hull_1
+	battle_modern_cruiser_hull_2
+	battle_modern_cruiser_hull_3
+	modern_battleship_hull_0
+	modern_battleship_hull_1
+	modern_battleship_hull_2
+	modern_battleship_hull_3
 	helicopter_operator
 	helicopter_operator_hull_1
 	helicopter_operator_hull_2
 	helicopter_operator_hull_3
 	helicopter_operator_hull_4
-	stealth_destroyer
-	stealth_destroyer_hull_1
-	stealth_destroyer_hull_2
-	stealth_destroyer_hull_3
-	destroyer
-	destroyer_hull_1
-	destroyer_hull_2
-	destroyer_hull_3
-	destroyer_hull_4
-	destroyer_hull_5
-	destroyer_1
-	destroyer_2
-	missile_destroyer_1
-	missile_destroyer_2
-	missile_destroyer_3
-	missile_destroyer_4
-	missile_destroyer_5
-	missile_destroyer_6
+	stealth_modern_destroyer
+	stealth_modern_destroyer_hull_1
+	stealth_modern_destroyer_hull_2
+	stealth_modern_destroyer_hull_3
+	modern_destroyer
+	modern_destroyer_hull_1
+	modern_destroyer_hull_2
+	modern_destroyer_hull_3
+	modern_destroyer_hull_4
+	modern_destroyer_hull_5
+	modern_destroyer_1
+	modern_destroyer_2
+	missile_modern_destroyer_1
+	missile_modern_destroyer_2
+	missile_modern_destroyer_3
+	missile_modern_destroyer_4
+	missile_modern_destroyer_5
+	missile_modern_destroyer_6
 
 	# Missile
 	Missile

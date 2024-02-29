@@ -7,39 +7,39 @@ generic = {
 		generic = { "Submarine" }
 		unique = { }
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = ""
-		generic = { "Destroyer" }
+		generic = { "modern_destroyer" }
 		unique = { }
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = ""
-		generic = { "Light Cruiser" }
+		generic = { "Light modern_cruiser" }
 		unique = { }
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = ""
-		generic = { "Heavy Cruiser" }
+		generic = { "Heavy modern_cruiser" }
 		unique = { }
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = ""
-		generic = { "Battle Cruiser" }
+		generic = { "Battle modern_cruiser" }
 		unique = { }
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = ""
-		generic = { "Battleship" }
+		generic = { "modern_battleship" }
 		unique = { }
 	}
-	SH_battleship = {
+	SH_modern_battleship = {
 		prefix = ""
-		generic = { "Super Heavy Battleship" }
+		generic = { "Super Heavy modern_battleship" }
 		unique = { }
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = ""
-		generic = { "Carrier" }
+		generic = { "modern_carrier" }
 		unique = { }
 	}
 
@@ -191,7 +191,7 @@ ARG = {
 			"Santa Fe" "Santiago del Estero" "Salta" "San Luis" "Santa Cruz" "San Juan"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "ARA"
 		generic = {
 			"Destructor"
@@ -202,14 +202,14 @@ ARG = {
 			"Santisima Trinidad" "Santiago" "Rioja" "Salta"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "ARA"
 		generic = { "Crucero Ligero" }
 		unique = {
 			"Libertad" "Independencia" "Guerrico" "Granville" "Rosales" "Spiro" "Parker" "Rosales" "Robinson" "Gómez Roca"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "ARA"
 		generic = { "Crucero Pesado" }
 		unique = {
@@ -217,21 +217,21 @@ ARG = {
 			"Guerrico" "Granville" "Rosales" "Spiro" "Parker" "Rosales" "Robinson" "Gómez Roca"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "ARA"
 		generic = { "Crucero de Batalla" }
 		unique = {
 			"Rivadavia" "Moreno" "Azopardo" "Sarandí" "Espora"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "ARA"
 		generic = { "Acorazado" }
 		unique = {
 			"Azopardo" "Sarandí" "Espora" "Rivadavia" "Moreno"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "ARA"
 		generic = { "Portaaviones" }
 		unique = {
@@ -248,10 +248,10 @@ AST = {
 			"Oxley" "Otway" "Onslow" "Ovens" "Orion" "Otama" "Collins" "Farncomb" "Waller" "Dechaineaux" "Sheean" "Rankin"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "HMAS"
 		generic = {
-			"Destroyer"
+			"modern_destroyer"
 		}
 		unique = {
 			"Stuart" "Vampire" "Vendetta" "Voyager" "Waterhen" "Arunta" "Bataan" "Warramunga" "Napier" "Nizam" "Nestor" "Norman" "Nerissa"
@@ -260,41 +260,41 @@ AST = {
 			"Warburton" "Williamstown" "Wimmera" "Wollondilly"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "HMAS"
-		generic = { "Light Cruiser" }
+		generic = { "Light modern_cruiser" }
 		unique = {
 			"Sydney" "Perth" "Hobart" "Brisbane" "Adelaide" "Darwin" "Newcastle" "Christmas Island" "Coral Sea" "Norfolk Island"
 			"Alice Springs" "Cooktown" "Broome" "Wagga Wagga"
 
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "HMAS"
-		generic = { "Heavy Cruiser" }
+		generic = { "Heavy modern_cruiser" }
 		unique = {
 			"Canberra" "Australia" 	"Perth" "Hobart" "Brisbane" "Adelaide" "Darwin" "Newcastle" "Christmas Island" "Coral Sea"
 			"Norfolk Island" "Alice Springs" "Cooktown" "Broome" "Wagga Wagga"
 
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "HMAS"
-		generic = { "Battlecruiser" }
+		generic = { "Battlemodern_cruiser" }
 		unique = {
 		"New South Wales" "Queensland" "South Australia" "Tasmania" "Victoria" "Western Australia"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "HMAS"
-		generic = { "Battleship" }
+		generic = { "modern_battleship" }
 		unique = {
 			"Princess Elizabeth" "New South Wales" "Queensland" "South Australia" "Tasmania" "Victoria" "Western Australia"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "HMAS"
-		generic = { "Carrier" }
+		generic = { "modern_carrier" }
 		unique = {
 		"Captain Cook" "Captain Bligh" "Shark Bay" "Geographe Bay" "Carpentaria" "King Sound" "Sydney" "Vengeance" "Melbourne"
 
@@ -311,7 +311,7 @@ BEL = {
 			"Artevelde" "Zinnia" "Jan Breydel" "Victor Billet" "Wielingen" "Westdiep" "Wandelaar" "Westhinder" "Leopold I" "Louise-Marie" "Brugge"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "BNS"
 		generic = {
 			"Contre-Torpilleur"
@@ -320,35 +320,35 @@ BEL = {
 			"Artevelde" "Zinnia" "Jan Breydel" "Victor Billet" "Wielingen" "Westdiep" "Wandelaar" "Westhinder" "Leopold I" "Louise-Marie" "Brugge"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "BNS"
 		generic = { "Croiseur Léger" }
 		unique = {
 			"Wielingen" "Westdiep" "Wandelaar" "Albertville" "Elisabethville" "Antwerpen" "Bruxelles" "Gent" "Ieper" "Liege" "Brugge" "Roeselare"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "BNS"
 		generic = { "Croiseur Lourd" }
 		unique = {
 			"Wielingen" "Westdiep" "Wandelaar" "Albertville" "Elisabethville" "Antwerpen" "Bruxelles" "Gent" "Ieper" "Liège" "Brugge" "Roeselare"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "BNS"
 		generic = { "Croiseur Cuirassé" }
 		unique = {
 			"Roi Leopold I" "Roi Leopold II" "Roi Albert I" "Reine Astrid" "Jeneval" "General Brialmont" "Leopoldville"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "BNS"
 		generic = { "Navire de Ligne" }
 		unique = {
 			"Roi Leopold I" "Roi Leopold II" "Roi Albert I" "Reine Astrid" "Jeneval" "Général Brialmont" "Leopoldville"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "BNS"
 		generic = { "Porte-Avions" }
 		unique = {
@@ -366,7 +366,7 @@ BRA = {
 			"Humaytá" "Tupi" "Timbira" "Tamoio" "Riachuelo" "Guanabara" "Rio Grande do Sul" "Bahia" "Rio de Janeiro" "Ceará" "Goiás" "Amazonas"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "NRB"
 		generic = { "Contratorpedeiro" }
 		unique = {
@@ -375,7 +375,7 @@ BRA = {
 			"Babitonga" "Baependi" "Bauru" "Beberibe" "Benevente" "Bertioga" "Bocaina" "Bracuí"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "NRB"
 		generic = { "Cruzador Ligeiro" }
 		unique = {
@@ -383,7 +383,7 @@ BRA = {
 			"Paraíba" "Mato Grosso do Sul"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "NRB"
 		generic = { "Cruzador Pesado" }
 		unique = {
@@ -392,7 +392,7 @@ BRA = {
 			"Paraíba" "Mato Grosso do Sul" "Bahia" "Rio Grande do Sul"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "NRB"
 		generic = { "Cuzador Couraçado" }
 		unique = {
@@ -400,7 +400,7 @@ BRA = {
 			"Roraima" "Tocantins" "Santa Catarina" "Minas Gerais" "São Paulo"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "NRB"
 		generic = { "Couraçado" }
 		unique = {
@@ -410,7 +410,7 @@ BRA = {
 
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "NRB"
 		generic = { "Porta-Aviões" }
 		unique = {
@@ -427,7 +427,7 @@ BUL = {
 			"Druzki" "Smeli" "Khrabri" "Strogi" "Letyashchi" "Shumni"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = ""
 		generic = {
 			"Contratorpedeiro"
@@ -436,35 +436,35 @@ BUL = {
 			"Druzki" "Smeli" "Khrabri" "Strogi" "Letyashchi" "Shumni"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = ""
 		generic = { "Svetlina Kraitser" }
 		unique = {
 			"Sofija" "Pernik" "Svoge" "Slivnica" "Breznik" "Radomir"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = ""
 		generic = { "Tezhuk Kraitser" }
 		unique = {
 			"Sofija" "Pernik" "Svoge" "Slivnica" "Breznik" "Radomir"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = ""
 		generic = { "Boen Kraitser" }
 		unique = {
 			"Drzki" "Zheleznjakov"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = ""
 		generic = { "Lineen Korab" }
 		unique = {
 			"Drzki" "Zheleznjakov"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = ""
 		generic = { "Samoletonosach" }
 		unique = {
@@ -482,9 +482,9 @@ CAN = {
 			"Grilse" "Rainbow" "Ojibwa" "Okanagan" "Onondaga" "Olympus" "Osiris" "Victoria" "Windsor" "Corner Brook" "Chicoutimi"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "HMCS"
-		generic = { "Destroyer" }
+		generic = { "modern_destroyer" }
 		unique = {
 			"Saguenay" "Skeena" "Vendetta" "Voyager" "Waterhen" "Fraser" "St. Laurent" "Ottawa" "Restigouche" "Assiniboine" "Margaree" "Kootenay" "Gatineau"
 			"Saskatchewan" "Qu'Appelle" "Ottawa" "Chaudiere" "Athabaskan" "Haida" "Huron" "Iroquois" "Athabaskan" "Cayuga" "Micmac" "Nootka" "Algonquin"
@@ -493,9 +493,9 @@ CAN = {
 			"Ribble"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "HMCS"
-		generic = { "Light Cruiser" }
+		generic = { "Light modern_cruiser" }
 		unique = {
 			"Ontario" "Québec" "British Columbia" "Nova Scotia" "New Brunswick" "Manitoba" "Alberta" "Saskatchewan" "Prince Edward Island" "Toronto" "Montréal"
 			"Vancouver" "Ottawa" "Calgary" "Edmonton" "Ile de Québec" "Winnipeg" "Hamilton" "London" "Kitchener" "St. Catharines" "Halifax"
@@ -504,9 +504,9 @@ CAN = {
 
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "HMCS"
-		generic = { "Heavy Cruiser" }
+		generic = { "Heavy modern_cruiser" }
 		unique = {
 			"Kingston" "Ontario" "Québec" "British Columbia" "Nova Scotia" "New Brunswick" "Manitoba" "Alberta" "Saskatchewan" "Prince Edward Island" "Niobe"
 			"Rainbow" "Toronto" "Montréal" "Vancouver" "Ottawa" "Calgary" "Edmonton" "Ile de Québec" "Winnipeg" "Hamilton" "London"
@@ -515,23 +515,23 @@ CAN = {
 
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "HMCS"
-		generic = { "Battlecruiser" }
+		generic = { "Battlemodern_cruiser" }
 		unique = {
 			"Canada" "Dominion" "Ontario" "Québec" "British Columbia" "Nova Scotia" "New Brunswick" "Manitoba" "Alberta" "Saskatchewan" "Prince Edward Island"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "HMCS"
-		generic = { "Battleship" }
+		generic = { "modern_battleship" }
 		unique = {
 			"Canada" "Dominion" "Ontario" "Québec" "British Columbia" "Nova Scotia" "New Brunswick" "Manitoba" "Alberta" "Saskatchewan" "Prince Edward Island"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "HMCS"
-		generic = { "Carrier" }
+		generic = { "modern_carrier" }
 		unique = {
 			"Warrior" "Magnificent" "Bonaventure" "Nabob" "Puncher"
 		}
@@ -546,7 +546,7 @@ CHL = {
 			"Gualcolda" "Tegualda" "Rucumilla" "Quidora" "Fresia" "Guale" "Capitán O`Brien" "Almirante Simpson" "Capitán Thomson" "O`Higgins" "Carrera"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "BACH"
 		generic = {
 			"Destructor"
@@ -556,35 +556,35 @@ CHL = {
 			"Ministro Zenteno" "Ministro Portales"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "BACH"
 		generic = { "Crucero Ligero" }
 		unique = {
 			"Chacabuco" "Araucano" "Santiago de Chile" "Valparaiso" "Valdivia" "Osorno" "Punta Arenas" "Chillán" "Talcahuano" "Rancagua" "Coquimbo"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "BACH"
 		generic = { "Crucero Pesado" }
 		unique = {
 			"O`Higgins" "Araucano" "Santiago de Chile" "Valparaiso" "Valdivia" "Osorno" "Punta Arenas" "Chillán" "Talcahuano" "Rancagua" "Coquimbo"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "BACH"
 		generic = { "Crucero de Batalla" }
 		unique = {
 			"República de Chile" "Lima"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "BACH"
 		generic = { "Acorazado" }
 		unique = {
 			"Almirante Latorre" "República de Chile" "Lima"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "BACH"
 		generic = { "Portaaviones" }
 		unique = {
@@ -608,7 +608,7 @@ CHI = {
 			"Chángzhēng-413" "Chángzhēng-414" "Chángzhēng-415" "Chángzhēng-416" "Chángzhēng-417" "Chángzhēng-418" "Chángzhēng-418" "Chángzhēng-419" "Chángzhēng-420" "Chángzhēng-421" "Chángzhēng-422" "Chángzhēng-423" "Chángzhēng-424" "Chángzhēng-425" "Chángzhēng-426" "Chángzhēng-427" "Chángzhēng-428" "Chángzhēng-429" "Chángzhēng-430" "Chángzhēng-431" "Chángzhēng-432" "Chángzhēng-433" "Chángzhēng-434" "Chángzhēng-435" "Chángzhēng-436" "Chángzhēng-437" "Chángzhēng-438" "Chángzhēng-439" "Chángzhēng-440" "Chángzhēng-441" "Chángzhēng-442" "Chángzhēng-443" "Chángzhēng-444" "Chángzhēng-445" "Chángzhēng-446" "Chángzhēng-447" "Chángzhēng-448" "Chángzhēng-449" "Chángzhēng-450" "Chángzhēng-451" "Chángzhēng-452" "Chángzhēng-453" "Chángzhēng-454" "Chángzhēng-455" "Chángzhēng-456" "Chángzhēng-457" "Chángzhēng-458" "Chángzhēng-459" "Chángzhēng-460" "Chángzhēng-461" "Chángzhēng-462" "Chángzhēng-463" "Chángzhēng-464" "Chángzhēng-465" "Chángzhēng-466" "Chángzhēng-467" "Chángzhēng-468" "Chángzhēng-469" "Chángzhēng-470" "Chángzhēng-471" "Chángzhēng-472" "Chángzhēng-473" "Chángzhēng-474" "Chángzhēng-475" "Chángzhēng-476" "Chángzhēng-477" "Chángzhēng-478" "Chángzhēng-479" "Chángzhēng-480" "Chángzhēng-481" "Chángzhēng-482" "Chángzhēng-483" "Chángzhēng-484" "Chángzhēng-485" "Chángzhēng-486" "Chángzhēng-487" "Chángzhēng-488" "Chángzhēng-489" "Chángzhēng-490" "Chángzhēng-491" "Chángzhēng-492" "Chángzhēng-493" "Chángzhēng-494" "Chángzhēng-495" "Chángzhēng-496" "Chángzhēng-497" "Chángzhēng-498" "Chángzhēng-499"
 		}
 	}
-	missile_submarine = {
+	modern_missile_submarine = {
 		prefix = ""
 		generic = { "Yuǎnzhēng" }
 		unique = {
@@ -631,7 +631,7 @@ CHI = {
 		}
 	}
 	#uses provinces
-	carrier = {
+	modern_carrier = {
 		prefix = ""
 		generic = { "Hangmu" }
 		unique = {
@@ -639,7 +639,7 @@ CHI = {
 		}
 	}
 	#uses historical figures
-	Nuclear_carrier = {
+	Nuclear_modern_carrier = {
 		prefix = ""
 		generic = { "Hangmu" }
 		unique = {
@@ -647,7 +647,7 @@ CHI = {
 		}
 	}
 	# #uses large cities
-	# nuclear_cruiser = {
+	# nuclear_modern_cruiser = {
 	# 	prefix = ""
 	# 	generic = { "Quzujian" }
 	# 	unique = {
@@ -655,7 +655,7 @@ CHI = {
 	# 	}
 	# }
 	#uses large cities
-	cruiser = {
+	modern_cruiser = {
 		prefix = ""
 		generic = { "Quzujian" }
 		unique = {
@@ -663,7 +663,7 @@ CHI = {
 		}
 	}
 	#Uses cities
-	destroyer = {
+	modern_destroyer = {
 		prefix = ""
 		generic = { "Quzujian" }
 		unique = {
@@ -671,7 +671,7 @@ CHI = {
 		}
 	}
 	#Uses smaller cities
-	frigate = {
+	modern_frigate = {
 		prefix = ""
 		generic = { "Qingxing Xunyangjian" }
 		unique = {
@@ -680,7 +680,7 @@ CHI = {
 		}
 	}
 	#Uses made-up words XD
-	corvette = {
+	modern_corvette = {
 		prefix = ""
 		generic = { "Qingxing Xunyangjian" }
 		unique = {
@@ -698,7 +698,7 @@ COL = {
 			"20 de Julio" "7 de Agosto" "Santander" "Almirante Padilla" "Almirante Tono" "Almirante Brión" "Cordoba" "Antioquia" "Caldas"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "ARC"
 		generic = {
 			"Destructor"
@@ -707,35 +707,35 @@ COL = {
 			"Antioquia" "Caldas" "20 de Julio" "7 de Agosto" "Santander" "Almirante Padilla" "Almirante Tono" "Almirante Brión" "Cordoba"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "ARC"
 		generic = { "Crucero Ligero" }
 		unique = {
 			"Medellín" "Cartagena" "Barranquilla" "Santa Marta" "Bucaramanga" "Tumaco" "Buenaventura"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "ARC"
 		generic = { "Crucero Pesado" }
 		unique = {
 			"Medellín" "Cartagena" "Barranquilla" "Santa Marta" "Bucaramanga" "Tumaco" "Buenaventura"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "ARC"
 		generic = { "Crucero de Batalla" }
 		unique = {
 			"Cristobal Colón" "Bogotá"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "ARC"
 		generic = { "Acorazado" }
 		unique = {
 			"Cristobal Colón" "Bogotá"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "ARC"
 		generic = { "Portaaviones" }
 		unique = {
@@ -753,7 +753,7 @@ COS = {
 			"Punta Arenas" "Nicoya" "Liberia" "Bagaces" "Puerto Jesús"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "ARCR"
 		generic = {
 			"Destructor"
@@ -762,35 +762,35 @@ COS = {
 			"Punta Arenas" "Nicoya" "Liberia" "Bagaces" "Puerto Jesús"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "ARCR"
 		generic = { "Crucero Ligero" }
 		unique = {
 			"Punta Arenas" "Nicoya" "Liberia" "Bagaces" "Puerto Jesús"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "ARCR"
 		generic = { "Crucero Pesado" }
 		unique = {
 			"Punta Arenas" "Nicoya" "Liberia" "Bagaces" "Puerto Jesús"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "ARCR"
 		generic = { "Crucero de Batalla" }
 		unique = {
 			"San José" "Limón"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "ARCR"
 		generic = { "Acorazado" }
 		unique = {
 			"San José" "Limón"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "ARCR"
 		generic = { "Portaaviones" }
 		unique = {
@@ -807,7 +807,7 @@ CUB = {
 			"Santa Clara" "Diez de Octubre" "Veinte y Cuatro de Febrero" "Patria" "Habana" "Pinar del Río" "Cuba" "Rio Damuji" "Rio Jatibonico"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "ARC"
 		generic = {
 			"Destructor"
@@ -816,35 +816,35 @@ CUB = {
 			"Santa Clara" "Diez de Octubre" "Veinte y Cuatro de Febrero" "Patria" "Habana" "Pinar del Río" "Cuba" "Rio Damuji" "Rio Jatibonico"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "ARC"
 		generic = { "Crucero Ligero" }
 		unique = {
 			"La Habana" "Santiago de Cuba" "Marinao" "Santa Clara" "Guantanamo"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "ARC"
 		generic = { "Crucero Pesado" }
 		unique = {
 			"La Habana" "Santiago de Cuba" "Marinao" "Santa Clara" "Guantanamo"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "ARC"
 		generic = { "Crucero de Batalla" }
 		unique = {
 			"Theodore Roosevelt" "Fulgencio Batista"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "ARC"
 		generic = { "Acorazado" }
 		unique = {
 			"Theodore Roosevelt" "Fulgencio Batista"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "ARC"
 		generic = { "Portaaviones" }
 		unique = {
@@ -863,44 +863,44 @@ DEN = {
 			"Dykkeren" "Thetis" "2den April" "Najaden" "Nymfen" "Ægir" "Ran" "Triton" "Neptun" "Galathea"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "HDMS"
-		generic = { "Destroyer" }
+		generic = { "modern_destroyer" }
 		unique = {
 			"Nymfen" "Najaden" "Huitfeldt" "Willemoes" "Søridderen" "Flyvefisken" "Søulven" "Hvalrossen" "Delfinen" "Sværdfisken" "Springeren" "Støren"
 			"Søløven" "Søhunden" "Havhesten" "Narhvalen" "Makrelen" "Nordkaperen" "Havkatten" "Sælen" "Dragen" "Hvalen" "Laxen" "Glenten" "Høgen" "Ørnen"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "HDMS"
-		generic = { "Lys Cruiseren" }
+		generic = { "Lys modern_cruiseren" }
 		unique = {
 			"Flynderen" "Mågen" "Ørnen" "Falken" "Ulken" "Olfert Fischer" "Fyen" "Hekla"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "HDMS"
-		generic = { "Tung Cruiseren" }
+		generic = { "Tung modern_cruiseren" }
 		unique = {
 			"Niels Juel" "Peder Skram" "Vitus Bering" "Sælen" "Hvalrossen" "Isbjørn" "Flynderen" "Mågen" "Ørnen" "Falken" "Ulken"
 			"Olfert Fischer" "Fyen" "Hekla"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "HDMS"
 		generic = { "Slagkrydseren" }
 		unique = {
 			"Tordenskiold" "Ivar Huitfeldt" "Olfert Fischer" "Ulrik Gyldenløve" "Markor Rodsteen"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "HDMS"
 		generic = { "Slagskib" }
 		unique = {
 			"Drzki" "Zheleznjakov"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "HDMS"
 		generic = { "Hangarskib" }
 		unique = {
@@ -918,7 +918,7 @@ DOM = {
 			"Presidente Trujillo" "Juan Pablo Duarte" "Pedro Santana" "Cristobal Colón" "Juan Alejandro Acosta" "Juan Bautista Cambiaso" "Gerardo Jansen" "Juan Bautista Maggiolo"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "ARD"
 		generic = {
 			"Destructor"
@@ -927,35 +927,35 @@ DOM = {
 			"Presidente Trujillo" "Juan Pablo Duarte" "Pedro Santana" "Cristobal Colón" "Juan Alejandro Acosta" "Juan Bautista Cambiaso" "Gerardo Jansen" "Juan Bautista Maggiolo"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "ARD"
 		generic = { "Crucero Ligero" }
 		unique = {
 			"El Benefactor" "Santo Domingo" "Santiago" "San Pedro" "La Romana"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "ARD"
 		generic = { "Crucero Pesado" }
 		unique = {
 			"El Benefactor" "Santo Domingo" "Santiago" "San Pedro" "La Romana"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "ARD"
 		generic = { "Crucero de Batalla" }
 		unique = {
 			"Don Rafél Trujillo" "Eleonora Trujillo"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "ARD"
 		generic = { "Acorazado" }
 		unique = {
 			"Don Rafél Trujillo" "Eleonora Trujillo"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "ARD"
 		generic = { "Portaaviones" }
 		unique = {
@@ -973,7 +973,7 @@ ECU = {
 			"Shyri" "Huancavilca" "Esmeraldas" "Manabí" "Los Ríos" "El Oro" "Loja" "Galápagos"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "BAE"
 		generic = {
 			"Destructor"
@@ -982,35 +982,35 @@ ECU = {
 			"Libertador Bolívar" "Tarqui" "Esmeraldas" "Manabí" "Los Ríos" "El Oro" "Loja" "Galápagos"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "BAE"
 		generic = { "Crucero Ligero" }
 		unique = {
 			"Esmeraldas" "El Oro" "Manabí" "Galápagos" "Los Ríos" "Loja"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "BAE"
 		generic = { "Crucero Pesado" }
 		unique = {
 			"Esmeraldas" "El Oro" "Manabí" "Galápagos" "Los Ríos" "Loja"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "BAE"
 		generic = { "Crucero de Batalla" }
 		unique = {
 			"Presidente Alfaro" "Morán Valverde"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "BAE"
 		generic = { "Acorazado" }
 		unique = {
 			"Presidente Alfaro" "Morán Valverde"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "BAE"
 		generic = { "Portaaviones" }
 		unique = {
@@ -1028,7 +1028,7 @@ ELS = {
 			"Chalatenango" "Cojutepeque" "La Palma" "Jazubal" "Sonsonate"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "ARS"
 		generic = {
 			"Destructor"
@@ -1037,35 +1037,35 @@ ELS = {
 			"Chalatenango" "Cojutepeque" "La Palma" "Jazubal" "Sonsonate"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "ARS"
 		generic = { "Crucero Ligero" }
 		unique = {
 			"Chalatenango" "Cojutepeque" "La Palma" "Jazubal" "Sonsonate"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "ARS"
 		generic = { "Crucero Pesado" }
 		unique = {
 			"Chalatenango" "Cojutepeque" "La Palma" "Jazubal" "Sonsonate"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "ARS"
 		generic = { "Crucero de Batalla" }
 		unique = {
 			"La Libertad" "Santa Ana"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "ARS"
 		generic = { "Acorazado" }
 		unique = {
 			"La Libertad" "Santa Ana"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "ARS"
 		generic = { "Portaaviones" }
 		unique = {
@@ -1083,42 +1083,42 @@ EST = {
 			"Kalev" "Lembit" "Wambola" "Lennuk" "Sulev" "Pikker" "Lembit" "Lane"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "EML"
 		generic = { "Torpeedopaatide" }
 		unique = {
 			"Wambola" "Lennuk" "Sulev" "Pikker" "Lembit" "Lane"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "EML"
 		generic = { "Kerge Ristleja" }
 		unique = {
 			"Muhu" "Hiiumaa" "Saaremaa" "Abruka"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "EML"
 		generic = { "Raskeristleja" }
 		unique = {
 			"Tallinn" "Valga" "Tartu" "Mustvee" "Haapsalu" "Rapla" "Paldiski" "Kihnu" "Vormsi"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "EML"
 		generic = { "Lahing Ristleja" }
 		unique = {
 			"Paldiski" "Muhu" "Hiiumaa" "Saaremaa" "Abruka" "Kihnu" "Vormsi"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "EML"
 		generic = { "Lahingulaev" }
 		unique = {
 			"Tallinn" "Valga" "Tartu" "Mustvee" "Haapsalu" "Rapla"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "EML"
 		generic = { "Lennukikandja" }
 		unique = {
@@ -1136,7 +1136,7 @@ FIN = {
 			"Vetehinen" "Vesihiisi" "Iku-Turso" "Vesikko" "AG 12" "AG 16"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = ""
 		generic = { "Hävittäjä" }
 		unique = {
@@ -1144,7 +1144,7 @@ FIN = {
 			"Nuoli" "Vinha" "Raju" "Vasama" "Vihuri" "Viima"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = ""
 		generic = { "Kevyt Risteilijä" }
 		unique = {
@@ -1152,7 +1152,7 @@ FIN = {
 			"Viipuri" "Kotka" "Oulu" "Rauma" "Väinämöinen" "Ilmarinen"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = ""
 		generic = { "Raskas Risteilijä" }
 		unique = {
@@ -1160,21 +1160,21 @@ FIN = {
 			"Viipuri" "Kotka" "Oulu" "Rauma"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = ""
 		generic = { "Taisteluristeilijä" }
 		unique = {
 			"Uusimaa" "Karjala" "Pohjanmaa" "Rauma" "Turku" "Viipuri" "Pietarsaari" "Vaasa" "Oulu" "Aura" "Kemi" "Tampere"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = ""
 		generic = { "Taistelulaiva" }
 		unique = {
 			"Uusimaa" "Karjala" "Pohjanmaa" "Rauma" "Turku" "Viipuri" "Pietarsaari" "Vaasa" "Oulu" "Aura" "Kemi" "Tampere"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = ""
 		generic = { "Lentotukialus" }
 		unique = {
@@ -1193,7 +1193,7 @@ GRE = {
 			"Poseidon" "Okeanos"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "RHS"
 		generic = { "Metafero" }
 		unique = {
@@ -1201,35 +1201,35 @@ GRE = {
 			"Aspis" "Kimon" "Lonchi" "Nearchos" "Sfendoni" "Theyella" "Themistocles" "Kriti" "Pindos" "Adrias" "Hastings" "Kanaris" "Miaoulis"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "RHS"
 		generic = { "Elafri Katadromiko" }
 		unique = {
 			"Elli" "Apostolis" "Kriezis" "Sakhtouris" "Tompazis" "Ellis" "Piraievs" "Kikladhes" "Alexandros" "Pátrai"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "RHS"
 		generic = { "Vari Katadromiko" }
 		unique = {
 			"Georgios Averof" "Piraievs" "Kikladhes" "Alexandros" "Pátrai" "Kríti" "Nísoi Aiyaíou" "Kithira" "Kefallinia"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "RHS"
 		generic = { "Thoriktou" }
 		unique = {
 			"Athinai" "Thessalia" "Ipiros" "Peloponnisos" "Kilkis"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "RHS"
 		generic = { "Thorikto" }
 		unique = {
 			"Kilkis" "Athinai" "Thessalia" "Ipiros" "Peloponnisos"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "RHS"
 		generic = { "Aeroplanoforo" }
 		unique = {
@@ -1246,7 +1246,7 @@ GUA = {
 			"Tapachula" "Puerto Barrios" "Jacaltenango" "El Estor" "El Progreso"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "ARG"
 		generic = {
 			"Destructor"
@@ -1255,35 +1255,35 @@ GUA = {
 			"Tapachula" "Puerto Barrios" "Jacaltenango" "El Estor" "El Progreso"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "ARG"
 		generic = { "Crucero Ligero" }
 		unique = {
 			"Tapachula" "Puerto Barrios" "Jacaltenango" "El Estor" "El Progreso"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "ARG"
 		generic = { "Crucero Pesado" }
 		unique = {
 			"Tapachula" "Puerto Barrios" "Jacaltenango" "El Estor" "El Progreso"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "ARG"
 		generic = { "Crucero de Batalla" }
 		unique = {
 			"Ciudad de Guatemala" "Quezaltenango"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "ARG"
 		generic = { "Acorazado" }
 		unique = {
 			"Ciudad de Guatemala" "Quezaltenango"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "ARG"
 		generic = { "Portaaviones" }
 		unique = {
@@ -1300,42 +1300,42 @@ HAI = {
 			"Améthyste" "Croyant" "Centenaire" "Vertières" "Pacifique" "Liberté" "Sans Souci" "Touissaint L'Ouverture" "Savannah" "Vertières" "Artibonite"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "ARS"
 		generic = { "Contre-Torpilleur" }
 		unique = {
 			"Améthyste" "Croyant" "Centenaire" "Vertières" "Pacifique" "Liberté" "Sans Souci" "Touissaint" "L'Ouverture" "Savannah" "Vertières" "Artibonite"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "ARS"
 		generic = { "Croiseur Léger" }
 		unique = {
 			"Jérémie" "Port Sali" "Cap Haitien" "Port de Paix" "Jean Rabel"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "ARS"
 		generic = { "Croiseur Lourd" }
 		unique = {
 			"Jérémie" "Port Sali" "Cap Haitien" "Port de Paix" "Jean Rabel"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "ARS"
 		generic = { "Croiseur Cuirassé" }
 		unique = {
 			"Citoyens de Haiti" "Port au Prince"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "ARS"
 		generic = { "Navire de Ligne" }
 		unique = {
 			"Citoyens de Haiti" "Port au Prince"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "ARD"
 		generic = { "Porte-Avions" }
 		unique = {
@@ -1354,15 +1354,15 @@ HOL = {
 			"Tonijn" "Zwaardvis" "Bruinvis"
 		}
 	}
-	frigate = {
+	modern_frigate = {
 		prefix = "HNLMS"
-		generic = { "Frigate" }
+		generic = { "modern_frigate" }
 		unique = {
 			"De Zeven Provinciën" "Tromp" "De Ruyter" "Evertsen" "Gelderland" "Zeeland" "Friesland" "Gelderland" "Noord-Brabant"
 			"Utrecht" "Drenthe" "Brabant" "Limburg" "De Ruyter" "Tromp" "Jacob van Heemskerck"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "HNLMS"
 		generic = { "Torpedobootjager" }
 		unique = {
@@ -1371,7 +1371,7 @@ HOL = {
 			"Wolf" "Fret" "Bulhond" "Jakhals" "Hermelijn" "Lynx" "Vos" "Panter"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "HNLMS"
 		generic = { "Kruiser" }
 		unique = {
@@ -1379,28 +1379,28 @@ HOL = {
 			"Utrecht" "Drenthe" "Brabant" "Limburg"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "HNLMS"
 		generic = { "Panterschip" }
 		unique = {
 			"Hertog Hendrik" "Jacob van Heemskerck" "Soerabaja" "Celebes" "Batjan" "Ceram" "Ambon" "Banda" "Ternate"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "HNLMS"
 		generic = { "Slagkruiser" }
 		unique = {
 			"Van Speijk" "Witte de With" "Piet Hein" "Kortenaer" "Koningin Regentes" "Hertog Hendrik"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "HNLMS"
 		generic = { "Slagschip" }
 		unique = {
 			"Reinier Claeszen" "Evertsen" "Piet Hein" "Kortenaer" "Koningin Regentes" "Hertog Hendrik" "Van Speijk" "Witte de With"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "HNLMS"
 		generic = { "Vliegdekschip" }
 		unique = {
@@ -1417,7 +1417,7 @@ HON = {
 			"Guaymuras" "Honduras" "Hibueras" "Yojoa" "Goascoran" "Petula" "Ulua" "Choluteca" "Piraña" "Tegucigalpa" "Chamelecán" "Lempira" "Morazan"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "ARH"
 		generic = {
 			"Destructor"
@@ -1426,35 +1426,35 @@ HON = {
 			"Guaymuras" "Honduras" "Hibueras" "Yojoa" "Goascoran" "Petula" "Ulua" "Choluteca" "Piraña" "Tegucigalpa" "Chamelecán" "Lempira" "Morazan"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "ARH"
 		generic = { "Crucero Ligero" }
 		unique = {
 			"San Antonio de Cortes" "El Progreso" "Puerto Cortés" "Iriona" "La Ceiba"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "ARH"
 		generic = { "Crucero Pesado" }
 		unique = {
 			"San Antonio de Cortes" "El Progreso" "Puerto Cortés" "Iriona" "La Ceiba"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "ARH"
 		generic = { "Crucero de Batalla" }
 		unique = {
 			"Tegucigalpa" "San Pedro Sula"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "ARH"
 		generic = { "Acorazado" }
 		unique = {
 			"Tegucigalpa" "San Pedro Sula"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "ARH"
 		generic = { "Portaaviones" }
 		unique = {
@@ -1472,46 +1472,46 @@ IRE = {
 			"Orla" "Ciara" "Róisín" "Niamh"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "LE"
-		generic = { "Destroyer" }
+		generic = { "modern_destroyer" }
 		unique = {
 			"Macha" "Maev" "Cliona" "Setanta" "Ferdia" "Grainne" "Banba" "Fola" "Deirdre" "Emer" "Aoife" "Aisling" "Eithne"
 			"Orla" "Ciara" "Róisín" "Niamh"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "LE"
-		generic = { "Light Cruiser" }
+		generic = { "Light modern_cruiser" }
 		unique = {
 			"Deirdre" "Emer" "Eithne" "Clíona" "Meabh" "Mucha" "William Smith O'Brien" "Donal O'Sullivan Beare" "Theobald Wolfe Tone" "William Butler Yeats"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "LE"
-		generic = { "Heavy Cruiser" }
+		generic = { "Heavy modern_cruiser" }
 		unique = {
 			"Michael Collins" "Arthur Griffith" "Charles Stewart Parnell" "Daniel O'Connell" "Eamon DeValera" "William Smith O'Brien" "Donal O'Sullivan Beare"
 			"Theobald Wolfe Tone" "William Butler Yeats"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "LE"
-		generic = { "Battlecruiser" }
+		generic = { "Battlemodern_cruiser" }
 		unique = {
 			"Daniel O'Connell" "Eamon DeValera" "William Smith O'Brien" "Donal O'Sullivan Beare" "Theobald Wolfe Tone" "William Butler Yeats"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "LE"
-		generic = { "Battleship" }
+		generic = { "modern_battleship" }
 		unique = {
 			"Eire" "Daniel O'Connell" "Eamon DeValera" "William Smith O'Brien" "Donal O'Sullivan Beare" "Theobald Wolfe Tone" "William Butler Yeats"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "LE"
-		generic = { "Carrier" }
+		generic = { "modern_carrier" }
 		unique = {
 			"Eire" "Michael Collins" "Arthur Griffith" "Charles Stewart Parnell" "Banba" "Fola" "Macha" "Maev" "Cliona"
 		}
@@ -1526,41 +1526,41 @@ LAT = {
 			"Ronis" "Spidola"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = ""
 		generic = { "Iznicinatajs" }
 		unique = {
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = ""
 		generic = { "Gaismas Kruizeri" }
 		unique = {
 			"Cesis" "Liepaja" "Priekule" "Daugavpils" "Aglona" "Auce"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = ""
 		generic = { "Smagais Kruizeri" }
 		unique = {
 			"Riga" "Mazsalaca" "Dundaga" "Bauska" "Jurmala" "Kuldiga" "Madona" "Rezekne" "Valmiera"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = ""
 		generic = { "Linijkreiseris" }
 		unique = {
 			"Valmiera" "Cesis" "Liepaja" "Priekule" "Daugavpils" "Aglona" "Auce"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = ""
 		generic = { "Linijkugis" }
 		unique = {
 			"Riga" "Mazsalaca" "Dundaga" "Bauska" "Jurmala" "Kuldiga" "Madona" "Rezekne"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = ""
 		generic = { "Lidmasinu Parvadatajs" }
 		unique = {
@@ -1579,41 +1579,41 @@ LIT = {
 			"Ronis" "Spidola"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = ""
 		generic = { "Nakintojas" }
 		unique = {
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = ""
 		generic = { "Sviesos Kreiseris" }
 		unique = {
 			"Silute" "Taurage" "Jurbarkas" "Alytus" "Trakai" "Druskininkai"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = ""
 		generic = { "Sunkiuju Kreiseris" }
 		unique = {
 			"Kaunas" "Moletai" "Vilnius" "Siauliai" "Plunge" "Palanga"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = ""
 		generic = { "Linijinis Kreiseris" }
 		unique = {
 			"Silute" "Taurage" "Jurbarkas" "Alytus" "Trakai" "Druskininkai"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = ""
 		generic = { "Sarvuotiniai" }
 		unique = {
 			"Kaunas" "Moletai" "Vilnius" "Siauliai" "Plunge" "Palanga"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = ""
 		generic = { "Lektuvnesio" }
 		unique = {
@@ -1631,44 +1631,44 @@ LIB = {
 			"Abolition" "Grace" "Free Man" "Thrust" "Hope"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "LRS"
-		generic = { "Destroyer" }
+		generic = { "modern_destroyer" }
 		unique = {
 			"Abolition" "Grace" "Free Man" "Thrust" "Hope"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "LRS"
-		generic = { "Light Cruiser" }
+		generic = { "Light modern_cruiser" }
 		unique = {
 			"Abolition" "Grace" "Free Man" "Thrust" "Hope"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "LRS"
-		generic = { "Heavy Cruiser" }
+		generic = { "Heavy modern_cruiser" }
 		unique = {
 			"Abolition" "Grace" "Free Man" "Thrust" "Hope"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "LRS"
-		generic = { "Battlecruiser" }
+		generic = { "Battlemodern_cruiser" }
 		unique = {
 			"Monrovia" "Freedom"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "LRS"
-		generic = { "Battleship" }
+		generic = { "modern_battleship" }
 		unique = {
 			"Monrovia" "Freedom"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "LRS"
-		generic = { "Carrier" }
+		generic = { "modern_carrier" }
 		unique = {
 			"Republic of Liberia" "Promised Land"
 		}
@@ -1683,46 +1683,46 @@ SAF = {
 			"Spear" "Umkhonto" "Assegaai" "Adventurous" "Astrant"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "HMSAS"
-		generic = { "Destroyer" }
+		generic = { "modern_destroyer" }
 		unique = {
 			"Jan van Riebeeck" "Simon van der Stel" "Teviot" "Good Hope" "Natal" "Transvaal" "Swale" "VRyśtaat" "President Pretorius" "President Kruger" "President Steyn"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "HMSAS"
-		generic = { "Light Cruiser" }
+		generic = { "Light modern_cruiser" }
 		unique = {
 		"Good Hope" "Natal" "Transvaal" "Orange Free State" "Cape Town" "Johannesburg" "Port Elizabeth" "East London" "Bloemfontein" "Durban" "Pretoria"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "HMSAS"
-		generic = { "Heavy Cruiser" }
+		generic = { "Heavy modern_cruiser" }
 		unique = {
 		"Good Hope" "Natal" "Transvaal" "Orange Free State" "Cape Town" "Johannesburg" "Port Elizabeth" "East London" "Bloemfontein" "Durban" "Pretoria"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "HMSAS"
-		generic = { "Battlecruiser" }
+		generic = { "Battlemodern_cruiser" }
 		unique = {
 		"South Africa" "Good Hope" "Natal" "Transvaal" "Orange Free State" "Cape Town" "Johannesburg" "Port Elizabeth" "East London" "Bloemfontein" "Durban"
 		"Pretoria"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "HMSAS"
-		generic = { "Battleship" }
+		generic = { "modern_battleship" }
 		unique = {
 		"South Africa" "Good Hope" "Natal" "Transvaal" "Orange Free State" "Cape Town" "Johannesburg" "Port Elizabeth" "East London" "Bloemfontein" "Durban"
 		"Pretoria"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "HMSAS"
-		generic = { "Carrier" }
+		generic = { "modern_carrier" }
 		unique = {
 		"South Africa" "Good Hope" "Natal" "Transvaal" "Orange Free State" "Cape Town" "Johannesburg" "Port Elizabeth" "East London" "Bloemfontein" "Durban"
 		"Pretoria" "Lion" "Cheetah" "Leopard" "Serval" "Caracal" "Genet" "Jackal" "Mongoose" "Hyena" "Wild Dog"
@@ -1739,7 +1739,7 @@ MEX = {
 			"SebastiAn Lerdo de Tejada" "Juarez" "Netzahualcóyotl" "Manuel Azueta" "Bravo" "Galeana" "Allende" "Abasolo" "Victoria" "Mina" "Huracan" "Tormenta"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "ARM"
 		generic = {
 			"Destructor"
@@ -1749,35 +1749,35 @@ MEX = {
 			"SebastiAn Lerdo de Tejada" "Juarez" "Netzahualcóyotl" "Manuel Azueta" "Bravo" "Galeana" "Allende" "Abasolo" "Victoria" "Mina" "Huracan" "Tormenta"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "ARM"
 		generic = { "Crucero Ligero" }
 		unique = {
 			"Guadalajara" "Pancho Villa" "Rio Lobo" "Merida" "Monterrey" "Rio Grande" "Tijuana" "Rio del Norte" "Chiapas" "Chuela"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "ARM"
 		generic = { "Crucero Pesado" }
 		unique = {
 			"Guadalajara" "Pancho Villa" "Rio Lobo" "Merida" "Monterrey" "Rio Grande" "Tijuana" "Rio del Norte" "Chiapas" "Chuela"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "ARM"
 		generic = { "Crucero de Batalla" }
 		unique = {
 			"Juarez" "Ciudad de Mexico" "Montezuma"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "ARM"
 		generic = { "Acorazado" }
 		unique = {
 			"Juarez" "Ciudad de Mexico" "Montezuma"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "ARM"
 		generic = { "Portaaviones" }
 		unique = {
@@ -1794,7 +1794,7 @@ NIC = {
 			"Managua" "Masaya" "Granada" "León" "Chinandega"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "ARN"
 		generic = {
 			"Destructor"
@@ -1803,35 +1803,35 @@ NIC = {
 			"Managua" "Masaya" "Granada" "León" "Chinandega"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "ARN"
 		generic = { "Crucero Ligero" }
 		unique = {
 			"Managua" "Masaya" "Granada" "León" "Chinandega"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "ARN"
 		generic = { "Crucero Pesado" }
 		unique = {
 			"Managua" "Masaya" "Granada" "León" "Chinandega"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "ARN"
 		generic = { "Crucero de Batalla" }
 		unique = {
 			"Anastacio Somoza" "La Republica"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "ARN"
 		generic = { "Acorazado" }
 		unique = {
 			"Anastacio Somoza" "La Republica"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "ARN"
 		generic = { "Portaaviones" }
 		unique = {
@@ -1849,7 +1849,7 @@ NOR = {
 			"Kinn" "Kya" "Kobben" "Kunna" "Kaura" "Sklinna" "Skolpen" "Stadt" "Stord" "Svenner"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "HNoMS"
 		generic = { "Ødeleggeren" }
 		unique = {
@@ -1857,35 +1857,35 @@ NOR = {
 			"Haugesund" "Tromsø" "Glaisdale" "Eskdale"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "HNoMS"
 		generic = { "Lys KRyśseren" }
 		unique = {
 			"Oslo" "Bergen" "Trondheim" "Stavanger" "Akershus" "Nidaros" "Narvik" "Norge" "Eidsvold" "Tordenskjold" "Harald Haarfagre"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "HNoMS"
 		generic = { "Tung KRyśseren" }
 		unique = {
 			"Norge" "Eidsvold" "Tordenskjold" "Harald Haarfagre" "Oslo" "Bergen" "Trondheim" "Stavanger" "Akershus" "Bergen" "Nidaros" "Narvik"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "HNoMS"
 		generic = { "SlagkRyśser" }
 		unique = {
 			"Vestlandet" "Finnmark" "Norge" "Eidsvold" "Akershus" "Bergen" "Nidaros" "Narvik" "Tordenskjold" "Harald Haarfagre"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "HNoMS"
 		generic = { "Slagskip" }
 		unique = {
 			"Vestlandet" "Finnmark" "Norge" "Eidsvold" "Tordenskjold" "Harald Haarfagre" "Akershus" "Bergen" "Nidaros" "Narvik"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "HNoMS"
 		generic = { "Hangarskip" }
 		unique = {
@@ -1903,49 +1903,49 @@ NZL = {
 			"Otago" "Taranaki" "Waikato" "Blackpool" "Canterbury"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "HMNZS"
-		generic = { "Destroyer" }
+		generic = { "modern_destroyer" }
 		unique = {
 			"Arabis" "Arbutus" "Hawea" "Kaniere" "Pukaki" "Rotoiti" "Taupo" "Tutira" "Echuca" "Thrust" "Inverell" "Kiama" "Stawell"
 			"Otago" "Taranaki" "Waikato" "Blackpool" "Canterbury"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "HMNZS"
-		generic = { "Light Cruiser" }
+		generic = { "Light modern_cruiser" }
 		unique = {
 			"Leander" "Achilles" "Gambia" "Arabis" "Arbutus" "Monowai" "Cook Islands" "Northland" "Auckland" "Gisborne" "Taranaki"
 			"Hawkes Bay" "Wellington" "Nelson" "Westland" "Marlborough" "Canterbury" "Otago" "Southland"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "HMNZS"
-		generic = { "Heavy Cruiser" }
+		generic = { "Heavy modern_cruiser" }
 		unique = {
 			"Northland" "Auckland" "Gisborne" "Taranaki" "Hawkes Bay" "Wellington" "Nelson" "Westland" "Marlborough" "Canterbury" "Otago"
 			"Southland"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "HMNZS"
-		generic = { "Battlecruiser" }
+		generic = { "Battlemodern_cruiser" }
 		unique = {
 			"New Zealand" "Northland" "Auckland" "Gisborne" "Taranaki" "Hawkes Bay" "Wellington" "Nelson" "Westland" "Marlborough" "Canterbury"
 			"Otago" "Southland"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "HMNZS"
-		generic = { "Battleship" }
+		generic = { "modern_battleship" }
 		unique = {
 			"New Zealand" "Northland" "Auckland" "Gisborne" "Taranaki" "Hawkes Bay" "Wellington" "Nelson" "Westland" "Marlborough" "Canterbury"
 			"Otago" "Southland"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "HMNZS"
-		generic = { "Carrier" }
+		generic = { "modern_carrier" }
 		unique = {
 			"Vengeance" "Melbourne" "Sydney" "Northland" "Auckland" "Gisborne" "Taranaki" "Hawkes Bay" "Wellington" "Nelson" "Westland"
 			"Marlborough" "Canterbury" "Otago" "Southland" "Stafford" "Seddon" "Hall-Jones" "Ward" "Massey"
@@ -1961,44 +1961,44 @@ OMA = {
 			"Al Shamikh" "Al Rahmani" "Al Rasikh" "Qahir Al Amwaj" "Al Mua'zzar" "Al Mubrukah"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "SNV"
-		generic = { "Destroyer" }
+		generic = { "modern_destroyer" }
 		unique = {
 			"Al Shamikh" "Al Rahmani" "Al Rasikh" "Qahir Al Amwaj" "Al Mua'zzar" "Al Mubrukah"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "SNV"
-		generic = { "Light Cruiser" }
+		generic = { "Light modern_cruiser" }
 		unique = {
 			"Salalah" "Raysut" "Mirbah" "Sawqirah" "Duqm"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "SNV"
-		generic = { "Heavy Cruiser" }
+		generic = { "Heavy modern_cruiser" }
 		unique = {
 			"Salalah" "Raysut" "Mirbah" "Sawqirah" "Duqm"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "SNV"
-		generic = { "Battlecruiser" }
+		generic = { "Battlemodern_cruiser" }
 		unique = {
 			"Masqat" "Matrah"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "SNV"
-		generic = { "Battleship" }
+		generic = { "modern_battleship" }
 		unique = {
 			"Masqat" "Matrah"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "SNV"
-		generic = { "Aircraft Carrier" }
+		generic = { "Aircraft modern_carrier" }
 		unique = {
 			"Salah al-Din"
 		}
@@ -2013,7 +2013,7 @@ PAN = {
 			"Chiriqui" "Panama" "Panquiaco" "Tres De Noviembre" "10 de Noviembre" "28 de Noviembre" "Escudo de Veraguas" "Flamenco" "Naos" "Negrita" "Nombre de Dios" "Taboga"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "ARP"
 		generic = {
 			"Destructor"
@@ -2022,35 +2022,35 @@ PAN = {
 			"Chiriqui" "Panama" "Panquiaco" "Tres De Noviembre" "10 de Noviembre" "28 de Noviembre" "Escudo de Veraguas" "Flamenco" "Naos" "Negrita" "Nombre de Dios" "Taboga"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "ARP"
 		generic = { "Crucero Ligero" }
 		unique = {
 			"Colon" "La Chorrera" "David" "Penonome" "Punta Mata"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "ARP"
 		generic = { "Crucero Pesado" }
 		unique = {
 			"Colon" "La Chorrera" "David" "Penonome" "Punta Mata"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "ARP"
 		generic = { "Crucero de Batalla" }
 		unique = {
 			"Ciudad de PanamA" "La Revolución de 1889"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "ARP"
 		generic = { "Acorazado" }
 		unique = {
 			"Ciudad de PanamA" "La Revolución de 1889"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "ARP"
 		generic = { "Portaaviones" }
 		unique = {
@@ -2067,44 +2067,44 @@ PER = {
 			"Tareq" "Nooh" "Yunes" "Besat" "Fateh" "Nahang" "Ghadir" "Yugo"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "IIS"
-		generic = { "Destroyer" }
+		generic = { "modern_destroyer" }
 		unique = {
 			"Artemiz" "Damavand" "Palang" "Babr" "Sahand" "Saam" "Zaal" "Rostam" "Alvand" "Alborz" "Sabalan" "Jamaran"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "IIS"
-		generic = { "Light Cruiser" }
+		generic = { "Light modern_cruiser" }
 		unique = {
 			"Palang" "Babr" "Shir" "Paykan" "Ababil" "Simorgh"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "IIS"
-		generic = { "Heavy Cruiser" }
+		generic = { "Heavy modern_cruiser" }
 		unique = {
 			"Palang" "Babr" "Shir" "Paykan" "Ababil" "Simorgh"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "IIS"
-		generic = { "Battlecruiser" }
+		generic = { "Battlemodern_cruiser" }
 		unique = {
 			"Palang" "Babr" "Shir" "Paykan"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "IIS"
-		generic = { "Battleship" }
+		generic = { "modern_battleship" }
 		unique = {
 			"Palang" "Babr" "Shir" "Paykan"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "IIS"
-		generic = { "Aircraft Carrier" }
+		generic = { "Aircraft modern_carrier" }
 		unique = {
 			"Palang" "Babr" "Shir" "Paykan" "Saam" "Zaal" "Rostam" "Faramarz"
 		}
@@ -2120,45 +2120,45 @@ PHI = {
 			"Otago" "Taranaki" "Waikato" "Blackpool" "Canterbury"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "RPS"
-		generic = { "Destroyer" }
+		generic = { "modern_destroyer" }
 		unique = {
 			"Rajah Soliman" "Rajah Lakandula" "Datu Kalantiaw" "Datu Sikatuna" "Andres Bonifacio" "Gregorio del Pilar" "Diego Silang" "Francisco Dagohoy"
 			"Datu Marikudo" "Negros Occidental" "Leyte"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "RPS"
-		generic = { "Light Cruiser" }
+		generic = { "Light modern_cruiser" }
 		unique = {
 			"Quezon" "Rizal" "Cebu" "Pangasinan" "Iloilo" "Manila" "Luzon" "Cabanatuan" "Batangas" "Cadiz" "Davao"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "RPS"
-		generic = { "Heavy Cruiser" }
+		generic = { "Heavy modern_cruiser" }
 		unique = {
 			"Quezon" "Rizal" "Cebu" "Pangasinan" "Iloilo" "Manila" "Luzon" "Cabanatuan" "Batangas" "Cadiz" "Davao"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "RPS"
-		generic = { "Battlecruiser" }
+		generic = { "Battlemodern_cruiser" }
 		unique = {
 			"Manila" "Luzon" "Pilipinas Republic" "General Manchatas" "Cabanatuan" "San Pablo" "Batangas" "Bacolod" "Cadiz" "San Carlos" "Davao"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "RPS"
-		generic = { "Battleship" }
+		generic = { "modern_battleship" }
 		unique = {
 			"Manila" "Luzon" "Pilipinas Republic" "General Manchatas" "Cabanatuan" "San Pablo" "Batangas" "Bacolod" "Cadiz" "San Carlos" "Davao"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "RPS"
-		generic = { "Carrier" }
+		generic = { "modern_carrier" }
 		unique = {
 			"Manila" "Luzon" "Pilipinas Republic" "General Manchatas" "Cabanatuan" "San Pablo" "Batangas" "Bacolod" "Cadiz" "San Carlos" "Davao"
 		}
@@ -2173,7 +2173,7 @@ POR = {
 			"Delfim" "Espadarte" "Golfinho" "Narval" "Nautilo" "Neptuno" "Albacora" "Barracuda" "Cachalote" "Foca" "Hidra"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "NRP"
 		generic = {
 			"Contratorpedeiro"
@@ -2182,35 +2182,35 @@ POR = {
 			"Guadiana" "Douro" "Tamega" "Vouga" "Lima" "Dão" "Tejo" "Liz" "Nuno Tristão" "Diogo Gomes" "Diogo Cão" "Corte Real" "Pêro Escobar"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "NRP"
 		generic = { "Cruzador Ligeiro" }
 		unique = {
 			"Matosinhos" "Vila Nova de Gaia" "Mira" "Figueira da Foz" "Marinha Granda" "Nazare"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "NRP"
 		generic = { "Cruzador Pesado" }
 		unique = {
 			"Matosinhos" "Vila Nova de Gaia" "Mira" "Figueira da Foz" "Marinha Granda" "Nazare"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "NRP"
 		generic = { "Cruzador Couraçado" }
 		unique = {
 			"Lisboa" "Porto" "Novo Estado"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "NRP"
 		generic = { "Couraçado" }
 		unique = {
 			"Lisboa" "Porto" "Novo Estado"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "NRP"
 		generic = { "Porta-Aviões" }
 		unique = {
@@ -2228,42 +2228,42 @@ PRU = {
 			"R1" "R2" "R3" "R4" "Dos de Mayo" "Abtao" "Angamos" "Iquique" "Pacocha" "La Pedrera" "Angamos" "Antofagasta" "Pisagua" "Chipana" "Islay" "Arica"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "BAP"
 		generic = { "Destructor" }
 		unique = {
 			"Almirante Villar" "Almirante Guise" "Palacios" "Ferre" "Garcia y Garcia" "Coronel Bolognesi" "Castilla" "Capitan Quinones" "Galvez" "Diez Canseco" "Aguirre" "Rodriguez"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "BAP"
 		generic = { "Crucero Ligero" }
 		unique = {
 			"Almirante Grau" "Coronel Bolognesi" "CapitAn Quinones" "Aguirre" "Chimbote" "Callao" "Arequipa" "Huancayo" "Cusco" "Puno"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "BAP"
 		generic = { "Crucero Pesado" }
 		unique = {
 			"Almirante Grau" "Coronel Bolognesi" "CapitAn Quinones" "Aguirre" "Chimbote" "Callao" "Arequipa" "Huancayo" "Cusco" "Puno"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "BAP"
 		generic = { "Crucero de Batalla" }
 		unique = {
 			"Lima" "Mariscal CAceres" "Gloriosa"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "BAP"
 		generic = { "Acorazado" }
 		unique = {
 			"Lima" "Mariscal CAceres" "Gloriosa"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "BAP"
 		generic = { "Portaaviones" }
 		unique = {
@@ -2280,7 +2280,7 @@ ROM = {
 			"Delfinul" "Rechinul" "Marsuinul" "Baracuda" "Narval" "Nautilus" "Somonul" "Peste-Spada"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "NMS"
 		generic = { "Distrugator" }
 		unique = {
@@ -2288,35 +2288,35 @@ ROM = {
 			"Contraamiral Macellariu" "Zborul" "Pescarusul" "Lastunul"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "NMS"
 		generic = { "Crucisator Lumina" }
 		unique = {
 			"Timosoara" "Arad" "Oradea" "Baia Mare" "Sighetu Marmatiei" "Bistrita" "Reghin" "Pitesti" "Rosiori de Vede"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "NMS"
 		generic = { "Crucisator Grea" }
 		unique = {
 			"Timosoara" "Arad" "Oradea" "Baia Mare" "Sighetu Marmatiei" "Bistrita" "Reghin" "Pitesti" "Rosiori de Vede"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "NMS"
 		generic = { "Crucisator Lupta" }
 		unique = {
 			"Constanta" "Tirgu Mures" "Cluj Napoca"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "NMS"
 		generic = { "Vas de Razboi" }
 		unique = {
 			"Constanta" "Tirgu Mures" "Cluj Napoca"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "NMS"
 		generic = { "Portavion" }
 		unique = {
@@ -2332,42 +2332,42 @@ VEN = {
 			"SAbalo" "Caribe" "Almirante Clemente" "General Flores" "General Moran" "Almirante Brión" "General Austria" "Almirante Garcia"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "ARV"
 		generic = { "Destructor" }
 		unique = {
 			"Nueva Esparta" "Zulia" "Aragua" "Almirante Clemente" "General Flores" "General Moran" "Almirante Brión" "General Austria" "Almirante Garcia"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "ARV"
 		generic = { "Crucero Ligero" }
 		unique = {
 			"Maracay" "Barquisimeto" "Valencia" "Petare Teques" "Puerto de la Cruz" "Cumana" "Maturin" "Sotavento" "Isla de Tortuga" "Pedregal"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "ARV"
 		generic = { "Crucero Pesado" }
 		unique = {
 			"Maracay" "Barquisimeto" "Valencia" "Petare Teques" "Puerto de la Cruz" "Cumana" "Maturin" "Sotavento" "Isla de Tortuga" "Pedregal"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "ARV"
 		generic = { "Crucero de Batalla" }
 		unique = {
 			"Coronel Eduardo Blanco" "Almirante San Pablo" "Caracas"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "ARV"
 		generic = { "Acorazado" }
 		unique = {
 			"Coronel Eduardo Blanco" "Almirante San Pablo" "Caracas"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "ARV"
 		generic = { "Portaaviones" }
 		unique = {
@@ -2384,42 +2384,42 @@ URG = {
 			"Uruguay" "Montevideo" "Maldonado" "Rocha" "Colonia" "Artigas" "Colonia" "Rio Negro" "Paysandu"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "ROU"
 		generic = { "Destructor" }
 		unique = {
 			"Uruguay" "Montevideo" "Maldonado" "Rocha" "Colonia" "Artigas" "Colonia" "Rio Negro" "Paysandu"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "ROU"
 		generic = { "Crucero Ligero" }
 		unique = {
 			"Uruguay" "Minas" "Castillos" "Piraraje" "San Carlos" "San Jose de Mayo"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "ROU"
 		generic = { "Crucero Pesado" }
 		unique = {
 			"Uruguay" "Minas" "Castillos" "Piraraje" "San Carlos" "San Jose de Mayo"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "ROU"
 		generic = { "Crucero de Batalla" }
 		unique = {
 			"General Artigas" "General Don Claudio"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "ROU"
 		generic = { "Acorazado" }
 		unique = {
 			"General Artigas" "General Don Claudio"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "ROU"
 		generic = { "Portaaviones" }
 		unique = {
@@ -2438,7 +2438,7 @@ SWE = {
 			"Neptun" "Najad" "Näcken" "U1" "U2" "U3" "U4" "U5" "U6" "U7" "U8" "U9" "Vargen" "Forellen" "Aborren" "Siken" "Gäddan" "Laxen" "Makrillen"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "HMS"
 		generic = { "Jagare" }
 		unique = {
@@ -2448,7 +2448,7 @@ SWE = {
 			"Hugin" "Wale"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "HMS"
 		generic = { "Lätt KRyśsare" }
 		unique = {
@@ -2457,7 +2457,7 @@ SWE = {
 			"Uddevalla" "Helsingborg" "Varberg" "Norrköping" "Söderköping" "Visby" "Älvsnabben"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "HMS"
 		generic = { "Tung KRyśsare" }
 		unique = {
@@ -2466,21 +2466,21 @@ SWE = {
 			"Oden" "Thor" "Niord" "Svea" "Göta" "Thule"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "HMS"
 		generic = { "Stridsskepp" }
 		unique = {
 			"Gustav II Adolf" "Karl XII" "Karl XI" "Gustav III" "Gustav Vasa"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "HMS"
 		generic = { "Slagskepp" }
 		unique = {
 			"Stockholm" "Karl XIV Johann" "Gustav II Adolf" "Karl XII" "Karl XI" "Gustav III"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "HMS"
 		generic = { "Hangarfartyg" }
 		unique = {
@@ -2501,16 +2501,16 @@ TUR = {
 			"Ulucalireis"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "TCG"
-		generic = { "Destroyer" }
+		generic = { "modern_destroyer" }
 		unique = {
 			"Peyk" "Berk" "Kocatepe" "Adatepe" "Zafer" "Tinaztepe" "Gayret" "Demirhisar" "Sultanhisar" "Muavenet" "Gaziantep" "Giresun"
 			"Gelibolu" "Gemlik" "Alp Arslam" "Maresal Fevzi cakmak" "Kilic Ali Pasa" "Piyale Pasha" "Istanbul" "Izmir" "Ismit" "Iskenderun"
 			"Icel" "Yücetepe" "Savastepe" "Alcitepe" "Anittepe"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "TCG"
 		generic = { "Isik Kruvazör" }
 		unique = {
@@ -2518,7 +2518,7 @@ TUR = {
 			"Dumlupinar" "Kilic Ali" "Peyk-i sevket" "Berk-i Satvet"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "TCG"
 		generic = { "Agir Kruvazör" }
 		unique = {
@@ -2526,21 +2526,21 @@ TUR = {
 			"Mersin" "Golcük" "Hamidiye" "Mecidiye" "Turgut Reis"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "TCG"
 		generic = { "Muharebe Kruvazör" }
 		unique = {
 			"Yavuz" "Batiray" "Yildiray" "Yavuzay" "Izmir" "Istanbul" "Samsun" "Trabzon"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "TCG"
 		generic = { "Savas Gemisi" }
 		unique = {
 			"Izmir" "Istanbul" "Samsun" "Trabzon" "Turgud Reis" "Barbaros" "Salih Reis" "Kilic Ali Reis" "Saldiray" "Midilli"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "TCG"
 		generic = { "Ucak Gemisi" }
 		unique = {
@@ -2558,44 +2558,44 @@ SAU = {
 			"Al Riyadh" "Makkah" "Al Damman" "Al Madinah" "Hofouf" "Abha" "Taif"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "HMS"
-		generic = { "Destroyer" }
+		generic = { "modern_destroyer" }
 		unique = {
 			"Al Riyadh" "Makkah" "Al Damman" "Al Madinah" "Hofouf" "Abha" "Taif"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "HMS"
-		generic = { "Light Cruiser" }
+		generic = { "Light modern_cruiser" }
 		unique = {
 			"Jiddah" "Ad Damman" "Al Hufüf" "At Tä'if" "Najran"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "HMS"
-		generic = { "Heavy Cruiser" }
+		generic = { "Heavy modern_cruiser" }
 		unique = {
 			"Jiddah" "Ad Damman" "Al Hufüf" "At Tä'if" "Najran"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "HMS"
-		generic = { "Battlecruiser" }
+		generic = { "Battlemodern_cruiser" }
 		unique = {
 			"Makkah" "al Madinah"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "HMS"
-		generic = { "Battleship" }
+		generic = { "modern_battleship" }
 		unique = {
 			"Makkah" "al Madinah"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "HMS"
-		generic = { "Aircraft Carrier" }
+		generic = { "Aircraft modern_carrier" }
 		unique = {
 			"Al 'Arabiyah as Su'udiyah" "Aziz ibn Saud"
 		}
@@ -2611,7 +2611,7 @@ SPR = {
 			"S11" "S12" "S13" "S14" "S15" "S16" "S17" "S18" "S19" "S20" "S21" "S22" "S23"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "ARE"
 		generic = {
 			"Destructor"
@@ -2622,35 +2622,35 @@ SPR = {
 			"Audaz" "Osado" "Meteoro" "Furor" "Rayo" "Ariete" "Temerario" "Intrepido" "RelAmpago"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "ARE"
 		generic = { "Crucero Ligero" }
 		unique = {
 			"Republica" "Mendez Nunez" "Almirante Cervera" "Libertad" "Miguel de Cervantes" "Galicia" "Blas de Lezo" "Sevilla" "Huelva" "Vizcaya" "Granada" "Baleares" "Canarias"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "ARE"
 		generic = { "Crucero Pesado" }
 		unique = {
 			"Canarias" "Baleares" "Navarra" "Reina Regente" "Cataluna" "Extremadura" "Vizcaya" "Blas de Lezo" "Sevilla" "Huelva" "Vizcaya" "Granada"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "ARE"
 		generic = { "Crucero de Batalla" }
 		unique = {
 			"Lepanto" "Bailen" "Libertad"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "ARE"
 		generic = { "Acorazado" }
 		unique = {
 			"Jaime I" "Espana" "Alfonso XIII" "Lepanto" "Bailen" "Libertad"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "ARE"
 		generic = { "Portaaviones" }
 		unique = {
@@ -2668,7 +2668,7 @@ SIA = {
 			"Matchanu" "Wirun" "Sinsamut" "Phlai-chumphon"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "HTMS"
 		generic = { "Reux phikhat" }
 		unique = {
@@ -2676,35 +2676,35 @@ SIA = {
 			"Kyongyai" "Kantan" "Takbai" "Bangpakong" "Prasae"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "HTMS"
 		generic = { "Fi Reuxrb" }
 		unique = {
 			"Taksin" "Naresuan" "Chon Buri" "Samut Phrakan" "Si Racha" "Rayong" "Chanthaburi" "Khao Saming" "Ratanakosin" "Sukhothai"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "HTMS"
 		generic = { "Reux Ladtrawen Hnak" }
 		unique = {
 			"Sri Ayuthia" "Dhonburi" "Chon Buri" "Samut Phrakan" "Si Racha" "Rayong" "Chanthaburi" "Khao Saming" "Ratanakosin" "Sukhothai"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "HTMS"
 		generic = { "Rb Khruy Sexr" }
 		unique = {
 			"Krung Thep" "Thale Luang" "Ko Samui" "Ratanakosin" "Sukhothai"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "HTMS"
 		generic = { "Reuxrb" }
 		unique = {
 			"Krung Thep" "Thale Luang" "Ko Samui" "Ratanakosin" "Sukhothai"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "HTMS"
 		generic = { "Reux Brrthuk Kheruxngbin" }
 		unique = {
@@ -2720,15 +2720,15 @@ POL = {
 			"Wilk" "Ryś" "Żbik" "Orzeł" "Sęp" "Dzik" "Jastrząb" "Sokół" "Kujawiak" "Bielik" "Kondor" "Kaszub" "Ślązak" "Kurp" "Krakowiak" "Mazur" "Kujawiak"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = "ORP"
-		generic = { "Grom" "Niszczyciel" }		# (Grom = From WIKI) (Niszczyciel = Destroyer)
+		generic = { "Grom" "Niszczyciel" }		# (Grom = From WIKI) (Niszczyciel = modern_destroyer)
 		unique = {
 			"Burza" "Wicher" "Grom" "Błyskawica" "Orkan" "Huragan" "Garland" "Piorun" "Kujawiak" "Ślązak" "Krakowiak" "Warszawa"
 			"Kujawiak" "Piorun" "Ślązak" "Pomorzanin"
 		}
 	}
-	light_cruiser = {
+	light_modern_cruiser = {
 		prefix = "ORP"
 		generic = { "Lekki Krążownik" }
 		unique = {
@@ -2736,7 +2736,7 @@ POL = {
 			"Kraków" "Zadwórze" "Płowce" "Odsiecz Wiedeńska" "Psków" "Raszyn" "Przemyśl" "Chocim" "Kircholm" "Fuengirola"
 		}
 	}
-	heavy_cruiser = {
+	heavy_modern_cruiser = {
 		prefix = "ORP"
 		generic = { "Ciężki Krążownik" }
 		unique = {
@@ -2744,7 +2744,7 @@ POL = {
 			"Kraków" "Zadwórze" "Płowce" "Odsiecz Wiedeńska" "Pskow" "Raszyn" "Przemyśl" "Chocim" "Kircholm" "Fuengirola"
 		}
 	}
-	battle_cruiser = {
+	battle_modern_cruiser = {
 		prefix = "ORP"
 		generic = { "Krążownik" }
 		unique = {
@@ -2752,7 +2752,7 @@ POL = {
 			"Stanisław Żółkiewski" "Jan Zamoyski" "Stanisław Lanckoroński" "Stefan Czarniecki" "Jan Karol Chodkiewicz"
 		}
 	}
-	battleship = {
+	modern_battleship = {
 		prefix = "ORP"
 		generic = { "Pancernik" }
 		unique = {
@@ -2760,7 +2760,7 @@ POL = {
 			"Stanisław Żółkiewski" "Jan Zamoyski" "Stanisław Lanckoroński" "Stefan Czarniecki" "Jan Karol Chodkiewicz"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = "ORP"
 		generic = { "Lotniskowiec" }
 		unique = {

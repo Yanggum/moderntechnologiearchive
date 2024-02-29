@@ -15,7 +15,7 @@ technology_Categories = {
 
 		Cat_AFV #All Armored Fighting Vehicles
 			Cat_IFV #new - Infantry Fighting Vehicle
-			Cat_APC #new - Armoured peronel Carrier
+			Cat_APC #new - Armoured peronel modern_carrier
 			Cat_UTIL #Utility Vehicle
 
 
@@ -73,14 +73,14 @@ technology_Categories = {
 		### Fighter Tab ###
 		Cat_FIGHTER #All Fighters
 			Cat_MR_FIGHTER #Multi Role Fighters
-			Cat_CV_MR_FIGHTER #Carrier Multi Role Fighters
+			Cat_CV_MR_FIGHTER #modern_carrier Multi Role Fighters
 			Cat_S_FIGHTER #Strike Fighters
 			Cat_Medium_Plane
 			Cat_Small_Plane
 
 			Cat_L_Fighter #Light Fighter/trainer
 				Cat_L_S_FIGHTER #Light Strike Fighter
-				Cat_CV_L_S_FIGHTER #Carrier Light Strike Fighter
+				Cat_CV_L_S_FIGHTER #modern_carrier Light Strike Fighter
 
 			Cat_AS_FIGHTER #Air Supperiority Fighter
 			Cat_A_UAV #Unmanned Combat Aireial Vehicle
@@ -111,17 +111,17 @@ technology_Categories = {
 
 		#Surface Ships
 		Cat_SURFACE_SHIP #All Surface Ships
-			Cat_N_CRUISER #Nuclear Missile Cruiser
-			Cat_M_Cruiser #Missile Cruiser
-			Cat_DESTROYER #Missile Destroyer
-			Cat_FRIGATE #Frigate
-			Cat_CORVETTE #Corvette
+			Cat_N_modern_cruiser #Nuclear Missile modern_cruiser
+			Cat_M_modern_cruiser #Missile modern_cruiser
+			Cat_modern_destroyer #Missile modern_destroyer
+			Cat_modern_frigate #modern_frigate
+			Cat_modern_corvette #modern_corvette
 			Cat_TRANS_SHIP #Transport ship
 
-		#Carrier
-		Cat_CARRIER #All Carriers
-			Cat_N_CV #nuclear carrier
-			Cat_CV #Aircraft Carrier
+		#modern_carrier
+		Cat_modern_carrier #All modern_carriers
+			Cat_N_CV #nuclear modern_carrier
+			Cat_CV #Aircraft modern_carrier
 			Cat_LHA #Landing Helicopter Assault (LHA)
 			Cat_LPD #Amphibious transport dock/landing platform/dock (LPD)
 

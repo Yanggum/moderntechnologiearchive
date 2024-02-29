@@ -1,10 +1,10 @@
 ﻿
-RAJ_AIRCRAFT_CARRIERS_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CARRIERS
+RAJ_AIRCRAFT_modern_carrierS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_carrierS
 	for_countries = { RAJ }
 	type = ship
 	ship_types = {
-		carrier
+		modern_carrier
 	}
 	fallback_name = "CV-%d"
 
@@ -13,8 +13,8 @@ RAJ_AIRCRAFT_CARRIERS_HISTORICAL = {
 	}
 }
 
-RAJ_HELICOPTER_CARRIERS_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_HELICOPTER_CARRIERS
+RAJ_HELICOPTER_modern_carrierS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_HELICOPTER_modern_carrierS
 	for_countries = { RAJ }
 	type = ship
 	ship_types = {
@@ -27,14 +27,14 @@ RAJ_HELICOPTER_CARRIERS_HISTORICAL = {
 	}
 }
 
-### CRUISER NAMES###
-RAJ_CRUISERS_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CRUISER
+### modern_cruiser NAMES###
+RAJ_modern_cruiserS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_cruiser
 
 	for_countries = { RAJ }
 
 	type = ship
-	ship_types = { battle_cruiser cruiser }
+	ship_types = { battle_modern_cruiser modern_cruiser }
 
 	fallback_name = "CG-%d"
 
@@ -43,13 +43,13 @@ RAJ_CRUISERS_HISTORICAL = {
 	}
 }
 
-RAJ_DESTROYERS_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+RAJ_modern_destroyerS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 	for_countries = { RAJ }
 	type = ship
 	ship_types = {
-		stealth_destroyer
-		destroyer
+		stealth_modern_destroyer
+		modern_destroyer
 	}
 	fallback_name = "DDG-%d"
 
@@ -60,12 +60,12 @@ RAJ_DESTROYERS_HISTORICAL = {
 	}
 }
 
-RAJ_FRIGATES_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATES
+RAJ_modern_frigateS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigateS
 	for_countries = { RAJ }
 	type = ship
 	ship_types = {
-		frigate
+		modern_frigate
 	}
 	fallback_name = "FFG-%d"
 
@@ -77,14 +77,14 @@ RAJ_FRIGATES_HISTORICAL = {
 	}
 }
 
-### CORVETTE NAMES ###
-RAJ_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+RAJ_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { RAJ }
 
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	fallback_name = "KKG-%d"
 
 	unique = {
@@ -102,7 +102,7 @@ RAJ_SUBMARINES_HISTORICAL = {
 	for_countries = { RAJ }
 	type = ship
 	ship_types = {
-		attack_submarine missile_submarine
+		attack_submarine modern_missile_submarine
 	}
 	fallback_name = "SS-%d"
 

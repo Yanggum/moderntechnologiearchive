@@ -1,13 +1,13 @@
 ﻿##### Bulgarian NAME LISTS #####
 
-### AIRCRAFT CARRIER NAMES ###
+### AIRCRAFT modern_carrier NAMES ###
 BUL_CV_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CARRIERS
+	name = NAME_THEME_HISTORICAL_modern_carrierS
 
 	for_countries = { BUL }
 
 	type = ship
-	ship_types = { carrier }
+	ship_types = { modern_carrier }
 
 	prefix = "BNG "
 	fallback_name = "CVN-%d"
@@ -19,7 +19,7 @@ BUL_CV_HISTORICAL = {
 
 ### HELICOPTER OPERATOR NAMES ###
 BUL_LHA_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_HELICOPTER_CARRIERS
+	name = NAME_THEME_HISTORICAL_HELICOPTER_modern_carrierS
 
 	for_countries = { BUL }
 
@@ -34,15 +34,15 @@ BUL_LHA_HISTORICAL = {
 	}
 }
 
-### CRUISER NAMES###
-BUL_CRUISERS_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CRUISER
+### modern_cruiser NAMES###
+BUL_modern_cruiserS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_cruiser
 
 	for_countries = { BUL }
 
 	type = ship
-	#ship_types = { ship_hull_cruiser light_cruiser }
-	ship_types = { battle_cruiser cruiser }
+	#ship_types = { ship_hull_modern_cruiser light_modern_cruiser }
+	ship_types = { battle_modern_cruiser modern_cruiser }
 
 	prefix = "BNG "
 	fallback_name = "CGN-%d"
@@ -52,15 +52,15 @@ BUL_CRUISERS_HISTORICAL = {
 	}
 }
 
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 BUL_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { BUL }
 
 	type = ship
-	#ship_types = { ship_hull_light destroyer }
-	ship_types = { stealth_destroyer destroyer }
+	#ship_types = { ship_hull_light modern_destroyer }
+	ship_types = { stealth_modern_destroyer modern_destroyer }
 
 	prefix = "BNG "
 	fallback_name = "DDG-%d"
@@ -70,14 +70,14 @@ BUL_DD_HISTORICAL = {
 	}
 }
 
-### FRIGATE NAMES###
-BUL_FRIGATE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATE
+### modern_frigate NAMES###
+BUL_modern_frigate_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigate
 
 	for_countries = { BUL }
 
 	type = ship
-	ship_types = { frigate }
+	ship_types = { modern_frigate }
 
 	prefix = "BNG "
 	fallback_name = "FFG-%d"
@@ -88,14 +88,14 @@ BUL_FRIGATE_HISTORICAL = {
 }
 
 
-### CORVETTE NAMES ###
-BUL_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+BUL_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { BUL }
 
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	prefix = "BNG "
 	fallback_name = "KKG-%d"
 
@@ -105,13 +105,13 @@ BUL_CORVETTE_HISTORICAL = {
 }
 
 ### MISSILE SUBMARINES NAMES ###
-BUL_MISSILE_SUBMARINE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_MISSILE_SUBMARINES
+BUL_modern_missile_submarine_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_missile_submarineS
 
 	for_countries = { BUL }
 
 	type = ship
-	ship_types = { missile_submarine }
+	ship_types = { modern_missile_submarine }
 
 	prefix = "BNG "
 	fallback_name = "SSGN-%d"

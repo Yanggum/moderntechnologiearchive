@@ -512,7 +512,7 @@
  news.2.d: "Aujourd'hui, [mct_inviter.GetNameDef] et [mct_applicant.GetNameDef] ont signé un traité de coopération militaire, renforçant ainsi leurs liens militaires."
  news.2.a: "D'accord."
  news.3.t: "Attentat contre l'USS Cole"
- news.3.d: "Le commandement naval des États-Unis a indiqué que le destroyer USS Cole a été attaqué par le réseau Al-Qaïda, tuant 17 militaires américains. Les rapports des services de renseignement américains désignent le gouvernement du Soudan comme un possible soutien des deux attaquants."
+ news.3.d: "Le commandement naval des États-Unis a indiqué que le modern_destroyer USS Cole a été attaqué par le réseau Al-Qaïda, tuant 17 militaires américains. Les rapports des services de renseignement américains désignent le gouvernement du Soudan comme un possible soutien des deux attaquants."
  news.3.a: "Ils le regretteront."
  news.3.b: "Envoyer nos condoléances aux Américains."
  news.3.c: "Des Américains morts ? Bien."

@@ -161,7 +161,7 @@ Technical_Singularity_Programm = {
 	
 
 	#Navy
-	reserch_future_destroyer = {
+	reserch_future_modern_destroyer = {
 		icon = generic_naval
 
 		available = {
@@ -189,7 +189,7 @@ Technical_Singularity_Programm = {
 
 	}
 	
-	reserch_future_destroyer_legacy = {
+	reserch_future_modern_destroyer_legacy = {
 		icon = generic_naval
 
 		available = {
@@ -217,7 +217,7 @@ Technical_Singularity_Programm = {
 	}
 	
 
-	reserch_future_light_cruiser = {
+	reserch_future_light_modern_cruiser = {
 		icon = generic_naval
 
 		available = {
@@ -248,7 +248,7 @@ Technical_Singularity_Programm = {
 
 	}
 	
-	reserch_future_light_cruiser_legacy = {
+	reserch_future_light_modern_cruiser_legacy = {
 		icon = generic_naval
 
 		available = {
@@ -394,7 +394,7 @@ Technical_Singularity_Programm = {
 	}		
 	
 
-	reserch_future_carrier = {
+	reserch_future_modern_carrier = {
 		icon = generic_naval
 
 		available = {
@@ -411,8 +411,8 @@ Technical_Singularity_Programm = {
 		
 		remove_effect = { 
 			hidden_effect = { set_technology = { 
-					future_carrier = 1 
-					future_carrier_legacy = 1					
+					future_modern_carrier = 1 
+					future_modern_carrier_legacy = 1					
 					} }     
 		}
 		
@@ -424,7 +424,7 @@ Technical_Singularity_Programm = {
 
 	}	
 	
-	reserch_future_carrier_legacy = {
+	reserch_future_modern_carrier_legacy = {
 		icon = generic_naval
 
 		available = {
@@ -440,7 +440,7 @@ Technical_Singularity_Programm = {
 		
 		
 		remove_effect = { 
-			hidden_effect = { set_technology = { future_carrier_legacy = 1 } }     
+			hidden_effect = { set_technology = { future_modern_carrier_legacy = 1 } }     
 		}
 		
 		visible = {

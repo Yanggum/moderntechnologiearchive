@@ -52,7 +52,7 @@ duplicate_archetypes = {
 		interface_overview_category_index = 2
 		substitute = cv_small_modern_plane_suicide_airframe
 	}
-	#Small Carrier CAS Airframe
+	#Small modern_carrier CAS Airframe
 	cv_small_modern_plane_cas_airframe = {
 		archetype = cv_small_modern_plane_airframe
 		type = cas
@@ -64,9 +64,9 @@ duplicate_archetypes = {
 		}
 		air_map_icon_frame = 2
 		interface_overview_category_index = 0
-		default_carrier_composition_weight = 1
+		default_modern_carrier_composition_weight = 1
 	}
-	#Small Carrier Naval Bomber Airframe
+	#Small modern_carrier Naval Bomber Airframe
 	cv_small_modern_plane_naval_bomber_airframe = {
 		archetype = cv_small_modern_plane_airframe
 		type = naval_bomber
@@ -78,9 +78,9 @@ duplicate_archetypes = {
 			air_superiority = { set = 0.25 }
 		}
 		interface_overview_category_index = 2
-		default_carrier_composition_weight = 1
+		default_modern_carrier_composition_weight = 1
 	}
-	#Small Plane Carrier Suicide Airframe (Drone)
+	#Small Plane modern_carrier Suicide Airframe (Drone)
 	cv_small_modern_plane_suicide_airframe = {
 		archetype = cv_small_modern_plane_airframe
 		type = suicide
@@ -92,7 +92,7 @@ duplicate_archetypes = {
 		air_map_icon_frame = 3
 		interface_overview_category_index = 2
 	}
-	#Small Plane Carrier Multirole Airframe
+	#Small Plane modern_carrier Multirole Airframe
 	cv_small_modern_plane_strike_airframe = {
 		archetype = cv_small_modern_plane_airframe
 		type = {
@@ -165,7 +165,7 @@ duplicate_archetypes = {
 		air_map_icon_frame = 12
 		interface_overview_category_index = 7
 	}
-	#Medium Plane Carrier Fighter Airframe
+	#Medium Plane modern_carrier Fighter Airframe
 	cv_medium_modern_plane_fighter_airframe = {
 		archetype = cv_medium_modern_plane_airframe
 		type = fighter
@@ -176,7 +176,7 @@ duplicate_archetypes = {
 		air_map_icon_frame = 8
 		interface_overview_category_index = 3
 	}
-	#Medium Plane Carrier CAS Airframe
+	#Medium Plane modern_carrier CAS Airframe
 	cv_medium_modern_plane_cas_airframe = {
 		archetype = cv_medium_modern_plane_airframe
 		type = cas
@@ -189,7 +189,7 @@ duplicate_archetypes = {
 		air_map_icon_frame = 6
 		interface_overview_category_index = 3
 	}
-	#Medium Plane Carrier Scout Airframe (AWACS)
+	#Medium Plane modern_carrier Scout Airframe (AWACS)
 	cv_medium_modern_plane_scout_airframe = {
 		archetype = cv_medium_modern_plane_airframe
 		type = scout_plane
@@ -201,7 +201,7 @@ duplicate_archetypes = {
 		interface_overview_category_index = 7
 		forbid_mission_type = training
 	}
-	#Medium Plane Carrier Maritime Patrol Airframe
+	#Medium Plane modern_carrier Maritime Patrol Airframe
 	cv_medium_modern_plane_maritime_patrol_airframe = {
 		archetype = cv_medium_modern_plane_airframe
 		type = naval_bomber
@@ -212,7 +212,7 @@ duplicate_archetypes = {
 		air_map_icon_frame = 11
 		interface_overview_category_index = 7
 	}
-	#Medium Plane Carrier Transport Airframe (Air Transport)
+	#Medium Plane modern_carrier Transport Airframe (Air Transport)
 	cv_medium_modern_plane_air_transport_airframe = {
 		archetype = cv_medium_modern_plane_airframe
 		type = suicide
@@ -1606,7 +1606,7 @@ equipments = {
 		year = 1965
 
 		archetype = cv_medium_modern_plane_airframe
-		carrier_capable = yes
+		modern_carrier_capable = yes
 		priority = 15
 
 		allow_mission_type = {
@@ -1647,7 +1647,7 @@ equipments = {
 
 		archetype = cv_medium_modern_plane_airframe
 		parent = CV_MR_Fighter1
-		carrier_capable = yes
+		modern_carrier_capable = yes
 		priority = 55
 
 		allow_mission_type = {
@@ -1690,7 +1690,7 @@ equipments = {
 
 		archetype = cv_medium_modern_plane_airframe
 		parent = CV_MR_Fighter2
-		carrier_capable = yes
+		modern_carrier_capable = yes
 		priority = 75
 
 		allow_mission_type = {
@@ -1733,7 +1733,7 @@ equipments = {
 
 		archetype = cv_medium_modern_plane_airframe
 		parent = CV_MR_Fighter3
-		carrier_capable = yes
+		modern_carrier_capable = yes
 		priority = 90
 
 		allow_mission_type = {
@@ -1777,7 +1777,7 @@ equipments = {
 
 		archetype = cv_medium_modern_plane_airframe
 		parent = CV_MR_Fighter4
-		carrier_capable = yes
+		modern_carrier_capable = yes
 		priority = 90
 
 		allow_mission_type = {
@@ -1821,7 +1821,7 @@ equipments = {
 
 		archetype = cv_medium_modern_plane_airframe
 		parent = CV_MR_Fighter5
-		carrier_capable = yes
+		modern_carrier_capable = yes
 		priority = 90
 
 		allow_mission_type = {
@@ -1865,7 +1865,7 @@ equipments = {
 
 		archetype = cv_medium_modern_plane_airframe
 		parent = CV_MR_Fighter6
-		carrier_capable = yes
+		modern_carrier_capable = yes
 		priority = 100
 
 		allow_mission_type = {
@@ -2682,7 +2682,7 @@ equipments = {
 		year = 1985
 
 		archetype = cv_medium_modern_plane_scout_airframe
-		carrier_capable = yes
+		modern_carrier_capable = yes
 		priority = 100
 
 		allow_mission_type = {
@@ -2711,7 +2711,7 @@ equipments = {
 
 		archetype = cv_medium_modern_plane_scout_airframe
 		parent = cv_awacs_equipment_1
-		carrier_capable = yes
+		modern_carrier_capable = yes
 		priority = 100
 
 		allow_mission_type = {

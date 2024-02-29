@@ -63,7 +63,7 @@
 			"U(A)-91" "U(A)-92" "U(A)-93" "U(A)-94" "U(A)-95" "U(A)-96" "U(A)-97" "U(A)-98" "U(A)-99"
 		}
 	}
-	missile_submarine = {
+	modern_missile_submarine = {
 		prefix = ""
 		generic = { "Rakete-Unterseeboot" }
 		unique = {
@@ -79,7 +79,7 @@
 			"U(R)-91" "U(R)-92" "U(R)-93" "U(R)-94" "U(R)-95" "U(R)-96" "U(R)-97" "U(R)-98" "U(R)-99"
 		}
 	}
-	corvette = {
+	modern_corvette = {
 		prefix = ""
 		generic = { "Korvette" }
 		unique = {
@@ -155,7 +155,7 @@
 			"Brisote"
 		}
 	}
-	frigate = {
+	modern_frigate = {
 		prefix = ""
 		generic = { "Fregatte" }
 		unique = {
@@ -291,7 +291,7 @@
 			"Emden" "Königsberg" "Karlsruhe" "Köln" "Leipzig" "Nürnberg"
 		}
 	}
-	destroyer = {
+	modern_destroyer = {
 		prefix = ""
 		generic = { "Zerstörer" }
 		unique = {
@@ -386,7 +386,7 @@
 			"Wuppertal"
 		}
 	}
-	cruiser = {
+	modern_cruiser = {
 		prefix = ""
 		generic = { "Kreuzer" }
 		unique = {
@@ -448,7 +448,7 @@
 			"Fafnir"
 		}
 	}
-	carrier = {
+	modern_carrier = {
 		prefix = ""
 		generic = { "Flugzeugträger" }
 		unique = {
@@ -488,7 +488,7 @@
 		}
 	}
 
-	Nuclear_carrier = {
+	Nuclear_modern_carrier = {
 		prefix = ""
 		generic = { "Flugzeugträger" }
 		unique = {

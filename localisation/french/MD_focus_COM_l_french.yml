@@ -129,10 +129,10 @@
  COM_naval_treaty_with_france_desc: "Given our shared history, French interference in Comorian affairs is a common sight. The naval defense treaty allows France military access to our waters, but may be our only choice if we ever want to become a true naval power ourselves."
  COM_naval_treaty_with_china: "Chinese-Comorian Defense Treaty"
  COM_naval_treaty_with_china_desc: "Given our shared history, French interference in Comorian affairs is a common sight. We must fight against their infuence over by inviting other foreign powers into our local affairs."
- COM_modernize_the_patrol_boats: "Modernize the Patrol Boats"
- COM_modernize_the_patrol_boats_desc: "Our current 'Comorian Navy' consists of a whopping 2 Japanese patrol boats... commissioned in 1981! Needless to say, they're in dire need of an upgrade!"
- COM_buy_patrol_boats: "Quantity over Quality"
- COM_buy_patrol_boats_desc: "Our 'Navy' can't leave our shores more than a few miles. If we want to project power abroad we should have some corvettes in our fleet."
+ COM_modernize_the_modern_patrol_boats: "Modernize the Patrol Boats"
+ COM_modernize_the_modern_patrol_boats_desc: "Our current 'Comorian Navy' consists of a whopping 2 Japanese patrol boats... commissioned in 1981! Needless to say, they're in dire need of an upgrade!"
+ COM_buy_modern_patrol_boats: "Quantity over Quality"
+ COM_buy_modern_patrol_boats_desc: "Our 'Navy' can't leave our shores more than a few miles. If we want to project power abroad we should have some modern_corvettes in our fleet."
  COM_expand_the_dockyards: "Expand the Dockyards"
  COM_expand_the_dockyards_desc: "More dockyards means more ships, and our navy desperately needs more ships."
  COM_fortress_comoros: "Fortress Comoros"
@@ -242,7 +242,7 @@
  comor.3.b: "Rethink your policy, Tanzania."
 
  #tooltip
- COM_old_corvettes_tt: "Deploys 2 Cold War era [CHI.GetFlag]§HChinese§! corvettes."
+ COM_old_modern_corvettes_tt: "Deploys 2 Cold War era [CHI.GetFlag]§HChinese§! modern_corvettes."
 
  COM_social_democracy_in_afrika: "Social Democratic Diamond of Africa"
  COM_social_democracy_in_afrika_desc: "Social democracy offers a balanced approach to governance, combining market economies with social policies aimed at reducing inequality, improving access to education and healthcare, and fostering sustainable development. By adopting social democratic principles, Comoros can pave the way for inclusive growth and a brighter future for its citizens."

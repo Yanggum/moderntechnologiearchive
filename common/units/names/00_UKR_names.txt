@@ -1,6 +1,6 @@
 ﻿UKR = {
 
-	missile_submarine = {
+	modern_missile_submarine = {
 		prefix = ""
 		generic = { "Raketna submaryna" }
 		unique = {
@@ -33,7 +33,7 @@
 		}
 	}
 
-	nuclear_carrier = {
+	nuclear_modern_carrier = {
 		prefix = ""
 		generic = { "Atomnyi avianosets" }
 		unique = {
@@ -41,7 +41,7 @@
 		}
 	}
 
-	Carrier = {
+	modern_carrier = {
 		prefix = ""
 		generic = { "Avianosets" }
 		unique = {
@@ -49,7 +49,7 @@
 		}
 	}
 
-	# nuclear_cruiser = {
+	# nuclear_modern_cruiser = {
 	# 	prefix = ""
 	# 	generic = { "Atomnyi kreyser" }
 	# 	unique = {
@@ -73,7 +73,7 @@
 		}
 	}
 
-	cruiser = {
+	modern_cruiser = {
 		prefix = ""
 		generic = { "Kreyser" }
 		unique = {
@@ -81,7 +81,7 @@
 		}
 	}
 
-	frigate = {
+	modern_frigate = {
 		prefix = ""
 		generic = { "Frigat" }
 		unique = {
@@ -89,7 +89,7 @@
 		}
 	}
 
-	destroyer = {
+	modern_destroyer = {
 		prefix = ""
 		generic = { "Esminets" }
 		unique = {
@@ -98,7 +98,7 @@
 		}
 	}
 
-	corvette = {
+	modern_corvette = {
 		prefix = ""
 		generic = { "Corvet" }
 		unique = {

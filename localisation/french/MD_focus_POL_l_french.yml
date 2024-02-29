@@ -1009,8 +1009,8 @@
  POL_miecznik: "Miecznik"
  POL_miecznik_desc: "The construction of Miecznik will be something revolutionary for Poland. Poland has never had a ship with such great combat capabilities."
 
- POL_destroyer_development: "Destroyer Development"
- POL_destroyer_development_desc: "Destroyers will proudly support our new frigates, although we hope never to use them in war, it's good to have some decent facilities."
+ POL_modern_destroyer_development: "modern_destroyer Development"
+ POL_modern_destroyer_development_desc: "modern_destroyers will proudly support our new modern_frigates, although we hope never to use them in war, it's good to have some decent facilities."
 
  POL_construction_of_orp_kujawiak: "Construction Of ORP Kujawiak"
  POL_construction_of_orp_kujawiak_desc: "ORP Kujawiak is not a new ship, it sailed our waters in the 20th century, but it does not change the fact that it was a great submarine and faithfully served our seamen. This time it will not be built in Russia, but in Poland."
@@ -1031,10 +1031,10 @@
  POL_expansion_of_the_naval_industry_desc: "The western shore needs more factory capacity, because transports from Gdańsk and imports from other countries are very expensive, we will take care of the availability of parts for the ships on site."
 
  POL_orp_jadwiga: "ORP Jadwiga"
- POL_orp_jadwiga_desc: "A World War II destroyer will once again enter our territorial waters."
+ POL_orp_jadwiga_desc: "A World War II modern_destroyer will once again enter our territorial waters."
 
  POL_polish_board_jet_program: "Polish Board Jet Program"
- POL_polish_board_jet_program_desc: "Even though we don't have aircraft carriers, we can always send our pilots to ships of other countries, so it's important to provide them with proper training. Besides, they can defend the shoreline."
+ POL_polish_board_jet_program_desc: "Even though we don't have aircraft modern_carriers, we can always send our pilots to ships of other countries, so it's important to provide them with proper training. Besides, they can defend the shoreline."
 
  POL_purchase_of_foreign_board_aircraft: "Purchase Of Foreign Board Aircraft"
  POL_purchase_of_foreign_board_aircraft_desc: "We cannot train pilots using only simulations. They should practice on real machines with our ships."
@@ -1404,8 +1404,8 @@
  POL_slcm: "SLCM"
  POL_slcm_desc: "SLCM is a cruise missile that is launched from a submarine."
 
- POL_missile_submarines: "Missile Submarines"
- POL_missile_submarines_desc: "New missiles need properly modified submarines, so we need to design them."
+ POL_modern_missile_submarines: "Missile Submarines"
+ POL_modern_missile_submarines_desc: "New missiles need properly modified submarines, so we need to design them."
 
  POL_camouflage: "Camouflage"
  POL_camouflage_desc: "Camouflaging systems for our missiles will reduce their detectability and allow them to hit their targets more often."
@@ -2282,7 +2282,7 @@
  POL_fixed_brain_drain2: "Brain Drain"
  POL_fixed_brain_drain2_desc: "Strong communist ideology has messed with our minds and worldview."
  POL_unions_support_idea: "Unions Support"
- POL_destroyer_trainings_idea: "New Destroyers Doctrine"
+ POL_modern_destroyer_trainings_idea: "New modern_destroyers Doctrine"
  POL_slovak_school_funded_idea: "Slovak Schools Funded"
  POL_national_unity_idea: "National Unity"
  POL_national_unity_idea_desc: "Many years of suffering and occupation did not break our national spirit. Despite everything, we remain united and will do everything possible not to repeat the mistakes of the past."
@@ -2313,7 +2313,7 @@
  POL_polish_russian_cooperation_idea: "Polish-Russian Cooperation"
  POL_polish_russian_cooperation_idea_desc: "In the times of the USSR, the Red Army showed us that quantity can sometimes be better than quality, so we should strengthen our relations with Russia."
  POL_miecznik_idea: "Miecznik"
- POL_miecznik_idea_desc: "The Miecznik program assumes the construction of 3 new, powerful frigates. We are shifting the industry to the implementation of this project."
+ POL_miecznik_idea_desc: "The Miecznik program assumes the construction of 3 new, powerful modern_frigates. We are shifting the industry to the implementation of this project."
  POL_stealth_ship_coasts_idea: "Stealth Ship Coasts"
  POL_stealth_ship_coasts_idea_desc: "The reduced detectability of our ships will allow them to perform their missions more effectively."
  POL_independent_shipbuilding_industry_idea: "Independent Shipbuilding Industry"
@@ -2360,7 +2360,7 @@
  POL_fixed_brain_drain2: "Brain Drain"
  POL_fixed_brain_drain2_desc: "Strong communist ideology has messed with our minds and worldview."
  POL_unions_support_idea: "Unions Support"
- POL_destroyer_trainings_idea: "New Destroyers Doctrine"
+ POL_modern_destroyer_trainings_idea: "New modern_destroyers Doctrine"
  POL_walesa_opposition_idea: "Wałęsa Opposition"
  POL_walesa_opposition_idea_desc: "Lech Wałęsa is constantly trying to deprive Korwin of power. If he succeeds, he will become president of Poland again, but due to the highly undemocratic way in which he intends to do so, many people may believe that this event may be worse than Korwin's unstable rule."
  POL_korwin_opposition_idea: "Korwin Opposition"

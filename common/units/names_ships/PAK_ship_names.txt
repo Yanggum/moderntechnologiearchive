@@ -2,7 +2,7 @@
 
 ### HELICOPTER OPERATOR NAMES ###
 PAK_LHA_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_HELICOPTER_CARRIERS
+	name = NAME_THEME_HISTORICAL_HELICOPTER_modern_carrierS
 
 	for_countries = { PAK }
 
@@ -17,14 +17,14 @@ PAK_LHA_HISTORICAL = {
 	}
 }
 
-### CRUISER NAMES###
-PAK_CRUISERS_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CRUISER
+### modern_cruiser NAMES###
+PAK_modern_cruiserS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_cruiser
 
 	for_countries = { PAK }
 
 	type = ship
-	ship_types = { battle_cruiser cruiser }
+	ship_types = { battle_modern_cruiser modern_cruiser }
 
 	prefix = "PNS "
 	fallback_name = "CG-%d"
@@ -35,14 +35,14 @@ PAK_CRUISERS_HISTORICAL = {
 }
 
 
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 PAK_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { PAK }
 
 	type = ship
-	ship_types = { stealth_destroyer destroyer }
+	ship_types = { stealth_modern_destroyer modern_destroyer }
 
 	prefix = "PNS "
 	fallback_name = "DDG-%d"
@@ -52,14 +52,14 @@ PAK_DD_HISTORICAL = {
 	}
 }
 
-### FRIGATE NAMES###
-PAK_FRIGATE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATE
+### modern_frigate NAMES###
+PAK_modern_frigate_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigate
 
 	for_countries = { PAK }
 
 	type = ship
-	ship_types = { frigate }
+	ship_types = { modern_frigate }
 
 	prefix = "PNS "
 	fallback_name = "FFG-%d"
@@ -70,14 +70,14 @@ PAK_FRIGATE_HISTORICAL = {
 }
 
 
-### CORVETTE NAMES ###
-PAK_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+PAK_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { PAK }
 
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	prefix = "PNS "
 	fallback_name = "KKG-%d"
 
@@ -87,13 +87,13 @@ PAK_CORVETTE_HISTORICAL = {
 }
 
 ### MISSILE SUBMARINES NAMES ###
-PAK_MISSILE_SUBMARINE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_MISSILE_SUBMARINES
+PAK_modern_missile_submarine_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_missile_submarineS
 
 	for_countries = { PAK }
 
 	type = ship
-	ship_types = { missile_submarine }
+	ship_types = { modern_missile_submarine }
 
 	prefix = "PNS "
 	fallback_name = "SSBN-%d"

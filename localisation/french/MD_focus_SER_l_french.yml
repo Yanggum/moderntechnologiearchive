@@ -410,11 +410,11 @@
  SER_submarine_effort: "Effort sous-marin"
  SER_submarine_effort_desc: ""
 
- SER_cruiser_effort: "Effort sur les croiseurs"
- SER_cruiser_effort_desc: ""
+ SER_modern_cruiser_effort: "Effort sur les croiseurs"
+ SER_modern_cruiser_effort_desc: ""
 
- SER_destroyer_effort: "Effort sur les destroyers"
- SER_destroyer_effort_desc: ""
+ SER_modern_destroyer_effort: "Effort sur les modern_destroyers"
+ SER_modern_destroyer_effort_desc: ""
 
  SER_capital_ships_effort: "Effort sur les navires capitaux"
  SER_capital_ships_effort_desc: ""

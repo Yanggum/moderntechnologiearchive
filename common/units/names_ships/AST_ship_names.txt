@@ -1,13 +1,13 @@
 ﻿##### AUSTRALIA NAME LISTS #####
 
-### AIRCRAFT CARRIER NAMES ###
+### AIRCRAFT modern_carrier NAMES ###
 AST_CV_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CARRIERS
+	name = NAME_THEME_HISTORICAL_modern_carrierS
 
 	for_countries = { AST }
 
 	type = ship
-	ship_types = { carrier }
+	ship_types = { modern_carrier }
 
 	prefix = "HMAS "
 	fallback_name = "CVN-%d"
@@ -19,7 +19,7 @@ AST_CV_HISTORICAL = {
 
 ### HELICOPTER OPERATOR NAMES ###
 AST_LHA_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_HELICOPTER_CARRIERS
+	name = NAME_THEME_HISTORICAL_HELICOPTER_modern_carrierS
 
 	for_countries = { AST }
 
@@ -39,9 +39,9 @@ AST_LHA_HISTORICAL = {
 	}
 }
 
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 AST_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { AST }
 
@@ -51,7 +51,7 @@ AST_DD_HISTORICAL = {
 	}
 
 	type = ship
-	ship_types = { ship_hull_light destroyer }
+	ship_types = { ship_hull_light modern_destroyer }
 
 	prefix = "HMAS "
 	fallback_name = "DDG-%d"
@@ -61,9 +61,9 @@ AST_DD_HISTORICAL = {
 	}
 }
 
-##### FRIGATE NAMES ############
-AST_FRIGATE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATE
+##### modern_frigate NAMES ############
+AST_modern_frigate_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigate
 
 	for_countries = { AST }
 
@@ -75,7 +75,7 @@ AST_FRIGATE_HISTORICAL = {
 	}
 
 	type = ship
-	ship_types = { frigate }
+	ship_types = { modern_frigate }
 
 	prefix = "HMAS "
 	fallback_name = "FFG-%d"
@@ -86,9 +86,9 @@ AST_FRIGATE_HISTORICAL = {
 }
 
 
-### CORVETTE NAMES###
-AST_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES###
+AST_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { AST }
 
@@ -100,7 +100,7 @@ AST_CORVETTE_HISTORICAL = {
 	}
 
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	prefix = "HMAS "
 	fallback_name = "KKG-%d"
 
@@ -111,8 +111,8 @@ AST_CORVETTE_HISTORICAL = {
 
 
 ### MISSILE SUBMARINES NAMES ###
-AST_MISSILE_SUBMARINE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_MISSILE_SUBMARINES
+AST_modern_missile_submarine_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_missile_submarineS
 
 	for_countries = { AST }
 
@@ -122,7 +122,7 @@ AST_MISSILE_SUBMARINE_HISTORICAL = {
 	}
 
 	type = ship
-	ship_types = { missile_submarine }
+	ship_types = { modern_missile_submarine }
 
 	prefix = "HMAS "
 	fallback_name = "SSGN-%d"
@@ -143,7 +143,7 @@ AST_SS_HISTORICAL = {
 
 	type = ship
 	#ship_types = { ship_hull_submarine submarine }
-	ship_types = { attack_submarine missile_submarine }
+	ship_types = { attack_submarine modern_missile_submarine }
 
 	prefix = "HMAS "
 	fallback_name = "SSN-%d"
@@ -239,9 +239,9 @@ AST_ANIMALS = {
 ###### AUSTRALIAN REPUBLIC SHIPS ###########
 #### FICTIONAL SHIP PREFIX: ADFS (Australian Defence Force Ship)
 
-### AIRCRAFT CARRIER NAMES ###
+### AIRCRAFT modern_carrier NAMES ###
 AST_CV_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CARRIERS
+	name = NAME_THEME_HISTORICAL_modern_carrierS
 
 	for_countries = { AST }
 
@@ -254,7 +254,7 @@ AST_CV_HISTORICAL = {
 	}
 
 	type = ship
-	ship_types = { carrier }
+	ship_types = { modern_carrier }
 
 	prefix = "ADFS "
 	fallback_name = "CVN-%d"
@@ -266,7 +266,7 @@ AST_CV_HISTORICAL = {
 
 ### HELICOPTER OPERATOR NAMES ###
 AST_LHA_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_HELICOPTER_CARRIERS
+	name = NAME_THEME_HISTORICAL_HELICOPTER_modern_carrierS
 
 	for_countries = { AST }
 
@@ -289,9 +289,9 @@ AST_LHA_HISTORICAL = {
 	}
 }
 
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 AST_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { AST }
 
@@ -304,7 +304,7 @@ AST_DD_HISTORICAL = {
 	}
 
 	type = ship
-	ship_types = { ship_hull_light destroyer }
+	ship_types = { ship_hull_light modern_destroyer }
 
 	prefix = "ADFS "
 	fallback_name = "DDG-%d"
@@ -314,9 +314,9 @@ AST_DD_HISTORICAL = {
 	}
 }
 
-##### FRIGATE NAMES ############
-AST_FRIGATE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATE
+##### modern_frigate NAMES ############
+AST_modern_frigate_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigate
 
 	for_countries = { AST }
 
@@ -329,7 +329,7 @@ AST_FRIGATE_HISTORICAL = {
 	}
 
 	type = ship
-	ship_types = { frigate frigate }
+	ship_types = { modern_frigate modern_frigate }
 
 	prefix = "ADFS "
 	fallback_name = "FFG-%d"
@@ -340,9 +340,9 @@ AST_FRIGATE_HISTORICAL = {
 }
 
 
-### CORVETTE NAMES###
-AST_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES###
+AST_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { AST }
 
@@ -355,7 +355,7 @@ AST_CORVETTE_HISTORICAL = {
 	}
 
 	type = ship
-	ship_types = { corvette corvette }
+	ship_types = { modern_corvette modern_corvette }
 	prefix = "ADFS "
 	fallback_name = "KKG-%d"
 
@@ -366,8 +366,8 @@ AST_CORVETTE_HISTORICAL = {
 
 
 ### MISSILE SUBMARINES NAMES ###
-AST_MISSILE_SUBMARINE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_MISSILE_SUBMARINES
+AST_modern_missile_submarine_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_missile_submarineS
 
 	for_countries = { AST }
 
@@ -380,7 +380,7 @@ AST_MISSILE_SUBMARINE_HISTORICAL = {
 	}
 
 	type = ship
-	ship_types = { missile_submarine missile_submarine }
+	ship_types = { modern_missile_submarine modern_missile_submarine }
 
 	prefix = "ADFS "
 	fallback_name = "SSGN-%d"
@@ -402,7 +402,7 @@ AST_SS_HISTORICAL = {
 
 	type = ship
 	#ship_types = { ship_hull_submarine submarine }
-	ship_types = { attack_submarine missile_submarine }
+	ship_types = { attack_submarine modern_missile_submarine }
 
 	prefix = "ADFS "
 	fallback_name = "SSN-%d"

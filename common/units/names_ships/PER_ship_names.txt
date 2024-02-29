@@ -1,16 +1,16 @@
 ﻿##### IRAN/PERSIA NAME LISTS #####
 
-### AIRCRAFT CARRIER NAMES ###
+### AIRCRAFT modern_carrier NAMES ###
 PER_CV_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CARRIERS
+	name = NAME_THEME_HISTORICAL_modern_carrierS
 
 	for_countries = { PER }
 
 	type = ship
-	ship_types = { carrier }
+	ship_types = { modern_carrier }
 
 	prefix = "IRIS "
-	fallback_name = "Carrier %d"
+	fallback_name = "modern_carrier %d"
 
 	unique = {
 		"Ruhollah Khomeini" "Ali Khamenei"
@@ -19,7 +19,7 @@ PER_CV_HISTORICAL = {
 
 ### HELICOPTER OPERATOR NAMES ###
 PER_LHA_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_HELICOPTER_CARRIERS
+	name = NAME_THEME_HISTORICAL_HELICOPTER_modern_carrierS
 
 	for_countries = { PER }
 
@@ -27,7 +27,7 @@ PER_LHA_HISTORICAL = {
 		ship_types = { helicopter_operator }
 
 	prefix = "IRIS "
-	fallback_name = "Helicopter Carrier %d"
+	fallback_name = "Helicopter modern_carrier %d"
 
 	unique = {
 		"Palang" "Babr" "Shir" "Paykan" "Saam" "Zaal" "Rostam" "Faramarz"
@@ -35,34 +35,34 @@ PER_LHA_HISTORICAL = {
 }
 
 
-### CRUISER NAMES###
-PER_CRUISERS_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CRUISER
+### modern_cruiser NAMES###
+PER_modern_cruiserS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_cruiser
 
 	for_countries = { PER }
 
 	type = ship
-	ship_types = { battle_cruiser cruiser }
+	ship_types = { battle_modern_cruiser modern_cruiser }
 
 	prefix = "IRIS "
-	fallback_name = "Cruiser %d"
+	fallback_name = "modern_cruiser %d"
 
 	unique = {
 		"Mehdi Bazargan" "Mohammad-Ali Rajai" "Mohammad-Javad Bahonar" "Mohammad-Reza Mahdavi Kani" "Mir-Hossein Mousavi"
 	}
 }
 
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 PER_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { PER }
 
 	type = ship
-	ship_types = { stealth_destroyer destroyer }
+	ship_types = { stealth_modern_destroyer modern_destroyer }
 
 	prefix = "IRIS "
-	fallback_name = "Destroyer %d"
+	fallback_name = "modern_destroyer %d"
 
 	unique = {
 		"Artemiz" "Damavand" "Palang" "Babr" "Sahand" "Saam" "Zaal" "Rostam" "Alvand" "Alborz" "Sabalan" "Jamaran" "Alborz" "Ardabil" "Bushehr" "Fars" "Gilan" "Golestan" "Hamadan" "Hormozgān" "Ilam" "Isfahan" "Kerman" "Kermanshah" "Khuzestan" "Kurdistan" "Lorestan" "Markazi" "Mazandaran" "Qazvin" "Qom" "Semnan" "Tehran" "Yazd" "Zanjan"
@@ -70,17 +70,17 @@ PER_DD_HISTORICAL = {
 }
 
 
-### FRIGATE NAMES###
-PER_FRIGATE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATE
+### modern_frigate NAMES###
+PER_modern_frigate_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigate
 
 	for_countries = { PER }
 
 	type = ship
-	ship_types = { frigate }
+	ship_types = { modern_frigate }
 
 	prefix = "IRIS "
-	fallback_name = "Frigate %d"
+	fallback_name = "modern_frigate %d"
 
 	unique = {
 		"Mashhad" "Isfahan" "Karaj" "Shiraz" "Tabriz" "Qom" "Ahvaz" "Kermanshah" "Urmia" "Rasht" "Zahedan" "Hamadan" "Kerman" "Yazd" "Ardabil" "Bandar Abbas" "Arak" "Eslamshahr" "Qazvin" "Zanjan" "Khorramabad" "Sanandaj" "Malard" "Qods" "Kashan" "Gorgan" "Golestan" "Sari" "Shahriar" "Dezful" "Khomeyni Shahr" "Borujerd" "Nishapur" "Sabzevar" "Najafabad" "Amol" "Babol" "Varamin" "Abadan" "Pakdasht" "Khoy" "Saveh" "Bojnord" "Qaem Shahr" "Bushehr" "Qarchak" "Sirjan" "Birjand" "Ilam" "Bukan" "Maragheh"
@@ -88,16 +88,16 @@ PER_FRIGATE_HISTORICAL = {
 }
 
 
-### CORVETTE NAMES ###
-PER_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+PER_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { PER }
 
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	prefix = "IRIS "
-	fallback_name = "Corvette %d"
+	fallback_name = "modern_corvette %d"
 
 	unique = {
 		"Malayer" "Shahr-e Kord" "Bandar-e Mahshahr" "Semnan" "Rafsanjan" "Mahabad" "Gonbad-e Kavus" "Shahin Shahr" "Shahrud" "Saqqez" "Marvdasht" "Zabol" "Torbat-e Heydarieh" "Khorramshahr" "Andimeshk" "Marand" "Shahreza" "Miandoab" "Izeh" "Bandar-e Anzali" "Jahrom" "Jiroft" "Marivan" "Kamal Shahr" "Yasuj" "Nazarabad" "Behbahan" "Bam" "Fasa" "Quchan" "Masjed Soleyman" "Mohammadshahr" "Dorud" "Borazjan" "Fardis" "Nasimshahr" "Andisheh" "Iranshahr" "Baneh" "Chabahar" "Robat Karim" "Kashmar" "Shushtar" "Lahijan" "Ahar" "Torbat-e Jam"
@@ -122,13 +122,13 @@ PER_SS_HISTORICAL = {
 }
 
 ### SUBMARINES ###
-PER_MISSILE_SUBMARINE_HISTORICAL = {
+PER_modern_missile_submarine_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_SUBMARINES
 
 	for_countries = { PER }
 
 	type = ship
-	ship_types = { missile_submarine }
+	ship_types = { modern_missile_submarine }
 
 	prefix = "IRIS "
 	fallback_name = "Missile Submarine %d"

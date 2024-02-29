@@ -1,13 +1,13 @@
 ﻿##### USA NAME LISTS #####
 
-### AIRCRAFT CARRIER NAMES ###
+### AIRCRAFT modern_carrier NAMES ###
 USA_CV_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CARRIERS
+	name = NAME_THEME_HISTORICAL_modern_carrierS
 
 	for_countries = { USA }
 
 	type = ship
-	ship_types = { carrier }
+	ship_types = { modern_carrier }
 
 	prefix = "USS "
 	fallback_name = "CVN-%d"
@@ -23,7 +23,7 @@ USA_CV_HISTORICAL = {
 
 ### LHA NAMES ###
 USA_LHA_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_HELICOPTER_CARRIERS
+	name = NAME_THEME_HISTORICAL_HELICOPTER_modern_carrierS
 
 	for_countries = { USA }
 
@@ -50,12 +50,12 @@ USA_LHA_HISTORICAL = {
 	}
 }
 
-### CRUISER NAMES ###
-USA_MODERN_CRUISERS_NAMES = {
-	name = NAME_THEME_MODERN_CRUISERS
+### modern_cruiser NAMES ###
+USA_MODERN_modern_cruiserS_NAMES = {
+	name = NAME_THEME_MODERN_modern_cruiserS
 	for_countries = { USA }
 	type = ship
-	ship_types = { cruiser }
+	ship_types = { modern_cruiser }
 
 	prefix = "USS "
 	fallback_name = "CGN-%d"
@@ -68,23 +68,23 @@ USA_MODERN_CRUISERS_NAMES = {
 		"Quincy" "Vincennes" "Wichita" "Baltimore" "Boston" "Canberra" "Pittsburgh" "St. Paul" "Columbus" "Bremerton" "Fall River" "Los Angeles" "Macon" "Helena" "Toledo" "Oregon City" "Albany" "Rochester" "Des Moines" "Salem" "Newport News" "Pensacola" "Salt Lake City" "Northampton" "Chester" "Louisville" "Chicago" "Houston" "Augusta" "Portland" "Indianapolis" "New Orleans" "Astoria" "Minneapolis" "Tuscaloosa"
 		# From Wiki  (Unfinished/Cancelled/Converted before completion)
 		"Cambridge" "Bridgeport" "Kansas City" "Tulsa" "Norfolk" "Scranton" "Dallas" "Vallejo" "Gary" "Worcester" "Roanoke"
-		# Older Cruiser Names
+		# Older modern_cruiser Names
 		"Huntington" "Pueblo" "Frederick" "Huron" "St. Louis" "Milwaukee" "Charleston" "Charlotte"
 		# From Wiki (Built/Served/Fought)
 		"Atlanta" "Juneau" "San Diego" "San Juan" "Oakland" "Reno" "Flint" "Tucson" "Juneau" "Spokane" "Fresno"
 		# From Wiki  (Unfinished/Cancelled/Converted before completion)
 		"Tallahassee" "New Haven" "Wilmington" "Buffalo" "Newark" "Youngstown" "Vallejo" "Cheyenne" "Chattanooga" "Gary"
-		# Older Cruiser Names
+		# Older modern_cruiser Names
 		"Hartford" "Lancaster" "Pensacola" "Galena" "Marion" "Mohican" "Quinnebaug" "Swatara" "Boston" "Chicago" "Baltimore" "San Francisco" "Tahoe" "Yosemite" "Montgomery" "Anniston" "Minneapolis" "Olympia" "New Orleans" "Albany" "Des Moines" "Tacoma"
 	}
 }
 
-### REGULAR DESTROYER NAMES###
-USA_MODERN_DESTROYERS_NAMES = {
-	name = NAME_THEME_MODERN_DESTROYERS
+### REGULAR modern_destroyer NAMES###
+USA_MODERN_modern_destroyerS_NAMES = {
+	name = NAME_THEME_MODERN_modern_destroyerS
 	for_countries = { USA }
 	type = ship
-	ship_types = { destroyer }
+	ship_types = { modern_destroyer }
 
 	prefix = "USS "
 	fallback_name = "DDG-%d "
@@ -125,11 +125,11 @@ USA_MODERN_DESTROYERS_NAMES = {
 	}
 }
 
-USA_MODERN_STEALTH_DESTROYERS_NAMES = {
-	name = NAME_THEME_MODERN_STEALTH_DESTROYERS
+USA_MODERN_STEALTH_modern_destroyerS_NAMES = {
+	name = NAME_THEME_MODERN_STEALTH_modern_destroyerS
 	for_countries = { USA }
 	type = ship
-	ship_types = { stealth_destroyer }
+	ship_types = { stealth_modern_destroyer }
 
 	prefix = "USS "
 	fallback_name = "DDG-%d "
@@ -140,12 +140,12 @@ USA_MODERN_STEALTH_DESTROYERS_NAMES = {
 	}
 }
 
-### FRIGATE NAMES###
-USA_MODERN_FRIGATE_NAMES = {
-	name = NAME_THEME_MODERN_FRIGATES
+### modern_frigate NAMES###
+USA_MODERN_modern_frigate_NAMES = {
+	name = NAME_THEME_MODERN_modern_frigateS
 	for_countries = { USA }
 	type = ship
-	ship_types = { frigate }
+	ship_types = { modern_frigate }
 
 	prefix = "USS "
 	fallback_name = "FFG-%d "
@@ -198,12 +198,12 @@ USA_MODERN_FRIGATE_NAMES = {
 		"Pruitt" "Childs" "Williamson" "Abel P Upshur" "James K Paulding" "Welborn C Wood"
 	}
 }
-######## Corvette Names ##########
-USA_MODERN_CORVETTE_NAMES = {
-	name = NAME_THEME_MODERN_CORVETTES
+######## modern_corvette Names ##########
+USA_MODERN_modern_corvette_NAMES = {
+	name = NAME_THEME_MODERN_modern_corvetteS
 	for_countries = { USA }
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 
 	prefix = "USS "
 	fallback_name = "KKG-%d "
@@ -266,11 +266,11 @@ USA_MODERN_SUBMARINES_NAMES = {
 
 
 ### MISSILE SUBMARINES ###
-USA_MISSILE_SUBMARINES_NAMES = {
-	name = NAME_THEME_MODERN_MISSILE_SUBMARINES
+USA_modern_missile_submarineS_NAMES = {
+	name = NAME_THEME_MODERN_modern_missile_submarineS
 	for_countries = { USA }
 	type = ship
-	ship_types = { missile_submarine }
+	ship_types = { modern_missile_submarine }
 
 	prefix = "USS "
 	fallback_name = "SSGN-%d "

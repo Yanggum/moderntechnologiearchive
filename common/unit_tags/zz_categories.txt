@@ -57,5 +57,5 @@ sub_unit_categories = {
 
 	attack_submarine
 	diesel_attack_submarine
-	missile_submarine
+	modern_missile_submarine
 }

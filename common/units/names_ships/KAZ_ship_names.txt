@@ -2,15 +2,15 @@
 
 ## ALL THESE NAMES ARE FAKE!
 
-### CRUISER NAMES###
-KAZ_CRUISERS_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CRUISER
+### modern_cruiser NAMES###
+KAZ_modern_cruiserS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_cruiser
 
 	for_countries = { KAZ }
 
 	type = ship
-	#ship_types = { ship_hull_cruiser light_cruiser }
-	ship_types = { battle_cruiser cruiser }
+	#ship_types = { ship_hull_modern_cruiser light_modern_cruiser }
+	ship_types = { battle_modern_cruiser modern_cruiser }
 
 	prefix = "KNS "
 	fallback_name = "крейсер-%d"
@@ -21,15 +21,15 @@ KAZ_CRUISERS_HISTORICAL = {
 }
 
 
-### REGULAR DESTROYER NAMES###
+### REGULAR modern_destroyer NAMES###
 KAZ_DD_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_DESTROYERS
+	name = NAME_THEME_HISTORICAL_modern_destroyerS
 
 	for_countries = { KAZ }
 
 	type = ship
-	#ship_types = { ship_hull_light destroyer }
-	ship_types = { stealth_destroyer destroyer }
+	#ship_types = { ship_hull_light modern_destroyer }
+	ship_types = { stealth_modern_destroyer modern_destroyer }
 
 	prefix = "KNS "
 	fallback_name = "жойғыш-%d"
@@ -39,14 +39,14 @@ KAZ_DD_HISTORICAL = {
 	}
 }
 
-### FRIGATE NAMES###
-KAZ_FRIGATE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_FRIGATE
+### modern_frigate NAMES###
+KAZ_modern_frigate_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_frigate
 
 	for_countries = { KAZ }
 
 	type = ship
-	ship_types = { frigate }
+	ship_types = { modern_frigate }
 
 	prefix = "KNS "
 	fallback_name = "фрегат-%d"
@@ -57,14 +57,14 @@ KAZ_FRIGATE_HISTORICAL = {
 }
 
 
-### CORVETTE NAMES ###
-KAZ_CORVETTE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_CORVETTE
+### modern_corvette NAMES ###
+KAZ_modern_corvette_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_corvette
 
 	for_countries = { KAZ }
 
 	type = ship
-	ship_types = { corvette }
+	ship_types = { modern_corvette }
 	prefix = "KNS "
 	fallback_name = "корвет-%d"
 
@@ -74,13 +74,13 @@ KAZ_CORVETTE_HISTORICAL = {
 }
 
 ### MISSILE SUBMARINES NAMES ###
-KAZ_MISSILE_SUBMARINE_HISTORICAL = {
-	name = NAME_THEME_HISTORICAL_MISSILE_SUBMARINES
+KAZ_modern_missile_submarine_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_modern_missile_submarineS
 
 	for_countries = { KAZ }
 
 	type = ship
-	ship_types = { missile_submarine }
+	ship_types = { modern_missile_submarine }
 
 	prefix = "KNS "
 	fallback_name = "ракеталық сүңгуір қайық-%d"

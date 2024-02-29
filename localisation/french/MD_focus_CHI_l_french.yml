@@ -662,7 +662,7 @@
  CHI_Dalian_Shipbuilding: "Dalian Shipbuilding"
  CHI_Dalian_Shipbuilding_desc: "Dalian is a major financial, shipping and logistics hub. We should shore up Dalian's economic importance by investing in improvements of the city's shipbuilding industry."
  CHI_Jiangnan_Shipbuilding: "Jiangnan Shipbuilding"
- CHI_Jiangnan_Shipbuilding_desc: "Jiangnan Shipyard was formerly known as Jiangnan Manufacturing Administration. China’s first furnace of steel, its first steel cannon, its first armored warship, its first 10,000-ton hydraulic press, its first submarine, its first frigate, its first self-designed ocean-going cargo ship, and its first marine The research communication ship, the first petroleum liquefied gas ship, the first cross-sea train ferry, etc. all came from the factory."
+ CHI_Jiangnan_Shipbuilding_desc: "Jiangnan Shipyard was formerly known as Jiangnan Manufacturing Administration. China’s first furnace of steel, its first steel cannon, its first armored warship, its first 10,000-ton hydraulic press, its first submarine, its first modern_frigate, its first self-designed ocean-going cargo ship, and its first marine The research communication ship, the first petroleum liquefied gas ship, the first cross-sea train ferry, etc. all came from the factory."
  CHI_Global_Shipyard: "Global Shipyard"
  CHI_Global_Shipyard_desc: "Our investments in the northeast's shipping industry have paid off! Chinese ships are now well-renowned for their high quality and low cost. Exporting to coastal nations all around the world will help increase our global influence."
  CHI_Aerospace_Industry: "Aerospace Industry"
@@ -1064,13 +1064,13 @@
  china.32.b: "We can not afford the pressure..."
  
  china.33.t: "A Shell Of A Soviet Past"
- china.33.d: "For some time our coast guards have monitored a massive, rusty carrier hull towed around the Black Sea. Its a rare site to be sure. The ship named 'Varyag' is decorated with Soviet golden stars and towed slowly by some six smaller tugboats. Originally from [UKR.GetFlag]Ukraine, its final destination is a [CHI.GetFlag]Chinese leisure company in Macau, its new owner.\n\nThe hull can pose a real threat to the traffic in the strait if it were to collide or capsize completely."
+ china.33.d: "For some time our coast guards have monitored a massive, rusty modern_carrier hull towed around the Black Sea. Its a rare site to be sure. The ship named 'Varyag' is decorated with Soviet golden stars and towed slowly by some six smaller tugboats. Originally from [UKR.GetFlag]Ukraine, its final destination is a [CHI.GetFlag]Chinese leisure company in Macau, its new owner.\n\nThe hull can pose a real threat to the traffic in the strait if it were to collide or capsize completely."
  china.33.a: "The \"ship\" must wait until traffic is safer."
  china.33.b: "Lets negotiate for a priority fee."
  china.33.c: "Just let it through!"
  
  china.34.t: "The Turks Ask For Our Patience"
- china.34.d: "The towed ex-Soviet aircraft cruiser Varyag that was purchased 2 years ago from [UKR.GetFlag]Ukraine has been stopped! The incomplete hull is on a journey from the Black Sea to our ports. Now the [TUR.GetFlag]Turkish authorities cites the \"risk that a gust of wind would turn the ship widthwise and block the entire Bosphorus strait\".\n\n They are asking for our patience."
+ china.34.d: "The towed ex-Soviet aircraft modern_cruiser Varyag that was purchased 2 years ago from [UKR.GetFlag]Ukraine has been stopped! The incomplete hull is on a journey from the Black Sea to our ports. Now the [TUR.GetFlag]Turkish authorities cites the \"risk that a gust of wind would turn the ship widthwise and block the entire Bosphorus strait\".\n\n They are asking for our patience."
  china.34.a: "Maybe we can negotiate?"
  china.34.b: "Patience? We will put some pressure!"
  china.34.c: "Guess we must wait..."
@@ -1150,7 +1150,7 @@
  china.51.a: "The Atlantic Ocean."
  
  china.52.t: "At Last!"
- china.52.d: "The Varyag has completed its long journey across half the planet to our great territories! Our naval engineers are quite positive the hull can be completed to become our very first fleet carrier. The potentials to have a real blue water navy can truly not be underestimated... and the experiences in carrier building will be priceless.\n\nIt could also be refurbished to become a luxurious casino as \"originally planned\"."
+ china.52.d: "The Varyag has completed its long journey across half the planet to our great territories! Our naval engineers are quite positive the hull can be completed to become our very first fleet modern_carrier. The potentials to have a real blue water navy can truly not be underestimated... and the experiences in modern_carrier building will be priceless.\n\nIt could also be refurbished to become a luxurious casino as \"originally planned\"."
  china.52.a: "It shall be the pride of the navy!"
  china.52.b: "Like more the idea of a casino..."
  
@@ -1265,11 +1265,11 @@
  china_news.25.a: "Finally."
  
  china_news.26.t: "The Varyag"
- china_news.26.d: "Two years ago the rusting hulk known as the Kuznetsov Class aircraft cruiser Varyag was sold off to one Chong Lot in Macau. It was to be the most modern Soviet carrier in the Red Fleet but fate had other plans. Never completed, it was put on auction by Ukraine to be sold off instead. The company who bought it officially wants it renovated into a luxurious casino.\n\nThe hull is today being towed across the Black Sea and approaching the Bosphorus. Once it arrives in our waters the hull can be examined and determined how it can best serve us."
+ china_news.26.d: "Two years ago the rusting hulk known as the Kuznetsov Class aircraft modern_cruiser Varyag was sold off to one Chong Lot in Macau. It was to be the most modern Soviet modern_carrier in the Red Fleet but fate had other plans. Never completed, it was put on auction by Ukraine to be sold off instead. The company who bought it officially wants it renovated into a luxurious casino.\n\nThe hull is today being towed across the Black Sea and approaching the Bosphorus. Once it arrives in our waters the hull can be examined and determined how it can best serve us."
  china_news.26.a: "Let's hope for smooth sailing!"
  
  china_news.27.t: "Disaster In Istanbul!"
- china_news.27.d: "At around 11:44 AM local time in Istanbul the Varyag, an ex-Soviet carrier hull being towed from Ukraine to China has been involved in a terrible accident! The hull collided with another ship that was hit by the Eastern winds causing serious damage to its portside. Without any pumping equipment onboard the ships fate was sealed. Luckily no serious harm was done to any sailors involved.\n\nA commission has been put in place to investigate this embarrassing debacle. Unfortunatly for some their fraudulence has been exposed to the whole world. Its also believed the Macau based company owning the Varyag was a front for the Chinese state, something the Chinese deny to comment on."
+ china_news.27.d: "At around 11:44 AM local time in Istanbul the Varyag, an ex-Soviet modern_carrier hull being towed from Ukraine to China has been involved in a terrible accident! The hull collided with another ship that was hit by the Eastern winds causing serious damage to its portside. Without any pumping equipment onboard the ships fate was sealed. Luckily no serious harm was done to any sailors involved.\n\nA commission has been put in place to investigate this embarrassing debacle. Unfortunatly for some their fraudulence has been exposed to the whole world. Its also believed the Macau based company owning the Varyag was a front for the Chinese state, something the Chinese deny to comment on."
  china_news.27.a: "Incidents like this are avoidable."
 
  china_news.28.t: "At Last"

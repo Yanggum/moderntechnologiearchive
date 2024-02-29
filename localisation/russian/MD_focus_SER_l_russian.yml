@@ -411,11 +411,11 @@
  SER_submarine_effort: "Развитие подводных лодок"
  SER_submarine_effort_desc: "В процессе"
 
- SER_cruiser_effort: "Развитие крейсеров"
- SER_cruiser_effort_desc: "В процессе"
+ SER_modern_cruiser_effort: "Развитие крейсеров"
+ SER_modern_cruiser_effort_desc: "В процессе"
 
- SER_destroyer_effort: "Развитие эсминцев"
- SER_destroyer_effort_desc: "В процессе"
+ SER_modern_destroyer_effort: "Развитие эсминцев"
+ SER_modern_destroyer_effort_desc: "В процессе"
 
  SER_capital_ships_effort: "Развитие главных кораблей"
  SER_capital_ships_effort_desc: "В процессе"
