@@ -127,7 +127,7 @@
 	air_wing_names_template = AIR_WING_NAME_USA_FALLBACK
 
 	#Air wings can only be named through archetype
-	small_plane_airframe = {
+	small_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Fighter Squadron" }
 		generic_pattern = AIR_WING_NAME_USA_GENERIC
@@ -136,7 +136,7 @@
 		}
 	}
 
-	small_plane_strike_airframe = {
+	small_modern_plane_strike_airframe = {
 		prefix = ""
 		generic = { "Fighter Squadron" }
 		generic_pattern = AIR_WING_NAME_USA_GENERIC
@@ -172,7 +172,7 @@
 		}
 	}
 
-	cv_small_plane_airframe = {
+	cv_small_modern_plane_airframe = {
 		prefix = ""
 		generic = { "VMFA-" }
 		generic_pattern = AIR_WING_NAME_USA_CARRIER
@@ -181,7 +181,7 @@
 		}
 	}
 
-	cv_small_plane_strike_airframe = {
+	cv_small_modern_plane_strike_airframe = {
 		prefix = ""
 		generic = { "VMA-" }
 		generic_pattern = AIR_WING_NAME_USA_CARRIER
@@ -208,7 +208,7 @@
 		}
 	}
 
-	medium_plane_airframe = {
+	medium_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Fighter Wing" }
 		generic_pattern = AIR_WING_NAME_USA_GENERIC
@@ -261,7 +261,7 @@
 		}
 	}
 
-	cv_medium_plane_airframe = {
+	cv_medium_modern_plane_airframe = {
 		prefix = ""
 		generic = { "VFA-" }
 		generic_pattern = AIR_WING_NAME_USA_CARRIER
@@ -315,7 +315,7 @@
 		}
 	}
 
-	large_plane_airframe = {
+	large_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Bomb Squadron" }
 		generic_pattern = AIR_WING_NAME_USA_GENERIC

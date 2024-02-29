@@ -2,7 +2,7 @@ VEN = {
 	air_wing_names_template = AIR_WING_NAME_VEN_FALLBACK
 
 	#Air wings can only be named through archetype
-	small_plane_airframe = {
+	small_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Ala Aerea" }
 		generic_pattern = AIR_WING_NAME_VEN_GENERIC
@@ -16,7 +16,7 @@ VEN = {
 		unique = {
 		}
 	}
-	small_plane_strike_airframe = {
+	small_modern_plane_strike_airframe = {
 		prefix = ""
 		generic = { "Ala Aerea" }
 		generic_pattern = AIR_WING_NAME_VEN_GENERIC
@@ -37,7 +37,7 @@ VEN = {
 		unique = {
 		}
 	}
-	cv_small_plane_airframe = {
+	cv_small_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Ala Aerea" }
 		generic_pattern = AIR_WING_NAME_VEN_GENERIC
@@ -51,7 +51,7 @@ VEN = {
 		unique = {
 		}
 	}
-	cv_small_plane_strike_airframe = {
+	cv_small_modern_plane_strike_airframe = {
 		prefix = ""
 		generic = { "Ala Aerea" }
 		generic_pattern = AIR_WING_NAME_VEN_GENERIC
@@ -72,7 +72,7 @@ VEN = {
 		unique = {
 		}
 	}
-	medium_plane_airframe = {
+	medium_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Ala Aerea" }
 		generic_pattern = AIR_WING_NAME_VEN_GENERIC
@@ -107,7 +107,7 @@ VEN = {
 		unique = {
 		}
 	}
-	cv_medium_plane_airframe = {
+	cv_medium_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Ala Aerea" }
 		generic_pattern = AIR_WING_NAME_VEN_GENERIC
@@ -149,7 +149,7 @@ VEN = {
 		unique = {
 		}
 	}
-	large_plane_airframe = {
+	large_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Ala Aerea" }
 		generic_pattern = AIR_WING_NAME_VEN_GENERIC

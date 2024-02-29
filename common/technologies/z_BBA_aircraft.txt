@@ -129,8 +129,8 @@ technologies = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech gen_3_light" }
 
 		enable_equipments = {
-			small_plane_airframe_1
-			cv_small_plane_airframe_1
+			small_modern_plane_airframe_1
+			cv_small_modern_plane_airframe_1
 		}
 
 		path = {
@@ -169,8 +169,8 @@ technologies = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech gen_3_medium" }
 
 		enable_equipments = {
-			medium_plane_airframe_1
-			cv_medium_plane_airframe_1
+			medium_modern_plane_airframe_1
+			cv_medium_modern_plane_airframe_1
 		}
 
 		path = {
@@ -202,7 +202,7 @@ technologies = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech gen_3_large" }
 
 		enable_equipments = {
-			large_plane_airframe_1
+			large_modern_plane_airframe_1
 			dummy_equipment_1
 		}
 
@@ -252,8 +252,8 @@ technologies = {
 			research_cost_coeff = 1
 		}
 		enable_equipments = {
-			small_plane_airframe_2
-			cv_small_plane_airframe_2
+			small_modern_plane_airframe_2
+			cv_small_modern_plane_airframe_2
 		}
 
 		research_cost = 3
@@ -287,8 +287,8 @@ technologies = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech gen_4_medium" }
 
 		enable_equipments = {
-			medium_plane_airframe_2
-			cv_medium_plane_airframe_2
+			medium_modern_plane_airframe_2
+			cv_medium_modern_plane_airframe_2
 		}
 
 		path = {
@@ -327,7 +327,7 @@ technologies = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech gen_4_large" }
 
 		enable_equipments = {
-			large_plane_airframe_2
+			large_modern_plane_airframe_2
 			dummy_equipment_2
 		}
 
@@ -368,8 +368,8 @@ technologies = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech gen_5_light" }
 
 		enable_equipments = {
-			small_plane_airframe_3
-			cv_small_plane_airframe_3
+			small_modern_plane_airframe_3
+			cv_small_modern_plane_airframe_3
 		}
 
 		path = {
@@ -409,8 +409,8 @@ technologies = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech gen_5_medium" }
 
 		enable_equipments = {
-			medium_plane_airframe_3
-			cv_medium_plane_airframe_3
+			medium_modern_plane_airframe_3
+			cv_medium_modern_plane_airframe_3
 		}
 
 		path = {
@@ -450,7 +450,7 @@ technologies = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech gen_5_large" }
 
 		enable_equipments = {
-			large_plane_airframe_3
+			large_modern_plane_airframe_3
 			dummy_equipment_3
 		}
 
@@ -499,8 +499,8 @@ technologies = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech gen_6_light" }
 
 		enable_equipments = {
-			small_plane_airframe_4
-			cv_small_plane_airframe_4
+			small_modern_plane_airframe_4
+			cv_small_modern_plane_airframe_4
 		}
 
 		research_cost = 3
@@ -539,8 +539,8 @@ technologies = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech gen_6_medium" }
 
 		enable_equipments = {
-			medium_plane_airframe_4
-			cv_medium_plane_airframe_4
+			medium_modern_plane_airframe_4
+			cv_medium_modern_plane_airframe_4
 		}
 
 		research_cost = 3
@@ -579,7 +579,7 @@ technologies = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech gen_6_large" }
 
 		enable_equipments = {
-			large_plane_airframe_4
+			large_modern_plane_airframe_4
 			dummy_equipment_4
 		}
 

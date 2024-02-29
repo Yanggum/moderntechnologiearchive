@@ -3,7 +3,7 @@
 equipments = {
 	#Small Plane Airframe
 	#Archetype
-	small_plane_airframe = {
+	small_modern_plane_airframe = {
 		year = 1960
 		is_archetype = yes
 		is_convertable = yes
@@ -25,7 +25,7 @@ equipments = {
 		sprite = small_plane
 		air_map_icon_frame = 1
 		interface_category = interface_category_air
-		substitute = cv_small_plane_airframe
+		substitute = cv_small_modern_plane_airframe
 
 		interface_overview_category_index = 1
 
@@ -222,10 +222,10 @@ equipments = {
 		}
 	}
 	#base small plane
-	small_plane_airframe_0 = {
+	small_modern_plane_airframe_0 = {
 		abbreviation = "spa0"
 		year = 1960
-		archetype = small_plane_airframe
+		archetype = small_modern_plane_airframe
 		module_slots = inherit
 		is_buildable = no
 		priority = 5
@@ -244,11 +244,11 @@ equipments = {
 		}
 	}
 	#Gen 3 Small Airframe (1965)
-	small_plane_airframe_1 = {
+	small_modern_plane_airframe_1 = {
 		abbreviation = "spa1"
 		year = 1965
-		archetype = small_plane_airframe
-		parent = small_plane_airframe_0
+		archetype = small_modern_plane_airframe
+		parent = small_modern_plane_airframe_0
 		priority = 5
 
 		#set basic stats here
@@ -330,11 +330,11 @@ equipments = {
 		}
 	}
 	#Gen 4 Light Airframe (1985)
-	small_plane_airframe_2 = {
+	small_modern_plane_airframe_2 = {
 		abbreviation = "spa2"
 		year = 1985
-		archetype = small_plane_airframe
-		parent = small_plane_airframe_1
+		archetype = small_modern_plane_airframe
+		parent = small_modern_plane_airframe_1
 		priority = 5
 
 		#set basic stats here
@@ -427,11 +427,11 @@ equipments = {
 		}
 	}
 	#Gen 5 Light Airframe (2015)
-	small_plane_airframe_3 = {
+	small_modern_plane_airframe_3 = {
 		abbreviation = "spa3"
 		year = 2015
-		archetype = small_plane_airframe
-		parent = small_plane_airframe_2
+		archetype = small_modern_plane_airframe
+		parent = small_modern_plane_airframe_2
 		priority = 5
 
 		#set basic stats here
@@ -537,11 +537,11 @@ equipments = {
 		}
 	}
 	#Gen 6 Light Airframe (2035)
-	small_plane_airframe_4 = {
+	small_modern_plane_airframe_4 = {
 		abbreviation = "spa4"
 		year = 2035
-		archetype = small_plane_airframe
-		parent = small_plane_airframe_3
+		archetype = small_modern_plane_airframe
+		parent = small_modern_plane_airframe_3
 		priority = 5
 
 		#set basic stats here
@@ -674,7 +674,7 @@ equipments = {
 	}
 	#Carrier Small Plane Airframe
 	#Archetype
-	cv_small_plane_airframe = {
+	cv_small_modern_plane_airframe = {
 		year = 1960
 		is_archetype = yes
 		is_convertable = yes
@@ -896,10 +896,10 @@ equipments = {
 		}
 	}
 	#base small carrier plane
-	cv_small_plane_airframe_0 = {
+	cv_small_modern_plane_airframe_0 = {
 		abbreviation = "cspa0"
 		year = 1960
-		archetype = cv_small_plane_airframe
+		archetype = cv_small_modern_plane_airframe
 		module_slots = inherit
 		is_buildable = no
 		priority = 5
@@ -921,11 +921,11 @@ equipments = {
 	#Carrier aircraft receive a 5% debuff to range, agility stats
 	#Carrier aircraft receive a 5% buff to air defense stat
 	#Weight and build cost increased to account for sturdier airframe
-	cv_small_plane_airframe_1 = {
+	cv_small_modern_plane_airframe_1 = {
 		abbreviation = "cspa1"
 		year = 1965
-		archetype = cv_small_plane_airframe
-		parent = cv_small_plane_airframe_0
+		archetype = cv_small_modern_plane_airframe
+		parent = cv_small_modern_plane_airframe_0
 		priority = 5
 
 		#set basic stats here
@@ -1007,11 +1007,11 @@ equipments = {
 		}
 	}
 	#Gen 4 Light Carrier Airframe (1985)
-	cv_small_plane_airframe_2 = {
+	cv_small_modern_plane_airframe_2 = {
 		abbreviation = "cspa2"
 		year = 1985
-		archetype = cv_small_plane_airframe
-		parent = cv_small_plane_airframe_1
+		archetype = cv_small_modern_plane_airframe
+		parent = cv_small_modern_plane_airframe_1
 		priority = 5
 
 		#set basic stats here
@@ -1104,11 +1104,11 @@ equipments = {
 		}
 	}
 	#Gen 5 Light Carrier Airframe (2015)
-	cv_small_plane_airframe_3 = {
+	cv_small_modern_plane_airframe_3 = {
 		abbreviation = "cspa3"
 		year = 2015
-		archetype = cv_small_plane_airframe
-		parent = cv_small_plane_airframe_2
+		archetype = cv_small_modern_plane_airframe
+		parent = cv_small_modern_plane_airframe_2
 		priority = 5
 
 		#set basic stats here
@@ -1214,11 +1214,11 @@ equipments = {
 		}
 	}
 	#Gen 6 Light Carrier Airframe (2035)
-	cv_small_plane_airframe_4 = {
+	cv_small_modern_plane_airframe_4 = {
 		abbreviation = "cspa4"
 		year = 2035
-		archetype = cv_small_plane_airframe
-		parent = cv_small_plane_airframe_3
+		archetype = cv_small_modern_plane_airframe
+		parent = cv_small_modern_plane_airframe_3
 		priority = 5
 
 		#set basic stats here
@@ -1348,7 +1348,7 @@ equipments = {
 	}
 	#Medium Plane Airframe
 	#Archetype
-	medium_plane_airframe = {
+	medium_modern_plane_airframe = {
 		year = 1960
 		#set base info
 		is_archetype = yes
@@ -1600,11 +1600,11 @@ equipments = {
 		}
 	}
 	#base medium airframe
-	medium_plane_airframe_0 = {
+	medium_modern_plane_airframe_0 = {
 		abbreviation = "mpa0"
 		year = 1960
 
-		archetype = medium_plane_airframe
+		archetype = medium_modern_plane_airframe
 		module_slots = inherit
 		priority = 5
 		air_range = 1200
@@ -1624,11 +1624,11 @@ equipments = {
 		}
 	}
 	#Gen 3 Medium Airframe (1965)
-	medium_plane_airframe_1 = {
+	medium_modern_plane_airframe_1 = {
 		abbreviation = "mpa1"
 		year = 1965
-		archetype = medium_plane_airframe
-		parent = medium_plane_airframe_0
+		archetype = medium_modern_plane_airframe
+		parent = medium_modern_plane_airframe_0
 		priority = 5
 
 		#set basic stats here
@@ -1737,11 +1737,11 @@ equipments = {
 		}
 	}
 	#Gen 4 Medium Airframe (1985)
-	medium_plane_airframe_2 = {
+	medium_modern_plane_airframe_2 = {
 		abbreviation = "mpa2"
 		year = 1985
-		archetype = medium_plane_airframe
-		parent = medium_plane_airframe_1
+		archetype = medium_modern_plane_airframe
+		parent = medium_modern_plane_airframe_1
 		priority = 5
 
 		#set basic stats here
@@ -1859,11 +1859,11 @@ equipments = {
 		}
 	}
 	#Gen 5 Medium Airframe (2015)
-	medium_plane_airframe_3 = {
+	medium_modern_plane_airframe_3 = {
 		abbreviation = "mpa3"
 		year = 2015
-		archetype = medium_plane_airframe
-		parent = medium_plane_airframe_2
+		archetype = medium_modern_plane_airframe
+		parent = medium_modern_plane_airframe_2
 		priority = 5
 
 		#set basic stats here
@@ -1996,11 +1996,11 @@ equipments = {
 		}
 	}
 	#Gen 6 Medium Airframe (2035)
-	medium_plane_airframe_4 = {
+	medium_modern_plane_airframe_4 = {
 		abbreviation = "mpa4"
 		year = 2035
-		archetype = medium_plane_airframe
-		parent = medium_plane_airframe_3
+		archetype = medium_modern_plane_airframe
+		parent = medium_modern_plane_airframe_3
 		priority = 5
 
 		#set basic stats here
@@ -2159,7 +2159,7 @@ equipments = {
 	}
 	#Medium Plane Carrier Airframe
 	#Archetype
-	cv_medium_plane_airframe = {
+	cv_medium_modern_plane_airframe = {
 		year = 1960
 		#set base info
 		is_archetype = yes
@@ -2419,11 +2419,11 @@ equipments = {
 		}
 	}
 	#base medium airframe
-	cv_medium_plane_airframe_0 = {
+	cv_medium_modern_plane_airframe_0 = {
 		abbreviation = "cmpa0"
 		year = 1960
 
-		archetype = cv_medium_plane_airframe
+		archetype = cv_medium_modern_plane_airframe
 		module_slots = inherit
 		priority = 5
 		air_range = 1200
@@ -2446,11 +2446,11 @@ equipments = {
 	#Carrier aircraft receive a 5% debuff to range, agility stats
 	#Carrier aircraft receive a 5% buff to air defense stat
 	#Weight and build cost increased to account for sturdier airframe
-	cv_medium_plane_airframe_1 = {
+	cv_medium_modern_plane_airframe_1 = {
 		abbreviation = "cmpa1"
 		year = 1965
-		archetype = cv_medium_plane_airframe
-		parent = cv_medium_plane_airframe_0
+		archetype = cv_medium_modern_plane_airframe
+		parent = cv_medium_modern_plane_airframe_0
 		priority = 5
 
 		#set basic stats here
@@ -2562,11 +2562,11 @@ equipments = {
 		}
 	}
 	#Gen 4 Medium Carrier Airframe (1985)
-	cv_medium_plane_airframe_2 = {
+	cv_medium_modern_plane_airframe_2 = {
 		abbreviation = "cmpa2"
 		year = 1985
-		archetype = cv_medium_plane_airframe
-		parent = cv_medium_plane_airframe_1
+		archetype = cv_medium_modern_plane_airframe
+		parent = cv_medium_modern_plane_airframe_1
 		priority = 5
 
 		#set basic stats here
@@ -2687,11 +2687,11 @@ equipments = {
 		}
 	}
 	#Gen 5 Medium Carrier Airframe (2015)
-	cv_medium_plane_airframe_3 = {
+	cv_medium_modern_plane_airframe_3 = {
 		abbreviation = "cmpa3"
 		year = 2015
-		archetype = cv_medium_plane_airframe
-		parent = cv_medium_plane_airframe_2
+		archetype = cv_medium_modern_plane_airframe
+		parent = cv_medium_modern_plane_airframe_2
 		priority = 5
 
 		#set basic stats here
@@ -2829,11 +2829,11 @@ equipments = {
 		}
 	}
 	#Gen 6 Medium Carrier Airframe (2035)
-	cv_medium_plane_airframe_4 = {
+	cv_medium_modern_plane_airframe_4 = {
 		abbreviation = "cmpa4"
 		year = 2035
-		archetype = cv_medium_plane_airframe
-		parent = cv_medium_plane_airframe_3
+		archetype = cv_medium_modern_plane_airframe
+		parent = cv_medium_modern_plane_airframe_3
 		priority = 5
 
 		#set basic stats here
@@ -2994,7 +2994,7 @@ equipments = {
 			}
 		}
 	}
-	large_plane_airframe = {
+	large_modern_plane_airframe = {
 		year = 1960
 		is_archetype = yes
 		is_convertable = yes
@@ -3247,10 +3247,10 @@ equipments = {
 		}
 	}
 	#base large plane
-	large_plane_airframe_0 = {
+	large_modern_plane_airframe_0 = {
 		abbreviation = "lpa0"
 		year = 1960
-		archetype = large_plane_airframe
+		archetype = large_modern_plane_airframe
 		module_slots = inherit
 		priority = 5
 		is_buildable = no
@@ -3269,11 +3269,11 @@ equipments = {
 		}
 	}
 	#Gen 3 Large Plane Airframe (1965)
-	large_plane_airframe_1 = {
+	large_modern_plane_airframe_1 = {
 		abbreviation = "lpa1"
 		year = 1965
-		archetype = large_plane_airframe
-		parent = large_plane_airframe_0
+		archetype = large_modern_plane_airframe
+		parent = large_modern_plane_airframe_0
 
 		#combat stats
 		air_range = 2514
@@ -3405,11 +3405,11 @@ equipments = {
 		}
 	}
 	#Gen 4 Large Plane Airframe (1985)
-	large_plane_airframe_2 = {
+	large_modern_plane_airframe_2 = {
 		abbreviation = "lpa2"
 		year = 1985
-		archetype = large_plane_airframe
-		parent = large_plane_airframe_1
+		archetype = large_modern_plane_airframe
+		parent = large_modern_plane_airframe_1
 
 		#combat stats
 		air_range = 3018	   #multiplied by 1.2 per generation
@@ -3551,11 +3551,11 @@ equipments = {
 		}
 	}
 	#Gen 5 Large Plane Airframe (2015)
-	large_plane_airframe_3 = {
+	large_modern_plane_airframe_3 = {
 		abbreviation = "lpa3"
 		year = 2015
-		archetype = large_plane_airframe
-		parent = large_plane_airframe_2
+		archetype = large_modern_plane_airframe
+		parent = large_modern_plane_airframe_2
 
 		#combat stats
 		air_range = 3620
@@ -3710,11 +3710,11 @@ equipments = {
 		}
 	}
 	#Gen 6 Large Plane Airframe (2035)
-	large_plane_airframe_4 = {
+	large_modern_plane_airframe_4 = {
 		abbreviation = "lpa4"
 		year = 2035
-		archetype = large_plane_airframe
-		parent = large_plane_airframe_3
+		archetype = large_modern_plane_airframe
+		parent = large_modern_plane_airframe_3
 
 		#combat stats
 		air_range = 4344

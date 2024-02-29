@@ -2,12 +2,12 @@ LAT = {
 	air_wing_names_template = AIR_WING_NAME_LAT_FALLBACK
 
 	#Air wings can only be named through archetype
-	small_plane_airframe = {
+	small_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Cīnītājs" }
 		generic_pattern = AIR_WING_NAME_LAT_GENERIC
 	}
-	small_plane_strike_airframe = {
+	small_modern_plane_strike_airframe = {
 		prefix = ""
 		generic = { "Cīnītājs" }
 		generic_pattern = AIR_WING_NAME_LAT_GENERIC
@@ -31,7 +31,7 @@ LAT = {
 		generic_pattern = AIR_WING_NAME_LAT_GENERIC
 
 	}
-	medium_plane_airframe = {
+	medium_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Cīnītājs" }
 		generic_pattern = AIR_WING_NAME_LAT_GENERIC
@@ -63,7 +63,7 @@ LAT = {
 		generic_pattern = AIR_WING_NAME_LAT_GENERIC
 
 	}
-	cv_medium_plane_airframe = {
+	cv_medium_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Cīnītājs" }
 		generic_pattern = AIR_WING_NAME_LAT_GENERIC
@@ -102,7 +102,7 @@ LAT = {
 		}
 	}
 
-	large_plane_airframe = {
+	large_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Cīnītājs" }
 		generic_pattern = AIR_WING_NAME_LAT_GENERIC

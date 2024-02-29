@@ -5810,9 +5810,9 @@ entity = {
 	scale = 0.144
 }
 #BBA Aircraft Default Models
-#small_plane_airframe
+#small_modern_plane_airframe
 entity = {
-	name = "small_plane_airframe_1_entity"
+	name = "small_modern_plane_airframe_1_entity"
 	pdxmesh = "SOV_LT_STK_AERO_L29_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -5839,7 +5839,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "small_plane_airframe_2_entity"
+	name = "small_modern_plane_airframe_2_entity"
 	pdxmesh = "SOV_LT_STK_AERO_L39_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -5866,7 +5866,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "small_plane_airframe_3_entity"
+	name = "small_modern_plane_airframe_3_entity"
 	pdxmesh = "SOV_LT_STK_YAK_130_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -5893,7 +5893,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "small_plane_airframe_4_entity"
+	name = "small_modern_plane_airframe_4_entity"
 	pdxmesh = "SOV_SU57_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -6028,7 +6028,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "small_plane_strike_airframe_1_entity"
+	name = "small_modern_plane_strike_airframe_1_entity"
 	pdxmesh = "SOV_SU17_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -6055,7 +6055,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "small_plane_strike_airframe_2_entity"
+	name = "small_modern_plane_strike_airframe_2_entity"
 	pdxmesh = "SOV_LT_STK_AERO_L39_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -6082,7 +6082,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "small_plane_strike_airframe_3_entity"
+	name = "small_modern_plane_strike_airframe_3_entity"
 	pdxmesh = "SOV_LT_STK_YAK_130_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -6109,7 +6109,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "small_plane_strike_airframe_4_entity"
+	name = "small_modern_plane_strike_airframe_4_entity"
 	pdxmesh = "SOV_SU57_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -6351,9 +6351,9 @@ entity = {
 	}
 	scale = 0.144
 }
-#cv_small_plane_airframe
+#cv_small_modern_plane_airframe
 entity = {
-	name = "cv_small_plane_airframe_1_entity"
+	name = "cv_small_modern_plane_airframe_1_entity"
 	pdxmesh = "SOV_CV_FTR_YAK_38_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -6380,7 +6380,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "cv_small_plane_airframe_2_entity"
+	name = "cv_small_modern_plane_airframe_2_entity"
 	pdxmesh = "SOV_CV_FTR_YAK_141_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -6407,7 +6407,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "cv_small_plane_airframe_3_entity"
+	name = "cv_small_modern_plane_airframe_3_entity"
 	pdxmesh = "CHI_J31_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -6434,7 +6434,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "cv_small_plane_airframe_4_entity"
+	name = "cv_small_modern_plane_airframe_4_entity"
 	pdxmesh = "CHI_J20_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -6569,7 +6569,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "cv_small_plane_strike_airframe_1_entity"
+	name = "cv_small_modern_plane_strike_airframe_1_entity"
 	pdxmesh = "SOV_CV_FTR_YAK_38_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -6596,7 +6596,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "cv_small_plane_strike_airframe_2_entity"
+	name = "cv_small_modern_plane_strike_airframe_2_entity"
 	pdxmesh = "SOV_CV_FTR_YAK_141_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -6623,7 +6623,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "cv_small_plane_strike_airframe_3_entity"
+	name = "cv_small_modern_plane_strike_airframe_3_entity"
 	pdxmesh = "CHI_j16_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -6650,7 +6650,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "cv_small_plane_strike_airframe_4_entity"
+	name = "cv_small_modern_plane_strike_airframe_4_entity"
 	pdxmesh = "CHI_J31_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -6892,9 +6892,9 @@ entity = {
 	}
 	scale = 0.144
 }
-#medium_plane_airframe
+#medium_modern_plane_airframe
 entity = {
-	name = "medium_plane_airframe_1_entity"
+	name = "medium_modern_plane_airframe_1_entity"
 	pdxmesh = "SOV_MIG23_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -6921,7 +6921,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "medium_plane_airframe_2_entity"
+	name = "medium_modern_plane_airframe_2_entity"
 	pdxmesh = "SOV_MIG29_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -6948,7 +6948,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "medium_plane_airframe_3_entity"
+	name = "medium_modern_plane_airframe_3_entity"
 	pdxmesh = "SOV_SU57_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -6975,7 +6975,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "medium_plane_airframe_4_entity"
+	name = "medium_modern_plane_airframe_4_entity"
 	pdxmesh = "SOV_SU75_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -7433,9 +7433,9 @@ entity = {
 	}
 	scale = 0.144
 }
-#cv_medium_plane_airframe
+#cv_medium_modern_plane_airframe
 entity = {
-	name = "cv_medium_plane_airframe_1_entity"
+	name = "cv_medium_modern_plane_airframe_1_entity"
 	pdxmesh = "SOV_MIG29K_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -7462,7 +7462,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "cv_medium_plane_airframe_2_entity"
+	name = "cv_medium_modern_plane_airframe_2_entity"
 	pdxmesh = "SOV_SU33_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -7489,7 +7489,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "cv_medium_plane_airframe_3_entity"
+	name = "cv_medium_modern_plane_airframe_3_entity"
 	pdxmesh = "SOV_SU57_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -7516,7 +7516,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "cv_medium_plane_airframe_4_entity"
+	name = "cv_medium_modern_plane_airframe_4_entity"
 	pdxmesh = "SOV_SU75_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -8082,9 +8082,9 @@ entity = {
 	}
 	scale = 0.144
 }
-#large_plane_airframe
+#large_modern_plane_airframe
 entity = {
-	name = "large_plane_airframe_1_entity"
+	name = "large_modern_plane_airframe_1_entity"
 	pdxmesh = "SOV_Tu95_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -8111,7 +8111,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "large_plane_airframe_2_entity"
+	name = "large_modern_plane_airframe_2_entity"
 	pdxmesh = "SOV_Tu22_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -8138,7 +8138,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "large_plane_airframe_3_entity"
+	name = "large_modern_plane_airframe_3_entity"
 	pdxmesh = "SOV_Tu160_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -8165,7 +8165,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "large_plane_airframe_4_entity"
+	name = "large_modern_plane_airframe_4_entity"
 	pdxmesh = "SOV_Tu160_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -8624,9 +8624,9 @@ entity = {
 	scale = 0.144
 }
 #USA BBA Aircraft Models
-#USA_small_plane_airframe
+#USA_small_modern_plane_airframe
 entity = {
-	name = "USA_small_plane_airframe_1_entity"
+	name = "USA_small_modern_plane_airframe_1_entity"
 	pdxmesh = "USA_f5_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -8653,7 +8653,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "USA_small_plane_airframe_2_entity"
+	name = "USA_small_modern_plane_airframe_2_entity"
 	pdxmesh = "USA_F16_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -8680,7 +8680,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "USA_small_plane_airframe_3_entity"
+	name = "USA_small_modern_plane_airframe_3_entity"
 	pdxmesh = "USA_F35_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -8707,7 +8707,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "USA_small_plane_airframe_4_entity"
+	name = "USA_small_modern_plane_airframe_4_entity"
 	pdxmesh = "USA_F35_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -8842,7 +8842,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "USA_small_plane_strike_airframe_1_entity"
+	name = "USA_small_modern_plane_strike_airframe_1_entity"
 	pdxmesh = "USA_f5_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -8869,7 +8869,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "USA_small_plane_strike_airframe_2_entity"
+	name = "USA_small_modern_plane_strike_airframe_2_entity"
 	pdxmesh = "USA_F117_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -8896,7 +8896,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "USA_small_plane_strike_airframe_3_entity"
+	name = "USA_small_modern_plane_strike_airframe_3_entity"
 	pdxmesh = "USA_F35_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -8923,7 +8923,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "USA_small_plane_strike_airframe_4_entity"
+	name = "USA_small_modern_plane_strike_airframe_4_entity"
 	pdxmesh = "USA_F35_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -9165,9 +9165,9 @@ entity = {
 	}
 	scale = 0.144
 }
-#USA_cv_small_plane_airframe
+#USA_cv_small_modern_plane_airframe
 entity = {
-	name = "USA_cv_small_plane_airframe_1_entity"
+	name = "USA_cv_small_modern_plane_airframe_1_entity"
 	pdxmesh = "USA_MR_F4_phantom_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -9194,7 +9194,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "USA_cv_small_plane_airframe_2_entity"
+	name = "USA_cv_small_modern_plane_airframe_2_entity"
 	pdxmesh = "ENG_CV_FTR_AV_8_Harrier_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -9221,7 +9221,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "USA_cv_small_plane_airframe_3_entity"
+	name = "USA_cv_small_modern_plane_airframe_3_entity"
 	pdxmesh = "USA_F35_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -9248,7 +9248,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "USA_cv_small_plane_airframe_4_entity"
+	name = "USA_cv_small_modern_plane_airframe_4_entity"
 	pdxmesh = "USA_F35_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -9383,7 +9383,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "USA_cv_small_plane_strike_airframe_1_entity"
+	name = "USA_cv_small_modern_plane_strike_airframe_1_entity"
 	pdxmesh = "USA_F4_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -9410,7 +9410,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "USA_cv_small_plane_strike_airframe_2_entity"
+	name = "USA_cv_small_modern_plane_strike_airframe_2_entity"
 	pdxmesh = "USA_F16_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -9437,7 +9437,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "USA_cv_small_plane_strike_airframe_3_entity"
+	name = "USA_cv_small_modern_plane_strike_airframe_3_entity"
 	pdxmesh = "USA_F35_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -9464,7 +9464,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "USA_cv_small_plane_strike_airframe_4_entity"
+	name = "USA_cv_small_modern_plane_strike_airframe_4_entity"
 	pdxmesh = "USA_F35_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -9706,9 +9706,9 @@ entity = {
 	}
 	scale = 0.144
 }
-#USA_medium_plane_airframe
+#USA_medium_modern_plane_airframe
 entity = {
-	name = "USA_medium_plane_airframe_1_entity"
+	name = "USA_medium_modern_plane_airframe_1_entity"
 	pdxmesh = "USA_F4_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -9735,7 +9735,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "USA_medium_plane_airframe_2_entity"
+	name = "USA_medium_modern_plane_airframe_2_entity"
 	pdxmesh = "USA_F15EX_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -9762,7 +9762,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "USA_medium_plane_airframe_3_entity"
+	name = "USA_medium_modern_plane_airframe_3_entity"
 	pdxmesh = "USA_F35_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -9789,7 +9789,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "USA_medium_plane_airframe_4_entity"
+	name = "USA_medium_modern_plane_airframe_4_entity"
 	pdxmesh = "USA_F35_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -10247,9 +10247,9 @@ entity = {
 	}
 	scale = 0.144
 }
-#USA_cv_medium_plane_airframe
+#USA_cv_medium_modern_plane_airframe
 entity = {
-	name = "USA_cv_medium_plane_airframe_1_entity"
+	name = "USA_cv_medium_modern_plane_airframe_1_entity"
 	pdxmesh = "USA_MR_F4_phantom_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -10276,7 +10276,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "USA_cv_medium_plane_airframe_2_entity"
+	name = "USA_cv_medium_modern_plane_airframe_2_entity"
 	pdxmesh = "USA_F18_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -10303,7 +10303,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "USA_cv_medium_plane_airframe_3_entity"
+	name = "USA_cv_medium_modern_plane_airframe_3_entity"
 	pdxmesh = "USA_F35_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -10330,7 +10330,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "USA_cv_medium_plane_airframe_4_entity"
+	name = "USA_cv_medium_modern_plane_airframe_4_entity"
 	pdxmesh = "USA_F35_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -10896,9 +10896,9 @@ entity = {
 	}
 	scale = 0.144
 }
-#USA_large_plane_airframe
+#USA_large_modern_plane_airframe
 entity = {
-	name = "USA_large_plane_airframe_1_entity"
+	name = "USA_large_modern_plane_airframe_1_entity"
 	pdxmesh = "USA_B52_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -10925,7 +10925,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "USA_large_plane_airframe_2_entity"
+	name = "USA_large_modern_plane_airframe_2_entity"
 	pdxmesh = "USA_B1_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -10952,7 +10952,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "USA_large_plane_airframe_3_entity"
+	name = "USA_large_modern_plane_airframe_3_entity"
 	pdxmesh = "USA_B2_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -10979,7 +10979,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "USA_large_plane_airframe_4_entity"
+	name = "USA_large_modern_plane_airframe_4_entity"
 	pdxmesh = "USA_B2_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -11438,9 +11438,9 @@ entity = {
 	scale = 0.144
 }
 #SOV BBA Aircraft Default Models
-#small_plane_airframe
+#small_modern_plane_airframe
 entity = {
-	name = "SOV_small_plane_airframe_1_entity"
+	name = "SOV_small_modern_plane_airframe_1_entity"
 	pdxmesh = "SOV_LT_STK_AERO_L29_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -11467,7 +11467,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "SOV_small_plane_airframe_2_entity"
+	name = "SOV_small_modern_plane_airframe_2_entity"
 	pdxmesh = "SOV_LT_STK_AERO_L39_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -11494,7 +11494,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "SOV_small_plane_airframe_3_entity"
+	name = "SOV_small_modern_plane_airframe_3_entity"
 	pdxmesh = "SOV_LT_STK_YAK_130_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -11521,7 +11521,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "SOV_small_plane_airframe_4_entity"
+	name = "SOV_small_modern_plane_airframe_4_entity"
 	pdxmesh = "SOV_LT_STK_YAK_130_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -11656,7 +11656,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "SOV_small_plane_strike_airframe_1_entity"
+	name = "SOV_small_modern_plane_strike_airframe_1_entity"
 	pdxmesh = "SOV_SU17_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -11683,7 +11683,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "SOV_small_plane_strike_airframe_2_entity"
+	name = "SOV_small_modern_plane_strike_airframe_2_entity"
 	pdxmesh = "SOV_LT_STK_AERO_L39_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -11710,7 +11710,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "SOV_small_plane_strike_airframe_3_entity"
+	name = "SOV_small_modern_plane_strike_airframe_3_entity"
 	pdxmesh = "SOV_LT_STK_YAK_130_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -11737,7 +11737,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "SOV_small_plane_strike_airframe_4_entity"
+	name = "SOV_small_modern_plane_strike_airframe_4_entity"
 	pdxmesh = "SOV_LT_STK_YAK_130_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -11979,9 +11979,9 @@ entity = {
 	}
 	scale = 0.144
 }
-#cv_small_plane_airframe
+#cv_small_modern_plane_airframe
 entity = {
-	name = "SOV_cv_small_plane_airframe_1_entity"
+	name = "SOV_cv_small_modern_plane_airframe_1_entity"
 	pdxmesh = "SOV_CV_FTR_YAK_38_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -12008,7 +12008,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "SOV_cv_small_plane_airframe_2_entity"
+	name = "SOV_cv_small_modern_plane_airframe_2_entity"
 	pdxmesh = "SOV_CV_FTR_YAK_38_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -12035,7 +12035,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "SOV_cv_small_plane_airframe_3_entity"
+	name = "SOV_cv_small_modern_plane_airframe_3_entity"
 	pdxmesh = "SOV_CV_FTR_YAK_141_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -12062,7 +12062,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "SOV_cv_small_plane_airframe_4_entity"
+	name = "SOV_cv_small_modern_plane_airframe_4_entity"
 	pdxmesh = "SOV_CV_FTR_YAK_141_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -12197,7 +12197,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "SOV_cv_small_plane_strike_airframe_1_entity"
+	name = "SOV_cv_small_modern_plane_strike_airframe_1_entity"
 	pdxmesh = "SOV_CV_FTR_YAK_38_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -12224,7 +12224,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "SOV_cv_small_plane_strike_airframe_2_entity"
+	name = "SOV_cv_small_modern_plane_strike_airframe_2_entity"
 	pdxmesh = "SOV_CV_FTR_YAK_38_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -12251,7 +12251,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "SOV_cv_small_plane_strike_airframe_3_entity"
+	name = "SOV_cv_small_modern_plane_strike_airframe_3_entity"
 	pdxmesh = "SOV_CV_FTR_YAK_141_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -12278,7 +12278,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "SOV_cv_small_plane_strike_airframe_4_entity"
+	name = "SOV_cv_small_modern_plane_strike_airframe_4_entity"
 	pdxmesh = "SOV_CV_FTR_YAK_141_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -12520,9 +12520,9 @@ entity = {
 	}
 	scale = 0.144
 }
-#medium_plane_airframe
+#medium_modern_plane_airframe
 entity = {
-	name = "SOV_medium_plane_airframe_1_entity"
+	name = "SOV_medium_modern_plane_airframe_1_entity"
 	pdxmesh = "SOV_FTR_MIG_21_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -12549,7 +12549,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "SOV_medium_plane_airframe_2_entity"
+	name = "SOV_medium_modern_plane_airframe_2_entity"
 	pdxmesh = "SOV_MIG29_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -12576,7 +12576,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "SOV_medium_plane_airframe_3_entity"
+	name = "SOV_medium_modern_plane_airframe_3_entity"
 	pdxmesh = "SOV_SU30_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -12603,7 +12603,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "SOV_medium_plane_airframe_4_entity"
+	name = "SOV_medium_modern_plane_airframe_4_entity"
 	pdxmesh = "SOV_SU75_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -13061,9 +13061,9 @@ entity = {
 	}
 	scale = 0.144
 }
-#cv_medium_plane_airframe
+#cv_medium_modern_plane_airframe
 entity = {
-	name = "SOV_cv_medium_plane_airframe_1_entity"
+	name = "SOV_cv_medium_modern_plane_airframe_1_entity"
 	pdxmesh = "SOV_MIG29K_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -13090,7 +13090,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "SOV_cv_medium_plane_airframe_2_entity"
+	name = "SOV_cv_medium_modern_plane_airframe_2_entity"
 	pdxmesh = "SOV_MIG29K_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -13117,7 +13117,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "SOV_cv_medium_plane_airframe_3_entity"
+	name = "SOV_cv_medium_modern_plane_airframe_3_entity"
 	pdxmesh = "SOV_SU57_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -13144,7 +13144,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "SOV_cv_medium_plane_airframe_4_entity"
+	name = "SOV_cv_medium_modern_plane_airframe_4_entity"
 	pdxmesh = "SOV_SU57_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -13710,9 +13710,9 @@ entity = {
 	}
 	scale = 0.144
 }
-#large_plane_airframe
+#large_modern_plane_airframe
 entity = {
-	name = "SOV_large_plane_airframe_1_entity"
+	name = "SOV_large_modern_plane_airframe_1_entity"
 	pdxmesh = "SOV_Tu95_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -13739,7 +13739,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "SOV_large_plane_airframe_2_entity"
+	name = "SOV_large_modern_plane_airframe_2_entity"
 	pdxmesh = "SOV_Tu22_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -13766,7 +13766,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "SOV_large_plane_airframe_3_entity"
+	name = "SOV_large_modern_plane_airframe_3_entity"
 	pdxmesh = "SOV_Tu160_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -13793,7 +13793,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "SOV_large_plane_airframe_4_entity"
+	name = "SOV_large_modern_plane_airframe_4_entity"
 	pdxmesh = "SOV_Tu160_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -14252,9 +14252,9 @@ entity = {
 	scale = 0.144
 }
 #BBA Aircraft Default Models
-#CHI_small_plane_airframe
+#CHI_small_modern_plane_airframe
 entity = {
-	name = "CHI_small_plane_airframe_1_entity"
+	name = "CHI_small_modern_plane_airframe_1_entity"
 	pdxmesh = "CHI_jh7_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -14281,7 +14281,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "CHI_small_plane_airframe_2_entity"
+	name = "CHI_small_modern_plane_airframe_2_entity"
 	pdxmesh = "CHI_J11_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -14308,7 +14308,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "CHI_small_plane_airframe_3_entity"
+	name = "CHI_small_modern_plane_airframe_3_entity"
 	pdxmesh = "CHI_J20_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -14335,7 +14335,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "CHI_small_plane_airframe_4_entity"
+	name = "CHI_small_modern_plane_airframe_4_entity"
 	pdxmesh = "CHI_J20_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -14470,7 +14470,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "CHI_small_plane_strike_airframe_1_entity"
+	name = "CHI_small_modern_plane_strike_airframe_1_entity"
 	pdxmesh = "CHI_jh7_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -14497,7 +14497,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "CHI_small_plane_strike_airframe_2_entity"
+	name = "CHI_small_modern_plane_strike_airframe_2_entity"
 	pdxmesh = "CHI_j16_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -14524,7 +14524,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "CHI_small_plane_strike_airframe_3_entity"
+	name = "CHI_small_modern_plane_strike_airframe_3_entity"
 	pdxmesh = "CHI_J31_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -14551,7 +14551,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "CHI_small_plane_strike_airframe_4_entity"
+	name = "CHI_small_modern_plane_strike_airframe_4_entity"
 	pdxmesh = "CHI_J31_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -14793,9 +14793,9 @@ entity = {
 	}
 	scale = 0.144
 }
-#CHI_cv_small_plane_airframe
+#CHI_cv_small_modern_plane_airframe
 entity = {
-	name = "CHI_cv_small_plane_airframe_1_entity"
+	name = "CHI_cv_small_modern_plane_airframe_1_entity"
 	pdxmesh = "CHI_jh7_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -14822,7 +14822,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "CHI_cv_small_plane_airframe_2_entity"
+	name = "CHI_cv_small_modern_plane_airframe_2_entity"
 	pdxmesh = "CHI_J15_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -14849,7 +14849,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "CHI_cv_small_plane_airframe_3_entity"
+	name = "CHI_cv_small_modern_plane_airframe_3_entity"
 	pdxmesh = "CHI_J31_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -14876,7 +14876,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "CHI_cv_small_plane_airframe_4_entity"
+	name = "CHI_cv_small_modern_plane_airframe_4_entity"
 	pdxmesh = "CHI_J31_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -15011,7 +15011,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "CHI_cv_small_plane_strike_airframe_1_entity"
+	name = "CHI_cv_small_modern_plane_strike_airframe_1_entity"
 	pdxmesh = "CHI_jh7_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -15038,7 +15038,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "CHI_cv_small_plane_strike_airframe_2_entity"
+	name = "CHI_cv_small_modern_plane_strike_airframe_2_entity"
 	pdxmesh = "CHI_j10_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -15065,7 +15065,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "CHI_cv_small_plane_strike_airframe_3_entity"
+	name = "CHI_cv_small_modern_plane_strike_airframe_3_entity"
 	pdxmesh = "CHI_j16_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -15092,7 +15092,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "CHI_cv_small_plane_strike_airframe_4_entity"
+	name = "CHI_cv_small_modern_plane_strike_airframe_4_entity"
 	pdxmesh = "CHI_J31_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -15334,9 +15334,9 @@ entity = {
 	}
 	scale = 0.144
 }
-#CHI_medium_plane_airframe
+#CHI_medium_modern_plane_airframe
 entity = {
-	name = "CHI_medium_plane_airframe_1_entity"
+	name = "CHI_medium_modern_plane_airframe_1_entity"
 	pdxmesh = "CHI_jh7_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -15363,7 +15363,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "CHI_medium_plane_airframe_2_entity"
+	name = "CHI_medium_modern_plane_airframe_2_entity"
 	pdxmesh = "CHI_j10_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -15390,7 +15390,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "CHI_medium_plane_airframe_3_entity"
+	name = "CHI_medium_modern_plane_airframe_3_entity"
 	pdxmesh = "CHI_J31_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -15417,7 +15417,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "CHI_medium_plane_airframe_4_entity"
+	name = "CHI_medium_modern_plane_airframe_4_entity"
 	pdxmesh = "CHI_J31_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -15875,9 +15875,9 @@ entity = {
 	}
 	scale = 0.144
 }
-#CHI_cv_medium_plane_airframe
+#CHI_cv_medium_modern_plane_airframe
 entity = {
-	name = "CHI_cv_medium_plane_airframe_1_entity"
+	name = "CHI_cv_medium_modern_plane_airframe_1_entity"
 	pdxmesh = "CHI_jh7_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -15904,7 +15904,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "CHI_cv_medium_plane_airframe_2_entity"
+	name = "CHI_cv_medium_modern_plane_airframe_2_entity"
 	pdxmesh = "CHI_j10_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -15931,7 +15931,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "CHI_cv_medium_plane_airframe_3_entity"
+	name = "CHI_cv_medium_modern_plane_airframe_3_entity"
 	pdxmesh = "CHI_j16_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -15958,7 +15958,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "CHI_cv_medium_plane_airframe_4_entity"
+	name = "CHI_cv_medium_modern_plane_airframe_4_entity"
 	pdxmesh = "CHI_J31_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -16524,9 +16524,9 @@ entity = {
 	}
 	scale = 0.144
 }
-#CHI_large_plane_airframe
+#CHI_large_modern_plane_airframe
 entity = {
-	name = "CHI_large_plane_airframe_1_entity"
+	name = "CHI_large_modern_plane_airframe_1_entity"
 	pdxmesh = "CHI_H6k_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -16553,7 +16553,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "CHI_large_plane_airframe_2_entity"
+	name = "CHI_large_modern_plane_airframe_2_entity"
 	pdxmesh = "CHI_H6k_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -16580,7 +16580,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "CHI_large_plane_airframe_3_entity"
+	name = "CHI_large_modern_plane_airframe_3_entity"
 	pdxmesh = "CHI_H20_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -16607,7 +16607,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "CHI_large_plane_airframe_4_entity"
+	name = "CHI_large_modern_plane_airframe_4_entity"
 	pdxmesh = "CHI_H20_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -17066,7 +17066,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "ENG_small_plane_airframe_2_entity"
+	name = "ENG_small_modern_plane_airframe_2_entity"
 	pdxmesh = "ENG_CV_FTR_AV_8_Harrier_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -17093,7 +17093,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "ENG_cv_small_plane_airframe_2_entity"
+	name = "ENG_cv_small_modern_plane_airframe_2_entity"
 	pdxmesh = "ENG_CV_FTR_AV_8_Harrier_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -17120,7 +17120,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "FRA_small_plane_airframe_1_entity"
+	name = "FRA_small_modern_plane_airframe_1_entity"
 	pdxmesh = "FRA_FTR_MIRAGE_5_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -17147,7 +17147,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "FRA_medium_plane_airframe_1_entity"
+	name = "FRA_medium_modern_plane_airframe_1_entity"
 	pdxmesh = "FRA_FTR_MIRAGE_F1_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -17174,7 +17174,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "FRA_medium_plane_airframe_2_entity"
+	name = "FRA_medium_modern_plane_airframe_2_entity"
 	pdxmesh = "FRA_FTR_MIRAGE_2000_F5_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -17201,7 +17201,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "GER_medium_plane_airframe_1_entity"
+	name = "GER_medium_modern_plane_airframe_1_entity"
 	pdxmesh = "GER_tornado_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -17228,7 +17228,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "GER_medium_plane_airframe_2_entity"
+	name = "GER_medium_modern_plane_airframe_2_entity"
 	pdxmesh = "GER_eurofighter_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -17255,7 +17255,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "PER_medium_plane_airframe_3_entity"
+	name = "PER_medium_modern_plane_airframe_3_entity"
 	pdxmesh = "PER_f313_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }
@@ -17282,7 +17282,7 @@ entity = {
 	scale = 0.144
 }
 entity = {
-	name = "KOR_medium_plane_airframe_3_entity"
+	name = "KOR_medium_modern_plane_airframe_3_entity"
 	pdxmesh = "KOR_kf21_mesh"
 	state = { name = "fire" animation = "idle"
 		event = { time = 0 node = "gun1"	particle = "MD4_jet_cannon_particle" keep_particle = yes sound = { soundeffect = "modern_jet_fire" } }

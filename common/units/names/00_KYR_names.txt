@@ -2,12 +2,12 @@ KYR = {
 	air_wing_names_template = AIR_WING_NAME_KYR_FALLBACK
 
 	#Air wings can only be named through archetype
-	small_plane_airframe = {
+	small_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Soguştuk uçak" }
 		generic_pattern = AIR_WING_NAME_KYR_GENERIC
 	}
-	small_plane_strike_airframe = {
+	small_modern_plane_strike_airframe = {
 		prefix = ""
 		generic = { "Soguştuk uçak" }
 		generic_pattern = AIR_WING_NAME_KYR_GENERIC
@@ -31,7 +31,7 @@ KYR = {
 		generic_pattern = AIR_WING_NAME_KYR_GENERIC
 
 	}
-	medium_plane_airframe = {
+	medium_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Soguştuk uçak" }
 		generic_pattern = AIR_WING_NAME_KYR_GENERIC
@@ -63,7 +63,7 @@ KYR = {
 		generic_pattern = AIR_WING_NAME_KYR_GENERIC
 
 	}
-	cv_medium_plane_airframe = {
+	cv_medium_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Soguştuk uçak" }
 		generic_pattern = AIR_WING_NAME_KYR_GENERIC
@@ -92,7 +92,7 @@ KYR = {
 		generic_pattern = AIR_WING_NAME_KYR_GENERIC
 
 	}
-	large_plane_airframe = {
+	large_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Soguştuk uçak" }
 		generic_pattern = AIR_WING_NAME_KYR_GENERIC

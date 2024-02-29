@@ -641,7 +641,7 @@
 
 	### Air wings
 
-	small_plane_airframe = {
+	small_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Jagdgeschwader" }
 		generic_pattern = AIR_WING_NAME_GER_GENERIC
@@ -649,7 +649,7 @@
 			"Jagdgeschwader 51 'Immelmann'"
 		}
 	}
-	small_plane_strike_airframe = {
+	small_modern_plane_strike_airframe = {
 		prefix = ""
 		generic = { "Leichte-Kampfgeschwader" }
 		generic_pattern = AIR_WING_NAME_GER_GENERIC
@@ -678,7 +678,7 @@
 		}
 	}
 
-	medium_plane_airframe = {
+	medium_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Jagdbombergeschwader" }
 		generic_pattern = "$NR$. $NAME$"
@@ -722,7 +722,7 @@
 		}
 	}
 
-	cv_medium_plane_airframe = {
+	cv_medium_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Träger-Jagdgruppe" }
 		generic_pattern = AIR_WING_NAME_GER_GENERIC
@@ -773,7 +773,7 @@
 
 
 
-	large_plane_airframe = {
+	large_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Bombergeschwader" }
 		generic_pattern = AIR_WING_NAME_GER_GENERIC

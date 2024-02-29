@@ -8,7 +8,7 @@ sub_units = {
 		priority = 1
 		active = yes
 		type = { fighter }
-		need = { small_plane_airframe = 1 }
+		need = { small_modern_plane_airframe = 1 }
 		categories = { category_fighter }
 		land_air_wing_size = 100
 	}
@@ -17,7 +17,7 @@ sub_units = {
 		priority = 1
 		active = yes
 		type = { cas }
-		need = { small_plane_cas_airframe = 1 }
+		need = { small_modern_plane_cas_airframe = 1 }
 		categories = { category_CAS }
 		land_air_wing_size = 100
 	}
@@ -26,7 +26,7 @@ sub_units = {
 		priority = 1
 		active = yes
 		type = { tactical_bomber }
-		need = { small_plane_strike_airframe = 1 }
+		need = { small_modern_plane_strike_airframe = 1 }
 		categories = { category_Strike_fighter }
 		land_air_wing_size = 100
 	}
@@ -35,7 +35,7 @@ sub_units = {
 		priority = 1
 		active = yes
 		type = { naval_bomber }
-		need = { small_plane_naval_bomber_airframe = 1 }
+		need = { small_modern_plane_naval_bomber_airframe = 1 }
 		categories = { category_nav_plane }
 		land_air_wing_size = 100
 	}
@@ -44,7 +44,7 @@ sub_units = {
 		priority = 1
 		active = yes
 		type = { suicide }
-		need = { small_plane_suicide_airframe = 1 }
+		need = { small_modern_plane_suicide_airframe = 1 }
 		categories = { category_Air_UAV }
 		land_air_wing_size = 100
 	}
@@ -53,7 +53,7 @@ sub_units = {
 		priority = 1
 		active = yes
 		type = { fighter }
-		need = { cv_small_plane_airframe = 1 }
+		need = { cv_small_modern_plane_airframe = 1 }
 		categories = { category_fighter }
 		land_air_wing_size = 10
 		carrier_air_wing_size = 10
@@ -63,7 +63,7 @@ sub_units = {
 		priority = 1
 		active = yes
 		type = { cas }
-		need = { cv_small_plane_cas_airframe = 1 }
+		need = { cv_small_modern_plane_cas_airframe = 1 }
 		categories = { category_CAS }
 		land_air_wing_size = 10
 		carrier_air_wing_size = 10
@@ -73,7 +73,7 @@ sub_units = {
 		priority = 1
 		active = yes
 		type = { naval_bomber }
-		need = { cv_small_plane_naval_bomber_airframe = 1 }
+		need = { cv_small_modern_plane_naval_bomber_airframe = 1 }
 		categories = { category_nav_plane }
 		land_air_wing_size = 10
 		carrier_air_wing_size = 10
@@ -83,7 +83,7 @@ sub_units = {
 		priority = 1
 		active = yes
 		type = { tactical_bomber }
-		need = { cv_small_plane_strike_airframe = 1 }
+		need = { cv_small_modern_plane_strike_airframe = 1 }
 		categories = { category_Strike_fighter }
 		land_air_wing_size = 10
 		carrier_air_wing_size = 10
@@ -93,7 +93,7 @@ sub_units = {
 		priority = 1
 		active = yes
 		type = { suicide }
-		need = { cv_small_plane_suicide_airframe = 1 }
+		need = { cv_small_modern_plane_suicide_airframe = 1 }
 		categories = { category_Air_UAV }
 		land_air_wing_size = 10
 		carrier_air_wing_size = 10
@@ -104,7 +104,7 @@ sub_units = {
 		priority = 1
 		active = yes
 		type = { fighter cas tactical_bomber }
-		need = { medium_plane_airframe = 1 }
+		need = { medium_modern_plane_airframe = 1 }
 		categories = { category_MR_fighter }
 		land_air_wing_size = 100
 	}
@@ -114,7 +114,7 @@ sub_units = {
 		priority = 1
 		active = yes
 		type = { fighter }
-		need = { medium_plane_fighter_airframe = 1 }
+		need = { medium_modern_plane_fighter_airframe = 1 }
 		categories = { category_AS_fighter }
 		land_air_wing_size = 100
 	}
@@ -124,7 +124,7 @@ sub_units = {
 		priority = 1
 		active = yes
 		type = { fighter cas }
-		need = { medium_plane_cas_airframe = 1 }
+		need = { medium_modern_plane_cas_airframe = 1 }
 		categories = { category_CAS }
 		land_air_wing_size = 100
 	}
@@ -134,7 +134,7 @@ sub_units = {
 		priority = 1
 		active = yes
 		type = { suicide }
-		need = { medium_plane_air_transport_airframe = 1 }
+		need = { medium_modern_plane_air_transport_airframe = 1 }
 		categories = { category_trans_plane }
 		land_air_wing_size = 100
 	}
@@ -144,7 +144,7 @@ sub_units = {
 		priority = 1
 		active = yes
 		type = { naval_bomber scout_plane }
-		need = { medium_plane_maritime_patrol_airframe = 1 }
+		need = { medium_modern_plane_maritime_patrol_airframe = 1 }
 		categories = { category_nav_plane }
 		land_air_wing_size = 100
 	}
@@ -154,7 +154,7 @@ sub_units = {
 		priority = 1
 		active = yes
 		type = { fighter cas tactical_bomber }
-		need = { cv_medium_plane_airframe = 1 }
+		need = { cv_medium_modern_plane_airframe = 1 }
 		categories = { category_MR_fighter }
 		land_air_wing_size = 10
 		carrier_air_wing_size = 10
@@ -165,7 +165,7 @@ sub_units = {
 		priority = 1
 		active = yes
 		type = { fighter interceptor }
-		need = { cv_medium_plane_fighter_airframe = 1 }
+		need = { cv_medium_modern_plane_fighter_airframe = 1 }
 		categories = { category_AS_fighter }
 		land_air_wing_size = 10
 		carrier_air_wing_size = 10
@@ -176,7 +176,7 @@ sub_units = {
 		priority = 1
 		active = yes
 		type = { fighter cas }
-		need = { cv_medium_plane_cas_airframe = 1 }
+		need = { cv_medium_modern_plane_cas_airframe = 1 }
 		categories = { category_CAS }
 		land_air_wing_size = 10
 		carrier_air_wing_size = 10
@@ -187,7 +187,7 @@ sub_units = {
 		priority = 1
 		active = yes
 		type = { naval_bomber scout_plane }
-		need = { cv_medium_plane_maritime_patrol_airframe = 1 }
+		need = { cv_medium_modern_plane_maritime_patrol_airframe = 1 }
 		categories = { category_nav_plane }
 		land_air_wing_size = 10
 		carrier_air_wing_size = 10
@@ -198,7 +198,7 @@ sub_units = {
 		priority = 1
 		active = yes
 		type = { suicide air_transport }
-		need = { cv_medium_plane_air_transport_airframe = 1 }
+		need = { cv_medium_modern_plane_air_transport_airframe = 1 }
 		categories = { category_heavy_air }
 		land_air_wing_size = 10
 		carrier_air_wing_size = 10
@@ -209,7 +209,7 @@ sub_units = {
 		priority = 1
 		active = yes
 		type = { scout_plane }
-		need = { cv_medium_plane_scout_airframe = 1 }
+		need = { cv_medium_modern_plane_scout_airframe = 1 }
 		categories = { category_heavy_air }
 		land_air_wing_size = 10
 		carrier_air_wing_size = 10
@@ -220,7 +220,7 @@ sub_units = {
 		priority = 1
 		active = yes
 		type = { strategic_bomber }
-		need = { large_plane_airframe = 1 }
+		need = { large_modern_plane_airframe = 1 }
 		categories = { category_strat_bomber }
 		land_air_wing_size = 100
 	}
@@ -230,7 +230,7 @@ sub_units = {
 		priority = 1
 		active = yes
 		type = { naval_bomber scout_plane }
-		need = { large_plane_maritime_patrol_airframe = 1 }
+		need = { large_modern_plane_maritime_patrol_airframe = 1 }
 		categories = { category_nav_plane }
 		land_air_wing_size = 100
 	}
@@ -240,7 +240,7 @@ sub_units = {
 		priority = 1
 		active = yes
 		type = { scout_plane }
-		need = { large_plane_awacs_airframe = 1 }
+		need = { large_modern_plane_awacs_airframe = 1 }
 		categories = { category_heavy_air }
 		land_air_wing_size = 10
 	}
@@ -250,7 +250,7 @@ sub_units = {
 		priority = 1
 		active = yes
 		type = { cas }
-		need = { large_plane_cas_airframe = 1 }
+		need = { large_modern_plane_cas_airframe = 1 }
 		categories = { category_gunship }
 		land_air_wing_size = 100
 	}
@@ -260,7 +260,7 @@ sub_units = {
 		priority = 1
 		active = yes
 		type = { suicide air_transport }
-		need = { large_plane_air_transport_airframe = 1 }
+		need = { large_modern_plane_air_transport_airframe = 1 }
 		categories = { category_trans_plane }
 		land_air_wing_size = 100
 	}
@@ -269,7 +269,7 @@ sub_units = {
 		priority = 1
 		active = yes
 		type = suicide
-		need = { medium_plane_suicide_airframe = 1 }
+		need = { medium_modern_plane_suicide_airframe = 1 }
 		categories = { category_cas }
 		land_air_wing_size = 100
 	}

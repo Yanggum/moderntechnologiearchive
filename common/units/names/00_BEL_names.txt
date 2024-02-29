@@ -2,14 +2,14 @@
 	air_wing_names_template = AIR_WING_NAME_BEL_FALLBACK
 
 	#Air wings can only be named through archetype
-	small_plane_airframe = {
+	small_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Wing Tactique" }
 		generic_pattern = AIR_WING_NAME_BEL_GENERIC
 		unique = {
 		}
 	}
-	small_plane_strike_airframe = {
+	small_modern_plane_strike_airframe = {
 		prefix = ""
 		generic = { "Wing Tactique" }
 		generic_pattern = AIR_WING_NAME_BEL_GENERIC
@@ -38,14 +38,14 @@
 			"80 UAV Escadron"
 		}
 	}
-	cv_small_plane_airframe = {
+	cv_small_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Wing Tactique" }
 		generic_pattern = AIR_WING_NAME_BEL_GENERIC
 		unique = {
 		}
 	}
-	cv_small_plane_strike_airframe = {
+	cv_small_modern_plane_strike_airframe = {
 		prefix = ""
 		generic = { "Wing Tactique" }
 		generic_pattern = AIR_WING_NAME_BEL_GENERIC
@@ -74,7 +74,7 @@
 			"80 UAV Escadron"
 		}
 	}
-	medium_plane_airframe = {
+	medium_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Wing Tactique" }
 		generic_pattern = AIR_WING_NAME_BEL_GENERIC
@@ -109,7 +109,7 @@
 		unique = {
 		}
 	}
-	cv_medium_plane_airframe = {
+	cv_medium_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Wing Tactique" }
 		generic_pattern = AIR_WING_NAME_BEL_GENERIC
@@ -152,7 +152,7 @@
 		unique = {
 		}
 	}
-	large_plane_airframe = {
+	large_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Wing Tactique" }
 		generic_pattern = AIR_WING_NAME_BEL_GENERIC

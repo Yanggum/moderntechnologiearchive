@@ -2,7 +2,7 @@
 	air_wing_names_template = AIR_WING_NAME_JAP_FALLBACK
 
 	#Air wings can only be named through archetype
-	small_plane_airframe = {
+	small_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Kokoudan" }
 		generic_pattern = AIR_WING_NAME_JAP_GENERIC
@@ -10,7 +10,7 @@
 			"2 Kokoudan" "6 Kokoudan" "5 Kokoudan" "9 Kokoudan"
 		}
 	}
-	small_plane_strike_airframe = {
+	small_modern_plane_strike_airframe = {
 		prefix = ""
 		generic = { "Kokoudan" }
 		generic_pattern = AIR_WING_NAME_JAP_GENERIC
@@ -38,14 +38,14 @@
 		unique = {
 		}
 	}
-	cv_small_plane_airframe = {
+	cv_small_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Kokoudan" }
 		generic_pattern = AIR_WING_NAME_JAP_GENERIC
 		unique = {
 		}
 	}
-	cv_small_plane_strike_airframe = {
+	cv_small_modern_plane_strike_airframe = {
 		prefix = ""
 		generic = { "Kokoudan" }
 		generic_pattern = AIR_WING_NAME_JAP_GENERIC
@@ -73,7 +73,7 @@
 		unique = {
 		}
 	}
-	medium_plane_airframe = {
+	medium_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Kokoudan" }
 		generic_pattern = AIR_WING_NAME_JAP_GENERIC
@@ -101,7 +101,7 @@
 		generic_pattern = AIR_WING_NAME_JAP_GENERIC
 
 	}
-	cv_medium_plane_airframe = {
+	cv_medium_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Kokoudan" }
 		generic_pattern = AIR_WING_NAME_JAP_GENERIC
@@ -148,7 +148,7 @@
 		}
 	}
 
-	large_plane_airframe = {
+	large_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Kokoudan" }
 		generic_pattern = AIR_WING_NAME_JAP_GENERIC

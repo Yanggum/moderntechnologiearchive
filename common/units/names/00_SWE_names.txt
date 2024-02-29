@@ -2,14 +2,14 @@
 	air_wing_names_template = AIR_WING_NAME_SWE_FALLBACK
 
 	#Air wings can only be named through archetype
-	small_plane_airframe = {
+	small_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Flygflottilj" }
 		generic_pattern = AIR_WING_NAME_SWE_GENERIC
 		unique = {
 		}
 	}
-	small_plane_strike_airframe = {
+	small_modern_plane_strike_airframe = {
 		prefix = ""
 		generic = { "Flygflottilj" }
 		generic_pattern = AIR_WING_NAME_SWE_GENERIC
@@ -41,7 +41,7 @@
 		}
 	}
 
-	cv_small_plane_airframe = {
+	cv_small_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Flygflottilj" }
 		generic_pattern = AIR_WING_NAME_SWE_GENERIC
@@ -49,7 +49,7 @@
 		}
 	}
 
-	cv_small_plane_strike_airframe = {
+	cv_small_modern_plane_strike_airframe = {
 		prefix = ""
 		generic = { "Flygflottilj" }
 		generic_pattern = AIR_WING_NAME_SWE_GENERIC
@@ -72,7 +72,7 @@
 		unique = {
 		}
 	}
-	medium_plane_airframe = {
+	medium_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Flygflottilj" }
 		generic_pattern = AIR_WING_NAME_SWE_GENERIC
@@ -116,7 +116,7 @@
 		unique = {
 		}
 	}
-	cv_medium_plane_airframe = {
+	cv_medium_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Flygflottilj" }
 		generic_pattern = AIR_WING_NAME_SWE_GENERIC
@@ -164,7 +164,7 @@
 		}
 	}
 
-	large_plane_airframe = {
+	large_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Flygflottilj" }
 		generic_pattern = AIR_WING_NAME_SWE_GENERIC

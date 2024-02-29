@@ -2,14 +2,14 @@
 	air_wing_names_template = AIR_WING_NAME_LBA_FALLBACK
 
 	#Air wings can only be named through archetype
-	small_plane_airframe = {
+	small_modern_plane_airframe = {
 		prefix = ""
 		generic = { "al-Janah al-Muetarid" }
 		generic_pattern = AIR_WING_NAME_LBA_GENERIC
 		unique = {
 		}
 	}
-	small_plane_strike_airframe = {
+	small_modern_plane_strike_airframe = {
 		prefix = ""
 		generic = { "al-Janah al-Muqatil" }
 		generic_pattern = AIR_WING_NAME_LBA_GENERIC
@@ -38,7 +38,7 @@
 		unique = {
 		}
 	}
-	medium_plane_airframe = {
+	medium_modern_plane_airframe = {
 		prefix = ""
 		generic = { "al-Janah al-Muqatil" }
 		generic_pattern = AIR_WING_NAME_LBA_GENERIC
@@ -73,7 +73,7 @@
 		unique = {
 		}
 	}
-	cv_medium_plane_airframe = {
+	cv_medium_modern_plane_airframe = {
 		prefix = ""
 		generic = { "al-Majmueat al-Jawiyat al-Naaqil" }
 		generic_pattern = AIR_WING_NAME_LBA_GENERIC
@@ -119,7 +119,7 @@
 		}
 	}
 
-	large_plane_airframe = {
+	large_modern_plane_airframe = {
 		prefix = ""
 		generic = { "a-Janah al-Naql" }
 		generic_pattern = AIR_WING_NAME_LBA_GENERIC

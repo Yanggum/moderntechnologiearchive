@@ -2,12 +2,12 @@ LIT = {
 	air_wing_names_template = AIR_WING_NAME_LIT_FALLBACK
 
 	#Air wings can only be named through archetype
-	small_plane_airframe = {
+	small_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Naikintuvas" }
 		generic_pattern = AIR_WING_NAME_LIT_GENERIC
 	}
-	small_plane_strike_airframe = {
+	small_modern_plane_strike_airframe = {
 		prefix = ""
 		generic = { "Naikintuvas" }
 		generic_pattern = AIR_WING_NAME_LIT_GENERIC
@@ -37,7 +37,7 @@ LIT = {
 		}
 	}
 
-	cv_small_plane_airframe = {
+	cv_small_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Naikintuvas" }
 		generic_pattern = AIR_WING_NAME_LIT_GENERIC
@@ -45,7 +45,7 @@ LIT = {
 		}
 	}
 
-	cv_small_plane_strike_airframe = {
+	cv_small_modern_plane_strike_airframe = {
 		prefix = ""
 		generic = { "Naikintuvas" }
 		generic_pattern = AIR_WING_NAME_LIT_GENERIC
@@ -69,7 +69,7 @@ LIT = {
 		}
 	}
 
-	medium_plane_airframe = {
+	medium_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Naikintuvas" }
 		generic_pattern = AIR_WING_NAME_LIT_GENERIC
@@ -100,7 +100,7 @@ LIT = {
 		generic = { "Naikintuvas" }
 		generic_pattern = AIR_WING_NAME_LIT_GENERIC
 	}
-	cv_medium_plane_airframe = {
+	cv_medium_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Naikintuvas" }
 		generic_pattern = AIR_WING_NAME_LIT_GENERIC
@@ -146,7 +146,7 @@ LIT = {
 		}
 	}
 
-	large_plane_airframe = {
+	large_modern_plane_airframe = {
 		prefix = ""
 		generic = { "Naikintuvas" }
 		generic_pattern = AIR_WING_NAME_LIT_GENERIC

@@ -7,39 +7,39 @@ spriteTypes = {
 
 	# # # #
 	SpriteType = {
-		name = "GFX_SWE_small_plane_airframe_2"
+		name = "GFX_SWE_small_modern_plane_airframe_2"
 		texturefile = "gfx/interface/technologies/SWE/AIR/J39.dds"
 	}
 	SpriteType = {
-		name = "GFX_SWE_small_plane_strike_airframe_1"
+		name = "GFX_SWE_small_modern_plane_strike_airframe_1"
 		texturefile = "gfx/interface/technologies/SWE/AIR/MR1.dds"
 	}
 	SpriteType = {
-		name = "GFX_SWE_small_plane_strike_airframe_2"
+		name = "GFX_SWE_small_modern_plane_strike_airframe_2"
 		texturefile = "gfx/interface/technologies/SWE/AIR/MR2.dds"
 	}
 	SpriteType = {
-		name = "GFX_ISR_small_plane_strike_airframe_1"
+		name = "GFX_ISR_small_modern_plane_strike_airframe_1"
 		texturefile = "gfx/interface/technologies/ISR/AIR/T2.dds"
 	}
 	SpriteType = {
-		name = "GFX_FRA_small_plane_strike_airframe_1_5"
+		name = "GFX_FRA_small_modern_plane_strike_airframe_1_5"
 		texturefile = "gfx/interface/technologies/FRA/AIR/T2.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_small_plane_strike_airframe_1"
+		name = "GFX_CHI_small_modern_plane_strike_airframe_1"
 		texturefile = "gfx/interface/technologies/CHI/AIR/MR1.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_small_plane_strike_airframe_2"
+		name = "GFX_CHI_small_modern_plane_strike_airframe_2"
 		texturefile = "gfx/interface/technologies/CHI/AIR/MR2.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_large_plane_airframe_1"
+		name = "GFX_CHI_large_modern_plane_airframe_1"
 		texturefile = "gfx/interface/technologies/CHI/AIR/B1.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_small_plane_strike_airframe_3"
+		name = "GFX_CHI_small_modern_plane_strike_airframe_3"
 		texturefile = "gfx/interface/technologies/CHI/AIR/CAS2.dds"
 	}
 	SpriteType = {
@@ -47,7 +47,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/CHI/AIR/AS2.dds"
 	}
 	SpriteType = {
-		name = "GFX_CHI_small_plane_strike_airframe_1_5"
+		name = "GFX_CHI_small_modern_plane_strike_airframe_1_5"
 		texturefile = "gfx/interface/technologies/CHI/AIR/STR1.dds"
 	}
 	SpriteType = {
@@ -71,15 +71,15 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/CHI/AIR/NAV3.dds"
 	}
 	SpriteType = {
-		name = "GFX_FRA_small_plane_strike_airframe_1"
+		name = "GFX_FRA_small_modern_plane_strike_airframe_1"
 		texturefile = "gfx/interface/technologies/FRA/AIR/STR1.dds"
 	}
 	SpriteType = {
-		name = "GFX_FRA_small_plane_airframe_1"
+		name = "GFX_FRA_small_modern_plane_airframe_1"
 		texturefile = "gfx/interface/technologies/FRA/AIR/MR1.dds"
 	}
 	SpriteType = {
-		name = "GFX_ENG_cv_small_plane_strike_airframe_1"
+		name = "GFX_ENG_cv_small_modern_plane_strike_airframe_1"
 		texturefile = "gfx/interface/technologies/ENG/AIR/CVMR2.dds"
 	}
 	SpriteType = {
@@ -87,19 +87,19 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/ENG/AIR/MR3.dds"
 	}
 	SpriteType = {
-		name = "GFX_ENG_small_plane_strike_airframe_1_7"
+		name = "GFX_ENG_small_modern_plane_strike_airframe_1_7"
 		texturefile = "gfx/interface/technologies/ENG/AIR/T3.dds"
 	}
 	SpriteType = {
-		name = "GFX_ENG_small_plane_strike_airframe_1_6"
+		name = "GFX_ENG_small_modern_plane_strike_airframe_1_6"
 		texturefile = "gfx/interface/technologies/ENG/AIR/STR3.dds"
 	}
 	SpriteType = {
-		name = "GFX_ENG_small_plane_strike_airframe_1_5"
+		name = "GFX_ENG_small_modern_plane_strike_airframe_1_5"
 		texturefile = "gfx/interface/technologies/ENG/AIR/T1.dds"
 	}
 	SpriteType = {
-		name = "GFX_ENG_small_plane_strike_airframe_1"
+		name = "GFX_ENG_small_modern_plane_strike_airframe_1"
 		texturefile = "gfx/interface/technologies/ENG/AIR/CVMR1.dds"
 	}
 	SpriteType = {
@@ -115,15 +115,15 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/SOV/AIR/C2.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_large_plane_airframe_1"
+		name = "GFX_SOV_large_modern_plane_airframe_1"
 		texturefile = "gfx/interface/technologies/SOV/AIR/B1.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_large_plane_airframe_2"
+		name = "GFX_SOV_large_modern_plane_airframe_2"
 		texturefile = "gfx/interface/technologies/SOV/AIR/B3.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_small_plane_strike_airframe_1"
+		name = "GFX_SOV_small_modern_plane_strike_airframe_1"
 		texturefile = "gfx/interface/technologies/SOV/AIR/STR1.dds"
 	}
 	SpriteType = {
@@ -131,7 +131,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/SOV/AIR/CAS2.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_small_plane_strike_airframe_2"
+		name = "GFX_SOV_small_modern_plane_strike_airframe_2"
 		texturefile = "gfx/interface/technologies/SOV/AIR/STR2.dds"
 	}
 	SpriteType = {
@@ -139,11 +139,11 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/SOV/AIR/MR1.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_small_plane_airframe_2"
+		name = "GFX_SOV_small_modern_plane_airframe_2"
 		texturefile = "gfx/interface/technologies/SOV/AIR/AS2.dds"
 	}
 	SpriteType = {
-		name = "GFX_SOV_small_plane_airframe_3"
+		name = "GFX_SOV_small_modern_plane_airframe_3"
 		texturefile = "gfx/interface/technologies/SOV/AIR/STR3.dds"
 	}
 	SpriteType = {
@@ -163,19 +163,19 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/USA/AIR/AS2.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_cv_medium_plane_airframe_1_2"
+		name = "GFX_USA_cv_medium_modern_plane_airframe_1_2"
 		texturefile = "gfx/interface/technologies/USA/AIR/STR1.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_small_plane_strike_airframe_1"
+		name = "GFX_USA_small_modern_plane_strike_airframe_1"
 		texturefile = "gfx/interface/technologies/USA/AIR/T3.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_small_plane_airframe_1"
+		name = "GFX_USA_small_modern_plane_airframe_1"
 		texturefile = "gfx/interface/technologies/USA/AIR/STR1.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_cv_small_plane_strike_airframe_2"
+		name = "GFX_USA_cv_small_modern_plane_strike_airframe_2"
 		texturefile = "gfx/interface/technologies/USA/AIR/MR2.dds"
 	}
 	SpriteType = {
@@ -237,35 +237,35 @@ spriteTypes = {
 	}
 	#generic small airframes
 	SpriteType = {
-		name = "GFX_small_plane_airframe_1_medium"
+		name = "GFX_small_modern_plane_airframe_1_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/T1.dds"
 	}
 	SpriteType = {
-		name = "GFX_small_plane_airframe_2_medium"
+		name = "GFX_small_modern_plane_airframe_2_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/T2.dds"
 	}
 	SpriteType = {
-		name = "GFX_small_plane_airframe_3_medium"
+		name = "GFX_small_modern_plane_airframe_3_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/T3.dds"
 	}
 	SpriteType = {
-		name = "GFX_small_plane_airframe_4_medium"
+		name = "GFX_small_modern_plane_airframe_4_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/T5.dds"
 	}
 	SpriteType = {
-		name = "GFX_small_plane_strike_airframe_1_medium"
+		name = "GFX_small_modern_plane_strike_airframe_1_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/T1.dds"
 	}
 	SpriteType = {
-		name = "GFX_small_plane_strike_airframe_2_medium"
+		name = "GFX_small_modern_plane_strike_airframe_2_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/T2.dds"
 	}
 	SpriteType = {
-		name = "GFX_small_plane_strike_airframe_3_medium"
+		name = "GFX_small_modern_plane_strike_airframe_3_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/T3.dds"
 	}
 	SpriteType = {
-		name = "GFX_small_plane_strike_airframe_4_medium"
+		name = "GFX_small_modern_plane_strike_airframe_4_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/T5.dds"
 	}
 	SpriteType = {
@@ -317,35 +317,35 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/USA/AIR/UAV4.dds"
 	}
 	SpriteType = {
-		name = "GFX_cv_small_plane_airframe_1_medium"
+		name = "GFX_cv_small_modern_plane_airframe_1_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/T1.dds"
 	}
 	SpriteType = {
-		name = "GFX_cv_small_plane_airframe_2_medium"
+		name = "GFX_cv_small_modern_plane_airframe_2_medium"
 		texturefile = "gfx/interface/technologies/USA/AIR/LSTRCV1.dds"
 	}
 	SpriteType = {
-		name = "GFX_cv_small_plane_airframe_3_medium"
+		name = "GFX_cv_small_modern_plane_airframe_3_medium"
 		texturefile = "gfx/interface/technologies/USA/AIR/LSTRCV2.dds"
 	}
 	SpriteType = {
-		name = "GFX_cv_small_plane_airframe_4_medium"
+		name = "GFX_cv_small_modern_plane_airframe_4_medium"
 		texturefile = "gfx/interface/technologies/USA/AIR/T5.dds"
 	}
 	SpriteType = {
-		name = "GFX_cv_small_plane_strike_airframe_1_medium"
+		name = "GFX_cv_small_modern_plane_strike_airframe_1_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/T1.dds"
 	}
 	SpriteType = {
-		name = "GFX_cv_small_plane_strike_airframe_2_medium"
+		name = "GFX_cv_small_modern_plane_strike_airframe_2_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/T2.dds"
 	}
 	SpriteType = {
-		name = "GFX_cv_small_plane_strike_airframe_3_medium"
+		name = "GFX_cv_small_modern_plane_strike_airframe_3_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/T3.dds"
 	}
 	SpriteType = {
-		name = "GFX_cv_small_plane_strike_airframe_4_medium"
+		name = "GFX_cv_small_modern_plane_strike_airframe_4_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/T5.dds"
 	}
 	SpriteType = {
@@ -398,23 +398,23 @@ spriteTypes = {
 	}
 	#generic medium airframes
 	SpriteType = {
-		name = "GFX_USA_medium_plane_airframe_1_medium_1"
+		name = "GFX_USA_medium_modern_plane_airframe_1_medium_1"
 		texturefile = "gfx/interface/technologies/USA/AIR/AS1.dds"
 	}
 	SpriteType = {
-		name = "GFX_medium_plane_airframe_1_medium"
+		name = "GFX_medium_modern_plane_airframe_1_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/AS1.dds"
 	}
 	SpriteType = {
-		name = "GFX_medium_plane_airframe_2_medium"
+		name = "GFX_medium_modern_plane_airframe_2_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/AS2.dds"
 	}
 	SpriteType = {
-		name = "GFX_medium_plane_airframe_3_medium"
+		name = "GFX_medium_modern_plane_airframe_3_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/AS4.dds"
 	}
 	SpriteType = {
-		name = "GFX_medium_plane_airframe_4_medium"
+		name = "GFX_medium_modern_plane_airframe_4_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/AS6.dds"
 	}
 	SpriteType = {
@@ -482,19 +482,19 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/USA/AIR/UAV4.dds"
 	}
 	SpriteType = {
-		name = "GFX_cv_medium_plane_airframe_1_medium"
+		name = "GFX_cv_medium_modern_plane_airframe_1_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/CVMR1.dds"
 	}
 	SpriteType = {
-		name = "GFX_cv_medium_plane_airframe_2_medium"
+		name = "GFX_cv_medium_modern_plane_airframe_2_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/CVMR2.dds"
 	}
 	SpriteType = {
-		name = "GFX_cv_medium_plane_airframe_3_medium"
+		name = "GFX_cv_medium_modern_plane_airframe_3_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/CVMR3.dds"
 	}
 	SpriteType = {
-		name = "GFX_cv_medium_plane_airframe_4_medium"
+		name = "GFX_cv_medium_modern_plane_airframe_4_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/MR5.dds"
 	}
 	SpriteType = {
@@ -595,19 +595,19 @@ spriteTypes = {
 	}
 	#generic large airframes
 	SpriteType = {
-		name = "GFX_large_plane_airframe_1_medium"
+		name = "GFX_large_modern_plane_airframe_1_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/B1.dds"
 	}
 	SpriteType = {
-		name = "GFX_large_plane_airframe_2_medium"
+		name = "GFX_large_modern_plane_airframe_2_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/B3.dds"
 	}
 	SpriteType = {
-		name = "GFX_large_plane_airframe_3_medium"
+		name = "GFX_large_modern_plane_airframe_3_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/B4.dds"
 	}
 	SpriteType = {
-		name = "GFX_large_plane_airframe_4_medium"
+		name = "GFX_large_modern_plane_airframe_4_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/B5.dds"
 	}
 	SpriteType = {
@@ -675,35 +675,35 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/SOV/AIR/B5.dds"
 	}
 	SpriteType = {
-		name = "GFX_PER_small_plane_airframe_1_medium"
+		name = "GFX_PER_small_modern_plane_airframe_1_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/T1.dds"
 	}
 	SpriteType = {
-		name = "GFX_PER_small_plane_airframe_2_medium"
+		name = "GFX_PER_small_modern_plane_airframe_2_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/T2.dds"
 	}
 	SpriteType = {
-		name = "GFX_PER_small_plane_airframe_3_medium"
+		name = "GFX_PER_small_modern_plane_airframe_3_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/T3.dds"
 	}
 	SpriteType = {
-		name = "GFX_PER_small_plane_airframe_4_medium"
+		name = "GFX_PER_small_modern_plane_airframe_4_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/T5.dds"
 	}
 	SpriteType = {
-		name = "GFX_PER_small_plane_strike_airframe_1_medium"
+		name = "GFX_PER_small_modern_plane_strike_airframe_1_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/T1.dds"
 	}
 	SpriteType = {
-		name = "GFX_PER_small_plane_strike_airframe_2_medium"
+		name = "GFX_PER_small_modern_plane_strike_airframe_2_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/T2.dds"
 	}
 	SpriteType = {
-		name = "GFX_PER_small_plane_strike_airframe_3_medium"
+		name = "GFX_PER_small_modern_plane_strike_airframe_3_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/T3.dds"
 	}
 	SpriteType = {
-		name = "GFX_PER_small_plane_strike_airframe_4_medium"
+		name = "GFX_PER_small_modern_plane_strike_airframe_4_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/T5.dds"
 	}
 	SpriteType = {
@@ -755,35 +755,35 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/USA/AIR/UAV4.dds"
 	}
 	SpriteType = {
-		name = "GFX_PER_cv_small_plane_airframe_1_medium"
+		name = "GFX_PER_cv_small_modern_plane_airframe_1_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/T1.dds"
 	}
 	SpriteType = {
-		name = "GFX_PER_cv_small_plane_airframe_2_medium"
+		name = "GFX_PER_cv_small_modern_plane_airframe_2_medium"
 		texturefile = "gfx/interface/technologies/USA/AIR/LSTRCV1.dds"
 	}
 	SpriteType = {
-		name = "GFX_PER_cv_small_plane_airframe_3_medium"
+		name = "GFX_PER_cv_small_modern_plane_airframe_3_medium"
 		texturefile = "gfx/interface/technologies/USA/AIR/LSTRCV2.dds"
 	}
 	SpriteType = {
-		name = "GFX_PER_cv_small_plane_airframe_4_medium"
+		name = "GFX_PER_cv_small_modern_plane_airframe_4_medium"
 		texturefile = "gfx/interface/technologies/USA/AIR/T5.dds"
 	}
 	SpriteType = {
-		name = "GFX_PER_cv_small_plane_strike_airframe_1_medium"
+		name = "GFX_PER_cv_small_modern_plane_strike_airframe_1_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/T1.dds"
 	}
 	SpriteType = {
-		name = "GFX_PER_cv_small_plane_strike_airframe_2_medium"
+		name = "GFX_PER_cv_small_modern_plane_strike_airframe_2_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/T2.dds"
 	}
 	SpriteType = {
-		name = "GFX_PER_cv_small_plane_strike_airframe_3_medium"
+		name = "GFX_PER_cv_small_modern_plane_strike_airframe_3_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/T3.dds"
 	}
 	SpriteType = {
-		name = "GFX_PER_cv_small_plane_strike_airframe_4_medium"
+		name = "GFX_PER_cv_small_modern_plane_strike_airframe_4_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/T5.dds"
 	}
 	SpriteType = {
@@ -836,23 +836,23 @@ spriteTypes = {
 	}
 	#generic medium airframes
 	SpriteType = {
-		name = "GFX_PER_USA_medium_plane_airframe_1_medium_1"
+		name = "GFX_PER_USA_medium_modern_plane_airframe_1_medium_1"
 		texturefile = "gfx/interface/technologies/USA/AIR/AS1.dds"
 	}
 	SpriteType = {
-		name = "GFX_PER_medium_plane_airframe_1_medium"
+		name = "GFX_PER_medium_modern_plane_airframe_1_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/AS1.dds"
 	}
 	SpriteType = {
-		name = "GFX_PER_medium_plane_airframe_2_medium"
+		name = "GFX_PER_medium_modern_plane_airframe_2_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/AS2.dds"
 	}
 	SpriteType = {
-		name = "GFX_PER_medium_plane_airframe_3_medium"
+		name = "GFX_PER_medium_modern_plane_airframe_3_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/AS4.dds"
 	}
 	SpriteType = {
-		name = "GFX_PER_medium_plane_airframe_4_medium"
+		name = "GFX_PER_medium_modern_plane_airframe_4_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/AS6.dds"
 	}
 	SpriteType = {
@@ -920,19 +920,19 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/USA/AIR/UAV4.dds"
 	}
 	SpriteType = {
-		name = "GFX_PER_cv_medium_plane_airframe_1_medium"
+		name = "GFX_PER_cv_medium_modern_plane_airframe_1_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/CVMR1.dds"
 	}
 	SpriteType = {
-		name = "GFX_PER_cv_medium_plane_airframe_2_medium"
+		name = "GFX_PER_cv_medium_modern_plane_airframe_2_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/CVMR2.dds"
 	}
 	SpriteType = {
-		name = "GFX_PER_cv_medium_plane_airframe_3_medium"
+		name = "GFX_PER_cv_medium_modern_plane_airframe_3_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/CVMR3.dds"
 	}
 	SpriteType = {
-		name = "GFX_PER_cv_medium_plane_airframe_4_medium"
+		name = "GFX_PER_cv_medium_modern_plane_airframe_4_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/MR5.dds"
 	}
 	SpriteType = {
@@ -1033,19 +1033,19 @@ spriteTypes = {
 	}
 	#generic large airframes
 	SpriteType = {
-		name = "GFX_PER_large_plane_airframe_1_medium"
+		name = "GFX_PER_large_modern_plane_airframe_1_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/B1.dds"
 	}
 	SpriteType = {
-		name = "GFX_PER_large_plane_airframe_2_medium"
+		name = "GFX_PER_large_modern_plane_airframe_2_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/B3.dds"
 	}
 	SpriteType = {
-		name = "GFX_PER_large_plane_airframe_3_medium"
+		name = "GFX_PER_large_modern_plane_airframe_3_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/B4.dds"
 	}
 	SpriteType = {
-		name = "GFX_PER_large_plane_airframe_4_medium"
+		name = "GFX_PER_large_modern_plane_airframe_4_medium"
 		texturefile = "gfx/interface/technologies/SOV/AIR/B5.dds"
 	}
 	SpriteType = {
@@ -1179,19 +1179,19 @@ spriteTypes = {
 	}
 	#USA small_plane
 	SpriteType = {
-		name = "GFX_USA_small_plane_airframe_1_medium"
+		name = "GFX_USA_small_modern_plane_airframe_1_medium"
 		texturefile = "gfx/interface/technologies/USA/AIR/T1.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_small_plane_airframe_2_medium"
+		name = "GFX_USA_small_modern_plane_airframe_2_medium"
 		texturefile = "gfx/interface/technologies/USA/AIR/T2.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_small_plane_airframe_3_medium"
+		name = "GFX_USA_small_modern_plane_airframe_3_medium"
 		texturefile = "gfx/interface/technologies/USA/AIR/MR4.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_small_plane_airframe_4_medium"
+		name = "GFX_USA_small_modern_plane_airframe_4_medium"
 		texturefile = "gfx/interface/technologies/USA/AIR/T4.dds"
 	}
 	SpriteType = {
@@ -1212,19 +1212,19 @@ spriteTypes = {
 	}
 	#usa small_plane
 	SpriteType = {
-		name = "GFX_USA_cv_small_plane_airframe_1_medium"
+		name = "GFX_USA_cv_small_modern_plane_airframe_1_medium"
 		texturefile = "gfx/interface/technologies/USA/AIR/CVMR1.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_cv_small_plane_airframe_2_medium"
+		name = "GFX_USA_cv_small_modern_plane_airframe_2_medium"
 		texturefile = "gfx/interface/technologies/USA/AIR/LSTRCV1.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_cv_small_plane_airframe_3_medium"
+		name = "GFX_USA_cv_small_modern_plane_airframe_3_medium"
 		texturefile = "gfx/interface/technologies/USA/AIR/LSTRCV2.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_cv_small_plane_airframe_4_medium"
+		name = "GFX_USA_cv_small_modern_plane_airframe_4_medium"
 		texturefile = "gfx/interface/technologies/USA/AIR/MR7.dds"
 	}
 	SpriteType = {
@@ -1245,23 +1245,23 @@ spriteTypes = {
 	}
 	#usa medium_plane
 	SpriteType = {
-		name = "GFX_USA_medium_plane_airframe_1_medium"
+		name = "GFX_USA_medium_modern_plane_airframe_1_medium"
 		texturefile = "gfx/interface/technologies/USA/AIR/MR1.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_medium_plane_airframe_2_medium"
+		name = "GFX_USA_medium_modern_plane_airframe_2_medium"
 		texturefile = "gfx/interface/technologies/USA/AIR/AS2.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_medium_plane_airframe_2"
+		name = "GFX_USA_medium_modern_plane_airframe_2"
 		texturefile = "gfx/interface/technologies/USA/AIR/STR3.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_medium_plane_airframe_3_medium"
+		name = "GFX_USA_medium_modern_plane_airframe_3_medium"
 		texturefile = "gfx/interface/technologies/USA/AIR/MR4.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_medium_plane_airframe_4_medium"
+		name = "GFX_USA_medium_modern_plane_airframe_4_medium"
 		texturefile = "gfx/interface/technologies/USA/AIR/MR7.dds"
 	}
 	SpriteType = {
@@ -1314,23 +1314,23 @@ spriteTypes = {
 	}
 	#USA cv_medium_plane
 	SpriteType = {
-		name = "GFX_USA_cv_medium_plane_airframe_1_medium"
+		name = "GFX_USA_cv_medium_modern_plane_airframe_1_medium"
 		texturefile = "gfx/interface/technologies/USA/AIR/CVMR1.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_cv_medium_plane_airframe_2_medium"
+		name = "GFX_USA_cv_medium_modern_plane_airframe_2_medium"
 		texturefile = "gfx/interface/technologies/USA/AIR/CVMR2.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_cv_medium_plane_airframe_2"
+		name = "GFX_USA_cv_medium_modern_plane_airframe_2"
 		texturefile = "gfx/interface/technologies/USA/AIR/CVMR3.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_cv_medium_plane_airframe_3_medium"
+		name = "GFX_USA_cv_medium_modern_plane_airframe_3_medium"
 		texturefile = "gfx/interface/technologies/USA/AIR/CVMR4.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_cv_medium_plane_airframe_4_medium"
+		name = "GFX_USA_cv_medium_modern_plane_airframe_4_medium"
 		texturefile = "gfx/interface/technologies/USA/AIR/CVMR7.dds"
 	}
 	SpriteType = {
@@ -1367,19 +1367,19 @@ spriteTypes = {
 	}
 	#usa large_plane
 	SpriteType = {
-		name = "GFX_USA_large_plane_airframe_1_medium"
+		name = "GFX_USA_large_modern_plane_airframe_1_medium"
 		texturefile = "gfx/interface/technologies/USA/AIR/B1.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_large_plane_airframe_2_medium"
+		name = "GFX_USA_large_modern_plane_airframe_2_medium"
 		texturefile = "gfx/interface/technologies/USA/AIR/B3.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_large_plane_airframe_3_medium"
+		name = "GFX_USA_large_modern_plane_airframe_3_medium"
 		texturefile = "gfx/interface/technologies/USA/AIR/B4.dds"
 	}
 	SpriteType = {
-		name = "GFX_USA_large_plane_airframe_4_medium"
+		name = "GFX_USA_large_modern_plane_airframe_4_medium"
 		texturefile = "gfx/interface/technologies/USA/AIR/B6.dds"
 	}
 	SpriteType = {
