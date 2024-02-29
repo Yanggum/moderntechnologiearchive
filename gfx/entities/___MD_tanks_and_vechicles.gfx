@@ -718,7 +718,7 @@ objectTypes = {
 	}
 
 	pdxmesh = {
-		name = "SLO_tank_light_mesh"
+		name = "SLO_modern_tank_light_mesh"
 		file = "gfx/models/units/tanks/SLO/SLO_light_tank_03_BVP2.mesh"
 
 		animation = { id = "retreat"		type = "CZE_light_tank_03_BVP2_retreat_animation" }

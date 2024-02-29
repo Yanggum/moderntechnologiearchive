@@ -5,8 +5,8 @@ objectTypes = {
 	
 	
 	pdxmesh = {
-		name = "ENG_tank_heavy_mesh"
-		file = "gfx/models/units/tanks/ENG_tank_heavy.mesh"
+		name = "ENG_modern_tank_heavy_mesh"
+		file = "gfx/models/units/tanks/ENG_modern_tank_heavy.mesh"
 
 		animation = { id = "attack"			type = "ENG_tank_heavy_attack_animation" }
 		animation = { id = "idle"			type = "ENG_tank_heavy_idle_animation" }
@@ -15,8 +15,8 @@ objectTypes = {
 	}
 	
 	pdxmesh = {
-		name = "FRA_tank_light_mesh"
-		file = "gfx/models/units/tanks/FRA_tank_light.mesh"
+		name = "FRA_modern_tank_light_mesh"
+		file = "gfx/models/units/tanks/FRA_modern_tank_light.mesh"
 		
 		scale = 1
 		
@@ -24,22 +24,22 @@ objectTypes = {
 	
 	
 	pdxmesh = {
-		name = "generic_tank_light_mesh"
-		file = "gfx/models/units/tanks/generic_tank_light.mesh"
+		name = "generic_modern_tank_light_mesh"
+		file = "gfx/models/units/tanks/generic_modern_tank_light.mesh"
 		
 		scale = 1
 		
 	}
 	
 	pdxmesh = {
-		name = "generic_tank_medium_mesh"
-		file = "gfx/models/units/tanks/generic_tank_medium.mesh"
+		name = "generic_modern_tank_medium_mesh"
+		file = "gfx/models/units/tanks/generic_modern_tank_medium.mesh"
 		scale = 0.5
 	}
 	
 	pdxmesh = {
-		name = "generic_tank_heavy_mesh"
-		file = "gfx/models/units/tanks/generic_tank_heavy.mesh"
+		name = "generic_modern_tank_heavy_mesh"
+		file = "gfx/models/units/tanks/generic_modern_tank_heavy.mesh"
 
 		animation = { id = "attack"			type = "generic_tank_heavy_attack_animation" }
 		animation = { id = "idle"			type = "generic_tank_heavy_idle_animation" }
@@ -48,22 +48,22 @@ objectTypes = {
 	}
 
 	pdxmesh = {
-		name = "GER_tank_light_mesh"
-		file = "gfx/models/units/tanks/GER_tank_light.mesh"
+		name = "GER_modern_tank_light_mesh"
+		file = "gfx/models/units/tanks/GER_modern_tank_light.mesh"
 		
 		scale = 1
 		
 	}	
 	
 	pdxmesh = {
-		name = "GER_tank_medium_mesh"
-		file = "gfx/models/units/tanks/GER_tank_medium.mesh"
+		name = "GER_modern_tank_medium_mesh"
+		file = "gfx/models/units/tanks/GER_modern_tank_medium.mesh"
 		scale = 0.5
 	}	
 	
 	pdxmesh = {
-		name = "GER_tank_heavy_mesh"
-		file = "gfx/models/units/tanks/GER_tank_heavy.mesh"
+		name = "GER_modern_tank_heavy_mesh"
+		file = "gfx/models/units/tanks/GER_modern_tank_heavy.mesh"
 
 		animation = { id = "attack"			type = "GER_tank_heavy_attack_animation" }
 		animation = { id = "idle"			type = "GER_tank_heavy_idle_animation" }
@@ -73,26 +73,26 @@ objectTypes = {
 	}
 
 	pdxmesh = {
-		name = "SOV_tank_light_mesh"
-		file = "gfx/models/units/tanks/SOV_tank_light2.mesh"
+		name = "SOV_modern_tank_light_mesh"
+		file = "gfx/models/units/tanks/SOV_modern_tank_light2.mesh"
 		scale = 1
 	}
 	
 	pdxmesh = {
-		name = "SOV_tank_light2_mesh"
-		file = "gfx/models/units/tanks/SOV_tank_light.mesh"
+		name = "SOV_modern_tank_light2_mesh"
+		file = "gfx/models/units/tanks/SOV_modern_tank_light.mesh"
 		scale = 1
 	}
 
 	pdxmesh = {
-		name = "SOV_tank_medium_mesh"
-		file = "gfx/models/units/tanks/SOV_tank_medium.mesh"
+		name = "SOV_modern_tank_medium_mesh"
+		file = "gfx/models/units/tanks/SOV_modern_tank_medium.mesh"
 		scale = 0.7
 	}		
 	
 	pdxmesh = {
-		name = "SOV_tank_heavy_mesh"
-		file = "gfx/models/units/tanks/SOV_tank_heavy.mesh"
+		name = "SOV_modern_tank_heavy_mesh"
+		file = "gfx/models/units/tanks/SOV_modern_tank_heavy.mesh"
 
 		animation = { id = "attack"			type = "SOV_tank_heavy_attack_animation" }
 		animation = { id = "idle"			type = "SOV_tank_heavy_idle_animation" }
@@ -101,19 +101,19 @@ objectTypes = {
 	}
 	
 	pdxmesh = {
-		name = "USA_tank_light_mesh"
-		file = "gfx/models/units/tanks/USA_tank_light.mesh"
+		name = "USA_modern_tank_light_mesh"
+		file = "gfx/models/units/tanks/USA_modern_tank_light.mesh"
 		scale = 1
 	}	
 	
 	pdxmesh = {
-		name = "USA_tank_medium_mesh"
-		file = "gfx/models/units/tanks/USA_tank_medium.mesh"
+		name = "USA_modern_tank_medium_mesh"
+		file = "gfx/models/units/tanks/USA_modern_tank_medium.mesh"
 		scale = 0.5
 	}	
 	
 	pdxmesh = {
-		name = "USA_tank_heavy_mesh"
+		name = "USA_modern_tank_heavy_mesh"
 		file = "gfx/models/units/tanks/USA_tank_heavy_m551.mesh"
 		scale = 0.65
 	}

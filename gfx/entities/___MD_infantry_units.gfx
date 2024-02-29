@@ -3,7 +3,7 @@
 # ### soviet units
 # objectTypes = {
 # 	pdxmesh = {
-# 		name = "SOV_infantry_mesh"
+# 		name = "SOV_modern_infantry_mesh"
 # 		file = "gfx/models/units/infantry/SOV/SOV_infantry.mesh"
 
 # 		animation = { id = "idle"			type = "GER_infantry_rifle_idle_animation" }
