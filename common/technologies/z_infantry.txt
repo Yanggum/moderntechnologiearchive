@@ -54,7 +54,7 @@ technologies = {
 		}
 
 		path = {
-			leads_to_tech = infantry_weapons1
+			leads_to_tech = infantry_modern_weapons1
 			research_cost_coeff = 1
 		}
 
@@ -75,11 +75,11 @@ technologies = {
 		}
 	}
 	#1975
-	infantry_weapons1 = {
-		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech infantry_weapons1" }
+	infantry_modern_weapons1 = {
+		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech infantry_modern_weapons1" }
 
 		enable_equipments = {
-			infantry_weapons1
+			infantry_modern_weapons1
 		}
 
 		path = {

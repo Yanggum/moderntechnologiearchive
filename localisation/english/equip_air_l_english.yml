@@ -27,5 +27,5 @@
  category_trans_plane: "수송기"
  category_Air_UAV: "무인 항공기"
  category_AA_missile: "대공미사일"
- AIR_CATEGORY_KAMIKAZE_DRONE: "가미카제 드론 ($VAL$)"
+ AIR_CATEGORY_kamikaze_modern_drone: "가미카제 드론 ($VAL$)"
  category_gunship: "공중 건쉽"

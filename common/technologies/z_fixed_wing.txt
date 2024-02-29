@@ -1937,7 +1937,7 @@ technologies = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech Air_Kamikaze1" }
 
 		enable_equipments = {
-			kamikaze_drone_1
+			kamikaze_modern_drone_1
 		}
 
 		research_cost = 1.5
@@ -1999,7 +1999,7 @@ technologies = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech Air_Kamikaze2" }
 
 		enable_equipments = {
-			kamikaze_drone_2
+			kamikaze_modern_drone_2
 		}
 
 		research_cost = 1.5
@@ -2061,7 +2061,7 @@ technologies = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech Air_Kamikaze3" }
 
 		enable_equipments = {
-			kamikaze_drone_3
+			kamikaze_modern_drone_3
 		}
 
 		research_cost = 1.5
@@ -2118,7 +2118,7 @@ technologies = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech Air_Kamikaze4" }
 
 		enable_equipments = {
-			kamikaze_drone_4
+			kamikaze_modern_drone_4
 		}
 
 		research_cost = 1.5

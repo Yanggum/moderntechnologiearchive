@@ -16,21 +16,21 @@
 		unique = {
 		}
 	}
-	small_plane_cas_airframe = {
+	small_modern_plane_cas_airframe = {
 		prefix = ""
 		generic = { "Geschwader" }
 		generic_pattern = AIR_WING_NAME_AUS_FALLBACK
 		unique = {
 		}
 	}
-	small_plane_naval_bomber_airframe = {
+	small_modern_plane_naval_bomber_airframe = {
 		prefix = ""
 		generic = { "Geschwader" }
 		generic_pattern = AIR_WING_NAME_AUS_FALLBACK
 		unique = {
 		}
 	}
-	small_plane_suicide_airframe = {
+	small_modern_plane_suicide_airframe = {
 		prefix = ""
 		generic = { "Geschwader" }
 		generic_pattern = AIR_WING_NAME_AUS_FALLBACK
@@ -51,21 +51,21 @@
 		unique = {
 		}
 	}
-	cv_small_plane_cas_airframe = {
+	cv_small_modern_plane_cas_airframe = {
 		prefix = ""
 		generic = { "Geschwader" }
 		generic_pattern = AIR_WING_NAME_AUS_FALLBACK
 		unique = {
 		}
 	}
-	cv_small_plane_naval_bomber_airframe = {
+	cv_small_modern_plane_naval_bomber_airframe = {
 		prefix = ""
 		generic = { "Geschwader" }
 		generic_pattern = AIR_WING_NAME_AUS_FALLBACK
 		unique = {
 		}
 	}
-	cv_small_plane_suicide_airframe = {
+	cv_small_modern_plane_suicide_airframe = {
 		prefix = ""
 		generic = { "Geschwader" }
 		generic_pattern = AIR_WING_NAME_AUS_FALLBACK
@@ -79,28 +79,28 @@
 		unique = {
 		}
 	}
-	medium_plane_fighter_airframe = {
+	medium_modern_plane_fighter_airframe = {
 		prefix = ""
 		generic = { "Geschwader" }
 		generic_pattern = AIR_WING_NAME_AUS_FALLBACK
 		unique = {
 		}
 	}
-	medium_plane_cas_airframe = {
+	medium_modern_plane_cas_airframe = {
 		prefix = ""
 		generic = { "Geschwader" }
 		generic_pattern = AIR_WING_NAME_AUS_FALLBACK
 		unique = {
 		}
 	}
-	medium_plane_maritime_patrol_airframe = {
+	medium_modern_plane_maritime_patrol_airframe = {
 		prefix = ""
 		generic = { "Geschwader" }
 		generic_pattern = AIR_WING_NAME_AUS_FALLBACK
 		unique = {
 		}
 	}
-	medium_plane_suicide_airframe = {
+	medium_modern_plane_suicide_airframe = {
 		prefix = ""
 		generic = { "Geschwader" }
 		generic_pattern = AIR_WING_NAME_AUS_FALLBACK
@@ -114,28 +114,28 @@
 		unique = {
 		}
 	}
-	cv_medium_plane_fighter_airframe = {
+	cv_medium_modern_plane_fighter_airframe = {
 		prefix = ""
 		generic = { "Geschwader" }
 		generic_pattern = AIR_WING_NAME_AUS_FALLBACK
 		unique = {
 		}
 	}
-	cv_medium_plane_cas_airframe = {
+	cv_medium_modern_plane_cas_airframe = {
 		prefix = ""
 		generic = { "Geschwader" }
 		generic_pattern = AIR_WING_NAME_AUS_FALLBACK
 		unique = {
 		}
 	}
-	cv_medium_plane_maritime_patrol_airframe = {
+	cv_medium_modern_plane_maritime_patrol_airframe = {
 		prefix = ""
 		generic = { "Geschwader" }
 		generic_pattern = AIR_WING_NAME_AUS_FALLBACK
 		unique = {
 		}
 	}
-	cv_medium_plane_air_transport_airframe = {
+	cv_medium_modern_plane_air_transport_airframe = {
 		prefix = ""
 		generic = { "Geschwader" }
 		generic_pattern = AIR_WING_NAME_AUS_FALLBACK
@@ -156,28 +156,28 @@
 		unique = {
 		}
 	}
-	large_plane_cas_airframe = {
+	large_modern_plane_cas_airframe = {
 		prefix = ""
 		generic = { "Geschwader" }
 		generic_pattern = AIR_WING_NAME_AUS_FALLBACK
 		unique = {
 		}
 	}
-	large_plane_awacs_airframe = {
+	large_modern_plane_awacs_airframe = {
 		prefix = ""
 		generic = { "Geschwader" }
 		generic_pattern = AIR_WING_NAME_AUS_FALLBACK
 		unique = {
 		}
 	}
-	large_plane_maritime_patrol_airframe = {
+	large_modern_plane_maritime_patrol_airframe = {
 		prefix = ""
 		generic = { "Geschwader" }
 		generic_pattern = AIR_WING_NAME_AUS_FALLBACK
 		unique = {
 		}
 	}
-	large_plane_air_transport_airframe = {
+	large_modern_plane_air_transport_airframe = {
 		prefix = ""
 		generic = { "Geschwader" }
 		generic_pattern = AIR_WING_NAME_AUS_FALLBACK

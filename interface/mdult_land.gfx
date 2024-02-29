@@ -9,7 +9,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/SOV/INF/INF1.dds"
 	}
 	spriteType = {
-		name = "GFX_infantry_weapons1_medium"
+		name = "GFX_infantry_modern_weapons1_medium"
 		texturefile = "gfx/interface/technologies/SOV/INF/INF2.dds"
 	}
 	spriteType = {
@@ -692,7 +692,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/USA/INF/INF1.dds"
 	}
 	spriteType = {
-		name = "GFX_USA_infantry_weapons1_medium"
+		name = "GFX_USA_infantry_modern_weapons1_medium"
 		texturefile = "gfx/interface/technologies/USA/INF/INF2.dds"
 	}
 	spriteType = {
@@ -1141,7 +1141,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/SOV/INF/INF1.dds"
 	}
 	spriteType = {
-		name = "GFX_SOV_infantry_weapons1_medium"
+		name = "GFX_SOV_infantry_modern_weapons1_medium"
 		texturefile = "gfx/interface/technologies/SOV/INF/INF2.dds"
 	}
 	spriteType = {
@@ -1605,7 +1605,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/SOV/INF/INF1.dds"
 	}
 	spriteType = {
-		name = "GFX_SOV_infantry_weapons1_medium"
+		name = "GFX_SOV_infantry_modern_weapons1_medium"
 		texturefile = "gfx/interface/technologies/SOV/INF/INF2.dds"
 	}
 	spriteType = {
@@ -1830,7 +1830,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/ARM/INF/INF1.dds"
 	}
 	spriteType = {
-		name = "GFX_ARM_infantry_weapons1_medium"
+		name = "GFX_ARM_infantry_modern_weapons1_medium"
 		texturefile = "gfx/interface/technologies/ARM/INF/INF2.dds"
 	}
 	spriteType = {
@@ -2022,7 +2022,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/GER/INF/INF1.dds"
 	}
 	spriteType = {
-		name = "GFX_GER_infantry_weapons1_medium"
+		name = "GFX_GER_infantry_modern_weapons1_medium"
 		texturefile = "gfx/interface/technologies/GER/INF/INF2.dds"
 	}
 	spriteType = {
@@ -2430,7 +2430,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/FRA/INF/INF1.dds"
 	}
 	spriteType = {
-		name = "GFX_FRA_infantry_weapons1_medium"
+		name = "GFX_FRA_infantry_modern_weapons1_medium"
 		texturefile = "gfx/interface/technologies/FRA/INF/INF2.dds"
 	}
 	spriteType = {
@@ -2837,7 +2837,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/CHI/INF/INF1.dds"
 	}
 	spriteType = {
-		name = "GFX_CHI_infantry_weapons1_medium"
+		name = "GFX_CHI_infantry_modern_weapons1_medium"
 		texturefile = "gfx/interface/technologies/CHI/INF/INF2.dds"
 	}
 	spriteType = {
@@ -3595,7 +3595,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/ENG/INF/L1A1.dds"
 	}
 	spriteType = {
-		name = "GFX_ENG_infantry_weapons1_medium"
+		name = "GFX_ENG_infantry_modern_weapons1_medium"
 		texturefile = "gfx/interface/technologies/ENG/INF/L64.dds"
 	}
 	spriteType = {
@@ -4381,7 +4381,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/NKO/INF/TP58.dds"
 	}
 	spriteType = {
-		name = "GFX_NKO_infantry_weapons1_medium"
+		name = "GFX_NKO_infantry_modern_weapons1_medium"
 		texturefile = "gfx/interface/technologies/NKO/INF/TP88.dds"
 	}
 	spriteType = {
@@ -6181,7 +6181,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/USA/INF/INF2.dds"
 	}
 	spriteType = {
-		name = "GFX_USA_infantry_weapons1_medium"
+		name = "GFX_USA_infantry_modern_weapons1_medium"
 		texturefile = "gfx/interface/technologies/USA/INF/INF2.dds"
 	}
 	spriteType = {
@@ -6945,7 +6945,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/USA/INF/INF1.dds"
 	}
 	spriteType = {
-		name = "GFX_USA_infantry_weapons1_medium"
+		name = "GFX_USA_infantry_modern_weapons1_medium"
 		texturefile = "gfx/interface/technologies/USA/INF/INF2.dds"
 	}
 	spriteType = {
@@ -7334,7 +7334,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/FRA/INF/INF1.dds"
 	}
 	spriteType = {
-		name = "GFX_FRA_infantry_weapons1_medium"
+		name = "GFX_FRA_infantry_modern_weapons1_medium"
 		texturefile = "gfx/interface/technologies/FRA/INF/INF2.dds"
 	}
 	spriteType = {

@@ -264,7 +264,7 @@ sub_units = {
 		categories = { category_trans_plane }
 		land_air_wing_size = 100
 	}
-	kamikaze_drone = {
+	kamikaze_modern_drone = {
 		sprite = uav
 		priority = 1
 		active = yes

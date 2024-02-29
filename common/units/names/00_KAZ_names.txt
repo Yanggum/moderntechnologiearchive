@@ -13,19 +13,19 @@ KAZ = {
 		generic_pattern = AIR_WING_NAME_KAZ_GENERIC
 
 	}
-	small_plane_cas_airframe = {
+	small_modern_plane_cas_airframe = {
 		prefix = ""
 		generic = { "Jawıngerlik uşaq" }
 		generic_pattern = AIR_WING_NAME_KAZ_GENERIC
 
 	}
-	small_plane_naval_bomber_airframe = {
+	small_modern_plane_naval_bomber_airframe = {
 		prefix = ""
 		generic = { "Jawıngerlik uşaq" }
 		generic_pattern = AIR_WING_NAME_KAZ_GENERIC
 
 	}
-	small_plane_suicide_airframe = {
+	small_modern_plane_suicide_airframe = {
 		prefix = ""
 		generic = { "Uşqışsız joyğış uşaq" }
 		generic_pattern = AIR_WING_NAME_KAZ_GENERIC
@@ -39,25 +39,25 @@ KAZ = {
 			"3 Jawıngerlik uşaq" "7 Jawıngerlik uşaq" "8 Jawıngerlik uşaq"
 		}
 	}
-	medium_plane_fighter_airframe = {
+	medium_modern_plane_fighter_airframe = {
 		prefix = ""
 		generic = { "Jawıngerlik uşaq" }
 		generic_pattern = AIR_WING_NAME_KAZ_GENERIC
 
 	}
-	medium_plane_cas_airframe = {
+	medium_modern_plane_cas_airframe = {
 		prefix = ""
 		generic = { "Jawıngerlik uşaq" }
 		generic_pattern = AIR_WING_NAME_KAZ_GENERIC
 
 	}
-	medium_plane_maritime_patrol_airframe = {
+	medium_modern_plane_maritime_patrol_airframe = {
 		prefix = ""
 		generic = { "Jawıngerlik uşaq" }
 		generic_pattern = AIR_WING_NAME_KAZ_GENERIC
 
 	}
-	medium_plane_suicide_airframe = {
+	medium_modern_plane_suicide_airframe = {
 		prefix = ""
 		generic = { "Uşqışsız joyğış uşaq" }
 		generic_pattern = AIR_WING_NAME_KAZ_GENERIC
@@ -68,25 +68,25 @@ KAZ = {
 		generic = { "Jawıngerlik uşaq" }
 		generic_pattern = AIR_WING_NAME_KAZ_GENERIC
 	}
-	cv_medium_plane_fighter_airframe = {
+	cv_medium_modern_plane_fighter_airframe = {
 		prefix = ""
 		generic = { "Jawıngerlik uşaq" }
 		generic_pattern = AIR_WING_NAME_KAZ_GENERIC
 
 	}
-	cv_medium_plane_cas_airframe = {
+	cv_medium_modern_plane_cas_airframe = {
 		prefix = ""
 		generic = { "Jawıngerlik uşaq" }
 		generic_pattern = AIR_WING_NAME_KAZ_GENERIC
 
 	}
-	cv_medium_plane_maritime_patrol_airframe = {
+	cv_medium_modern_plane_maritime_patrol_airframe = {
 		prefix = ""
 		generic = { "Jawıngerlik uşaq" }
 		generic_pattern = AIR_WING_NAME_KAZ_GENERIC
 
 	}
-	cv_medium_plane_air_transport_airframe = {
+	cv_medium_modern_plane_air_transport_airframe = {
 		prefix = ""
 		generic = { "Kölik uşağı" }
 		generic_pattern = AIR_WING_NAME_KAZ_GENERIC
@@ -98,25 +98,25 @@ KAZ = {
 		generic_pattern = AIR_WING_NAME_KAZ_GENERIC
 
 	}
-	large_plane_cas_airframe = {
+	large_modern_plane_cas_airframe = {
 		prefix = ""
 		generic = { "Jawıngerlik uşaq" }
 		generic_pattern = AIR_WING_NAME_KAZ_GENERIC
 
 	}
-	large_plane_maritime_patrol_airframe = {
+	large_modern_plane_maritime_patrol_airframe = {
 		prefix = ""
 		generic = { "Jawıngerlik uşaq" }
 		generic_pattern = AIR_WING_NAME_KAZ_GENERIC
 
 	}
-	large_plane_awacs_airframe = {
+	large_modern_plane_awacs_airframe = {
 		prefix = ""
 		generic = { "Jawıngerlik uşaq" }
 		generic_pattern = AIR_WING_NAME_KAZ_GENERIC
 
 	}
-	large_plane_air_transport_airframe = {
+	large_modern_plane_air_transport_airframe = {
 		prefix = ""
 		generic = { "Kölik uşağı" }
 		generic_pattern = AIR_WING_NAME_KAZ_GENERIC

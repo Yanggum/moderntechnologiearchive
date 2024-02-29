@@ -25,7 +25,7 @@
 		}
 	}
 
-	small_plane_naval_bomber_airframe = {
+	small_modern_plane_naval_bomber_airframe = {
 		prefix = ""
 		generic = { "Flygflottilj" }
 		generic_pattern = AIR_WING_NAME_SWE_GENERIC
@@ -33,7 +33,7 @@
 		}
 	}
 
-	small_plane_cas_airframe = {
+	small_modern_plane_cas_airframe = {
 		prefix = ""
 		generic = { "Flygflottilj" }
 		generic_pattern = AIR_WING_NAME_SWE_GENERIC
@@ -57,7 +57,7 @@
 		}
 	}
 
-	cv_small_plane_naval_bomber_airframe = {
+	cv_small_modern_plane_naval_bomber_airframe = {
 		prefix = ""
 		generic = { "Flygflottilj" }
 		generic_pattern = AIR_WING_NAME_SWE_GENERIC
@@ -65,7 +65,7 @@
 		}
 	}
 
-	cv_small_plane_suicide_airframe = {
+	cv_small_modern_plane_suicide_airframe = {
 		prefix = ""
 		generic = { "Flygflottilj" }
 		generic_pattern = AIR_WING_NAME_SWE_GENERIC
@@ -79,7 +79,7 @@
 		unique = {
 		}
 	}
-	medium_plane_fighter_airframe = {
+	medium_modern_plane_fighter_airframe = {
 		prefix = ""
 		generic = { "Flygflottilj" }
 		generic_pattern = AIR_WING_NAME_SWE_GENERIC
@@ -87,7 +87,7 @@
 			"F 7 Såtenäs" "F 17 Kallinge" "F 21 Luleå"
 		}
 	}
-	medium_plane_cas_airframe = {
+	medium_modern_plane_cas_airframe = {
 		prefix = ""
 		generic = { "Flygflottilj" }
 		generic_pattern = AIR_WING_NAME_SWE_GENERIC
@@ -95,21 +95,21 @@
 		}
 	}
 
-	medium_plane_suicide_airframe = {
+	medium_modern_plane_suicide_airframe = {
 		prefix = ""
 		generic = { "Flygflottilj" }
 		generic_pattern = AIR_WING_NAME_SWE_GENERIC
 		unique = {
 		}
 	}
-	medium_plane_maritime_patrol_airframe = {
+	medium_modern_plane_maritime_patrol_airframe = {
 		prefix = ""
 		generic = { "Flygflottilj" }
 		generic_pattern = AIR_WING_NAME_SWE_GENERIC
 		unique = {
 		}
 	}
-	medium_plane_suicide_airframe = {
+	medium_modern_plane_suicide_airframe = {
 		prefix = ""
 		generic = { "Flygflottilj" }
 		generic_pattern = AIR_WING_NAME_SWE_GENERIC
@@ -124,7 +124,7 @@
 		}
 	}
 
-	cv_medium_plane_fighter_airframe = {
+	cv_medium_modern_plane_fighter_airframe = {
 		prefix = ""
 		generic = { "Bryhada taktychnoyi aviatsiyi" }
 		generic_pattern = AIR_WING_NAME_SWE_GENERIC
@@ -132,7 +132,7 @@
 		}
 	}
 
-	cv_medium_plane_maritime_patrol_airframe = {
+	cv_medium_modern_plane_maritime_patrol_airframe = {
 		prefix = ""
 		generic = { "Flygflottilj" }
 		generic_pattern = AIR_WING_NAME_SWE_GENERIC
@@ -140,7 +140,7 @@
 		}
 	}
 
-	cv_medium_plane_cas_airframe = {
+	cv_medium_modern_plane_cas_airframe = {
 		prefix = ""
 		generic = { "Flygflottilj" }
 		generic_pattern = AIR_WING_NAME_SWE_GENERIC
@@ -148,7 +148,7 @@
 		}
 	}
 
-	cv_medium_plane_air_transport_airframe = {
+	cv_medium_modern_plane_air_transport_airframe = {
 		prefix = ""
 		generic = { "Bryhada transportnoyi aviatsiyi" }
 		generic_pattern = AIR_WING_NAME_SWE_GENERIC
@@ -171,14 +171,14 @@
 		unique = {
 		}
 	}
-	large_plane_maritime_patrol_airframe = {
+	large_modern_plane_maritime_patrol_airframe = {
 		prefix = ""
 		generic = { "Flygflottilj" }
 		generic_pattern = AIR_WING_NAME_SWE_GENERIC
 		unique = {
 		}
 	}
-	large_plane_air_transport_airframe = {
+	large_modern_plane_air_transport_airframe = {
 		prefix = ""
 		generic = { "Transportflygdivisionen" }
 		generic_pattern = AIR_WING_NAME_SWE_GENERIC
@@ -186,7 +186,7 @@
 		}
 	}
 
-	large_plane_cas_airframe = {
+	large_modern_plane_cas_airframe = {
 		prefix = ""
 		generic = { "Flygflottilj" }
 		generic_pattern = AIR_WING_NAME_SWE_GENERIC
@@ -194,7 +194,7 @@
 		}
 	}
 
-	large_plane_awacs_airframe = {
+	large_modern_plane_awacs_airframe = {
 		prefix = ""
 		generic = { "Flygflottilj" }
 		generic_pattern = AIR_WING_NAME_SWE_GENERIC

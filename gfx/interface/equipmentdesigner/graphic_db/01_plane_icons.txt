@@ -77,18 +77,18 @@ default = {
 			}
 		}
 	}
-	small_plane_suicide_airframe = {
+	small_modern_plane_suicide_airframe = {
 		pool = {
 			icons = {
-				GFX_small_plane_suicide_airframe_1_medium
-				GFX_small_plane_suicide_airframe_2_medium
-				GFX_small_plane_suicide_airframe_3_medium
+				GFX_small_modern_plane_suicide_airframe_1_medium
+				GFX_small_modern_plane_suicide_airframe_2_medium
+				GFX_small_modern_plane_suicide_airframe_3_medium
 			}
 			models = {
-				USA_small_plane_suicide_airframe_3_entity
-				CHI_small_plane_suicide_airframe_1_entity
-				CHI_small_plane_suicide_airframe_3_entity
-				USA_small_plane_suicide_airframe_1_entity
+				USA_small_modern_plane_suicide_airframe_3_entity
+				CHI_small_modern_plane_suicide_airframe_1_entity
+				CHI_small_modern_plane_suicide_airframe_3_entity
+				USA_small_modern_plane_suicide_airframe_1_entity
 			}
 		}
 	}
@@ -149,18 +149,18 @@ default = {
 			}
 		}
 	}
-	cv_small_plane_suicide_airframe = {
+	cv_small_modern_plane_suicide_airframe = {
 		pool = {
 			icons = {
-				GFX_small_plane_suicide_airframe_1_medium
-				GFX_small_plane_suicide_airframe_2_medium
-				GFX_small_plane_suicide_airframe_3_medium
+				GFX_small_modern_plane_suicide_airframe_1_medium
+				GFX_small_modern_plane_suicide_airframe_2_medium
+				GFX_small_modern_plane_suicide_airframe_3_medium
 			}
 			models = {
-				USA_small_plane_suicide_airframe_1_entity
-				USA_small_plane_suicide_airframe_3_entity
-				CHI_small_plane_suicide_airframe_1_entity
-				CHI_small_plane_suicide_airframe_3_entity
+				USA_small_modern_plane_suicide_airframe_1_entity
+				USA_small_modern_plane_suicide_airframe_3_entity
+				CHI_small_modern_plane_suicide_airframe_1_entity
+				CHI_small_modern_plane_suicide_airframe_3_entity
 			}
 		}
 	}
@@ -255,118 +255,118 @@ default = {
 			}
 		}
 	}
-	medium_plane_fighter_airframe_1 = {
+	medium_modern_plane_fighter_airframe_1 = {
 		pool = {
 			icons = {
 				GFX_medium_modern_plane_airframe_1_medium
 				GFX_USA_medium_modern_plane_airframe_1_medium
 			}
 			models = {
-				USA_medium_plane_fighter_airframe_1_entity
-				SOV_medium_plane_fighter_airframe_1_entity
-				CHI_medium_plane_fighter_airframe_1_entity
-				medium_plane_fighter_airframe_1_entity
+				USA_medium_modern_plane_fighter_airframe_1_entity
+				SOV_medium_modern_plane_fighter_airframe_1_entity
+				CHI_medium_modern_plane_fighter_airframe_1_entity
+				medium_modern_plane_fighter_airframe_1_entity
 			}
 		}
 	}
-	medium_plane_fighter_airframe_2 = {
+	medium_modern_plane_fighter_airframe_2 = {
 		pool = {
 			icons = {
 				GFX_medium_modern_plane_airframe_2_medium
 				GFX_USA_medium_modern_plane_airframe_2_medium
 			}
 			models = {
-				USA_medium_plane_fighter_airframe_2_entity
-				SOV_medium_plane_fighter_airframe_2_entity
-				CHI_medium_plane_fighter_airframe_2_entity
-				medium_plane_fighter_airframe_2_entity
+				USA_medium_modern_plane_fighter_airframe_2_entity
+				SOV_medium_modern_plane_fighter_airframe_2_entity
+				CHI_medium_modern_plane_fighter_airframe_2_entity
+				medium_modern_plane_fighter_airframe_2_entity
 			}
 		}
 	}
-	medium_plane_fighter_airframe_3 = {
+	medium_modern_plane_fighter_airframe_3 = {
 		pool = {
 			icons = {
 				GFX_medium_modern_plane_airframe_3_medium
 				GFX_USA_medium_modern_plane_airframe_3_medium
 			}
 			models = {
-				USA_medium_plane_fighter_airframe_3_entity
-				SOV_medium_plane_fighter_airframe_3_entity
-				CHI_medium_plane_fighter_airframe_3_entity
-				medium_plane_fighter_airframe_3_entity
+				USA_medium_modern_plane_fighter_airframe_3_entity
+				SOV_medium_modern_plane_fighter_airframe_3_entity
+				CHI_medium_modern_plane_fighter_airframe_3_entity
+				medium_modern_plane_fighter_airframe_3_entity
 			}
 		}
 	}
-	medium_plane_fighter_airframe_4 = {
+	medium_modern_plane_fighter_airframe_4 = {
 		pool = {
 			icons = {
 				GFX_medium_modern_plane_airframe_4_medium
 				GFX_USA_medium_modern_plane_airframe_4_medium
 			}
 			models = {
-				USA_medium_plane_fighter_airframe_4_entity
-				SOV_medium_plane_fighter_airframe_4_entity
-				CHI_medium_plane_fighter_airframe_4_entity
-				medium_plane_fighter_airframe_4_entity
+				USA_medium_modern_plane_fighter_airframe_4_entity
+				SOV_medium_modern_plane_fighter_airframe_4_entity
+				CHI_medium_modern_plane_fighter_airframe_4_entity
+				medium_modern_plane_fighter_airframe_4_entity
 			}
 		}
 	}
-	medium_plane_cas_airframe_1 = {
+	medium_modern_plane_cas_airframe_1 = {
 		pool = {
 			icons = {
 				GFX_medium_modern_plane_airframe_1_medium
-				GFX_USA_medium_plane_cas_airframe_1_medium
+				GFX_USA_medium_modern_plane_cas_airframe_1_medium
                                 "gfx/interface/technologies/SOV/AIR/CAS1.dds"
 			}
 			models = {
-				USA_medium_plane_cas_airframe_1_entity
-				SOV_medium_plane_cas_airframe_1_entity
-				CHI_medium_plane_cas_airframe_1_entity
-				medium_plane_cas_airframe_1_entity
+				USA_medium_modern_plane_cas_airframe_1_entity
+				SOV_medium_modern_plane_cas_airframe_1_entity
+				CHI_medium_modern_plane_cas_airframe_1_entity
+				medium_modern_plane_cas_airframe_1_entity
 			}
 		}
 	}
-	medium_plane_cas_airframe_2 = {
+	medium_modern_plane_cas_airframe_2 = {
 		pool = {
 			icons = {
 				GFX_medium_modern_plane_airframe_2_medium
-				GFX_USA_medium_plane_cas_airframe_2_medium
+				GFX_USA_medium_modern_plane_cas_airframe_2_medium
                                 "gfx/interface/technologies/SOV/AIR/CAS2.dds"
 			}
 			models = {
-				USA_medium_plane_cas_airframe_2_entity
-				SOV_medium_plane_cas_airframe_2_entity
-				CHI_medium_plane_cas_airframe_2_entity
-				medium_plane_cas_airframe_2_entity
+				USA_medium_modern_plane_cas_airframe_2_entity
+				SOV_medium_modern_plane_cas_airframe_2_entity
+				CHI_medium_modern_plane_cas_airframe_2_entity
+				medium_modern_plane_cas_airframe_2_entity
 			}
 		}
 	}
-	medium_plane_cas_airframe_3 = {
+	medium_modern_plane_cas_airframe_3 = {
 		pool = {
 			icons = {
 				GFX_medium_modern_plane_airframe_3_medium
-				GFX_USA_medium_plane_cas_airframe_3_medium
+				GFX_USA_medium_modern_plane_cas_airframe_3_medium
                                 "gfx/interface/technologies/SOV/AIR/CAS3.dds"
 			}
 			models = {
-				USA_medium_plane_cas_airframe_3_entity
-				SOV_medium_plane_cas_airframe_3_entity
-				CHI_medium_plane_cas_airframe_3_entity
-				medium_plane_cas_airframe_3_entity
+				USA_medium_modern_plane_cas_airframe_3_entity
+				SOV_medium_modern_plane_cas_airframe_3_entity
+				CHI_medium_modern_plane_cas_airframe_3_entity
+				medium_modern_plane_cas_airframe_3_entity
 			}
 		}
 	}
-	medium_plane_cas_airframe_4 = {
+	medium_modern_plane_cas_airframe_4 = {
 		pool = {
 			icons = {
 				GFX_medium_modern_plane_airframe_4_medium
-				GFX_USA_medium_plane_cas_airframe_4_medium
+				GFX_USA_medium_modern_plane_cas_airframe_4_medium
 			}
 			models = {
-				USA_medium_plane_cas_airframe_4_entity
-				SOV_medium_plane_cas_airframe_4_entity
-				CHI_medium_plane_cas_airframe_4_entity
-				medium_plane_cas_airframe_4_entity
+				USA_medium_modern_plane_cas_airframe_4_entity
+				SOV_medium_modern_plane_cas_airframe_4_entity
+				CHI_medium_modern_plane_cas_airframe_4_entity
+				medium_modern_plane_cas_airframe_4_entity
 			}
 		}
 	}
@@ -435,115 +435,115 @@ default = {
 			}
 		}
 	}
-	cv_medium_plane_fighter_airframe_1 = {
+	cv_medium_modern_plane_fighter_airframe_1 = {
 		pool = {
 			icons = {
 				GFX_cv_medium_modern_plane_airframe_1_medium
 				GFX_USA_cv_medium_modern_plane_airframe_1_medium
 			}
 			models = {
-				USA_cv_medium_plane_fighter_airframe_1_entity
-				SOV_cv_medium_plane_fighter_airframe_1_entity
-				CHI_cv_medium_plane_fighter_airframe_1_entity
-				cv_medium_plane_fighter_airframe_1_entity
+				USA_cv_medium_modern_plane_fighter_airframe_1_entity
+				SOV_cv_medium_modern_plane_fighter_airframe_1_entity
+				CHI_cv_medium_modern_plane_fighter_airframe_1_entity
+				cv_medium_modern_plane_fighter_airframe_1_entity
 			}
 		}
 	}
-	cv_medium_plane_fighter_airframe_2 = {
+	cv_medium_modern_plane_fighter_airframe_2 = {
 		pool = {
 			icons = {
 				GFX_cv_medium_modern_plane_airframe_2_medium
 				GFX_USA_cv_medium_modern_plane_airframe_2_medium
 			}
 			models = {
-				USA_cv_medium_plane_fighter_airframe_2_entity
-				SOV_cv_medium_plane_fighter_airframe_2_entity
-				CHI_cv_medium_plane_fighter_airframe_2_entity
-				cv_medium_plane_fighter_airframe_2_entity
+				USA_cv_medium_modern_plane_fighter_airframe_2_entity
+				SOV_cv_medium_modern_plane_fighter_airframe_2_entity
+				CHI_cv_medium_modern_plane_fighter_airframe_2_entity
+				cv_medium_modern_plane_fighter_airframe_2_entity
 			}
 		}
 	}
-	cv_medium_plane_fighter_airframe_3 = {
+	cv_medium_modern_plane_fighter_airframe_3 = {
 		pool = {
 			icons = {
 				GFX_cv_medium_modern_plane_airframe_3_medium
 				GFX_USA_cv_medium_modern_plane_airframe_3_medium
 			}
 			models = {
-				USA_cv_medium_plane_fighter_airframe_3_entity
-				SOV_cv_medium_plane_fighter_airframe_3_entity
-				CHI_cv_medium_plane_fighter_airframe_3_entity
-				cv_medium_plane_fighter_airframe_3_entity
+				USA_cv_medium_modern_plane_fighter_airframe_3_entity
+				SOV_cv_medium_modern_plane_fighter_airframe_3_entity
+				CHI_cv_medium_modern_plane_fighter_airframe_3_entity
+				cv_medium_modern_plane_fighter_airframe_3_entity
 			}
 		}
 	}
-	cv_medium_plane_fighter_airframe_4 = {
+	cv_medium_modern_plane_fighter_airframe_4 = {
 		pool = {
 			icons = {
 				GFX_cv_medium_modern_plane_airframe_4_medium
 				GFX_USA_cv_medium_modern_plane_airframe_4_medium
 			}
 			models = {
-				USA_cv_medium_plane_fighter_airframe_4_entity
-				SOV_cv_medium_plane_fighter_airframe_4_entity
-				CHI_cv_medium_plane_fighter_airframe_4_entity
-				cv_medium_plane_fighter_airframe_4_entity
+				USA_cv_medium_modern_plane_fighter_airframe_4_entity
+				SOV_cv_medium_modern_plane_fighter_airframe_4_entity
+				CHI_cv_medium_modern_plane_fighter_airframe_4_entity
+				cv_medium_modern_plane_fighter_airframe_4_entity
 			}
 		}
 	}
-	cv_medium_plane_cas_airframe_1 = {
+	cv_medium_modern_plane_cas_airframe_1 = {
 		pool = {
 			icons = {
 				GFX_cv_medium_modern_plane_airframe_1_medium
 				GFX_USA_cv_medium_modern_plane_airframe_1_medium
 			}
 			models = {
-				USA_cv_medium_plane_cas_airframe_1_entity
-				SOV_cv_medium_plane_cas_airframe_1_entity
-				CHI_cv_medium_plane_cas_airframe_1_entity
-				cv_medium_plane_cas_airframe_1_entity
+				USA_cv_medium_modern_plane_cas_airframe_1_entity
+				SOV_cv_medium_modern_plane_cas_airframe_1_entity
+				CHI_cv_medium_modern_plane_cas_airframe_1_entity
+				cv_medium_modern_plane_cas_airframe_1_entity
 			}
 		}
 	}
-	cv_medium_plane_cas_airframe_2 = {
+	cv_medium_modern_plane_cas_airframe_2 = {
 		pool = {
 			icons = {
 				GFX_cv_medium_modern_plane_airframe_2_medium
 				GFX_USA_cv_medium_modern_plane_airframe_2_medium
 			}
 			models = {
-				USA_cv_medium_plane_cas_airframe_2_entity
-				SOV_cv_medium_plane_cas_airframe_2_entity
-				CHI_cv_medium_plane_cas_airframe_2_entity
-				cv_medium_plane_cas_airframe_2_entity
+				USA_cv_medium_modern_plane_cas_airframe_2_entity
+				SOV_cv_medium_modern_plane_cas_airframe_2_entity
+				CHI_cv_medium_modern_plane_cas_airframe_2_entity
+				cv_medium_modern_plane_cas_airframe_2_entity
 			}
 		}
 	}
-	cv_medium_plane_cas_airframe_3 = {
+	cv_medium_modern_plane_cas_airframe_3 = {
 		pool = {
 			icons = {
 				GFX_cv_medium_modern_plane_airframe_3_medium
 				GFX_USA_cv_medium_modern_plane_airframe_3_medium
 			}
 			models = {
-				USA_cv_medium_plane_cas_airframe_3_entity
-				SOV_cv_medium_plane_cas_airframe_3_entity
-				CHI_cv_medium_plane_cas_airframe_3_entity
-				cv_medium_plane_cas_airframe_3_entity
+				USA_cv_medium_modern_plane_cas_airframe_3_entity
+				SOV_cv_medium_modern_plane_cas_airframe_3_entity
+				CHI_cv_medium_modern_plane_cas_airframe_3_entity
+				cv_medium_modern_plane_cas_airframe_3_entity
 			}
 		}
 	}
-	cv_medium_plane_cas_airframe_4 = {
+	cv_medium_modern_plane_cas_airframe_4 = {
 		pool = {
 			icons = {
 				GFX_cv_medium_modern_plane_airframe_4_medium
 				GFX_USA_cv_medium_modern_plane_airframe_4_medium
 			}
 			models = {
-				USA_cv_medium_plane_cas_airframe_4_entity
-				SOV_cv_medium_plane_cas_airframe_4_entity
-				CHI_cv_medium_plane_cas_airframe_4_entity
-				cv_medium_plane_cas_airframe_4_entity
+				USA_cv_medium_modern_plane_cas_airframe_4_entity
+				SOV_cv_medium_modern_plane_cas_airframe_4_entity
+				CHI_cv_medium_modern_plane_cas_airframe_4_entity
+				cv_medium_modern_plane_cas_airframe_4_entity
 			}
 		}
 	}
@@ -615,48 +615,48 @@ default = {
 			}
 		}
 	}
-	large_plane_air_transport_airframe = {
+	large_modern_plane_air_transport_airframe = {
 		pool = {
 			icons = {
-				GFX_large_plane_air_transport_airframe_1_medium
-				GFX_USA_large_plane_air_transport_airframe_1_medium
+				GFX_large_modern_plane_air_transport_airframe_1_medium
+				GFX_USA_large_modern_plane_air_transport_airframe_1_medium
 			}
 			models = {
-				USA_large_plane_air_transport_airframe_1_entity
-				SOV_large_plane_air_transport_airframe_1_entity
-				CHI_large_plane_air_transport_airframe_1_entity
-				large_plane_air_transport_airframe_1_entity
+				USA_large_modern_plane_air_transport_airframe_1_entity
+				SOV_large_modern_plane_air_transport_airframe_1_entity
+				CHI_large_modern_plane_air_transport_airframe_1_entity
+				large_modern_plane_air_transport_airframe_1_entity
 			}
 		}
 	}
-	large_plane_awacs_airframe = {
+	large_modern_plane_awacs_airframe = {
 		pool = {
 			icons = {
-				GFX_large_plane_awacs_airframe_1_medium
-				GFX_USA_large_plane_awacs_airframe_1_medium
+				GFX_large_modern_plane_awacs_airframe_1_medium
+				GFX_USA_large_modern_plane_awacs_airframe_1_medium
 			}
 			models = {
-				USA_large_plane_awacs_airframe_1_entity
-				SOV_large_plane_awacs_airframe_1_entity
-				CHI_large_plane_awacs_airframe_1_entity
-				large_plane_awacs_airframe_1_entity
+				USA_large_modern_plane_awacs_airframe_1_entity
+				SOV_large_modern_plane_awacs_airframe_1_entity
+				CHI_large_modern_plane_awacs_airframe_1_entity
+				large_modern_plane_awacs_airframe_1_entity
 			}
 		}
 	}
-	large_plane_cas_airframe = {
+	large_modern_plane_cas_airframe = {
 		pool = {
 			icons = {
-				GFX_USA_large_plane_cas_airframe_1_medium
+				GFX_USA_large_modern_plane_cas_airframe_1_medium
 			}
 			models = {
-				USA_large_plane_cas_airframe_1_entity
+				USA_large_modern_plane_cas_airframe_1_entity
 			}
 		}
 	}
-	large_plane_maritime_patrol_airframe = {
+	large_modern_plane_maritime_patrol_airframe = {
 		pool = {
 			icons = {
-				GFX_USA_large_plane_maritime_patrol_airframe_1_medium
+				GFX_USA_large_modern_plane_maritime_patrol_airframe_1_medium
                                 "gfx/interface/technologies/USA/AIR/NAV1.dds"
                                 "gfx/interface/technologies/USA/AIR/NAV2.dds"
                                 "gfx/interface/technologies/USA/AIR/NAV3.dds"
@@ -820,7 +820,7 @@ USA = {
 		}
 	}
 
-	small_plane_suicide_airframe = {
+	small_modern_plane_suicide_airframe = {
 		pool = {
 			icons = {
 
@@ -831,7 +831,7 @@ USA = {
 		}
 	}
 
-	small_plane_cas_airframe = {
+	small_modern_plane_cas_airframe = {
 		pool = {
 			icons = {
 
@@ -893,7 +893,7 @@ USA = {
 			}
 		}
 	}
-	large_plane_air_transport_airframe = {
+	large_modern_plane_air_transport_airframe = {
 		pool = {
 			icons = {
                                 "gfx/interface/technologies/USA/AIR/C6.dds"

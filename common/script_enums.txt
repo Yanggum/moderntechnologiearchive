@@ -603,11 +603,11 @@ script_enum_equipment_bonus_type = {
 	cas3
 	cas4
 	cas5
-	Kamikaze_drone_equipment
-	kamikaze_drone_1
-	kamikaze_drone_2
-	kamikaze_drone_3
-	kamikaze_drone_4
+	kamikaze_modern_drone_equipment
+	kamikaze_modern_drone_1
+	kamikaze_modern_drone_2
+	kamikaze_modern_drone_3
+	kamikaze_modern_drone_4
 	transport_plane_equipment
 	transport_plane1
 	transport_plane2
@@ -853,7 +853,7 @@ script_enum_equipment_bonus_type = {
 	## Land
 	Inf_equipment
 	infantry_weapons
-	infantry_weapons1
+	infantry_modern_weapons1
 	infantry_weapons2
 	infantry_weapons3
 	infantry_weapons4

@@ -16,7 +16,7 @@
 		unique = {
 		}
 	}
-	small_plane_cas_airframe = {
+	small_modern_plane_cas_airframe = {
 		prefix = ""
 		generic = { "al-Jawiyat al-Naaqil" }
 		generic_pattern = AIR_WING_NAME_LBA_GENERIC
@@ -24,14 +24,14 @@
 		}
 	}
 
-	small_plane_naval_bomber_airframe = {
+	small_modern_plane_naval_bomber_airframe = {
 		prefix = ""
 		generic = { "al-Jawiyat al-Naaqil" }
 		generic_pattern = AIR_WING_NAME_LBA_GENERIC
 		unique = {
 		}
 	}
-	small_plane_suicide_airframe = {
+	small_modern_plane_suicide_airframe = {
 		prefix = ""
 		generic = { "al-Majmueat al-Jawiyat al-Naaqil" }
 		generic_pattern = AIR_WING_NAME_LBA_GENERIC
@@ -45,28 +45,28 @@
 		unique = {
 		}
 	}
-	medium_plane_fighter_airframe = {
+	medium_modern_plane_fighter_airframe = {
 		prefix = ""
 		generic = { "al-Janah al-Muqatil" }
 		generic_pattern = AIR_WING_NAME_LBA_GENERIC
 		unique = {
 		}
 	}
-	medium_plane_cas_airframe = {
+	medium_modern_plane_cas_airframe = {
 		prefix = ""
 		generic = { "alJanah al-Daem al-Ardii" }
 		generic_pattern = AIR_WING_NAME_LBA_GENERIC
 		unique = {
 		}
 	}
-	medium_plane_maritime_patrol_airframe = {
+	medium_modern_plane_maritime_patrol_airframe = {
 		prefix = ""
 		generic = { "al-Jawiyat al-Naaqil" }
 		generic_pattern = AIR_WING_NAME_LBA_GENERIC
 		unique = {
 		}
 	}
-	medium_plane_suicide_airframe = {
+	medium_modern_plane_suicide_airframe = {
 		prefix = ""
 		generic = { "alJanah al-Daem al-Ardii" }
 		generic_pattern = AIR_WING_NAME_LBA_GENERIC
@@ -80,14 +80,14 @@
 		unique = {
 		}
 	}
-	cv_medium_plane_fighter_airframe = {
+	cv_medium_modern_plane_fighter_airframe = {
 		prefix = ""
 		generic = { "al-Majmueat al-Jawiyat al-Naaqil" }
 		generic_pattern = AIR_WING_NAME_LBA_GENERIC
 		unique = {
 		}
 	}
-	cv_medium_plane_cas_airframe = {
+	cv_medium_modern_plane_cas_airframe = {
 		prefix = ""
 		generic = { "al-Majmueat alJanah al-Daem al-Ardii" }
 		generic_pattern = AIR_WING_NAME_LBA_GENERIC
@@ -95,7 +95,7 @@
 		}
 	}
 
-	cv_medium_plane_maritime_patrol_airframe = {
+	cv_medium_modern_plane_maritime_patrol_airframe = {
 		prefix = ""
 		generic = { "al-Majmueat al-Jawiyat al-Naaqil" }
 		generic_pattern = AIR_WING_NAME_LBA_GENERIC
@@ -103,7 +103,7 @@
 		}
 	}
 
-	cv_medium_plane_air_transport_airframe = {
+	cv_medium_modern_plane_air_transport_airframe = {
 		prefix = ""
 		generic = { "al-Majmueat a-Janah al-Naql" }
 		generic_pattern = AIR_WING_NAME_LBA_GENERIC
@@ -126,14 +126,14 @@
 		unique = {
 		}
 	}
-	large_plane_maritime_patrol_airframe = {
+	large_modern_plane_maritime_patrol_airframe = {
 		prefix = ""
 		generic = { "a-Janah al-Qadhifat al-Bahria" }
 		generic_pattern = AIR_WING_NAME_LBA_GENERIC
 		unique = {
 		}
 	}
-	large_plane_air_transport_airframe = {
+	large_modern_plane_air_transport_airframe = {
 		prefix = ""
 		generic = { "a-Janah al-Naql" }
 		generic_pattern = AIR_WING_NAME_LBA_GENERIC
@@ -141,7 +141,7 @@
 		}
 	}
 
-	large_plane_cas_airframe = {
+	large_modern_plane_cas_airframe = {
 		prefix = ""
 		generic = { "a-Janah al-Naql" }
 		generic_pattern = AIR_WING_NAME_LBA_GENERIC
@@ -149,7 +149,7 @@
 		}
 	}
 
-	large_plane_awacs_airframe = {
+	large_modern_plane_awacs_airframe = {
 		prefix = ""
 		generic = { "a-Janah al-Naql" }
 		generic_pattern = AIR_WING_NAME_LBA_GENERIC

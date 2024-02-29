@@ -145,7 +145,7 @@
 		}
 	}
 
-	small_plane_naval_bomber_airframe = {
+	small_modern_plane_naval_bomber_airframe = {
 		prefix = ""
 		generic = { "Fighter Squadron" }
 		generic_pattern = AIR_WING_NAME_USA_GENERIC
@@ -163,7 +163,7 @@
 		}
 	}
 
-	small_plane_cas_airframe = {
+	small_modern_plane_cas_airframe = {
 		prefix = ""
 		generic = { "Fighter Squadron" }
 		generic_pattern = AIR_WING_NAME_USA_GENERIC
@@ -190,7 +190,7 @@
 		}
 	}
 
-	cv_small_plane_naval_bomber_airframe = {
+	cv_small_modern_plane_naval_bomber_airframe = {
 		prefix = ""
 		generic = { "VMFA-" }
 		generic_pattern = AIR_WING_NAME_USA_CARRIER
@@ -199,7 +199,7 @@
 		}
 	}
 
-	cv_small_plane_suicide_airframe = {
+	cv_small_modern_plane_suicide_airframe = {
 		prefix = ""
 		generic = { "VMU-" }
 		generic_pattern = AIR_WING_NAME_USA_CARRIER
@@ -217,7 +217,7 @@
 		}
 	}
 
-	medium_plane_fighter_airframe = {
+	medium_modern_plane_fighter_airframe = {
 		prefix = ""
 		generic = { "Fighter Wing" }
 		generic_pattern = AIR_WING_NAME_USA_GENERIC
@@ -226,7 +226,7 @@
 		}
 	}
 
-	medium_plane_cas_airframe = {
+	medium_modern_plane_cas_airframe = {
 		prefix = ""
 		generic = { "Fighter Squadron" }
 		generic_pattern = AIR_WING_NAME_USA_GENERIC
@@ -235,7 +235,7 @@
 		}
 	}
 
-	medium_plane_maritime_patrol_airframe = {
+	medium_modern_plane_maritime_patrol_airframe = {
 		prefix = ""
 		generic = { "VP-" }
 		generic_pattern = AIR_WING_NAME_USA_CARRIER
@@ -244,7 +244,7 @@
 		}
 	}
 
-	medium_plane_air_transport_airframe = {
+	medium_modern_plane_air_transport_airframe = {
 		prefix = ""
 		generic = { "Airlift Wing" }
 		generic_pattern = AIR_WING_NAME_USA_GENERIC
@@ -253,7 +253,7 @@
 		}
 	}
 
-	medium_plane_suicide_airframe = {
+	medium_modern_plane_suicide_airframe = {
 		prefix ""
 		generic = { "Suicide Drone Wing" }
 		generic_pattern = AIR_WING_NAME_USA_GENERIC
@@ -270,7 +270,7 @@
 		}
 	}
 
-	cv_medium_plane_fighter_airframe = {
+	cv_medium_modern_plane_fighter_airframe = {
 		prefix = ""
 		generic = { "VF-" }
 		generic_pattern = AIR_WING_NAME_USA_CARRIER
@@ -279,7 +279,7 @@
 		}
 	}
 
-	cv_medium_plane_cas_airframe = {
+	cv_medium_modern_plane_cas_airframe = {
 		prefix = ""
 		generic = { "VA-" }
 		generic_pattern = AIR_WING_NAME_USA_CARRIER
@@ -288,7 +288,7 @@
 		}
 	}
 
-	cv_medium_plane_maritime_patrol_airframe = {
+	cv_medium_modern_plane_maritime_patrol_airframe = {
 		prefix = ""
 		generic = { "VP-" }
 		generic_pattern = AIR_WING_NAME_USA_CARRIER
@@ -297,7 +297,7 @@
 		}
 	}
 
-	cv_medium_plane_air_transport_airframe = {
+	cv_medium_modern_plane_air_transport_airframe = {
 		prefix = ""
 		generic = { "VRC-" }
 		generic_pattern = AIR_WING_NAME_USA_CARRIER
@@ -324,7 +324,7 @@
 		}
 	}
 
-	large_plane_air_transport_airframe = {
+	large_modern_plane_air_transport_airframe = {
 		prefix = ""
 		generic = { "Airlift Squadron" }
 		generic_pattern = AIR_WING_NAME_USA_GENERIC
@@ -333,7 +333,7 @@
 		}
 	}
 
-	large_plane_maritime_patrol_airframe = {
+	large_modern_plane_maritime_patrol_airframe = {
 		prefix = ""
 		generic = { "VP-" }
 		generic_pattern = AIR_WING_NAME_USA_GENERIC
@@ -342,7 +342,7 @@
 		}
 	}
 
-	large_plane_cas_airframe = {
+	large_modern_plane_cas_airframe = {
 		prefix = ""
 		generic = { "Special Operations Squadron" }
 		generic_pattern = AIR_WING_NAME_USA_GENERIC
@@ -351,7 +351,7 @@
 		}
 	}
 
-	large_plane_awacs_airframe = {
+	large_modern_plane_awacs_airframe = {
 		prefix = ""
 		generic = { "Air Control Squadron" }
 		generic_pattern = AIR_WING_NAME_USA_GENERIC

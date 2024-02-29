@@ -2976,7 +2976,7 @@ equipments = {
 		}
 		fuel_consumption = 9.0
 	}
-	kamikaze_drone_1 = {
+	kamikaze_modern_drone_1 = {
 		archetype = medium_modern_plane_suicide_airframe
 
 		allow_mission_type = {
@@ -2999,9 +2999,9 @@ equipments = {
 		naval_strike_targetting = 0
 	}
 
-	kamikaze_drone_2 = {
+	kamikaze_modern_drone_2 = {
 		archetype = medium_modern_plane_suicide_airframe
-		parent = kamikaze_drone_1
+		parent = kamikaze_modern_drone_1
 		one_use_only = yes
 		air_range = 750
 		maximum_speed = 200
@@ -3028,9 +3028,9 @@ equipments = {
 		}
 	}
 
-	kamikaze_drone_3 = {
+	kamikaze_modern_drone_3 = {
 		archetype = medium_modern_plane_suicide_airframe
-		parent = kamikaze_drone_2
+		parent = kamikaze_modern_drone_2
 		one_use_only = yes
 		air_range = 1000
 		maximum_speed = 250
@@ -3055,9 +3055,9 @@ equipments = {
 		}
 	}
 
-	kamikaze_drone_4 = {
+	kamikaze_modern_drone_4 = {
 		archetype = medium_modern_plane_suicide_airframe
-		parent = kamikaze_drone_3
+		parent = kamikaze_modern_drone_3
 		one_use_only = yes
 		air_range = 1250
 		maximum_speed = 300

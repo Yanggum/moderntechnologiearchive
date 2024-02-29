@@ -48,9 +48,9 @@ guiTypes = {
 		}
 	}
 
-	# Generic Light Airframe CAS small_plane_cas_airframe
+	# Generic Light Airframe CAS small_modern_plane_cas_airframe
 	containerWindowType = {
-		name = "equipment_designer_small_plane_cas_airframe_0"
+		name = "equipment_designer_small_modern_plane_cas_airframe_0"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -59,7 +59,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_small_plane_cas_airframe_1"
+		name = "equipment_designer_small_modern_plane_cas_airframe_1"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -68,7 +68,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_small_plane_cas_airframe_2"
+		name = "equipment_designer_small_modern_plane_cas_airframe_2"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -77,7 +77,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_small_plane_cas_airframe_3"
+		name = "equipment_designer_small_modern_plane_cas_airframe_3"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -86,7 +86,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_small_plane_cas_airframe_4"
+		name = "equipment_designer_small_modern_plane_cas_airframe_4"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -142,9 +142,9 @@ guiTypes = {
 		}
 	}
 
-	# Generic Light Airframe Naval Bomber small_plane_naval_bomber_airframe
+	# Generic Light Airframe Naval Bomber small_modern_plane_naval_bomber_airframe
 	containerWindowType = {
-		name = "equipment_designer_small_plane_naval_bomber_airframe_0"
+		name = "equipment_designer_small_modern_plane_naval_bomber_airframe_0"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -153,7 +153,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_small_plane_naval_bomber_airframe_1"
+		name = "equipment_designer_small_modern_plane_naval_bomber_airframe_1"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -162,7 +162,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_small_plane_naval_bomber_airframe_2"
+		name = "equipment_designer_small_modern_plane_naval_bomber_airframe_2"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -171,7 +171,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_small_plane_naval_bomber_airframe_3"
+		name = "equipment_designer_small_modern_plane_naval_bomber_airframe_3"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -180,7 +180,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_small_plane_naval_bomber_airframe_4"
+		name = "equipment_designer_small_modern_plane_naval_bomber_airframe_4"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -189,50 +189,50 @@ guiTypes = {
 		}
 	}
 
-	# Generic Light Airframe Drone small_plane_suicide_airframe
+	# Generic Light Airframe Drone small_modern_plane_suicide_airframe
 	containerWindowType = {
-		name = "equipment_designer_small_plane_suicide_airframe_0"
+		name = "equipment_designer_small_modern_plane_suicide_airframe_0"
 		position = { x=0 y =0}
 
 		iconType = {
 			name = "equipment_image_overlay"
-			spriteType = "GFX_TC_small_plane_suicide_airframe_0"
+			spriteType = "GFX_TC_small_modern_plane_suicide_airframe_0"
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_small_plane_suicide_airframe_1"
+		name = "equipment_designer_small_modern_plane_suicide_airframe_1"
 		position = { x=0 y =0}
 
 		iconType = {
 			name = "equipment_image_overlay"
-			spriteType = "GFX_TC_small_plane_suicide_airframe_1"
+			spriteType = "GFX_TC_small_modern_plane_suicide_airframe_1"
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_small_plane_suicide_airframe_2"
+		name = "equipment_designer_small_modern_plane_suicide_airframe_2"
 		position = { x=0 y =0}
 
 		iconType = {
 			name = "equipment_image_overlay"
-			spriteType = "GFX_TC_small_plane_suicide_airframe_2"
+			spriteType = "GFX_TC_small_modern_plane_suicide_airframe_2"
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_small_plane_suicide_airframe_3"
+		name = "equipment_designer_small_modern_plane_suicide_airframe_3"
 		position = { x=0 y =0}
 
 		iconType = {
 			name = "equipment_image_overlay"
-			spriteType = "GFX_TC_small_plane_suicide_airframe_3"
+			spriteType = "GFX_TC_small_modern_plane_suicide_airframe_3"
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_small_plane_suicide_airframe_4"
+		name = "equipment_designer_small_modern_plane_suicide_airframe_4"
 		position = { x=0 y =0}
 
 		iconType = {
 			name = "equipment_image_overlay"
-			spriteType = "GFX_TC_small_plane_suicide_airframe_4"
+			spriteType = "GFX_TC_small_modern_plane_suicide_airframe_4"
 		}
 	}
 
@@ -284,9 +284,9 @@ guiTypes = {
 		}
 	}
 
-	#Generic Carrier Light Airframe CAS cv_small_plane_cas_airframe
+	#Generic Carrier Light Airframe CAS cv_small_modern_plane_cas_airframe
 	containerWindowType = {
-		name = "equipment_designer_cv_small_plane_cas_airframe_0"
+		name = "equipment_designer_cv_small_modern_plane_cas_airframe_0"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -295,7 +295,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_small_plane_cas_airframe_1"
+		name = "equipment_designer_cv_small_modern_plane_cas_airframe_1"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -304,7 +304,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_small_plane_cas_airframe_2"
+		name = "equipment_designer_cv_small_modern_plane_cas_airframe_2"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -313,7 +313,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_small_plane_cas_airframe_3"
+		name = "equipment_designer_cv_small_modern_plane_cas_airframe_3"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -322,7 +322,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_small_plane_cas_airframe_4"
+		name = "equipment_designer_cv_small_modern_plane_cas_airframe_4"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -378,9 +378,9 @@ guiTypes = {
 		}
 	}
 
-	#Generic Carrier Light Airframe Naval Bomber cv_small_plane_naval_bomber_airframe
+	#Generic Carrier Light Airframe Naval Bomber cv_small_modern_plane_naval_bomber_airframe
 	containerWindowType = {
-		name = "equipment_designer_cv_small_plane_naval_bomber_airframe_0"
+		name = "equipment_designer_cv_small_modern_plane_naval_bomber_airframe_0"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -389,7 +389,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_small_plane_naval_bomber_airframe_1"
+		name = "equipment_designer_cv_small_modern_plane_naval_bomber_airframe_1"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -398,7 +398,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_small_plane_naval_bomber_airframe_2"
+		name = "equipment_designer_cv_small_modern_plane_naval_bomber_airframe_2"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -407,7 +407,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_small_plane_naval_bomber_airframe_3"
+		name = "equipment_designer_cv_small_modern_plane_naval_bomber_airframe_3"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -416,7 +416,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_small_plane_naval_bomber_airframe_4"
+		name = "equipment_designer_cv_small_modern_plane_naval_bomber_airframe_4"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -425,50 +425,50 @@ guiTypes = {
 		}
 	}
 
-	#Generic Carrier Light Airframe Drone cv_small_plane_suicide_airframe
+	#Generic Carrier Light Airframe Drone cv_small_modern_plane_suicide_airframe
 	containerWindowType = {
-		name = "equipment_designer_cv_small_plane_suicide_airframe_0"
+		name = "equipment_designer_cv_small_modern_plane_suicide_airframe_0"
 		position = { x=0 y =0}
 
 		iconType = {
 			name = "equipment_image_overlay"
-			spriteType = "GFX_TC_small_plane_suicide_airframe_0"
+			spriteType = "GFX_TC_small_modern_plane_suicide_airframe_0"
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_small_plane_suicide_airframe_1"
+		name = "equipment_designer_cv_small_modern_plane_suicide_airframe_1"
 		position = { x=0 y =0}
 
 		iconType = {
 			name = "equipment_image_overlay"
-			spriteType = "GFX_TC_small_plane_suicide_airframe_1"
+			spriteType = "GFX_TC_small_modern_plane_suicide_airframe_1"
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_small_plane_suicide_airframe_2"
+		name = "equipment_designer_cv_small_modern_plane_suicide_airframe_2"
 		position = { x=0 y =0}
 
 		iconType = {
 			name = "equipment_image_overlay"
-			spriteType = "GFX_TC_small_plane_suicide_airframe_2"
+			spriteType = "GFX_TC_small_modern_plane_suicide_airframe_2"
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_small_plane_suicide_airframe_3"
+		name = "equipment_designer_cv_small_modern_plane_suicide_airframe_3"
 		position = { x=0 y =0}
 
 		iconType = {
 			name = "equipment_image_overlay"
-			spriteType = "GFX_TC_small_plane_suicide_airframe_3"
+			spriteType = "GFX_TC_small_modern_plane_suicide_airframe_3"
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_small_plane_suicide_airframe_4"
+		name = "equipment_designer_cv_small_modern_plane_suicide_airframe_4"
 		position = { x=0 y =0}
 
 		iconType = {
 			name = "equipment_image_overlay"
-			spriteType = "GFX_TC_small_plane_suicide_airframe_4"
+			spriteType = "GFX_TC_small_modern_plane_suicide_airframe_4"
 		}
 	}
 
@@ -528,7 +528,7 @@ guiTypes = {
 
 		iconType = {
 			name = "equipment_image_overlay"
-			spriteType = "GFX_TC_medium_plane_fighter_airframe_0"
+			spriteType = "GFX_TC_medium_modern_plane_fighter_airframe_0"
 		}
 	}
 	containerWindowType = {
@@ -537,7 +537,7 @@ guiTypes = {
 
 		iconType = {
 			name = "equipment_image_overlay"
-			spriteType = "GFX_TC_medium_plane_fighter_airframe_1"
+			spriteType = "GFX_TC_medium_modern_plane_fighter_airframe_1"
 		}
 	}
 	containerWindowType = {
@@ -546,7 +546,7 @@ guiTypes = {
 
 		iconType = {
 			name = "equipment_image_overlay"
-			spriteType = "GFX_TC_medium_plane_fighter_airframe_2"
+			spriteType = "GFX_TC_medium_modern_plane_fighter_airframe_2"
 		}
 	}
 	containerWindowType = {
@@ -555,7 +555,7 @@ guiTypes = {
 
 		iconType = {
 			name = "equipment_image_overlay"
-			spriteType = "GFX_TC_medium_plane_fighter_airframe_3"
+			spriteType = "GFX_TC_medium_modern_plane_fighter_airframe_3"
 		}
 	}
 	containerWindowType = {
@@ -564,13 +564,13 @@ guiTypes = {
 
 		iconType = {
 			name = "equipment_image_overlay"
-			spriteType = "GFX_TC_medium_plane_fighter_airframe_4"
+			spriteType = "GFX_TC_medium_modern_plane_fighter_airframe_4"
 		}
 	}
 
-	#Generic Medium Airframe CAS medium_plane_cas_airframe
+	#Generic Medium Airframe CAS medium_modern_plane_cas_airframe
 	containerWindowType = {
-		name = "equipment_designer_medium_plane_cas_airframe_0"
+		name = "equipment_designer_medium_modern_plane_cas_airframe_0"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -579,7 +579,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_medium_plane_cas_airframe_1"
+		name = "equipment_designer_medium_modern_plane_cas_airframe_1"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -588,7 +588,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_medium_plane_cas_airframe_2"
+		name = "equipment_designer_medium_modern_plane_cas_airframe_2"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -597,7 +597,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_medium_plane_cas_airframe_3"
+		name = "equipment_designer_medium_modern_plane_cas_airframe_3"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -606,7 +606,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_medium_plane_cas_airframe_4"
+		name = "equipment_designer_medium_modern_plane_cas_airframe_4"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -615,9 +615,9 @@ guiTypes = {
 		}
 	}
 
-	#Generic Medium Airframe Transport medium_plane_air_transport_airframe
+	#Generic Medium Airframe Transport medium_modern_plane_air_transport_airframe
 	containerWindowType = {
-		name = "equipment_designer_medium_plane_air_transport_airframe_0"
+		name = "equipment_designer_medium_modern_plane_air_transport_airframe_0"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -626,7 +626,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_medium_plane_air_transport_airframe_1"
+		name = "equipment_designer_medium_modern_plane_air_transport_airframe_1"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -635,7 +635,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_medium_plane_air_transport_airframe_2"
+		name = "equipment_designer_medium_modern_plane_air_transport_airframe_2"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -644,7 +644,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_medium_plane_air_transport_airframe_3"
+		name = "equipment_designer_medium_modern_plane_air_transport_airframe_3"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -653,7 +653,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_medium_plane_air_transport_airframe_4"
+		name = "equipment_designer_medium_modern_plane_air_transport_airframe_4"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -662,9 +662,9 @@ guiTypes = {
 		}
 	}
 
-	#Generic Medium Airframe Maritime Patrol medium_plane_maritime_patrol_airframe
+	#Generic Medium Airframe Maritime Patrol medium_modern_plane_maritime_patrol_airframe
 	containerWindowType = {
-		name = "equipment_designer_medium_plane_maritime_patrol_airframe_0"
+		name = "equipment_designer_medium_modern_plane_maritime_patrol_airframe_0"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -673,7 +673,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_medium_plane_maritime_patrol_airframe_1"
+		name = "equipment_designer_medium_modern_plane_maritime_patrol_airframe_1"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -682,7 +682,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_medium_plane_maritime_patrol_airframe_2"
+		name = "equipment_designer_medium_modern_plane_maritime_patrol_airframe_2"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -691,7 +691,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_medium_plane_maritime_patrol_airframe_3"
+		name = "equipment_designer_medium_modern_plane_maritime_patrol_airframe_3"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -700,7 +700,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_medium_plane_maritime_patrol_airframe_4"
+		name = "equipment_designer_medium_modern_plane_maritime_patrol_airframe_4"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -804,9 +804,9 @@ guiTypes = {
 		}
 	}
 
-	#Generic Carrier Medium Airframe Fighter (Air Superiority) cv_medium_plane_fighter_airframe
+	#Generic Carrier Medium Airframe Fighter (Air Superiority) cv_medium_modern_plane_fighter_airframe
 	containerWindowType = {
-		name = "equipment_designer_cv_medium_plane_fighter_airframe_0"
+		name = "equipment_designer_cv_medium_modern_plane_fighter_airframe_0"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -815,7 +815,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_medium_plane_fighter_airframe_1"
+		name = "equipment_designer_cv_medium_modern_plane_fighter_airframe_1"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -824,7 +824,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_medium_plane_fighter_airframe_2"
+		name = "equipment_designer_cv_medium_modern_plane_fighter_airframe_2"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -833,7 +833,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_medium_plane_fighter_airframe_3"
+		name = "equipment_designer_cv_medium_modern_plane_fighter_airframe_3"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -842,7 +842,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_medium_plane_fighter_airframe_4"
+		name = "equipment_designer_cv_medium_modern_plane_fighter_airframe_4"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -851,9 +851,9 @@ guiTypes = {
 		}
 	}
 
-	#Generic Carrier Medium Airframe CAS cv_medium_plane_cas_airframe
+	#Generic Carrier Medium Airframe CAS cv_medium_modern_plane_cas_airframe
 	containerWindowType = {
-		name = "equipment_designer_cv_medium_plane_cas_airframe_0"
+		name = "equipment_designer_cv_medium_modern_plane_cas_airframe_0"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -862,7 +862,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_medium_plane_cas_airframe_1"
+		name = "equipment_designer_cv_medium_modern_plane_cas_airframe_1"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -871,7 +871,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_medium_plane_cas_airframe_2"
+		name = "equipment_designer_cv_medium_modern_plane_cas_airframe_2"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -880,7 +880,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_medium_plane_cas_airframe_3"
+		name = "equipment_designer_cv_medium_modern_plane_cas_airframe_3"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -889,7 +889,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_medium_plane_cas_airframe_4"
+		name = "equipment_designer_cv_medium_modern_plane_cas_airframe_4"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -898,9 +898,9 @@ guiTypes = {
 		}
 	}
 
-	#Generic Carrier Medium Airframe Transport cv_medium_plane_air_transport_airframe
+	#Generic Carrier Medium Airframe Transport cv_medium_modern_plane_air_transport_airframe
 	containerWindowType = {
-		name = "equipment_designer_cv_medium_plane_air_transport_airframe_0"
+		name = "equipment_designer_cv_medium_modern_plane_air_transport_airframe_0"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -909,7 +909,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_medium_plane_air_transport_airframe_1"
+		name = "equipment_designer_cv_medium_modern_plane_air_transport_airframe_1"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -918,7 +918,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_medium_plane_air_transport_airframe_2"
+		name = "equipment_designer_cv_medium_modern_plane_air_transport_airframe_2"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -927,7 +927,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_medium_plane_air_transport_airframe_3"
+		name = "equipment_designer_cv_medium_modern_plane_air_transport_airframe_3"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -936,7 +936,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_medium_plane_air_transport_airframe_4"
+		name = "equipment_designer_cv_medium_modern_plane_air_transport_airframe_4"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -945,9 +945,9 @@ guiTypes = {
 		}
 	}
 
-	#Generic Carrier Medium Airframe Maritime Patrol cv_medium_plane_maritime_patrol_airframe
+	#Generic Carrier Medium Airframe Maritime Patrol cv_medium_modern_plane_maritime_patrol_airframe
 	containerWindowType = {
-		name = "equipment_designer_cv_medium_plane_maritime_patrol_airframe_0"
+		name = "equipment_designer_cv_medium_modern_plane_maritime_patrol_airframe_0"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -956,7 +956,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_medium_plane_maritime_patrol_airframe_1"
+		name = "equipment_designer_cv_medium_modern_plane_maritime_patrol_airframe_1"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -965,7 +965,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_medium_plane_maritime_patrol_airframe_2"
+		name = "equipment_designer_cv_medium_modern_plane_maritime_patrol_airframe_2"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -974,7 +974,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_medium_plane_maritime_patrol_airframe_3"
+		name = "equipment_designer_cv_medium_modern_plane_maritime_patrol_airframe_3"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -983,7 +983,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_cv_medium_plane_maritime_patrol_airframe_4"
+		name = "equipment_designer_cv_medium_modern_plane_maritime_patrol_airframe_4"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -1040,9 +1040,9 @@ guiTypes = {
 		}
 	}
 
-	#Generic Large Airframe CAS (Gunship) large_plane_cas_airframe
+	#Generic Large Airframe CAS (Gunship) large_modern_plane_cas_airframe
 	containerWindowType = {
-		name = "equipment_designer_large_plane_cas_airframe_0"
+		name = "equipment_designer_large_modern_plane_cas_airframe_0"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -1051,7 +1051,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_large_plane_cas_airframe_1"
+		name = "equipment_designer_large_modern_plane_cas_airframe_1"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -1060,7 +1060,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_large_plane_cas_airframe_2"
+		name = "equipment_designer_large_modern_plane_cas_airframe_2"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -1069,7 +1069,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_large_plane_cas_airframe_3"
+		name = "equipment_designer_large_modern_plane_cas_airframe_3"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -1078,7 +1078,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_large_plane_cas_airframe_4"
+		name = "equipment_designer_large_modern_plane_cas_airframe_4"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -1087,9 +1087,9 @@ guiTypes = {
 		}
 	}
 
-	#Generic Large Airframe AWACS (Scout) large_plane_awacs_airframe
+	#Generic Large Airframe AWACS (Scout) large_modern_plane_awacs_airframe
 	containerWindowType = {
-		name = "equipment_designer_large_plane_awacs_airframe_0"
+		name = "equipment_designer_large_modern_plane_awacs_airframe_0"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -1098,7 +1098,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_large_plane_awacs_airframe_1"
+		name = "equipment_designer_large_modern_plane_awacs_airframe_1"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -1107,7 +1107,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_large_plane_awacs_airframe_2"
+		name = "equipment_designer_large_modern_plane_awacs_airframe_2"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -1116,7 +1116,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_large_plane_awacs_airframe_3"
+		name = "equipment_designer_large_modern_plane_awacs_airframe_3"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -1125,7 +1125,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_large_plane_awacs_airframe_4"
+		name = "equipment_designer_large_modern_plane_awacs_airframe_4"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -1134,9 +1134,9 @@ guiTypes = {
 		}
 	}
 
-	#Generic Large Airframe Transport large_plane_air_transport_airframe
+	#Generic Large Airframe Transport large_modern_plane_air_transport_airframe
 	containerWindowType = {
-		name = "equipment_designer_large_plane_air_transport_airframe_0"
+		name = "equipment_designer_large_modern_plane_air_transport_airframe_0"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -1145,7 +1145,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_large_plane_air_transport_airframe_1"
+		name = "equipment_designer_large_modern_plane_air_transport_airframe_1"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -1154,7 +1154,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_large_plane_air_transport_airframe_2"
+		name = "equipment_designer_large_modern_plane_air_transport_airframe_2"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -1163,7 +1163,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_large_plane_air_transport_airframe_3"
+		name = "equipment_designer_large_modern_plane_air_transport_airframe_3"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -1172,7 +1172,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_large_plane_air_transport_airframe_4"
+		name = "equipment_designer_large_modern_plane_air_transport_airframe_4"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -1181,9 +1181,9 @@ guiTypes = {
 		}
 	}
 
-	#Generic Large Airframe Maritime Patrol large_plane_maritime_patrol_airframe
+	#Generic Large Airframe Maritime Patrol large_modern_plane_maritime_patrol_airframe
 	containerWindowType = {
-		name = "equipment_designer_large_plane_maritime_patrol_airframe_0"
+		name = "equipment_designer_large_modern_plane_maritime_patrol_airframe_0"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -1192,7 +1192,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_large_plane_maritime_patrol_airframe_1"
+		name = "equipment_designer_large_modern_plane_maritime_patrol_airframe_1"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -1201,7 +1201,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_large_plane_maritime_patrol_airframe_2"
+		name = "equipment_designer_large_modern_plane_maritime_patrol_airframe_2"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -1210,7 +1210,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_large_plane_maritime_patrol_airframe_3"
+		name = "equipment_designer_large_modern_plane_maritime_patrol_airframe_3"
 		position = { x=0 y =0}
 
 		iconType = {
@@ -1219,7 +1219,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType = {
-		name = "equipment_designer_large_plane_maritime_patrol_airframe_4"
+		name = "equipment_designer_large_modern_plane_maritime_patrol_airframe_4"
 		position = { x=0 y =0}
 
 		iconType = {

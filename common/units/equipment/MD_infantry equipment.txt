@@ -201,7 +201,7 @@ equipments = {
 
 	}
 	#1975
-	infantry_weapons1 = {
+	infantry_modern_weapons1 = {
 		year = 1975
 
 		archetype = infantry_equipment
@@ -236,7 +236,7 @@ equipments = {
 		year = 1985
 
 		archetype = infantry_equipment
-		parent = infantry_weapons1
+		parent = infantry_modern_weapons1
 		#priority = 5
 		visual_level = 2
 

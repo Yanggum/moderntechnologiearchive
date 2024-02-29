@@ -12,8 +12,8 @@
  infantry_weaponsdesc: "Les armes légères représentent l'équipement utilisé par les escouades d'infanterie, comme les fusils d'assaut, les fusils de tireur d'élite, les fusils lance-grenades, les fusils sans recul, les mitrailleuses légères et les gilets pare-balles."
  infantry_weapons: "Armes légères 1965"
  infantry_weapons_desc: "Les armes légères représentent l'équipement utilisé par les escouades d'infanterie, comme les fusils d'assaut, les fusils de tireur d'élite, les fusils lance-grenades, les fusils sans recul, les mitrailleuses légères et les gilets pare-balles."
- infantry_weapons1: "Armes légères 1975"
- infantry_weapons1_desc: "Les armes légères représentent l'équipement utilisé par les escouades d'infanterie, comme les fusils d'assaut, les fusils de tireur d'élite, les fusils lance-grenades, les fusils sans recul, les mitrailleuses légères et les gilets pare-balles."
+ infantry_modern_weapons1: "Armes légères 1975"
+ infantry_modern_weapons1_desc: "Les armes légères représentent l'équipement utilisé par les escouades d'infanterie, comme les fusils d'assaut, les fusils de tireur d'élite, les fusils lance-grenades, les fusils sans recul, les mitrailleuses légères et les gilets pare-balles."
  infantry_weapons2: "Armes légères 1985"
  infantry_weapons2_desc: "Les armes légères représentent l'équipement utilisé par les escouades d'infanterie, comme les fusils d'assaut, les fusils de tireur d'élite, les fusils lance-grenades, les fusils sans recul, les mitrailleuses légères et les gilets pare-balles."
  infantry_weapons3: "Armes légères 1995"
@@ -31,8 +31,8 @@
  H_infantry_weaponsdesc: "Les armes lourdes d'infanterie sont des armes qui nécessitent une équipe entière pour les déplacer et les faire fonctionner, comme les mitrailleuses lourdes et les mortiers. Ces armes, et les soldats qui les utilisent, sont généralement organisés en escouades d'armes lourdes."
  H_infantry_weapons: "Armes lourdes 1965"
  H_infantry_weapons_desc: "Les armes lourdes d'infanterie sont des armes qui nécessitent une équipe entière pour les déplacer et les faire fonctionner, comme les mitrailleuses lourdes et les mortiers. Ces armes, et les soldats qui les utilisent, sont généralement organisés en escouades d'armes lourdes."
- H_infantry_weapons1: "Armes lourdes 1975"
- H_infantry_weapons1_desc: "Les armes lourdes d'infanterie sont des armes qui nécessitent une équipe entière pour les déplacer et les faire fonctionner, comme les mitrailleuses lourdes et les mortiers. Ces armes, et les soldats qui les utilisent, sont généralement organisés en escouades d'armes lourdes."
+ H_infantry_modern_weapons1: "Armes lourdes 1975"
+ H_infantry_modern_weapons1_desc: "Les armes lourdes d'infanterie sont des armes qui nécessitent une équipe entière pour les déplacer et les faire fonctionner, comme les mitrailleuses lourdes et les mortiers. Ces armes, et les soldats qui les utilisent, sont généralement organisés en escouades d'armes lourdes."
  H_infantry_weapons2: "Armes lourdes 1985"
  H_infantry_weapons2_desc: "Les armes lourdes d'infanterie sont des armes qui nécessitent une équipe entière pour les déplacer et les faire fonctionner, comme les mitrailleuses lourdes et les mortiers. Ces armes, et les soldats qui les utilisent, sont généralement organisés en escouades d'armes lourdes."
  H_infantry_weapons3: "Armes lourdes 1995"
@@ -589,7 +589,7 @@
 
  ### Argentina ###
  ARG_infantry_weapons: "Armes légères de 1965"
- ARG_infantry_weapons1: "Armes légères de 1975"
+ ARG_infantry_modern_weapons1: "Armes légères de 1975"
  ARG_infantry_weapons2: "FARA 83"
  ARG_infantry_weapons3: "Armes légères de 1995"
  ARG_infantry_weapons4: "Armes légères de 2005"
@@ -619,8 +619,8 @@
  ### Armenia ###
  ARM_infantry_weapons: "AKM-47"
  ARM_infantry_weapons_desc: "L'AKM, développé en 1959, est la variante modernisée la plus courante du fusil AK-47, développé par Mikhaïl Kalachnikov. Il est beaucoup plus léger et plus précis en tir automatique que son prédécesseur."
- ARM_infantry_weapons1: "AK-74"
- ARM_infantry_weapons1_desc: "L'AK-74 est développé à partir de l'AKM, et présente des améliorations significatives par rapport à son prédécesseur. Il utilise notamment des cartouches de 5,45 mm au lieu des 7,62 mm standard du Pacte de Varsovie."
+ ARM_infantry_modern_weapons1: "AK-74"
+ ARM_infantry_modern_weapons1_desc: "L'AK-74 est développé à partir de l'AKM, et présente des améliorations significatives par rapport à son prédécesseur. Il utilise notamment des cartouches de 5,45 mm au lieu des 7,62 mm standard du Pacte de Varsovie."
  ARM_infantry_weapons2: "K6-92 BORZ"
  ARM_infantry_weapons2_desc: "Le pistolet-mitrailleur K6-92 a été développé en Arménie, qui, après avoir obtenu son indépendance en 1991, était en conflit armé avec l'Azerbaïdjan à cause du Haut-Karabakh. Les formations armées arméniennes ressentaient fortement le manque d'armes légères, ce qui a incité les ingénieurs arméniens à créer en 1991-92 une mitraillette K6-92 relativement simple."
  ARM_infantry_weapons3: "Vahan"
@@ -647,7 +647,7 @@
 
  ### Australia ###
  AST_infantry_weapons: "L1A1"
- AST_infantry_weapons1: "Steyr AUG"
+ AST_infantry_modern_weapons1: "Steyr AUG"
  AST_infantry_weapons2: "F88 Austeyr"
  AST_infantry_weapons3: "F88S-A1"
  AST_infantry_weapons4: "F88S-A2"
@@ -666,7 +666,7 @@
 
  ### Austria ###
  AUS_infantry_weapons: "L1A1"
- AUS_infantry_weapons1: "Steyr AUG"
+ AUS_infantry_modern_weapons1: "Steyr AUG"
  AUS_infantry_weapons2: "Steyr AUG A1"
  AUS_infantry_weapons3: "Steyr AUG A2"
  AUS_infantry_weapons4: "Steyr AUG A3"
@@ -703,7 +703,7 @@
 
  ### Azerbaijan ###
  AZE_infantry_weapons: "AK-47"
- AZE_infantry_weapons1: "AK-74"
+ AZE_infantry_modern_weapons1: "AK-74"
  AZE_infantry_weapons2: "K6-92 BORZ"
  AZE_infantry_weapons3: "AK-74P"
  AZE_infantry_weapons4: "AK-103 Khazri"
@@ -715,7 +715,7 @@
 
  ### Belgium ###
  BEL_infantry_weapons: "FN FAL"
- BEL_infantry_weapons1: "FN FNC M2"
+ BEL_infantry_modern_weapons1: "FN FNC M2"
  BEL_infantry_weapons2: "FN FNC M3"
  BEL_infantry_weapons3: "FN F2000"
  BEL_infantry_weapons4: "FN SCAR L"
@@ -749,8 +749,8 @@
 
  BLR_infantry_weapons: "AKM"
  BLR_infantry_weapons_desc: "L'AKM, mis au point en 1959, est la variante modernisée la plus courante du fusil AK-47, développé par Mikhail Kalashnikov. Il est beaucoup plus léger et plus précis en tir automatique que son prédécesseur."
- BLR_infantry_weapons1: "AK-74"
- BLR_infantry_weapons1_desc: "L'AK-74 a été développé à partir de l'AKM et présente des améliorations significatives par rapport à son prédécesseur. Il utilise notamment des cartouches de 5,45 mm au lieu des 7,62 mm du Pacte de Varsovie."
+ BLR_infantry_modern_weapons1: "AK-74"
+ BLR_infantry_modern_weapons1_desc: "L'AK-74 a été développé à partir de l'AKM et présente des améliorations significatives par rapport à son prédécesseur. Il utilise notamment des cartouches de 5,45 mm au lieu des 7,62 mm du Pacte de Varsovie."
  BLR_infantry_weapons2: "AK-74M"
  BLR_infantry_weapons2_desc: "En 1991, l'usine Izhmash de la ville d'Izhevsk a commencé la production à grande échelle d'une variante modernisée de l'AK-74, l'AK-74M. Il est équipé d'une culasse et d'un porte-culasse allégés, ainsi que d'une crosse en polyamide chargé de verre."
  BLR_infantry_weapons3: "AK-103"
@@ -993,14 +993,14 @@
  ### Bolivia ###
 
  ### Bosnia ###
- BOS_infantry_weapons1: "Zastava M70"
+ BOS_infantry_modern_weapons1: "Zastava M70"
  BOS_infantry_weapons2: "Zastava M80"
 
  BOS_SP_R_arty_0: "M-63 Plamen"
 
  ### Brazil ###
  BRA_infantry_weapons: "M964 FAL"
- BRA_infantry_weapons1: "IMBEL MD2"
+ BRA_infantry_modern_weapons1: "IMBEL MD2"
  BRA_infantry_weapons2: "IMBEL MD3"
  BRA_infantry_weapons3: "IMBEL MD97L"
  BRA_infantry_weapons4: "IMBEL IA2"
@@ -1051,7 +1051,7 @@
 
  ### Myanmar ###
  BRM_infantry_weapons: "BA-63"
- BRM_infantry_weapons1: "MA-11"
+ BRM_infantry_modern_weapons1: "MA-11"
  BRM_infantry_weapons2: "MA-1"
  BRM_infantry_weapons3: "MA-1 Mk.3"
 
@@ -1062,11 +1062,11 @@
  BRM_APC_2: "BAAC-87"
 
  ### Kachin ###
- KAC_infantry_weapons1: "K-09"
+ KAC_infantry_modern_weapons1: "K-09"
 
  ### Bulgaria ###
  BUL_infantry_weapons: "AKMS"
- BUL_infantry_weapons1: "AR-M1"
+ BUL_infantry_modern_weapons1: "AR-M1"
  BUL_infantry_weapons2: "Armes légères de 1985"
  BUL_infantry_weapons3: "Armes légères de 1995"
  BUL_infantry_weapons4: "Armes légères de 2005"
@@ -1076,7 +1076,7 @@
 
  ### Canada ###
  CAN_infantry_weapons: "C1A1"
- CAN_infantry_weapons1: "C1A2"
+ CAN_infantry_modern_weapons1: "C1A2"
  CAN_infantry_weapons2: "C7"
  CAN_infantry_weapons3: "C7A1"
  CAN_infantry_weapons4: "C7S2"
@@ -1112,8 +1112,8 @@
  ### China ###
  CHI_infantry_weapons: "Type-56"
  CHI_infantry_weapons_desc: "Le Type 56 (« Fusil automatique de type 56 »), également connu sous le nom d'AK-56, est un fusil chinois de 7,62x39 mm. Il s'agit d'une variante des fusils AK-47 et AKM de conception soviétique."
- CHI_infantry_weapons1: "Type-81"
- CHI_infantry_weapons1_desc: "Le Type 81 (« Fusil automatique de type 81 ») est un fusil de deuxième génération, à tir sélectif et à gaz de 7.62x39mm, de conception chinoise (basé sur les Kalashnikov et SKS), adopté par l'Armée populaire de libération chinoise (APL)."
+ CHI_infantry_modern_weapons1: "Type-81"
+ CHI_infantry_modern_weapons1_desc: "Le Type 81 (« Fusil automatique de type 81 ») est un fusil de deuxième génération, à tir sélectif et à gaz de 7.62x39mm, de conception chinoise (basé sur les Kalashnikov et SKS), adopté par l'Armée populaire de libération chinoise (APL)."
  CHI_infantry_weapons2: "Type-86S"
  CHI_infantry_weapons2_desc: "Le Norinco Type 86S (« Fusil automatique de type 86S ») est un fusil bullpup à gaz de type AKM 7,62x39mm."
  CHI_infantry_weapons3: "QBZ-95"
@@ -1290,7 +1290,7 @@
 
  ### Croatia ###
  CRO_infantry_weapons: "Zastava M70"
- CRO_infantry_weapons1: "Zastava M77"
+ CRO_infantry_modern_weapons1: "Zastava M77"
  CRO_infantry_weapons2: "Zastava M80"
  CRO_infantry_weapons3: "APS 95"
  CRO_infantry_weapons4: "VHS"
@@ -1324,8 +1324,8 @@
  #INF WEAPONS Including ATGM, MANPADS
  CZE_infantry_weapons: "Vz. 58"
  CZE_infantry_weapons_desc: "Arme légendaire utilisée dans le monde entier, similaire en apparence à l'AK-47, mais originaire de la Tchécoslovaquie du StG44. Très précise et fiable. Capable de tirer en rafale, en mode automatique ou à une seule balle."
- CZE_infantry_weapons1: "EZ-B"
- CZE_infantry_weapons1_desc: "L'arme expérimentale EZ-B a été créée à partir du Vz. 58 en utilisant ses pièces et en reconfigurant l'arme en Bull-pup avec le chargeur derrière la poignée du fusil."
+ CZE_infantry_modern_weapons1: "EZ-B"
+ CZE_infantry_modern_weapons1_desc: "L'arme expérimentale EZ-B a été créée à partir du Vz. 58 en utilisant ses pièces et en reconfigurant l'arme en Bull-pup avec le chargeur derrière la poignée du fusil."
  CZE_infantry_weapons2: "ČZ 858 Kosa"
  CZE_infantry_weapons2_desc: "Amélioration du Vz. 58 fusil d'assaut rayé d'une nouvelle cartouche avec rails d'équipement ajoutés."
  CZE_infantry_weapons3: "ČZ 2000 Lada"
@@ -1579,7 +1579,7 @@
 
  ### Finland ###
  FIN_infantry_weapons: "Rk 62"
- FIN_infantry_weapons1: "Rk 71"
+ FIN_infantry_modern_weapons1: "Rk 71"
  FIN_infantry_weapons2: "Valmet M82"
  FIN_infantry_weapons3: "Rk 95 TP"
  FIN_infantry_weapons4: "Armes légères 2005"
@@ -1614,8 +1614,8 @@
  ### France ###
  FRA_infantry_weapons: "FA-MAS Type 62"
  FRA_infantry_weapons_desc: "Le FA-MAS Type 62 est un fusil de l'OTAN 7.62x51mm développé par l'armée française pour remplacer le MAS-49/56. Il est le dernier d'une série de 40 fusils prototypes différents conçus entre 1952 et 1962, et ressemble au FN FAL."
- FRA_infantry_weapons1: "FAMAS F1"
- FRA_infantry_weapons1_desc: "Le fusil d'assaut de la manufacture d'arme de Saint-Étienne est un fusil automatique bullpup français construit dans les années 70 pour l'armée française."
+ FRA_infantry_modern_weapons1: "FAMAS F1"
+ FRA_infantry_modern_weapons1_desc: "Le fusil d'assaut de la manufacture d'arme de Saint-Étienne est un fusil automatique bullpup français construit dans les années 70 pour l'armée française."
  FRA_infantry_weapons2: "FAMAS G1"
  FRA_infantry_weapons2_desc: "Le FAMAS G1 est une variante du FAMAS construite par GIAT Industries avec un nouveau garde-main pour les gants de la guerre arctique."
  FRA_infantry_weapons3: "FAMAS G2"
@@ -1793,7 +1793,7 @@
 
  ### Georgia ###
  GEO_infantry_weapons: "AK-47"
- GEO_infantry_weapons1: "PM MD63"
+ GEO_infantry_modern_weapons1: "PM MD63"
  GEO_infantry_weapons2: "AK-74M"
  GEO_infantry_weapons3: "M4A1"
  GEO_infantry_weapons4: "G5"
@@ -1825,9 +1825,9 @@
  GER_infantry_weapons: "Heckler & Koch G3"
  GER_infantry_weapons_short: "G3"
  GER_infantry_weapons_desc: "Le Heckler & Koch G3 (Gewehr 3) est un fusil de combat à tir sélectif 7.62x51mm OTAN, développé en Allemagne de l'Ouest dans les années 1950 par le fabricant d'armement allemand Heckler & Koch (H&K) en collaboration avec l'agence espagnole de conception et de développement CETME. Le G3 a remplacé le FN FAL/G1 comme fusil standard à partir de 1959 et a servi jusqu'à être amélioré au modèle G3A1 en 1963."
- GER_infantry_weapons1: "Heckler & Koch G3A3"
- GER_infantry_weapons1_short: "G3A3"
- GER_infantry_weapons1_desc: "Le G3A3 est la version la plus connue du G3. Conçu avec de nouveaux viseurs à tambour arrière améliorés avec un guidon amélioré, un suppresseur de flash/frein de bouche, une crosse fixe en plastique solide et un protège-main en plastique qui n'entre pas en contact avec le canon flottant. Le protège-main était disponible en version fine et ventilée et en version large. Ce dernier permet la fixation d'un bipied pour une meilleure stabilité."
+ GER_infantry_modern_weapons1: "Heckler & Koch G3A3"
+ GER_infantry_modern_weapons1_short: "G3A3"
+ GER_infantry_modern_weapons1_desc: "Le G3A3 est la version la plus connue du G3. Conçu avec de nouveaux viseurs à tambour arrière améliorés avec un guidon amélioré, un suppresseur de flash/frein de bouche, une crosse fixe en plastique solide et un protège-main en plastique qui n'entre pas en contact avec le canon flottant. Le protège-main était disponible en version fine et ventilée et en version large. Ce dernier permet la fixation d'un bipied pour une meilleure stabilité."
  GER_infantry_weapons2: "Heckler & Koch G3A4"
  GER_infantry_weapons2_short: "G3A4"
  GER_infantry_weapons2_desc: "Le G3A4 est une version encore améliorée du précédent modèle G3A3 utilisant des viseurs à tambour et une nouvelle conception à position unique, certains modèles incluant un nouveau groupe de déclenchement ambidextre et un déflecteur de douilles pour accommoder les tireurs gauchers. Le G3A4 est entré en service en 1974 pour les unités d'infanterie de première ligne et a été en service jusqu'à la fin des années 1990 avant d'être progressivement retiré et remplacé."
@@ -2074,7 +2074,7 @@
 
  ### Greece ###
  GRE_infantry_weapons: "EAS G3"
- GRE_infantry_weapons1: "EAS G3A4"
+ GRE_infantry_modern_weapons1: "EAS G3A4"
  GRE_infantry_weapons2: "Chropi Rifle"
  GRE_infantry_weapons3: "G3A5"
  GRE_infantry_weapons4: "M4A1"
@@ -2181,12 +2181,12 @@
 
  ### Hungary ###
  HUN_infantry_weapons: "AMD-65"
- HUN_infantry_weapons1: "AK-63"
+ HUN_infantry_modern_weapons1: "AK-63"
  HUN_infantry_weapons2: "AMP-69"
  HUN_infantry_weapons3: "AK-63MF"
 
  ### Indonesia ###
- IND_infantry_weapons1: "Pindad SS1"
+ IND_infantry_modern_weapons1: "Pindad SS1"
  IND_infantry_weapons2: "Pindad SS2"
  IND_infantry_weapons3: "Pindad SS2-V4"
  IND_infantry_weapons4: "Pindad SS4"
@@ -2233,7 +2233,7 @@
 
  ### United Kingdom ###
  ENG_infantry_weapons: "L1A1"
- ENG_infantry_weapons1: "L64"
+ ENG_infantry_modern_weapons1: "L64"
  ENG_infantry_weapons2: "L85A1"
  ENG_infantry_weapons3: "L85A2"
  ENG_infantry_weapons4: "L85A3"
@@ -2381,7 +2381,7 @@
  ENG_util_vehicle_7: "Land Rover 35"
  ### Israel ###
  ISR_infantry_weapons: "FN FAL"
- ISR_infantry_weapons1: "IMI Galil AR"
+ ISR_infantry_modern_weapons1: "IMI Galil AR"
  ISR_infantry_weapons2: "M16A2"
  ISR_infantry_weapons3: "CAR-15"
  ISR_infantry_weapons4: "TAR-21"
@@ -2512,7 +2512,7 @@
  IRE_APC_1_short: "Timoney VBTT"
 
  ### Iraq ###
- IRQ_infantry_weapons1: "Tabuk"
+ IRQ_infantry_modern_weapons1: "Tabuk"
 
  IRQ_SP_arty_1: "Al-Fao"
 
@@ -2552,8 +2552,8 @@
  ### Italy ###
  ITA_infantry_weapons: "BM59"
  ITA_infantry_weapons_desc: "Le BM 59 est un fusil de combat automatique développé en Italie en 1959. Il est basé sur le fusil M1 Garand, chambré en 7,62x51mm OTAN, modifié pour utiliser un chargeur amovible et capable d'un tir sélectif. Des révisions ultérieures ont incorporé d'autres caractéristiques communes aux fusils plus modernes."
- ITA_infantry_weapons1: "BM59 Modello III"
- ITA_infantry_weapons1_desc: "Le BM 59 Mark III : ou Ital TA (également connu sous le nom de Truppe Alpine), était une variante avec une poignée pistolet et une crosse métallique pliante, qui était destinée aux troupes de montagne. Le BM 59 Para était similaire au BM 59 Ital TA, mais était destiné aux parachutistes. Il était équipé d'un canon plus court et d'un flash-hider."
+ ITA_infantry_modern_weapons1: "BM59 Modello III"
+ ITA_infantry_modern_weapons1_desc: "Le BM 59 Mark III : ou Ital TA (également connu sous le nom de Truppe Alpine), était une variante avec une poignée pistolet et une crosse métallique pliante, qui était destinée aux troupes de montagne. Le BM 59 Para était similaire au BM 59 Ital TA, mais était destiné aux parachutistes. Il était équipé d'un canon plus court et d'un flash-hider."
  ITA_infantry_weapons2: "AR70/90"
  ITA_infantry_weapons2_desc: "Le Beretta AR70/90 est un fusil d'assaut à gaz chambré pour la cartouche 5,56x45 mm de l'OTAN, et est le fusil de service standard des forces armées italiennes. L'arme est également conçue pour être équipée d'une grenade à fusil, et dispose d'un viseur de grenade."
  ITA_infantry_weapons3: "SCP70/90"
@@ -2723,7 +2723,7 @@
 
  ### Japan ###
  JAP_infantry_weapons: "Howa Type 64"
- JAP_infantry_weapons1: "Howa Type 75"
+ JAP_infantry_modern_weapons1: "Howa Type 75"
  JAP_infantry_weapons2: "Howa Type 89"
  JAP_infantry_weapons3: "Howa Type 89-C"
  JAP_infantry_weapons4: "Howa Type 100"
@@ -2875,7 +2875,7 @@
 
  ### Korea Republic ###
  KOR_infantry_weapons: "M14"
- KOR_infantry_weapons1: "M16A1"
+ KOR_infantry_modern_weapons1: "M16A1"
  KOR_infantry_weapons2: "Daewoo K-1A"
  KOR_infantry_weapons3: "Daewoo K-2"
  KOR_infantry_weapons4: "Daewoo K-2A"
@@ -3016,7 +3016,7 @@
 
  ### Mexico ###
  MEX_infantry_weapons: "Armes légères 1965"
- MEX_infantry_weapons1: "Armes légères 1975"
+ MEX_infantry_modern_weapons1: "Armes légères 1975"
  MEX_infantry_weapons2: "Armes légères 1985"
  MEX_infantry_weapons3: "Armes légères 1995"
  MEX_infantry_weapons4: "FX-08 Xiuhcoatl"
@@ -3034,7 +3034,7 @@
 
  ### Nigeria ###
  NIG_infantry_weapons: "OBJ-006"
- NIG_infantry_weapons1: "NR1"
+ NIG_infantry_modern_weapons1: "NR1"
 
  NIG_util_vehicle_3: "Proforce PF1"
  NIG_util_vehicle_3_short: "PF1"
@@ -3042,7 +3042,7 @@
 
  ### Korea DPR ###
  NKO_infantry_weapons: "Type 58"
- NKO_infantry_weapons1: "Type 88"
+ NKO_infantry_modern_weapons1: "Type 88"
  NKO_infantry_weapons2: "Type 92"
  NKO_infantry_weapons3: "Type 96"
  NKO_infantry_weapons4: "Type 97"
@@ -3242,8 +3242,8 @@
  ### Iran ###
  PER_infantry_weapons: "KL-7.62"
  PER_infantry_weapons_desc: "Le fusil d'assaut KL-7.62 est une copie sans licence du Type 56 chinois, qui est lui aussi dérivé du fusil AKM soviétique."
- PER_infantry_weapons1: "Sayyad-5.56"
- PER_infantry_weapons1_desc: "Le fusil Sayyad-5.56 est une copie sans licence du Norinco CQ 5.56, qui est également une copie sans licence du fusil américain M16."
+ PER_infantry_modern_weapons1: "Sayyad-5.56"
+ PER_infantry_modern_weapons1_desc: "Le fusil Sayyad-5.56 est une copie sans licence du Norinco CQ 5.56, qui est également une copie sans licence du fusil américain M16."
  PER_infantry_weapons2: "KH-2002 Khaybar"
  PER_infantry_weapons2_short: "KH-2002"
  PER_infantry_weapons2_desc: "Le fusil Khaybar KH-2002 a été développé par l'Organisation des industries de la défense comme le premier fusil d'assaut iranien indigène. Il est léger et a un faible recul, mais il est enclin à s'enrayer et n'a donc pas été introduit en grand nombre."
@@ -3376,7 +3376,7 @@
 
  ### Poland ###
  POL_infantry_weapons: "AKM"
- POL_infantry_weapons1: "Pallad kbkg wz.1974"
+ POL_infantry_modern_weapons1: "Pallad kbkg wz.1974"
  POL_infantry_weapons2: "Kbk wz. 88 Tantal"
  POL_infantry_weapons3: "Kbs wz. 1996A Beryl"
  POL_infantry_weapons4: "Kbs wz. 1996C Beryl"
@@ -3517,7 +3517,7 @@
 
  ### Peru ###
  PRU_infantry_weapons: "Armes légères 1965"
- PRU_infantry_weapons1: "Armes légères 1975"
+ PRU_infantry_modern_weapons1: "Armes légères 1975"
  PRU_infantry_weapons2: "Armes légères 1985"
  PRU_infantry_weapons3: "Armes légères 1995"
  PRU_infantry_weapons4: "SC-2005"
@@ -3525,7 +3525,7 @@
 
  ### India ###
  RAJ_infantry_weapons: "1A1"
- RAJ_infantry_weapons1: "INSAS"
+ RAJ_infantry_modern_weapons1: "INSAS"
  RAJ_infantry_weapons2: "SIG SG 550"
  RAJ_infantry_weapons3: "INSAS2"
  RAJ_infantry_weapons4: "Excalibur"
@@ -3591,7 +3591,7 @@
 
  ### Romania ###
  ROM_infantry_weapons: "PM md. 63"
- ROM_infantry_weapons1: "PM md. 75"
+ ROM_infantry_modern_weapons1: "PM md. 75"
  ROM_infantry_weapons2: "PA md. 86"
  ROM_infantry_weapons3: "PA md. 94"
  ROM_infantry_weapons4: "Beretta ARX160"
@@ -3644,7 +3644,7 @@
 
  ### South Africa ###
  SAF_infantry_weapons: "Vektor R1"
- SAF_infantry_weapons1: "Vektor R2"
+ SAF_infantry_modern_weapons1: "Vektor R2"
  SAF_infantry_weapons2: "Vektor R4"
  SAF_infantry_weapons3: "Vektor CR-21"
  SAF_infantry_weapons4: "Truvelo Raptor"
@@ -3737,7 +3737,7 @@
 
  ### Serbia ###
  SER_infantry_weapons: "Zastava M70"
- SER_infantry_weapons1: "Zastava M77"
+ SER_infantry_modern_weapons1: "Zastava M77"
  SER_infantry_weapons2: "Zastava M80"
  SER_infantry_weapons3: "Zastava M90"
  SER_infantry_weapons4: "Zastava M21"
@@ -3797,8 +3797,8 @@
  SER_util_vehicle_5_short: "BOV M16"
 
  ### Thailand ###
- SIA_infantry_weapons1: "Type 11"
- SIA_infantry_weapons1_short: "Type 11"
+ SIA_infantry_modern_weapons1: "Type 11"
+ SIA_infantry_modern_weapons1_short: "Type 11"
 
  SIA_util_vehicle_1: "M50 Chaiprakarn"
  SIA_util_vehicle_1_short: "M50"
@@ -3815,7 +3815,7 @@
  ### Singapore ###
  SIN_infantry_weapons: "M16S1"
  SIN_infantry_weapons_desc: "Le M16S1 est une variante exportée du fusil américain M16A1, dont la production locale a été confiée sous licence à ST Kinetics. Au début des SAF, le M16S1 était l'arme standard de chaque soldat. Malgré quelques modifications apportées au M16A1 pour des utilisations locales, le M16S1 présentait toujours certaines de ses lacunes initiales, ce qui a incité l'industrie de la défense de Singapour à rechercher de meilleurs modèles. Le M16S1 est toujours stocké et utilisé comme arme de réserve à ce jour."
- SIN_infantry_weapons1: "SAR 80"
+ SIN_infantry_modern_weapons1: "SAR 80"
  SIN_infantry_weapons2: "SR 88"
  SIN_infantry_weapons3: "SAR 21"
  SIN_infantry_weapons3_desc: "Premier fusil d'assaut indigène conçu et produit localement par ST Kinetics, le SAR 21 est la solution contemporaine aux besoins des FAS au 21e siècle. Bien que ressemblant au Steyr AUG, ses mécanismes sont basés sur les modèles AR-15 modifiés et améliorés pour les besoins des SAF. Remplaçant le M16S1 obsolète, le SAR 21 est désormais l'arme principale de tous les soldats, personnels et réservistes des SAF."
@@ -3900,7 +3900,7 @@
 
  ### Slovenia ###
  SLV_infantry_weapons0: "Zastava M70"
- SLV_infantry_weapons1: "Zastava M77"
+ SLV_infantry_modern_weapons1: "Zastava M77"
  SLV_infantry_weapons2: "Zastava M80"
 
  SLV_IFV_2: "BVP M-80"
@@ -3926,7 +3926,7 @@
 
  ### South Ossetia ###
  SOO_infantry_weapons: "Armes légères 1965"
- SOO_infantry_weapons1: "Armes légères 1975"
+ SOO_infantry_modern_weapons1: "Armes légères 1975"
  SOO_infantry_weapons2: "Armes légères 1985"
  SOO_infantry_weapons3: "Armes légères 1995"
  SOO_infantry_weapons4: "Armes légères 2005"
@@ -3935,8 +3935,8 @@
  ### Russia ###
  SOV_infantry_weapons: "AKM"
  SOV_infantry_weapons_desc: "L'AKM, développé en 1959, est la variante modernisée la plus courante du fusil AK-47, développé par Mikhaïl Kalachnikov. Il est beaucoup plus léger et plus précis en tir automatique que son prédécesseur."
- SOV_infantry_weapons1: "AK-74"
- SOV_infantry_weapons1_desc: "L'AK-74 est développé à partir de l'AKM, et présente des améliorations significatives par rapport à son prédécesseur. Notamment, il utilise des cartouches de 5,45 mm au lieu des 7,62 mm standard du Pacte de Varsovie."
+ SOV_infantry_modern_weapons1: "AK-74"
+ SOV_infantry_modern_weapons1_desc: "L'AK-74 est développé à partir de l'AKM, et présente des améliorations significatives par rapport à son prédécesseur. Notamment, il utilise des cartouches de 5,45 mm au lieu des 7,62 mm standard du Pacte de Varsovie."
  SOV_infantry_weapons2: "AK-74M"
  SOV_infantry_weapons2_desc: "En 1991, l'usine Izhmash de la ville d'Izhevsk a commencé la production à grande échelle d'une variante modernisée de l'AK-74, l'AK-74M. Il est équipé d'une culasse et d'un support allégés ainsi que d'une crosse en polyamide remplie de verre."
  SOV_infantry_weapons3: "AK-103"
@@ -4188,7 +4188,7 @@
 
  ### Spain ###
  SPR_infantry_weapons: "CETME Model A"
- SPR_infantry_weapons1: "CETME Model C"
+ SPR_infantry_modern_weapons1: "CETME Model C"
  SPR_infantry_weapons2: "CETME Model L"
 
  SPR_Anti_tank_1: "Alcotán-100"
@@ -4394,7 +4394,7 @@
 
  ### Sweden ###
  SWE_infantry_weapons: "Kpist m/45"
- SWE_infantry_weapons1: "Ak-4"
+ SWE_infantry_modern_weapons1: "Ak-4"
  SWE_infantry_weapons2: "AK-4HV"
  SWE_infantry_weapons3: "AK-5"
  SWE_infantry_weapons4: "Ak-5C"
@@ -4500,8 +4500,8 @@
  ### Switzerland ###
  SWI_infantry_weapons: "SIG Sturmgewehr 510"
  SWI_infantry_weapons_short: "SG 510"
- SWI_infantry_weapons1: "SIG Sturmgewehr 540"
- SWI_infantry_weapons1_short: "SG 540"
+ SWI_infantry_modern_weapons1: "SIG Sturmgewehr 540"
+ SWI_infantry_modern_weapons1_short: "SG 540"
  SWI_infantry_weapons2: "SIG Sturmgewehr 550"
  SWI_infantry_weapons2_short: "SG 550"
  SWI_infantry_weapons3: "SIG Sturmgewehr 552"
@@ -4550,7 +4550,7 @@
 
  ### Taiwan ###
  TAI_infantry_weapons: "Type 57"
- TAI_infantry_weapons1: "T65"
+ TAI_infantry_modern_weapons1: "T65"
  TAI_infantry_weapons2: "T65 K2"
  TAI_infantry_weapons3: "T86"
  TAI_infantry_weapons4: "T91"
@@ -4595,7 +4595,7 @@
  TUR_Air_UAV2: "TAI Anka"
 
  TUR_infantry_weapons: "G3A2"
- TUR_infantry_weapons1: "G3A3T"
+ TUR_infantry_modern_weapons1: "G3A3T"
  TUR_infantry_weapons2: "HK33"
  TUR_infantry_weapons3: "HK33A2"
  TUR_infantry_weapons4: "MPT-76"
@@ -4802,8 +4802,8 @@
  ### United States ###
  USA_infantry_weapons: "M14"
  USA_infantry_weapons_desc: "Le fusil M14, officiellement appelé United States Rifle, Calibre 7.62 mm, M14, est un fusil américain à tir sélectif qui tire des munitions 7.62x51mm de l'OTAN (.308 in). Il est devenu le fusil standard de l'armée américaine en 1959, remplaçant le fusil M1 Garand dans l'armée américaine en 1961."
- USA_infantry_weapons1: "M16A1"
- USA_infantry_weapons1_desc: "Le fusil M16, officiellement désigné par Fusil, Calibre 5,56 mm, M16, est une famille de fusils militaires adaptés du fusil ArmaLite AR-15 pour l'armée américaine. Le fusil M16 original était un fusil automatique de 5,56 mm avec un chargeur de 20 balles."
+ USA_infantry_modern_weapons1: "M16A1"
+ USA_infantry_modern_weapons1_desc: "Le fusil M16, officiellement désigné par Fusil, Calibre 5,56 mm, M16, est une famille de fusils militaires adaptés du fusil ArmaLite AR-15 pour l'armée américaine. Le fusil M16 original était un fusil automatique de 5,56 mm avec un chargeur de 20 balles."
  USA_infantry_weapons2: "M16A2"
  USA_infantry_weapons2_desc: "Le développement du fusil M16A2 a été demandé à l'origine par le Corps des Marines des États-Unis à la suite de l'expérience de combat au Vietnam avec le XM16E1 et le M16A1. Il a été officiellement adopté par le ministère de la Défense sous le nom de « US Rifle, 5.56mm, M16A2 » en 1982. Les Marines ont été la première branche des forces armées américaines à l'adopter, au début ou au milieu des années 1980, et l'armée américaine a suivi à la fin des années 1980."
  USA_infantry_weapons3: "M16A4"
@@ -6659,7 +6659,7 @@
 
  ### Vietnam ###
  VIE_infantry_weapons: "AKM"
- VIE_infantry_weapons1: "AK-74"
+ VIE_infantry_modern_weapons1: "AK-74"
  VIE_infantry_weapons2: "AK-74M"
  VIE_infantry_weapons3: "STL-1A"
  VIE_infantry_weapons4: "IWI ACE 31"
@@ -6875,17 +6875,17 @@
  cv_awacs_equipment_1_desc: ""
  cv_awacs_equipment_2: "SDCA emb. 2025"
  cv_awacs_equipment_2_desc: ""
- kamikaze_drone: "Drone kamikaze"
- Kamikaze_drone_equipment: "Drone kamikaze"
- Kamikaze_drone_equipment_desc: "Une munition flottante (également connue sous le nom de drone suicide ou de drone kamikaze) est une catégorie de système d'arme aérienne dans laquelle la munition flotte (attend passivement) autour de la zone cible pendant un certain temps et n'attaque qu'une fois la cible localisée. Les munitions flottantes permettent des temps de réaction plus rapides contre les cibles dissimulées ou cachées qui émergent pendant de courtes périodes sans placer de plateformes de grande valeur à proximité de la zone cible, et permettent également un ciblage plus sélectif car l'attaque peut facilement être interrompue."
- kamikaze_drone_1: "Drone kamikaze 2005"
- kamikaze_drone_1_desc: ""
- kamikaze_drone_2: "Drone kamikaze 2015"
- kamikaze_drone_2_desc: ""
- kamikaze_drone_3: "Drone kamikaze 2025"
- kamikaze_drone_3_desc: ""
- kamikaze_drone_4: "Drone kamikaze 2035"
- kamikaze_drone_4_desc: ""
+ kamikaze_modern_drone: "Drone kamikaze"
+ kamikaze_modern_drone_equipment: "Drone kamikaze"
+ kamikaze_modern_drone_equipment_desc: "Une munition flottante (également connue sous le nom de drone suicide ou de drone kamikaze) est une catégorie de système d'arme aérienne dans laquelle la munition flotte (attend passivement) autour de la zone cible pendant un certain temps et n'attaque qu'une fois la cible localisée. Les munitions flottantes permettent des temps de réaction plus rapides contre les cibles dissimulées ou cachées qui émergent pendant de courtes périodes sans placer de plateformes de grande valeur à proximité de la zone cible, et permettent également un ciblage plus sélectif car l'attaque peut facilement être interrompue."
+ kamikaze_modern_drone_1: "Drone kamikaze 2005"
+ kamikaze_modern_drone_1_desc: ""
+ kamikaze_modern_drone_2: "Drone kamikaze 2015"
+ kamikaze_modern_drone_2_desc: ""
+ kamikaze_modern_drone_3: "Drone kamikaze 2025"
+ kamikaze_modern_drone_3_desc: ""
+ kamikaze_modern_drone_4: "Drone kamikaze 2035"
+ kamikaze_modern_drone_4_desc: ""
 
  transport_helicopter_equipment: "Hélicoptères de transport"
  transport_helicopter_equipment_desc: "Les hélicoptères de transport sont utilisés pour le transport de troupes autour ou vers le champ de bataille."
@@ -9702,7 +9702,7 @@
  RAJ_Air_UAV4: "MQ-25 God's Eye"
 
  PER_Air_UAV1: "Shahed-129"
- PER_kamikaze_drone_1: "Shahed-136"
+ PER_kamikaze_modern_drone_1: "Shahed-136"
  PER_Air_UAV2: "Fotros"
 
  SER_Air_UAV1: "Pegaz 011B"
@@ -9802,8 +9802,8 @@
  ### Bashkiriya ###
  BSH_infantry_weapons: "AKM"
  BSH_infantry_weapons_desc: "L'AKM, développé en 1959, est la variante modernisée la plus courante du fusil AK-47, développé par Mikhail Kalashnikov. Il est beaucoup plus léger et plus précis lors du tir automatique que son prédécesseur."
- BSH_infantry_weapons1: "AK-74"
- BSH_infantry_weapons1_desc: "L'AK-74 est développé à partir de l'AKM, et présente des améliorations significatives par rapport à son prédécesseur. Notamment, il utilise des cartouches de 5,45mm au lieu des 7,62mm standard du Pacte de Varsovie de l'époque."
+ BSH_infantry_modern_weapons1: "AK-74"
+ BSH_infantry_modern_weapons1_desc: "L'AK-74 est développé à partir de l'AKM, et présente des améliorations significatives par rapport à son prédécesseur. Notamment, il utilise des cartouches de 5,45mm au lieu des 7,62mm standard du Pacte de Varsovie de l'époque."
  BSH_infantry_weapons2: "AK-74M"
  BSH_infantry_weapons2_desc: "En 1991, l'usine Izhmash de la ville d'Izhevsk a commencé la production à grande échelle d'une variante modernisée de l'AK-74, l'AK-74M. Équipé d'un boulon et d'un ensemble de porteurs allégés ainsi que d'une crosse en polyamide chargé de verre."
  BSH_infantry_weapons3: "AK-103"
@@ -10005,8 +10005,8 @@
  ### Wagner ###
  WAG_infantry_weapons: "AKM"
  WAG_infantry_weapons_desc: "L'AKM, développé en 1959, est la variante modernisée la plus courante du fusil AK-47, développé par Mikhaïl Kalachnikov. Il est beaucoup plus léger et plus précis en tir automatique que son prédécesseur."
- WAG_infantry_weapons1: "AK-74"
- WAG_infantry_weapons1_desc: "L'AK-74 est développé à partir de l'AKM et présente des améliorations significatives par rapport à son prédécesseur. Notamment, il utilise des cartouches de 5,45 mm au lieu des cartouches Warzaw Pact de 7,62 mm alors standard."
+ WAG_infantry_modern_weapons1: "AK-74"
+ WAG_infantry_modern_weapons1_desc: "L'AK-74 est développé à partir de l'AKM et présente des améliorations significatives par rapport à son prédécesseur. Notamment, il utilise des cartouches de 5,45 mm au lieu des cartouches Warzaw Pact de 7,62 mm alors standard."
  WAG_infantry_weapons2: "AK-74M"
  WAG_infantry_weapons2_desc: "En 1991, l'usine Izhmash de la ville d'Ijevsk a commencé la production à grande échelle d'une variante modernisée de l'AK-74, l'AK-74M. Équipé d'un ensemble boulon et support allégé ainsi que d'une crosse en polyamide chargé de verre."
  WAG_infantry_weapons3: "AK-103"

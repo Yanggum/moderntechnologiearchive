@@ -21,7 +21,7 @@ LIT = {
 		}
 	}
 
-	small_plane_naval_bomber_airframe = {
+	small_modern_plane_naval_bomber_airframe = {
 		prefix = ""
 		generic = { "Naikintuvas" }
 		generic_pattern = AIR_WING_NAME_LIT_GENERIC
@@ -29,7 +29,7 @@ LIT = {
 		}
 	}
 
-	small_plane_cas_airframe = {
+	small_modern_plane_cas_airframe = {
 		prefix = ""
 		generic = { "Naikintuvas" }
 		generic_pattern = AIR_WING_NAME_LIT_GENERIC
@@ -53,7 +53,7 @@ LIT = {
 		}
 	}
 
-	cv_small_plane_naval_bomber_airframe = {
+	cv_small_modern_plane_naval_bomber_airframe = {
 		prefix = ""
 		generic = { "Naikintuvas" }
 		generic_pattern = AIR_WING_NAME_LIT_GENERIC
@@ -61,7 +61,7 @@ LIT = {
 		}
 	}
 
-	cv_small_plane_suicide_airframe = {
+	cv_small_modern_plane_suicide_airframe = {
 		prefix = ""
 		generic = { "Naikintuvas" }
 		generic_pattern = AIR_WING_NAME_LIT_GENERIC
@@ -77,25 +77,25 @@ LIT = {
 			"3 Naikintuvas" "7 Naikintuvas" "8 Naikintuvas"
 		}
 	}
-	medium_plane_fighter_airframe = {
+	medium_modern_plane_fighter_airframe = {
 		prefix = ""
 		generic = { "Naikintuvas" }
 		generic_pattern = AIR_WING_NAME_LIT_GENERIC
 
 	}
-	medium_plane_cas_airframe = {
+	medium_modern_plane_cas_airframe = {
 		prefix = ""
 		generic = { "Naikintuvas" }
 		generic_pattern = AIR_WING_NAME_LIT_GENERIC
 	}
-	medium_plane_maritime_patrol_airframe = {
+	medium_modern_plane_maritime_patrol_airframe = {
 		prefix = ""
 		generic = { "Naikintuvas" }
 		generic_pattern = AIR_WING_NAME_LIT_GENERIC
 		unique = {
 		}
 	}
-	medium_plane_suicide_airframe = {
+	medium_modern_plane_suicide_airframe = {
 		prefix = ""
 		generic = { "Naikintuvas" }
 		generic_pattern = AIR_WING_NAME_LIT_GENERIC
@@ -106,7 +106,7 @@ LIT = {
 		generic_pattern = AIR_WING_NAME_LIT_GENERIC
 	}
 
-	cv_medium_plane_fighter_airframe = {
+	cv_medium_modern_plane_fighter_airframe = {
 		prefix = ""
 		generic = { "Naikintuvas" }
 		generic_pattern = AIR_WING_NAME_LIT_GENERIC
@@ -114,7 +114,7 @@ LIT = {
 		}
 	}
 
-	cv_medium_plane_maritime_patrol_airframe = {
+	cv_medium_modern_plane_maritime_patrol_airframe = {
 		prefix = ""
 		generic = { "Naikintuvas" }
 		generic_pattern = AIR_WING_NAME_LIT_GENERIC
@@ -122,7 +122,7 @@ LIT = {
 		}
 	}
 
-	cv_medium_plane_cas_airframe = {
+	cv_medium_modern_plane_cas_airframe = {
 		prefix = ""
 		generic = { "Naikintuvas" }
 		generic_pattern = AIR_WING_NAME_LIT_GENERIC
@@ -130,7 +130,7 @@ LIT = {
 		}
 	}
 
-	cv_medium_plane_air_transport_airframe = {
+	cv_medium_modern_plane_air_transport_airframe = {
 		prefix = ""
 		generic = { "Naikintuvas" }
 		generic_pattern = AIR_WING_NAME_LIT_GENERIC
@@ -153,20 +153,20 @@ LIT = {
 		unique = {
 		}
 	}
-	large_plane_maritime_patrol_airframe = {
+	large_modern_plane_maritime_patrol_airframe = {
 		prefix = ""
 		generic = { "Naikintuvas" }
 		generic_pattern = AIR_WING_NAME_LIT_GENERIC
 
 	}
-	large_plane_air_transport_airframe = {
+	large_modern_plane_air_transport_airframe = {
 		prefix = ""
 		generic = { "Transporto lėktuvas" }
 		generic_pattern = AIR_WING_NAME_LIT_GENERIC
 
 	}
 
-	large_plane_cas_airframe = {
+	large_modern_plane_cas_airframe = {
 		prefix = ""
 		generic = { "Naikintuvas" }
 		generic_pattern = AIR_WING_NAME_LIT_GENERIC
@@ -174,7 +174,7 @@ LIT = {
 		}
 	}
 
-	large_plane_awacs_airframe = {
+	large_modern_plane_awacs_airframe = {
 		prefix = ""
 		generic = { "Naikintuvas" }
 		generic_pattern = AIR_WING_NAME_LIT_GENERIC

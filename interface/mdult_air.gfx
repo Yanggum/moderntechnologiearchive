@@ -2560,7 +2560,7 @@ spriteTypes = {
 	}
 	# PER UAVs
 	SpriteType = {
-		name = "GFX_PER_kamikaze_drone_1_medium"
+		name = "GFX_PER_kamikaze_modern_drone_1_medium"
 		texturefile = "gfx/interface/technologies/PER/AIR/shahed136.dds"
 	}
 	######## FRA Airforce Tab ########
