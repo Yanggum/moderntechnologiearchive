@@ -1,7 +1,7 @@
 objectTypes = {
 
 	pdxmesh = {
-		name = "motorized_frame_mesh"
+		name = "modern_motorized_frame_mesh"
 		file = "gfx/models/units/vehicles/motorized_frame.mesh"
 		
 		animation = { id = "idle"			type = "motorized_frame_idle_animation" }

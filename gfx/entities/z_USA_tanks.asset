@@ -376,7 +376,7 @@ entity = {
 
 entity = {
 		name = "USA_MD4_mechanized_entity_2"
-		pdxmesh = "motorized_frame_mesh"
+		pdxmesh = "modern_motorized_frame_mesh"
 
 		state = { name = "idle"				animation = "idle" 					animation_blend_time = 0.3 animation_speed = 1.0 }
 		state = { name = "retreat"			animation = "move" 	 				animation_blend_time = 0.3 animation_speed = 1.0 }
@@ -389,7 +389,7 @@ entity = {
 		scale = 1.0
 
 		attach = { 	name = "vehicle"			vehicle = "USA_IFV_AA7V_mesh_entity" }
-		attach = { 	name = "infantry"			infantry = "USA_infantry_entity" }
+		attach = { 	name = "infantry"			infantry = "USA_modern_infantry_entity" }
 	}
 
 
@@ -450,7 +450,7 @@ entity = {
 
 entity = {
 		name = "USA_MD4_mechanized_entity"
-		pdxmesh = "motorized_frame_mesh"
+		pdxmesh = "modern_motorized_frame_mesh"
 
 		state = { name = "idle"				animation = "idle" 					animation_blend_time = 0.3 animation_speed = 1.0 }
 		state = { name = "retreat"			animation = "move" 	 				animation_blend_time = 0.3 animation_speed = 1.0 }
@@ -463,7 +463,7 @@ entity = {
 		scale = 1.0
 
 		attach = { 	name = "vehicle"			vehicle = "USA_APC_Stryker_vehicle_entity" }
-		attach = { 	name = "infantry"			infantry = "USA_infantry_entity" }
+		attach = { 	name = "infantry"			infantry = "USA_modern_infantry_entity" }
 	}
 
 ### SPGs

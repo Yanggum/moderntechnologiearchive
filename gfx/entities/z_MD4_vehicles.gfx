@@ -1,58 +1,58 @@
 objectTypes = {
 
 	pdxmesh = {
-		name = "motorized_frame_mesh"
+		name = "modern_motorized_frame_mesh"
 		file = "gfx/models/units/vehicles/motorized_frame.mesh"
 	}
 
 	pdxmesh = {
-		name = "ENG_mechanized_mesh"
-		file = "gfx/models/units/vehicles/ENG_mechanized_01.mesh"
+		name = "ENG_modern_mechanized_mesh"
+		file = "gfx/models/units/vehicles/ENG_modern_mechanized_01.mesh"
 	}
 
 	pdxmesh = {
-		name = "ENG_motorized_mesh"
-		file = "gfx/models/units/vehicles/ENG_motorized_01.mesh"
+		name = "ENG_modern_motorized_mesh"
+		file = "gfx/models/units/vehicles/ENG_modern_motorized_01.mesh"
 	}
 
 	
 	
 	pdxmesh = {
-		name = "generic_motorized_mesh"
-		file = "gfx/models/units/vehicles/generic_motorized_01.mesh"
+		name = "generic_modern_motorized_mesh"
+		file = "gfx/models/units/vehicles/generic_modern_motorized_01.mesh"
 	}
 
 	pdxmesh = {
-		name = "GER_mechanized_mesh"
-		file = "gfx/models/units/vehicles/GER_mechanized_01.mesh"
+		name = "GER_modern_mechanized_mesh"
+		file = "gfx/models/units/vehicles/GER_modern_mechanized_01.mesh"
 	}
 	
 	pdxmesh = {
-		name = "GER_motorized_mesh"
-		file = "gfx/models/units/vehicles/GER_motorized_01.mesh"
+		name = "GER_modern_motorized_mesh"
+		file = "gfx/models/units/vehicles/GER_modern_motorized_01.mesh"
 	}
 	
 	pdxmesh = {
-		name = "SOV_mechanized_mesh"
-		file = "gfx/models/units/vehicles/SOV_mechanized_01.mesh"
+		name = "SOV_modern_mechanized_mesh"
+		file = "gfx/models/units/vehicles/SOV_modern_mechanized_01.mesh"
 	}
 	
 	
 	
 	pdxmesh = {
-		name = "US_mechanized_mesh"
-		file = "gfx/models/units/vehicles/US_mechanized_01.mesh"
+		name = "US_modern_mechanized_mesh"
+		file = "gfx/models/units/vehicles/US_modern_mechanized_01.mesh"
 	}
 	
 	pdxmesh = {
-		name = "US_motorized_mesh"
+		name = "US_modern_motorized_mesh"
 		file = "gfx/models/units/vehicles/USA_jltv.mesh"
 	}
 
 	
 	
 	pdxmesh = {
-		name = "KOR_motorized_mesh"
+		name = "KOR_modern_motorized_mesh"
 		file = "gfx/models/units/vehicles/k511.mesh"
 	}
 	
