@@ -48,11 +48,7 @@ technologies = {
 		research_cost = 1.4
 		start_year = 1965
 
-		folder = {
-			name = modern_artillery_folder
-			position = { x = 12 y = @1965 }
-		}
-
+		
 		categories = {
 			Cat_INF
 			Cat_AA
@@ -90,11 +86,7 @@ technologies = {
 			spaa_optical_guidance_gen1
 		}
 
-		folder = {
-			name = modern_artillery_folder
-			position = { x = 8 y = @1965 }
-		}
-
+		
 		research_cost = 2
 		start_year = 1965
 
@@ -133,11 +125,7 @@ technologies = {
 		xp_boost_cost = 50
 		xp_research_bonus = 1.50
 
-		folder = {
-			name = modern_artillery_folder
-			position = { x = 10 y = @1985 }
-		}
-
+		
 		categories = {
 			Cat_AA
 		}
@@ -164,11 +152,7 @@ technologies = {
 		research_cost = 1.5
 		start_year = 1985
 
-		folder = {
-			name = modern_artillery_folder
-			position = { x = 12 y = @1985 }
-		}
-
+		
 		categories = {
 			Cat_INF
 			Cat_L_AA
@@ -205,11 +189,7 @@ technologies = {
 			spaa_optical_guidance_gen2
 		}
 
-		folder = {
-			name = modern_artillery_folder
-			position = { x = 8 y = @1985 }
-		}
-		path = {
+				path = {
 			leads_to_tech = nsb_AA_upgrade_2
 			research_cost_coeff = 1
 		}
@@ -251,11 +231,7 @@ technologies = {
 		xp_boost_cost = 50
 		xp_research_bonus = 1.50
 
-		folder = {
-			name = modern_artillery_folder
-			position = { x = 10 y = @2005 }
-		}
-
+		
 		categories = {
 			Cat_AA
 		}
@@ -283,11 +259,7 @@ technologies = {
 		research_cost = 1.6
 		start_year = 2005
 
-		folder = {
-			name = modern_artillery_folder
-			position = { x = 12 y = @2005 }
-		}
-
+		
 		categories = {
 			Cat_AA
 			Cat_L_AA
@@ -338,11 +310,7 @@ technologies = {
 		research_cost = 2.4
 		start_year = 2005
 
-		folder = {
-			name = modern_artillery_folder
-			position = { x = 8 y = @2005 }
-		}
-
+		
 		categories = {
 			Cat_SP_AA
 			Cat_AA
@@ -386,11 +354,7 @@ technologies = {
 		xp_boost_cost = 50
 		xp_research_bonus = 1.50
 
-		folder = {
-			name = modern_artillery_folder
-			position = { x = 10 y = @2025 }
-		}
-
+		
 		categories = {
 			Cat_AA
 		}
@@ -418,11 +382,7 @@ technologies = {
 		research_cost = 1.7
 		start_year = 2025
 
-		folder = {
-			name = modern_artillery_folder
-			position = { x = 12 y = @2025 }
-		}
-
+		
 		categories = {
 			Cat_INF
 			Cat_AA
@@ -473,11 +433,7 @@ technologies = {
 		research_cost = 2.6
 		start_year = 2025
 
-		folder = {
-			name = modern_artillery_folder
-			position = { x = 8 y = @2025 }
-		}
-
+		
 		categories = {
 			Cat_SP_AA
 			Cat_AA
@@ -518,11 +474,7 @@ technologies = {
 		xp_boost_cost = 50
 		xp_research_bonus = 1.50
 
-		folder = {
-			name = modern_artillery_folder
-			position = { x = 10 y = @2035 }
-		}
-
+		
 		categories = {
 			Cat_AA
 		}
@@ -545,11 +497,7 @@ technologies = {
 		research_cost = 1.5
 		start_year = 2035
 
-		folder = {
-			name = modern_artillery_folder
-			position = { x = 12 y = @2035 }
-		}
-
+		
 		categories = {
 			Cat_INF
 			Cat_AA
@@ -596,11 +544,7 @@ technologies = {
 		research_cost = 2.7
 		start_year = 2035
 
-		folder = {
-			name = modern_artillery_folder
-			position = { x = 8 y = @2035 }
-		}
-
+		
 		categories = {
 			Cat_SP_AA
 			Cat_AA

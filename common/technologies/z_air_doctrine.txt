@@ -44,10 +44,7 @@ technologies = {
 			Cat_battlefield_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 0 y = 0 }
-		}
+		
 
 		ai_will_do = {
 			factor = 1
@@ -106,10 +103,7 @@ technologies = {
 			Cat_battlefield_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = -2 y = 2 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -145,10 +139,7 @@ technologies = {
 			leads_to_tech = aerial_gunship_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 0 y = 2 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -184,10 +175,7 @@ technologies = {
 			leads_to_tech = aerial_gunship_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 2 y = 2 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -218,10 +206,7 @@ technologies = {
 			Cat_battlefield_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = -1 y = 4 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -253,10 +238,7 @@ technologies = {
 			leads_to_tech = t21st_century_modernization
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 1 y = 4 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -291,10 +273,7 @@ technologies = {
 			leads_to_tech = concentrated_aircraft_design
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 0 y = 6 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -331,10 +310,7 @@ technologies = {
 			Cat_battlefield_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = -2 y = 8 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -367,10 +343,7 @@ technologies = {
 			leads_to_tech = top_gun_and_red_flag
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = -1 y = 10 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -403,10 +376,7 @@ technologies = {
 			leads_to_tech = multi_mission_capabilities
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = -3 y = 10 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -445,10 +415,7 @@ technologies = {
 			leads_to_tech = dynamic_strike_packages
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = -1 y = 12 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -480,10 +447,7 @@ technologies = {
 			leads_to_tech = dynamic_strike_packages
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = -3 y = 12 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -520,10 +484,7 @@ technologies = {
 			leads_to_tech = standoff_strike_munitions
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 2 y = 8 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -558,10 +519,7 @@ technologies = {
 			leads_to_tech = extended_killbox_coordination
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 1 y = 10 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -592,10 +550,7 @@ technologies = {
 			Cat_battlefield_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 3 y = 10 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -635,10 +590,7 @@ technologies = {
 			leads_to_tech = dedicated_escorts_dedicated_strikers
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 1 y = 12 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -670,10 +622,7 @@ technologies = {
 			leads_to_tech = dedicated_escorts_dedicated_strikers
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 3 y = 12 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -705,10 +654,7 @@ technologies = {
 			leads_to_tech = precision_strike_packages
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = -2 y = 14 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -734,10 +680,7 @@ technologies = {
 			Cat_battlefield_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 0 y = 14 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -768,10 +711,7 @@ technologies = {
 			leads_to_tech = precision_strike_packages
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 2 y = 14 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -809,10 +749,7 @@ technologies = {
 			Cat_battlefield_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 0 y = 16 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -852,10 +789,7 @@ technologies = {
 			Cat_operational_integrity
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 0 y = 0 }
-		}
+		
 
 		ai_will_do = {
 			factor = 1
@@ -911,10 +845,7 @@ technologies = {
 			Cat_operational_integrity
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = -2 y = 2 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -946,10 +877,7 @@ technologies = {
 			Cat_operational_integrity
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = -3 y = 4 }
-		}
+		
 
 		ai_will_do = {
 			factor = 1
@@ -996,10 +924,7 @@ technologies = {
 			Cat_operational_integrity
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = -1 y = 4 }
-		}
+		
 
 		ai_will_do = {
 			factor = 1
@@ -1055,10 +980,7 @@ technologies = {
 			Cat_operational_integrity
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = -2 y = 6 }
-		}
+		
 
 		ai_will_do = {
 			factor = 1
@@ -1104,10 +1026,7 @@ technologies = {
 			Cat_operational_integrity
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = -3 y = 8 }
-		}
+		
 
 		ai_will_do = {
 			factor = 1
@@ -1147,10 +1066,7 @@ technologies = {
 			leads_to_tech = high_efficiency_fighter_flights
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = -3 y = 10 }
-		}
+		
 
 		ai_will_do = {
 			factor = 1
@@ -1197,10 +1113,7 @@ technologies = {
 			Cat_operational_integrity
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = -1 y = 8 }
-		}
+		
 
 		ai_will_do = {
 			factor = 1
@@ -1240,10 +1153,7 @@ technologies = {
 			Cat_operational_integrity
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = -1 y = 10 }
-		}
+		
 
 		ai_will_do = {
 			factor = 1
@@ -1278,10 +1188,7 @@ technologies = {
 			Cat_operational_integrity
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = -2 y = 12 }
-		}
+		
 
 		ai_will_do = {
 			factor = 1
@@ -1329,10 +1236,7 @@ technologies = {
 			Cat_operational_integrity
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 2 y = 2 }
-		}
+		
 
 		ai_will_do = {
 			factor = 1
@@ -1372,10 +1276,7 @@ technologies = {
 			Cat_operational_integrity
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 3 y = 4 }
-		}
+		
 
 		ai_will_do = {
 			factor = 1
@@ -1423,10 +1324,7 @@ technologies = {
 			Cat_operational_integrity
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 1 y = 4 }
-		}
+		
 
 		ai_will_do = {
 			factor = 1
@@ -1470,10 +1368,7 @@ technologies = {
 			Cat_operational_integrity
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 2 y = 6 }
-		}
+		
 
 		ai_will_do = {
 			factor = 1
@@ -1513,10 +1408,7 @@ technologies = {
 			Cat_operational_integrity
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 1 y = 8 }
-		}
+		
 
 		ai_will_do = {
 			factor = 1
@@ -1557,10 +1449,7 @@ technologies = {
 			Cat_operational_integrity
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 1 y = 10 }
-		}
+		
 
 		ai_will_do = {
 			factor = 1
@@ -1601,10 +1490,7 @@ technologies = {
 			Cat_operational_integrity
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 3 y = 8 }
-		}
+		
 
 		ai_will_do = {
 			factor = 1
@@ -1642,10 +1528,7 @@ technologies = {
 			Cat_operational_integrity
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 3 y = 10 }
-		}
+		
 
 		ai_will_do = {
 			factor = 1
@@ -1680,10 +1563,7 @@ technologies = {
 			Cat_operational_integrity
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 2 y = 12 }
-		}
+		
 
 		ai_will_do = {
 			factor = 1
@@ -1727,10 +1607,7 @@ technologies = {
 			Cat_battlefield_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 0 y = 0 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -1778,10 +1655,7 @@ technologies = {
 			Cat_battlefield_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 0 y = 2 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -1808,10 +1682,7 @@ technologies = {
 			Cat_battlefield_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 0 y = 6 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -1845,10 +1716,7 @@ technologies = {
 			Cat_battlefield_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = -1 y = 4 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -1881,10 +1749,7 @@ technologies = {
 			Cat_battlefield_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = -3 y = 4 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -1916,10 +1781,7 @@ technologies = {
 			Cat_battlefield_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = -2 y = 6 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -1950,10 +1812,7 @@ technologies = {
 			Cat_battlefield_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 1 y = 4 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -1985,10 +1844,7 @@ technologies = {
 			Cat_battlefield_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 3 y = 4 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -2020,10 +1876,7 @@ technologies = {
 			Cat_battlefield_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 2 y = 6 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -2059,10 +1912,7 @@ technologies = {
 			Cat_battlefield_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 0 y = 8 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -2101,10 +1951,7 @@ technologies = {
 			Cat_battlefield_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = -2 y = 10 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -2138,10 +1985,7 @@ technologies = {
 			Cat_battlefield_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = -1 y = 12 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -2173,10 +2017,7 @@ technologies = {
 			Cat_battlefield_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = -3 y = 12 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -2210,10 +2051,7 @@ technologies = {
 			Cat_battlefield_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = -2 y = 14 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -2258,10 +2096,7 @@ technologies = {
 			Cat_battlefield_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 2 y = 10 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -2294,10 +2129,7 @@ technologies = {
 			Cat_battlefield_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 1 y = 12 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -2329,10 +2161,7 @@ technologies = {
 			Cat_battlefield_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 3 y = 12 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -2364,10 +2193,7 @@ technologies = {
 			Cat_battlefield_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 2 y = 14 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0
@@ -2394,10 +2220,7 @@ technologies = {
 			Cat_battlefield_support
 		}
 
-		folder = {
-			name = modern_air_doctrine_folder
-			position = { x = 0 y = 16 }
-		}
+		
 
 		ai_research_weights = {
 			air_doctrine = -1.0

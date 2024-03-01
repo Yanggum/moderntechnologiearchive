@@ -33,10 +33,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 0 y = 0 }
-		}
+		
 	}
 	blot_out_the_sun = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech blot_out_the_sun" }
@@ -73,10 +70,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = -4 y = 2 }
-		}
+		
 	}
 	increase_candidate_pools = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech increase_candidate_pools" }
@@ -103,10 +97,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = -3 y = 4 }
-		}
+		
 	}
 	train_more_jumpers = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech train_more_jumpers" }
@@ -133,10 +124,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = -5 y = 4 }
-		}
+		
 	}
 	protected_transports = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech protected_transports" }
@@ -162,10 +150,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = -3 y = 6 }
-		}
+		
 	}
 	tight_space_packing = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech tight_space_packing" }
@@ -191,10 +176,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = -5 y = 6 }
-		}
+		
 	}
 	rapid_training_pipeline = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech rapid_training_pipeline" }
@@ -225,10 +207,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = -4 y = 8 }
-		}
+		
 	}
 	silk_rain = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech silk_rain" }
@@ -255,10 +234,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = -3 y = 10 }
-		}
+		
 	}
 	aggressive_mindset = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech aggressive_mindset" }
@@ -290,10 +266,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = -5 y = 10 }
-		}
+		
 	}
 	airdropped_heavy_equipment = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech airdropped_heavy_equipment" }
@@ -333,10 +306,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = -3 y = 12 }
-		}
+		
 	}
 	we_need_more_airborne = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech we_need_more_airborne" }
@@ -364,10 +334,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = -5 y = 12 }
-		}
+		
 	}
 	ground_tower_jump = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech ground_tower_jump" }
@@ -398,10 +365,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = -4 y = 14 }
-		}
+		
 	}
 	palitized_vehicles = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech palitized_vehicles" }
@@ -429,10 +393,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = -3 y = 16 }
-		}
+		
 	}
 	extra_commo_gear = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech extra_commo_gear" }
@@ -492,10 +453,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = -5 y = 16 }
-		}
+		
 	}
 	dedicated_paratrooper_transports = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech dedicated_paratrooper_transports" }
@@ -521,10 +479,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = -3 y = 18 }
-		}
+		
 	}
 	advanced_medic_training = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech advanced_medic_training" }
@@ -564,10 +519,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = -5 y = 18 }
-		}
+		
 	}
 	organized_and_numerous = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech organized_and_numerous" }
@@ -598,10 +550,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = -3 y = 20 }
-		}
+		
 	}
 	jump_with_what_you_need = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech jump_with_what_you_need" }
@@ -627,10 +576,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = -5 y = 20 }
-		}
+		
 	}
 	combat_reoganization = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech combat_reoganization" }
@@ -682,10 +628,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = -3 y = 22 }
-		}
+		
 	}
 	flood_their_skies = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech flood_their_skies" }
@@ -707,10 +650,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = -5 y = 22 }
-		}
+		
 	}
 	shock_from_the_sky = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech shock_from_the_sky" }
@@ -742,10 +682,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 0 y = 2 }
-		}
+		
 	}
 	shock_force_expansions = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech shock_force_expansions" }
@@ -777,10 +714,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 0 y = 4 }
-		}
+		
 	}
 	light_mortar_barrages = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech light_mortar_barrages" }
@@ -835,10 +769,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 1 y = 6 }
-		}
+		
 	}
 	signals_intelligence = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech signals_intelligence" }
@@ -864,10 +795,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = -1 y = 6 }
-		}
+		
 	}
 	dedicated_supply_teams = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech dedicated_supply_teams" }
@@ -894,10 +822,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 1 y = 8 }
-		}
+		
 	}
 	extra_anti_tank_weapons = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech extra_anti_tank_weapons" }
@@ -931,10 +856,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = -1 y = 8 }
-		}
+		
 	}
 	fast_hard_training = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech fast_hard_training" }
@@ -962,10 +884,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 1 y = 10 }
-		}
+		
 	}
 	medical_evacuation_plans = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech medical_evacuation_plans" }
@@ -1003,10 +922,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = -1 y = 10 }
-		}
+		
 	}
 	combat_drops = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech combat_drops" }
@@ -1039,10 +955,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 0 y = 12 }
-		}
+		
 	}
 	hardened_transports = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech hardened_transports" }
@@ -1069,10 +982,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 1 y = 14 }
-		}
+		
 	}
 	airdrop_logistical_supply = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech airdrop_logistical_supply" }
@@ -1098,10 +1008,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = -1 y = 14 }
-		}
+		
 	}
 	more_weapons_more_ammo = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech more_weapons_more_ammo" }
@@ -1135,10 +1042,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 1 y = 16 }
-		}
+		
 	}
 	second_wave_jumpers = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech second_wave_jumpers" }
@@ -1164,10 +1068,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = -1 y = 16 }
-		}
+		
 	}
 	difficult_terrain_exercises = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech difficult_terrain_exercises" }
@@ -1203,10 +1104,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 1 y = 18 }
-		}
+		
 	}
 	best_offence_is_good_defence = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech best_offence_is_good_defence" }
@@ -1236,10 +1134,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = -1 y = 18 }
-		}
+		
 	}
 	mass_drop_tactics = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech mass_drop_tactics" }
@@ -1267,10 +1162,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 1 y = 20 }
-		}
+		
 	}
 	open_area_fighting = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech open_area_fighting" }
@@ -1306,10 +1198,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = -1 y = 20 }
-		}
+		
 	}
 	fuel_conservation_techniques = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech fuel_conservation_techniques" }
@@ -1330,10 +1219,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 1 y = 22 }
-		}
+		
 	}
 	stealth_combat_insertions = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech stealth_combat_insertions" }
@@ -1354,10 +1240,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = -1 y = 22 }
-		}
+		
 	}
 	who_dares_wins = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech who_dares_wins" }
@@ -1396,10 +1279,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 4 y = 2 }
-		}
+		
 	}
 	elite_forces_elite_training = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech elite_forces_elite_training" }
@@ -1436,10 +1316,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 4 y = 4 }
-		}
+		
 	}
 	combat_resupplies = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech combat_resupplies" }
@@ -1466,10 +1343,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 3 y = 6 }
-		}
+		
 	}
 	extensive_range_time = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech extensive_range_time" }
@@ -1498,10 +1372,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 5 y = 6 }
-		}
+		
 	}
 	combat_supply_recovery = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech combat_supply_recovery" }
@@ -1528,10 +1399,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 3 y = 8 }
-		}
+		
 	}
 	small_unit_tactics = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech small_unit_tactics" }
@@ -1561,10 +1429,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 5 y = 8 }
-		}
+		
 	}
 	dedicated_saboteurs = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech dedicated_saboteurs" }
@@ -1597,10 +1462,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 4 y = 10 }
-		}
+		
 	}
 	veteran_training_staff = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech veteran_training_staff" }
@@ -1626,10 +1488,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 3 y = 12 }
-		}
+		
 	}
 	combat_paramedics = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech combat_paramedics" }
@@ -1669,10 +1528,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 5 y = 12 }
-		}
+		
 	}
 	sere_training = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech sere_training" }
@@ -1701,10 +1557,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 3 y = 14 }
-		}
+		
 	}
 	gureilla_fighting = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech gureilla_fighting" }
@@ -1736,10 +1589,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 5 y = 14 }
-		}
+		
 	}
 	use_what_we_take = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech use_what_we_take" }
@@ -1771,10 +1621,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 3 y = 16 }
-		}
+		
 	}
 	any_time_any_place_any_weather = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech any_time_any_place_any_weather" }
@@ -1821,10 +1668,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 5 y = 16 }
-		}
+		
 	}
 	advanced_medical_care = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech advanced_medical_care" }
@@ -1850,10 +1694,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 3 y = 18 }
-		}
+		
 	}
 	seize_the_initive = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech seize_the_initive" }
@@ -1882,10 +1723,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 5 y = 18 }
-		}
+		
 	}
 	urban_warfare_training = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech urban_warfare_training" }
@@ -1917,10 +1755,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 3 y = 20 }
-		}
+		
 	}
 	rapid_replenishment_doctrine = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech rapid_replenishment_doctrine" }
@@ -1949,10 +1784,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 5 y = 20 }
-		}
+		
 	}
 	fight_with_what_you_have = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech fight_with_what_you_have" }
@@ -1977,10 +1809,7 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 3 y = 22 }
-		}
+		
 	}
 	eyes_and_ears = {
 		on_research_complete = { log = "[GetDateText]: [Root.GetName]: add tech eyes_and_ears" }
@@ -2050,9 +1879,6 @@ technologies = {
 			Cat_SPECIAL_FORCES
 		}
 
-		folder = {
-			name = modern_special_forces_airborne_doctrine_folder
-			position = { x = 5 y = 22 }
-		}
+		
 	}
 }

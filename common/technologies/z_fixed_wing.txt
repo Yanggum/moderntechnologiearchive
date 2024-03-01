@@ -44,10 +44,7 @@ technologies = {
 
 		research_cost = 1.5
 		start_year = 1945 #needs to be synched maybee with other starting techs
-		folder = {
-			name = modern_fixed_wing_folder
-			position = { x = @row3 y = @1945 }
-		}
+		
 
 		categories = {
 			CAT_FIXED_WING
@@ -77,10 +74,7 @@ technologies = {
 		research_cost = 2.3
 		start_year = 1965
 
-		folder = {
-			name = modern_fixed_wing_folder
-			position = { x = @row2 y = @1965 }
-		}
+		
 
 		categories = {
 			CAT_FIXED_WING
@@ -111,10 +105,7 @@ technologies = {
 			research_cost = 2.4
 			start_year = 1985
 
-			folder = {
-				name = modern_fixed_wing_folder
-				position = { x = @row2 y = @1985 }
-			}
+			
 
 			categories = {
 				CAT_FIXED_WING
@@ -153,10 +144,7 @@ technologies = {
 		research_cost = 1
 		start_year = 1995
 
-		folder = {
-			name = modern_fixed_wing_folder
-			position = { x = @row2 y = @1995 }
-		}
+		
 
 		categories = {
 			CAT_FIXED_WING
@@ -181,10 +169,7 @@ technologies = {
 			research_cost = 2.5
 			start_year = 1995
 
-			folder = {
-				name = modern_fixed_wing_folder
-				position = { x = @row1 y = @1995 }
-			}
+			
 
 			categories = {
 				CAT_FIXED_WING
@@ -225,10 +210,7 @@ technologies = {
 			research_cost = 4.6
 			start_year = 2015
 
-			folder = {
-				name = modern_fixed_wing_folder
-				position = { x = @row2 y = @2005 }
-			}
+			
 
 			categories = {
 				CAT_FIXED_WING
@@ -279,10 +261,7 @@ technologies = {
 			research_cost = 1
 			start_year = 2020
 
-			folder = {
-				name = modern_fixed_wing_folder
-				position = { x = @row2 y = @2015 }
-			}
+			
 
 			categories = {
 				CAT_FIXED_WING
@@ -316,10 +295,7 @@ technologies = {
 			research_cost = 3.7
 			start_year = 2025
 
-			folder = {
-				name = modern_fixed_wing_folder
-				position = { x = @row1 y = @2015 }
-			}
+			
 
 			categories = {
 				CAT_FIXED_WING
@@ -368,10 +344,7 @@ technologies = {
 			research_cost = 3.8
 			start_year = 2035
 
-			folder = {
-				name = modern_fixed_wing_folder
-				position = { x = @row2 y = @2025 }
-			}
+			
 
 			categories = {
 				CAT_FIXED_WING
@@ -414,10 +387,7 @@ technologies = {
 			research_cost = 1
 			start_year = 2040
 
-			folder = {
-				name = modern_fixed_wing_folder
-				position = { x = @row2 y = @2035 }
-			}
+			
 
 			categories = {
 				CAT_FIXED_WING
@@ -451,10 +421,7 @@ technologies = {
 			research_cost = 3.9
 			start_year = 2045
 
-			folder = {
-				name = modern_fixed_wing_folder
-				position = { x = @row1 y = @2035 }
-			}
+			
 
 			categories = {
 			CAT_FIXED_WING
@@ -497,10 +464,7 @@ technologies = {
 		research_cost = 2.3
 		start_year = 1965
 
-		folder = {
-			name = modern_fixed_wing_folder
-			position = { x = @row3 y = @1965 }
-		}
+		
 		categories = {
 			CAT_FIXED_WING
 			Cat_AIR_EQP
@@ -559,10 +523,7 @@ technologies = {
 			research_cost = 2.4
 			start_year = 1985
 
-			folder = {
-				name = modern_fixed_wing_folder
-				position = { x = @row3 y = @1985 }
-			}
+			
 
 			sub_technologies = {
 				CV_MR_Fighter2
@@ -635,10 +596,7 @@ technologies = {
 		research_cost = 1
 		start_year = 1995
 
-		folder = {
-			name = modern_fixed_wing_folder
-			position = { x = @row3 y = @1995 }
-		}
+		
 
 		categories = {
 			CAT_FIXED_WING
@@ -669,10 +627,7 @@ technologies = {
 			research_cost = 2.5
 			start_year = 1995
 
-			folder = {
-				name = modern_fixed_wing_folder
-				position = { x = @row4 y = @1995 }
-			}
+			
 
 			sub_technologies = {
 				CV_MR_Fighter3
@@ -747,10 +702,7 @@ technologies = {
 			research_cost = 4.6
 			start_year = 2015
 
-			folder = {
-				name = modern_fixed_wing_folder
-				position = { x = @row3 y = @2005 }
-			}
+			
 
 			sub_technologies = {
 				CV_MR_Fighter4
@@ -831,10 +783,7 @@ technologies = {
 		research_cost = 1
 		start_year = 2020
 
-		folder = {
-			name = modern_fixed_wing_folder
-			position = { x = @row3 y = @2015 }
-		}
+		
 
 		categories = {
 			CAT_FIXED_WING
@@ -869,10 +818,7 @@ technologies = {
 			research_cost = 3.7
 			start_year = 2025
 
-			folder = {
-				name = modern_fixed_wing_folder
-				position = { x = @row4 y = @2015 }
-			}
+			
 
 			sub_technologies = {
 				CV_MR_Fighter5
@@ -955,10 +901,7 @@ technologies = {
 			research_cost = 3.8
 			start_year = 2035
 
-			folder = {
-				name = modern_fixed_wing_folder
-				position = { x = @row3 y = @2025 }
-			}
+			
 
 			sub_technologies = {
 				CV_MR_Fighter6
@@ -1039,10 +982,7 @@ technologies = {
 		research_cost = 1
 		start_year = 2040
 
-		folder = {
-			name = modern_fixed_wing_folder
-			position = { x = @row3 y = @2035 }
-		}
+		
 
 		categories = {
 			CAT_FIXED_WING
@@ -1077,10 +1017,7 @@ technologies = {
 			research_cost = 3.9
 			start_year = 2045
 
-			folder = {
-				name = modern_fixed_wing_folder
-				position = { x = @row4 y = @2035 }
-			}
+			
 
 			sub_technologies = {
 				CV_MR_Fighter7
@@ -1146,10 +1083,7 @@ technologies = {
 		research_cost = 2.3
 		start_year = 1965
 
-		folder = {
-			name = modern_fixed_wing_folder
-			position = { x = @row5 y = @1965 }
-		}
+		
 		categories = {
 			CAT_FIXED_WING
 			Cat_AIR_EQP
@@ -1178,10 +1112,7 @@ technologies = {
 			research_cost = 2.4
 			start_year = 1985
 
-			folder = {
-				name = modern_fixed_wing_folder
-				position = { x = @row5 y = @1985 }
-			}
+			
 
 			categories = {
 				CAT_FIXED_WING
@@ -1220,10 +1151,7 @@ technologies = {
 		research_cost = 1
 		start_year = 1995
 
-		folder = {
-			name = modern_fixed_wing_folder
-			position = { x = @row5 y = @1995 }
-		}
+		
 
 		categories = {
 			CAT_FIXED_WING
@@ -1253,10 +1181,7 @@ technologies = {
 			research_cost = 2.5
 			start_year = 1995
 
-			folder = {
-				name = modern_fixed_wing_folder
-				position = { x = @row6 y = @1995 }
-			}
+			
 
 			categories = {
 				CAT_FIXED_WING
@@ -1297,10 +1222,7 @@ technologies = {
 			research_cost = 4.6
 			start_year = 2015
 
-			folder = {
-				name = modern_fixed_wing_folder
-				position = { x = @row5 y = @2005 }
-			}
+			
 
 			categories = {
 				CAT_FIXED_WING
@@ -1347,10 +1269,7 @@ technologies = {
 		research_cost = 1
 		start_year = 2020
 
-		folder = {
-			name = modern_fixed_wing_folder
-			position = { x = @row5 y = @2015 }
-		}
+		
 
 		categories = {
 			CAT_FIXED_WING
@@ -1384,10 +1303,7 @@ technologies = {
 			research_cost = 3.7
 			start_year = 2025
 
-			folder = {
-				name = modern_fixed_wing_folder
-				position = { x = @row6 y = @2015 }
-			}
+			
 
 			categories = {
 				CAT_FIXED_WING
@@ -1436,10 +1352,7 @@ technologies = {
 			research_cost = 3.8
 			start_year = 2035
 
-			folder = {
-				name = modern_fixed_wing_folder
-				position = { x = @row5 y = @2025 }
-			}
+			
 
 			categories = {
 				CAT_FIXED_WING
@@ -1486,10 +1399,7 @@ technologies = {
 			research_cost = 1
 			start_year = 2040
 
-			folder = {
-				name = modern_fixed_wing_folder
-				position = { x = @row5 y = @2035 }
-			}
+			
 
 			categories = {
 				CAT_FIXED_WING
@@ -1523,10 +1433,7 @@ technologies = {
 			research_cost = 3.9
 			start_year = 2045
 
-			folder = {
-				name = modern_fixed_wing_folder
-				position = { x = @row6 y = @2035 }
-			}
+			
 
 			categories = {
 				CAT_FIXED_WING
@@ -1568,10 +1475,7 @@ technologies = {
 		research_cost = 2.3
 		start_year = 1965
 
-		folder = {
-			name = modern_fixed_wing_folder
-			position = { x = @row7 y = @1965 }
-		}
+		
 		categories = {
 			CAT_FIXED_WING
 			Cat_AIR_EQP
@@ -1629,10 +1533,7 @@ technologies = {
 		research_cost = 2.4
 		start_year = 1995
 
-		folder = {
-			name = modern_fixed_wing_folder
-			position = { x = @row7 y = @1995 }
-		}
+		
 
 		categories = {
 			CAT_FIXED_WING
@@ -1698,10 +1599,7 @@ technologies = {
 		research_cost = 3.5
 		start_year = 2015
 
-		folder = {
-			name = modern_fixed_wing_folder
-			position = { x = @row7 y = @2005 }
-		}
+		
 
 		categories = {
 			CAT_FIXED_WING
@@ -1775,10 +1673,7 @@ technologies = {
 		research_cost = 3.0
 		start_year = 2025
 
-		folder = {
-			name = modern_fixed_wing_folder
-			position = { x = @row7 y = @2015 }
-		}
+		
 
 		categories = {
 			CAT_FIXED_WING
@@ -1847,10 +1742,7 @@ technologies = {
 		research_cost = 3.1
 		start_year = 2035
 
-		folder = {
-			name = modern_fixed_wing_folder
-			position = { x = @row7 y = @2025 }
-		}
+		
 
 		categories = {
 			CAT_FIXED_WING
@@ -1918,10 +1810,7 @@ technologies = {
 		research_cost = 3.5
 		start_year = 1995
 
-		folder = {
-			name = modern_fixed_wing_folder
-			position = { x = @row8 y = @1995 }
-		}
+		
 		categories = {
 			CAT_FIXED_WING
 			Cat_AIR_EQP
@@ -1972,10 +1861,7 @@ technologies = {
 		research_cost = 3.2
 		start_year = 2015
 
-		folder = {
-			name = modern_fixed_wing_folder
-			position = { x = @row8 y = @2005 }
-		}
+		
 		categories = {
 			CAT_FIXED_WING
 			Cat_AIR_EQP
@@ -2034,10 +1920,7 @@ technologies = {
 		research_cost = 3
 		start_year = 2025
 
-		folder = {
-			name = modern_fixed_wing_folder
-			position = { x = @row8 y = @2015 }
-		}
+		
 		categories = {
 			CAT_FIXED_WING
 			Cat_AIR_EQP
@@ -2091,10 +1974,7 @@ technologies = {
 		research_cost = 2.8
 		start_year = 2035
 
-		folder = {
-			name = fixed_wing_folder
-			position = { x = @row8 y = @2025 }
-		}
+		
 		categories = {
 			CAT_FIXED_WING
 			Cat_AIR_EQP

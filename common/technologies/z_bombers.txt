@@ -50,10 +50,7 @@ technologies = {
 
 		research_cost = 2
 		start_year = 1945
-		folder = {
-			name = modern_bomber_folder
-			position = { x = @row2 y = @1945 }
-		}
+		
 
 		categories = {
 			Cat_H_AIR
@@ -82,10 +79,7 @@ technologies = {
 
 		research_cost = 4.6
 		start_year = 1965
-		folder = {
-			name = modern_bomber_folder
-			position = { x = @row1 y = @1965 }
-		}
+		
 
 		categories = {
 			Cat_H_AIR
@@ -123,10 +117,7 @@ technologies = {
 
 			research_cost = 4.8
 			start_year = 1975
-			folder = {
-				name = modern_bomber_folder
-				position = { x = @row1 y = @1975 }
-			}
+			
 
 			categories = {
 				Cat_H_AIR
@@ -164,10 +155,7 @@ technologies = {
 
 			research_cost = 4.9
 			start_year = 1985
-			folder = {
-				name = modern_bomber_folder
-				position = { x = @row1 y = @1985 }
-			}
+			
 
 			categories = {
 				Cat_H_AIR
@@ -205,10 +193,7 @@ technologies = {
 
 			research_cost = 8
 			start_year = 2015
-			folder = {
-				name = modern_bomber_folder
-				position = { x = @row1 y = @2015 }
-			}
+			
 
 			categories = {
 				Cat_H_AIR
@@ -254,10 +239,7 @@ technologies = {
 
 			research_cost = 8.2
 			start_year = 2025
-			folder = {
-				name = modern_bomber_folder
-				position = { x = @row1 y = @2025 }
-			}
+			
 
 			categories = {
 				Cat_H_AIR
@@ -303,10 +285,7 @@ technologies = {
 
 			research_cost = 8.2
 			start_year = 2035
-			folder = {
-				name = modern_bomber_folder
-				position = { x = @row1 y = @2035 }
-			}
+			
 
 			categories = {
 				Cat_H_AIR
@@ -353,10 +332,7 @@ technologies = {
 
 		research_cost = 2
 		start_year = 1965
-		folder = {
-			name = modern_bomber_folder
-			position = { x = @row2 y = @1965 }
-		}
+		
 
 		categories = {
 			Cat_H_AIR
@@ -385,10 +361,7 @@ technologies = {
 
 			research_cost = 2
 			start_year = 1985
-			folder = {
-				name = modern_bomber_folder
-				position = { x = @row2 y = @1985 }
-			}
+			
 
 			categories = {
 				Cat_H_AIR
@@ -421,10 +394,7 @@ technologies = {
 
 			research_cost = 2
 			start_year = 1995
-			folder = {
-				name = modern_bomber_folder
-				position = { x = @row2 y = @1995 }
-			}
+			
 
 			categories = {
 				Cat_H_AIR
@@ -457,10 +427,7 @@ technologies = {
 
 			research_cost = 2
 			start_year = 2015
-			folder = {
-				name = modern_bomber_folder
-				position = { x = @row2 y = @2015 }
-			}
+			
 
 			categories = {
 				Cat_H_AIR
@@ -501,10 +468,7 @@ technologies = {
 
 			research_cost = 2
 			start_year = 2025
-			folder = {
-				name = modern_bomber_folder
-				position = { x = @row2 y = @2025 }
-			}
+			
 
 			categories = {
 				Cat_H_AIR
@@ -545,10 +509,7 @@ technologies = {
 
 			research_cost = 2
 			start_year = 2035
-			folder = {
-				name = modern_bomber_folder
-				position = { x = @row2 y = @2035 }
-			}
+			
 
 			categories = {
 				Cat_H_AIR
@@ -589,10 +550,7 @@ technologies = {
 
 		research_cost = 2.6
 		start_year = 1965
-		folder = {
-			name = modern_bomber_folder
-			position = { x = @row3 y = @1965 }
-		}
+		
 
 		categories = {
 			Cat_H_AIR
@@ -625,10 +583,7 @@ technologies = {
 
 			research_cost = 2.8
 			start_year = 1975
-			folder = {
-				name = modern_bomber_folder
-				position = { x = @row3 y = @1975 }
-			}
+			
 
 			categories = {
 				Cat_H_AIR
@@ -661,10 +616,7 @@ technologies = {
 
 			research_cost = 2.9
 			start_year = 1985
-			folder = {
-				name = modern_bomber_folder
-				position = { x = @row3 y = @1985 }
-			}
+			
 
 			categories = {
 				Cat_H_AIR
@@ -697,10 +649,7 @@ technologies = {
 
 			research_cost = 3
 			start_year = 2015
-			folder = {
-				name = modern_bomber_folder
-				position = { x = @row3 y = @2015 }
-			}
+			
 
 			categories = {
 				Cat_H_AIR
@@ -741,10 +690,7 @@ technologies = {
 
 			research_cost = 3.1
 			start_year = 2025
-			folder = {
-				name = modern_bomber_folder
-				position = { x = @row3 y = @2025 }
-			}
+			
 
 			categories = {
 				Cat_H_AIR
@@ -785,10 +731,7 @@ technologies = {
 
 			research_cost = 3.2
 			start_year = 2035
-			folder = {
-				name = modern_bomber_folder
-				position = { x = @row3 y = @2035 }
-			}
+			
 
 			categories = {
 				Cat_H_AIR
@@ -829,10 +772,7 @@ technologies = {
 
 			research_cost = 2.3
 			start_year = 1975
-			folder = {
-				name = modern_bomber_folder
-				position = { x = @row5 y = @1975 }
-			}
+			
 
 			categories = {
 				Cat_H_AIR
@@ -865,10 +805,7 @@ technologies = {
 
 			research_cost = 2.5
 			start_year = 1995
-			folder = {
-				name = modern_bomber_folder
-				position = { x = @row5 y = @1995 }
-			}
+			
 
 			categories = {
 				Cat_H_AIR
@@ -901,10 +838,7 @@ technologies = {
 
 			research_cost = 2.6
 			start_year = 2015
-			folder = {
-				name = modern_bomber_folder
-				position = { x = @row5 y = @2015 }
-			}
+			
 
 			categories = {
 				Cat_H_AIR
@@ -945,10 +879,7 @@ technologies = {
 
 			research_cost = 2.7
 			start_year = 2025
-			folder = {
-				name = modern_bomber_folder
-				position = { x = @row5 y = @2025 }
-			}
+			
 
 			categories = {
 				Cat_H_AIR
@@ -987,10 +918,7 @@ technologies = {
 
 		research_cost = 2.8
 		start_year = 2035
-		folder = {
-			name = modern_bomber_folder
-			position = { x = @row5 y = @2035 }
-		}
+		
 
 		categories = {
 			Cat_H_AIR
@@ -1032,10 +960,7 @@ technologies = {
 		}
 		research_cost = 2
 		start_year = 1985
-		folder = {
-			name = modern_bomber_folder
-			position = { x = @row4 y = @1975 }
-		}
+		
 
 		categories = {
 			Cat_H_AIR
@@ -1100,10 +1025,7 @@ technologies = {
 
 		research_cost = 2
 		start_year = 2015
-		folder = {
-			name = modern_bomber_folder
-			position = { x = @row4 y = @2015 }
-		}
+		
 
 		categories = {
 			Cat_H_AIR

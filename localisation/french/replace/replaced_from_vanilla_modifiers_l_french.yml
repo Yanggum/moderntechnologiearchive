@@ -2069,7 +2069,7 @@
  STAT_COMMON_ARMOR: "£armor_texticon  Armure: "
  STAT_COMMON_PIERCING: "£piercing_texticon  Percée: "
  STAT_RANGE: "£air_range_texticon  Portée: "
- STAT_modern_carrier_SIZE: "£modern_carrier_capacity_texticon  Taille du pont: "
+ STAT_carrier_size: "£modern_carrier_capacity_texticon  Taille du pont: "
  STAT_COMMON_ACCLIMATIZATION_HOT_GAIN: "£temperature_hot_texticon  Facteur de gain d'acclimatation à la chaleur: "
  STAT_COMMON_ACCLIMATIZATION_COLD_GAIN: "£temperature_cold_texticon  Facteur de gain d'acclimatation au froid: "
  STAT_AIR_BOMBING: "£strat_bombing_texticon  Bombardement stratégique: "

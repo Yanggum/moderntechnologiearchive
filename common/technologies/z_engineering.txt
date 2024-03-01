@@ -61,11 +61,7 @@ technologies = {
 			research_cost_coeff = 1
 		}
 
-		folder = {
-			name = modern_electronics_folder #civilian_folder
-			position = { x = 4 y = @1985 }
-		}
-
+		
 		categories = {
 			Cat_AI
 			industry
@@ -91,11 +87,7 @@ technologies = {
 			research_cost_coeff = 1
 		}
 
-		folder = {
-			name = modern_electronics_folder #civilian_folder
-			position = { x = 4 y = @1990 }
-		}
-
+		
 		categories = {
 			Cat_AI
 			industry
@@ -123,11 +115,7 @@ technologies = {
 			research_cost_coeff = 1
 		}
 
-		folder = {
-			name = modern_electronics_folder #civilian_folder
-			position = { x = 4 y = @1995 }
-		}
-
+		
 		categories = {
 			Cat_AI
 			industry
@@ -152,11 +140,7 @@ technologies = {
 			research_cost_coeff = 1
 		}
 
-		folder = {
-			name = modern_electronics_folder #civilian_folder
-			position = { x = 4 y = @2000 }
-		}
-
+		
 		categories = {
 			Cat_AI
 			industry
@@ -188,11 +172,7 @@ technologies = {
 			research_cost_coeff = 1
 		}
 
-		folder = {
-			name = modern_electronics_folder #civilian_folder
-			position = { x = 4 y = @2005 }
-		}
-
+		
 		categories = {
 			Cat_AI
 			industry
@@ -229,11 +209,7 @@ technologies = {
 			research_cost_coeff = 1
 		}
 
-		folder = {
-			name = modern_electronics_folder #civilian_folder
-			position = { x = 6 y = @2005 }
-		}
-
+		
 		categories = {
 			Cat_AI
 			industry
@@ -268,11 +244,7 @@ technologies = {
 			research_cost_coeff = 1
 		}
 
-		folder = {
-			name = modern_electronics_folder #civilian_folder
-			position = { x = 6 y = @2010 }
-		}
-
+		
 		categories = {
 			Cat_AI
 			industry
@@ -319,11 +291,7 @@ technologies = {
 			research_cost_coeff = 1
 		}
 
-		folder = {
-			name = modern_electronics_folder #civilian_folder
-			position = { x = 6 y = @2015 }
-		}
-
+		
 		categories = {
 			Cat_AI
 			industry
@@ -365,11 +333,7 @@ technologies = {
 		}
 		recon_factor = 0.10
 
-		folder = {
-			name = modern_electronics_folder #civilian_folder
-			position = { x = 6 y = @2020 }
-		}
-
+		
 		categories = {
 			Cat_AI
 			industry
@@ -409,11 +373,7 @@ technologies = {
 			research_cost_coeff = 1
 		}
 
-		folder = {
-			name = modern_electronics_folder #civilian_folder
-			position = { x = 4 y = @2010 }
-		}
-
+		
 		categories = {
 			Cat_AI
 			industry
@@ -453,11 +413,7 @@ technologies = {
 			research_cost_coeff = 1
 		}
 
-		folder = {
-			name = modern_electronics_folder #civilian_folder
-			position = { x = 4 y = @2015 }
-		}
-
+		
 		categories = {
 			Cat_AI
 			industry
@@ -495,11 +451,7 @@ technologies = {
 			research_cost_coeff = 1
 		}
 
-		folder = {
-			name = modern_electronics_folder #civilian_folder
-			position = { x = 4 y = @2020 }
-		}
-
+		
 		categories = {
 			Cat_AI
 			industry
@@ -538,11 +490,7 @@ technologies = {
 			research_cost_coeff = 1
 		}
 
-		folder = {
-			name = modern_electronics_folder #civilian_folder
-			position = { x = 4 y = @2025 }
-		}
-
+		
 		categories = {
 			Cat_AI
 			industry
@@ -583,11 +531,7 @@ technologies = {
 			experience_loss_factor = -0.025
 		}
 
-		folder = {
-			name = modern_electronics_folder #civilian_folder
-			position = { x = 4 y = @2030 }
-		}
-
+		
 		categories = {
 			Cat_AI
 			industry
@@ -625,10 +569,7 @@ technologies = {
 		research_speed_factor = 0.05
 		land_reinforce_rate = 0.01
 
-		folder = {
-			name = modern_electronics_folder
-			position = { x = 2 y = 2 }
-		}
+		
 
 		path = {
 			leads_to_tech = integrated_circuit
@@ -652,10 +593,7 @@ technologies = {
 
 		research_speed_factor = 0.05
 
-		folder = {
-			name = modern_electronics_folder
-			position = { x = 2 y = 4 }
-		}
+		
 
 		path = {
 			leads_to_tech = computing1
@@ -679,10 +617,7 @@ technologies = {
 
 		research_speed_factor = 0.01
 
-		folder = {
-			name = modern_electronics_folder
-			position = { x = 2 y = 6 }
-		}
+		
 
 		path = {
 			leads_to_tech = microprocessors
@@ -719,10 +654,7 @@ technologies = {
 			NOT = { has_dlc = "La Resistance" }
 		}
 
-		folder = {
-			name = modern_electronics_folder
-			position = { x = 4 y = 6 }
-		}
+		
 
 		ai_will_do = {
 			factor = 3
@@ -745,10 +677,7 @@ technologies = {
 			NOT = { has_dlc = "La Resistance" }
 		}
 
-		folder = {
-			name = modern_electronics_folder
-			position = { x = 0 y = 6 }
-		}
+		
 
 		ai_will_do = {
 			factor = 3
@@ -769,10 +698,7 @@ technologies = {
 		industrial_capacity_factory = 0.15
 		research_speed_factor = 0.05
 
-		folder = {
-			name = modern_electronics_folder
-			position = { x = 2 y = 8 }
-		}
+		
 
 		path = {
 			leads_to_tech = computing2
@@ -804,10 +730,7 @@ technologies = {
 
 		research_speed_factor = 0.05
 
-		folder = {
-			name = modern_electronics_folder
-			position = { x = 2 y = 10 }
-		}
+		
 
 		path = {
 			leads_to_tech = computing3
@@ -852,10 +775,7 @@ technologies = {
 			NOT = { has_dlc = "La Resistance" }
 		}
 
-		folder = {
-			name = modern_electronics_folder
-			position = { x = 4 y = 10 }
-		}
+		
 
 		ai_will_do = {
 			factor = 3
@@ -878,10 +798,7 @@ technologies = {
 			NOT = { has_dlc = "La Resistance" }
 		}
 
-		folder = {
-			name = modern_electronics_folder
-			position = { x = 0 y = 10 }
-		}
+		
 
 		ai_will_do = {
 			factor = 3
@@ -901,10 +818,7 @@ technologies = {
 
 		research_speed_factor = 0.05
 
-		folder = {
-			name = modern_electronics_folder
-			position = { x = 2 y = 14 }
-		}
+		
 
 		path = {
 			leads_to_tech = computing4
@@ -949,10 +863,7 @@ technologies = {
 			NOT = { has_dlc = "La Resistance" }
 		}
 
-		folder = {
-			name = modern_electronics_folder
-			position = { x = 4 y = 14 }
-		}
+		
 
 		ai_will_do = {
 			factor = 3
@@ -975,10 +886,7 @@ technologies = {
 			NOT = { has_dlc = "La Resistance" }
 		}
 
-		folder = {
-			name = modern_electronics_folder
-			position = { x = 0 y = 14 }
-		}
+		
 
 		ai_will_do = {
 			factor = 3
@@ -998,10 +906,7 @@ technologies = {
 
 		research_speed_factor = 0.05
 
-		folder = {
-			name = modern_electronics_folder
-			position = { x = 2 y = 18 }
-		}
+		
 
 		path = {
 			leads_to_tech = computing5
@@ -1054,10 +959,7 @@ technologies = {
 			NOT = { has_dlc = "La Resistance" }
 		}
 
-		folder = {
-			name = modern_electronics_folder
-			position = { x = 4 y = 18 }
-		}
+		
 
 		ai_will_do = {
 			factor = 3
@@ -1080,10 +982,7 @@ technologies = {
 			NOT = { has_dlc = "La Resistance" }
 		}
 
-		folder = {
-			name = modern_electronics_folder
-			position = { x = 0 y = 18 }
-		}
+		
 
 		ai_will_do = {
 			factor = 3
@@ -1103,10 +1002,7 @@ technologies = {
 
 		research_speed_factor = 0.05
 
-		folder = {
-			name = modern_electronics_folder
-			position = { x = 2 y = 22 }
-		}
+		
 
 		path = {
 			leads_to_tech = computing6
@@ -1163,10 +1059,7 @@ technologies = {
 			NOT = { has_dlc = "La Resistance" }
 		}
 
-		folder = {
-			name = modern_electronics_folder
-			position = { x = 4 y = 22 }
-		}
+		
 
 		ai_will_do = {
 			factor = 3
@@ -1189,10 +1082,7 @@ technologies = {
 			NOT = { has_dlc = "La Resistance" }
 		}
 
-		folder = {
-			name = modern_electronics_folder
-			position = { x = 0 y = 22 }
-		}
+		
 
 		ai_will_do = {
 			factor = 3
@@ -1212,10 +1102,7 @@ technologies = {
 
 		research_speed_factor = 0.1
 
-		folder = {
-			name = modern_electronics_folder
-			position = { x = 2 y = 28 }
-		}
+		
 
 		path = {
 			leads_to_tech = decryption6
@@ -1263,10 +1150,7 @@ technologies = {
 			NOT = { has_dlc = "La Resistance" }
 		}
 
-		folder = {
-			name = modern_electronics_folder
-			position = { x = 4 y = 28 }
-		}
+		
 
 		ai_will_do = {
 			factor = 3
@@ -1289,10 +1173,7 @@ technologies = {
 			NOT = { has_dlc = "La Resistance" }
 		}
 
-		folder = {
-			name = modern_electronics_folder
-			position = { x = 0 y = 28 }
-		}
+		
 
 		ai_will_do = {
 			factor = 3

@@ -108,10 +108,7 @@ technologies = {
 
 		research_cost = 1
 		start_year = 1955
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row4 y = @1955 }
-		}
+		
 
 		ai_will_do = {
 			factor = 10
@@ -140,10 +137,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 1960
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row0 y = @1960 }
-		}
+		
 
 		ai_will_do = {
 			factor = 1
@@ -180,10 +174,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 1960
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row2 y = @1960 }
-		}
+		
 
 		ai_will_do = {
 			factor = 1
@@ -212,10 +203,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 1960
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row3 y = @1960 }
-		}
+		
 
 		path = {
 			leads_to_tech = gen_4_large
@@ -258,10 +246,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 1980
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row0 y = @1980 }
-		}
+		
 
 		ai_will_do = {
 			factor = 1
@@ -298,10 +283,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 1980
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row2 y = @1980 }
-		}
+		
 
 		ai_will_do = {
 			factor = 1
@@ -338,10 +320,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 1980
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row3 y = @1980 }
-		}
+		
 
 		ai_will_do = {
 			factor = 0
@@ -379,10 +358,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 2015
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row0 y = @2015 }
-		}
+		
 
 		ai_will_do = {
 			factor = 1
@@ -420,10 +396,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 2015
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row2 y = @2015 }
-		}
+		
 
 		ai_will_do = {
 			factor = 1
@@ -461,10 +434,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 2015
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row3 y = @2015 }
-		}
+		
 
 		ai_will_do = {
 			factor = 0.1
@@ -505,10 +475,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 2035
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row0 y = @2035 }
-		}
+		
 
 		ai_will_do = {
 			factor = 1
@@ -545,10 +512,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 2035
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row2 y = @2035 }
-		}
+		
 
 		ai_will_do = {
 			factor = 1
@@ -585,10 +549,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 2035
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row3 y = @2035 }
-		}
+		
 
 		ai_will_do = {
 			factor = 0.1
@@ -651,10 +612,7 @@ technologies = {
 
 		research_cost = 2
 		start_year = 1980
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row4 y = @1980 }
-		}
+		
 
 		ai_will_do = { factor = 3 }
 
@@ -687,10 +645,7 @@ technologies = {
 
 		research_cost = 2
 		start_year = 2000
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row4 y = @2000 }
-		}
+		
 
 		ai_will_do = { factor = 3 }
 
@@ -718,10 +673,7 @@ technologies = {
 
 		research_cost = 2
 		start_year = 2020
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row4 y = @2020 }
-		}
+		
 
 		ai_will_do = { factor = 3 }
 
@@ -738,10 +690,7 @@ technologies = {
 
 		research_cost = 1
 		start_year = 1985
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row5 y = @1985 }
-		}
+		
 
 		ai_will_do = { factor = 1 }
 
@@ -758,10 +707,7 @@ technologies = {
 
 		research_cost = 1
 		start_year = 2005
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row5 y = @2005 }
-		}
+		
 
 		ai_will_do = { factor = 1 }
 
@@ -778,10 +724,7 @@ technologies = {
 
 		research_cost = 1
 		start_year = 2025
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row5 y = @2025 }
-		}
+		
 
 		ai_will_do = { factor = 1 }
 
@@ -803,10 +746,7 @@ technologies = {
 
 		research_cost = 1
 		start_year = 1985
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row35 y = @1985 }
-		}
+		
 
 		ai_will_do = { factor = 1 }
 
@@ -823,10 +763,7 @@ technologies = {
 
 		research_cost = 1
 		start_year = 1990
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row35 y = @1990 }
-		}
+		
 
 		ai_will_do = { factor = 1 }
 
@@ -848,10 +785,7 @@ technologies = {
 
 		research_cost = 1
 		start_year = 2005
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row35 y = @2005 }
-		}
+		
 
 		ai_will_do = { factor = 1 }
 
@@ -868,10 +802,7 @@ technologies = {
 
 		research_cost = 1
 		start_year = 2010
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row35 y = @2010 }
-		}
+		
 
 		ai_will_do = { factor = 1 }
 
@@ -893,10 +824,7 @@ technologies = {
 
 		research_cost = 1
 		start_year = 2025
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row35 y = @2025 }
-		}
+		
 
 		ai_will_do = { factor = 1 }
 
@@ -918,10 +846,7 @@ technologies = {
 
 		research_cost = 1
 		start_year = 2030
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row35 y = @2030 }
-		}
+		
 
 		ai_will_do = { factor = 1 }
 
@@ -943,10 +868,7 @@ technologies = {
 
 		research_cost = 1
 		start_year = 2040
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row35 y = @2040 }
-		}
+		
 
 		ai_will_do = { factor = 1 }
 
@@ -963,10 +885,7 @@ technologies = {
 
 		research_cost = 1
 		start_year = 2050
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row35 y = @2050 }
-		}
+		
 
 		ai_will_do = { factor = 1 }
 
@@ -1011,10 +930,7 @@ technologies = {
 
 		research_cost = 2
 		start_year = 1970
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row12 y = @1970 }
-		}
+		
 
 		ai_will_do = { factor = 1 }
 
@@ -1038,10 +954,7 @@ technologies = {
 
 		research_cost = 2
 		start_year = 1985
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row12 y = @1985 }
-		}
+		
 
 		ai_will_do = { factor = 1 }
 
@@ -1060,10 +973,7 @@ technologies = {
 
 		research_cost = 2
 		start_year = 2000
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row12 y = @2000 }
-		}
+		
 
 		ai_will_do = { factor = 1 }
 
@@ -1086,10 +996,7 @@ technologies = {
 
 		research_cost = 2
 		start_year = 1990
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row11 y = @1990 }
-		}
+		
 
 		ai_will_do = { factor = 1 }
 
@@ -1112,10 +1019,7 @@ technologies = {
 
 		research_cost = 2
 		start_year = 1990
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row13 y = @1990 }
-		}
+		
 
 		ai_will_do = { factor = 1 }
 
@@ -1138,10 +1042,7 @@ technologies = {
 
 		research_cost = 2.5
 		start_year = 2010
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row11 y = @2010 }
-		}
+		
 
 		ai_will_do = { factor = 1 }
 
@@ -1164,10 +1065,7 @@ technologies = {
 
 		research_cost = 2
 		start_year = 2010
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row13 y = @2010 }
-		}
+		
 
 		ai_will_do = { factor = 1 }
 
@@ -1192,10 +1090,7 @@ technologies = {
 
 		research_cost = 4
 		start_year = 2005
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row105 y = @2005 }
-		}
+		
 
 		ai_will_do = { factor = 3 }
 
@@ -1215,10 +1110,7 @@ technologies = {
 
 		research_cost = 4
 		start_year = 2025
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row105 y = @2025 }
-		}
+		
 
 		ai_will_do = { factor = 3 }
 
@@ -1241,10 +1133,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 2000
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row14 y = @2000 }
-		}
+		
 
 		ai_will_do = { factor = 1 }
 
@@ -1262,10 +1151,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 2020
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row14 y = @2020 }
-		}
+		
 
 		ai_will_do = { factor = 1 }
 
@@ -1287,10 +1173,7 @@ technologies = {
 		}
 		research_cost = 3
 		start_year = 2030
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row12 y = @2030 }
-		}
+		
 
 		ai_will_do = { factor = 1 }
 
@@ -1318,10 +1201,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 1975
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row8 y = @1975 }
-		}
+		
 
 		path = {
 			leads_to_tech = engines_3
@@ -1354,10 +1234,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 1980
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row7 y = @1980 }
-		}
+		
 
 		path = {
 			leads_to_tech = refueling_2
@@ -1380,10 +1257,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 2005
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row7 y = @2005 }
-		}
+		
 
 		ai_will_do = { factor = 1 }
 
@@ -1438,10 +1312,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 2010
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row8 y = @2010 }
-		}
+		
 
 		path = {
 			leads_to_tech = engines_4
@@ -1469,10 +1340,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 2020
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row7 y = @2020 }
-		}
+		
 
 		path = {
 			leads_to_tech = solar_engines_2
@@ -1496,10 +1364,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 2040
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row7 y = @2040 }
-		}
+		
 
 		ai_will_do = { factor = 0 }
 
@@ -1525,10 +1390,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 2030
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row8 y = @2030 }
-		}
+		
 
 		path = {
 			leads_to_tech = engines_5
@@ -1557,10 +1419,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 2055
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row8 y = @2055 }
-		}
+		
 
 		path = {
 			leads_to_tech = engines_5
@@ -1587,10 +1446,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 1955
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row17 y = @1955 }
-		}
+		
 
 		path = {
 			leads_to_tech = air_weapons_1
@@ -1625,10 +1481,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 1965
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row19 y = @1965 }
-		}
+		
 
 		path = {
 			leads_to_tech = countermeasures_1
@@ -1658,10 +1511,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 1990
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row19 y = @1990 }
-		}
+		
 
 		path = {
 			leads_to_tech = countermeasures_2
@@ -1690,10 +1540,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 2020
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row19 y = @2020 }
-		}
+		
 
 		path = {
 			leads_to_tech = countermeasures_3
@@ -1722,10 +1569,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 2040
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row19 y = @2040 }
-		}
+		
 
 		path = {
 			leads_to_tech = countermeasures_4
@@ -1749,10 +1593,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 1965
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row21 y = @1965 }
-		}
+		
 
 		ai_will_do = { factor = 2 }
 
@@ -1770,10 +1611,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 1990
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row21 y = @1990 }
-		}
+		
 
 		ai_will_do = { factor = 2 }
 
@@ -1791,10 +1629,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 2020
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row21 y = @2020 }
-		}
+		
 
 		ai_will_do = { factor = 2 }
 
@@ -1812,10 +1647,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 2040
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row21 y = @2040 }
-		}
+		
 
 		ai_will_do = { factor = 2 }
 
@@ -1834,10 +1666,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 1965
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row14 y = @1965 }
-		}
+		
 
 		path = {
 			leads_to_tech = naval_weapons_2
@@ -1866,10 +1695,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 1990
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row14 y = @1990 }
-		}
+		
 
 		path = {
 			leads_to_tech = naval_weapons_3
@@ -1893,10 +1719,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 2020
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row14 y = @2020 }
-		}
+		
 
 		path = {
 			leads_to_tech = naval_weapons_4
@@ -1920,10 +1743,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 2040
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row14 y = @2040 }
-		}
+		
 
 		ai_will_do = { factor = 1 }
 
@@ -1941,10 +1761,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 1970
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row13 y = @1970 }
-		}
+		
 
 		path = {
 			leads_to_tech = special_mad_2
@@ -1967,10 +1784,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 1995
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row13 y = @1995 }
-		}
+		
 
 		path = {
 			leads_to_tech = special_mad_3
@@ -1993,10 +1807,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 2025
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row13 y = @2025 }
-		}
+		
 
 		ai_will_do = { factor = 1 }
 
@@ -2018,10 +1829,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 1965
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row15 y = @1965 }
-		}
+		
 
 		path = {
 			leads_to_tech = ag_weapons_2
@@ -2056,10 +1864,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 1990
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row15 y = @1990 }
-		}
+		
 
 		path = {
 			leads_to_tech = ag_weapons_3
@@ -2084,10 +1889,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 2020
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row15 y = @2020 }
-		}
+		
 
 		path = {
 			leads_to_tech = ag_weapons_4
@@ -2112,10 +1914,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 2040
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row15 y = @2040 }
-		}
+		
 
 		ai_will_do = { factor = 1 }
 
@@ -2133,10 +1932,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 1970
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row145 y = @1970 }
-		}
+		
 
 		path = {
 			leads_to_tech = gunship_2
@@ -2164,10 +1960,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 1995
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row145 y = @1995 }
-		}
+		
 
 		ai_will_do = { factor = 1 }
 
@@ -2211,10 +2004,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 1970
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row16 y = @1970 }
-		}
+		
 
 		path = {
 			leads_to_tech = tgp_recon_2
@@ -2238,10 +2028,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 1995
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row16 y = @1995 }
-		}
+		
 
 		path = {
 			leads_to_tech = tgp_recon_3
@@ -2265,10 +2052,7 @@ technologies = {
 
 		research_cost = 3
 		start_year = 2025
-		folder = {
-			name = modern_bba_aircraft_folder
-			position = { x = @row16 y = @2025 }
-		}
+		
 
 		ai_will_do = { factor = 1 }
 

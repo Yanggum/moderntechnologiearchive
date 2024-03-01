@@ -1,12 +1,13 @@
 #Category only allowed player only
 Technical_Singularity_Programm = {	
 
-	#Army
-	reserch_future_infantry_equipment = {
-		icon = generic_army_support 
-
+	reserch_singularity_technology = {
+		icon = generic_research_support
 		available = {
 			is_ai = no
+			custom_trigger_tooltip = {
+				tooltip = research_singularity_technology_ready
+			}
 		}
 
 		visible = {
@@ -15,746 +16,1219 @@ Technical_Singularity_Programm = {
 		
 		
 		remove_effect = { 
-			hidden_effect = { set_technology = { future_infantry_equipment = 1 } }     
-		}
-		
-		fire_only_once = yes
-	}
-
-	reserch_future_mechanized_equipment = {
-		icon = generic_army_support
-
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}
-
-		
-		remove_effect = { 
-			hidden_effect = { set_technology = { future_mechanized_equipment = 1 } }     
-		}
-		
-		fire_only_once = yes
-	}
-	
-	reserch_future_armor_equipment = {
-		icon = generic_army_support
-
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}		
-		
-		remove_effect = { 
-			hidden_effect = { set_technology = { future_modern_tank_equipment = 1 } }     
-		}
-		
-		visible = {
-			has_dlc = "No Step Back"
-		}		
-		
-		
-		fire_only_once = yes
-
-	}	
-
-	reserch_future_armor_equipment_legacy = {
-		icon = generic_army_support
-
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}
-		
-		
-		remove_effect = { 
-			hidden_effect = { set_technology = { future_modern_tank_equipment_legacy = 1 } }     
-		}
-		
-		visible = {
-			not = { has_dlc = "No Step Back" }
-		}		
-		
-		
-		fire_only_once = yes
-
-	}
-
-	reserch_future_derivative_armor_equipment_legacy = {
-		icon = generic_army_support
-
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}
-		
-		
-		remove_effect = { 
-			hidden_effect = { set_technology = { 
-					future_modern_tank_aa_equipment_legacy = 1
-					future_modern_tank_artillery_equipment_legacy = 1
-				} 
-			}     
-		}
-		
-		visible = {
-			not = { has_dlc = "No Step Back" }
-		}		
-		
-		fire_only_once = yes		
-	}
-
-
-	reserch_future_anti_air_equipment = {
-		icon = generic_army_support
-
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}
-		
-		
-		remove_effect = { 
-			hidden_effect = { set_technology = { 
-					future_anti_air_equipment = 1
-				} 
-			}     
-		}
-		fire_only_once = yes		
-	}
-
-	reserch_future_anti_tank_equipment = {
-		icon = generic_army_support
-
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}
-		
-		
-		remove_effect = { 
-			hidden_effect = { set_technology = { 
-					future_anti_tank_equipment = 1
-				} 
-			}     
-		}
-		fire_only_once = yes		
-	}
-	
-
-	#Navy
-	reserch_future_modern_destroyer = {
-		icon = generic_naval
-
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}
-		
-		
-		remove_effect = { 
-			hidden_effect = { set_technology = { 
-					future_light_ship = 1
-					future_light_ship_legacy = 1					
-				} 
-			}     
-		}
-		
-		visible = {
-			has_dlc = "Man the Guns"
-		}
-		
-		fire_only_once = yes
-
-	}
-	
-	reserch_future_modern_destroyer_legacy = {
-		icon = generic_naval
-
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}
-		
-		
-		remove_effect = { 
-			hidden_effect = { set_technology = { 
-					future_light_ship_legacy = 1
-				} 
-			}     
-		}
-		
-		visible = {
-			not = { has_dlc = "Man the Guns" }
-		}		
-		
-		fire_only_once = yes
-
-	}
-	
-
-	reserch_future_light_modern_cruiser = {
-		icon = generic_naval
-
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}
-		
-		
-		
-		
-		
-		remove_effect = { 
-			hidden_effect = { set_technology = { 
-					future_crusier = 1 
-					future_crusier_legacy = 1 					
-				} 
-			}     
-		}
-		
-		visible = {
-			has_dlc = "Man the Guns"
-		}		
-		
-		fire_only_once = yes
-
-	}
-	
-	reserch_future_light_modern_cruiser_legacy = {
-		icon = generic_naval
-
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}
-		
-		
-		
-		
-		
-		remove_effect = { 
-			hidden_effect = { set_technology = { 
-					future_crusier_legacy = 1 
-				} 
-			}     
-		}
-		
-		visible = {
-			not = { has_dlc = "Man the Guns" }
-		}		
-		
-		
-		fire_only_once = yes
-	}	
-
-	reserch_future_submarine = {
-		icon = generic_naval
-
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}
-		
-		
-		
-		
-		
-		remove_effect = { 
-			hidden_effect = { set_technology = { 
-			future_submarine = 1 
-			future_submarine_legacy = 1			
-			} }     
-		}
-		
-		visible = {
-			has_dlc = "Man the Guns"
-		}		
-		
-		fire_only_once = yes
-
-	}
-	
-	reserch_future_submarine_legacy = {
-		icon = generic_naval
-
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}
-		
-		
-		
-		
-		
-		remove_effect = { 
-			hidden_effect = { set_technology = { future_submarine_legacy = 1 } }     
-		}
-		
-		visible = {
-			not = { has_dlc = "Man the Guns" }
-		}				
-		
-		fire_only_once = yes
-
-	}
-	
-	
-	reserch_future_heavy_ship = {
-		icon = generic_naval
-
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}
-		
-		
-		
-		
-		
-		remove_effect = { 
-			hidden_effect = { set_technology = { 
-				future_heavy_ship = 1 
-				future_heavy_ship_legacy = 1			
-			} }     
-		}
-		
-		visible = {
-			has_dlc = "Man the Guns"
-		}		
-		
-		fire_only_once = yes
-
-	}		
-	
-	reserch_future_heavy_ship_legacy = {
-		icon = generic_naval
-
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}
-		
-		
-		
-		
-		
-		remove_effect = { 
-			hidden_effect = { set_technology = { future_heavy_ship_legacy = 1 } }     
-		}
-		
-		visible = {
-			not = { has_dlc = "Man the Guns" }
-		}				
-		
-		fire_only_once = yes
-
-	}		
-	
-
-	reserch_future_modern_carrier = {
-		icon = generic_naval
-
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}
-		
-		
-		
-		
-		
-		remove_effect = { 
-			hidden_effect = { set_technology = { 
-					future_modern_carrier = 1 
-					future_modern_carrier_legacy = 1					
-					} }     
-		}
-		
-		visible = {
-			has_dlc = "Man the Guns"
-		}		
-		
-		fire_only_once = yes
-
-	}	
-	
-	reserch_future_modern_carrier_legacy = {
-		icon = generic_naval
-
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}
-		
-		
-		
-		
-		
-		remove_effect = { 
-			hidden_effect = { set_technology = { future_modern_carrier_legacy = 1 } }     
-		}
-		
-		visible = {
-			not = { has_dlc = "Man the Guns" }
-		}				
-		
-		fire_only_once = yes
-
-	}	
-	
-	
-	reserch_future_navy_parts = {
-		icon = generic_naval
-
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}
-		
-		
-		
-		days_remove = 10
-		
-		remove_effect = { 
-			hidden_effect = { set_technology = { future_navy_parts = 1 } }     
-		}
-		
-		visible = {
-			has_dlc = "Man the Guns"
-		}		
-		
-		fire_only_once = yes
-
-	}		
-	
-	#Air
-	reserch_future_fighter_equipment = {
-		icon = generic_air
-
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}
-		
-		
-		
-		
-		
-		remove_effect = { 
-			hidden_effect = { set_technology = { 
-					future_fighter_equipment = 1
-				} 
-			}     
-		}
-		fire_only_once = yes		
-	}
-
-	reserch_future_cas_equipment = {
-		icon = generic_air
-
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}
-		
-		
-		
-		
-		
-		remove_effect = { 
-			hidden_effect = { set_technology = { 
-					future_cas_equipment = 1
-				} 
-			}     
-		}
-		fire_only_once = yes		
-	}
-
-	reserch_future_strat_bomber_equipment = {
-		icon = generic_air
-
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}		
-		
-		
-		
-		
-		
-		remove_effect = { 
-			hidden_effect = { set_technology = { 
-					future_jet_strat_bomber_equipment = 1
-				} 
-			}     
-		}
-		fire_only_once = yes		
-	}	
-	
-	
-	#industry	
-	research_future_computing_machine = {
-		icon = generic_industry
-
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}
-		
-		
-		
-		
-		
-		remove_effect = { 
-			hidden_effect = { 
+			hidden_effect = {
 				set_technology = { 
-					future_hardware = 1
-				} 
-				add_research_slot = 4
-			}     
-		}
-		fire_only_once = yes		
-	}
-	
-	research_future_computing_encryption = {
-		icon = generic_industry
+					special_forces_marine = 1
+					massed_amphibious_landings = 1
+					mass_recrutiment_campaigns = 1
+					multiple_training_centers = 1
+					increased_vehicle_maintinance = 1
+					one_chassis_many_jobs = 1
+					public_demonstration_campaigns = 1
+					ship_to_shore_transports = 1
+					fix_bayonets_and_charge = 1
+					lcac_developments = 1
+					hit_the_beach_hard = 1
+					pre_landing_bombardments = 1
+					amphibious_supply_teams = 1
+					helicopter_logistic_operations = 1
+					helicopter_combat_service_support = 1
+					next_generation_aavs = 1
+					fleet_marine_corpsmen = 1
+					combat_service_support_company = 1
+					helicopter_combat_service_support = 1
+					every_marine_a_rifleman = 1
+					leave_nothing_on_the_ship = 1
+					rapid_breakouts = 1
+					heavy_landing_craft = 1
+					armored_landing_force = 1
+					light_armored_recon = 1
+					precision_ship_bombardment = 1
+					beach_reconassiance_raids = 1
+					beachhead_logistics = 1
+					land_armor_by_sea = 1
+					refusal_to_quit = 1
+					hospital_ships = 1
+					helicopter_combat_service_support = 1
+					combat_service_support_company = 1
+					marine_raider_beach_prepration = 1
+					dedicated_landing_ships = 1
+					fuel_on_the_beach = 1
+					victory_through_firepower = 1
+					armored_breakouts = 1
+					
+					amphibious_warfare_experts = 1
+					thunder_runs = 1
+					shore_directed_fires = 1
+					dedicated_breaching_parties = 1
+					logistical_experts = 1
+					combat_service_support_company = 1
+					helicopter_combat_service_support = 1
+					rapid_mission_planning = 1
+					infantry_amphibious_strike_forces = 1
+					the_few_the_proud = 1
+					
+					one_if_by_land = 1
+					
+					two_if_by_sea = 1
+					
+					more_with_less = 1
+					
+					marine_beach_raids = 1
+					
+					lightweight_landing_groups = 1
+					enlisted_to_officer_training = 1
+					enhanced_leadership_schools = 1
+					secure_the_beachhead = 1
+					
+					tough_as_nails = 1
+					
+					light_fighter_fighting = 1
+					
+					improvised_breaching_methods = 1
+					
 
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}
-		
-		
-		
-		
-		
-		remove_effect = { 
-			hidden_effect = { 
-				set_technology = { 
-					future_computing_encryption = 1
-				} 
-			}     
-		}
-		fire_only_once = yes		
-	}
-	
-	research_future_computing_decryption = {
-		icon = generic_industry
-
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}
-		
-		
-		
-		
-		
-		remove_effect = { 
-			hidden_effect = { 
-				set_technology = { 
-					future_computing_decryption = 1
-				} 
-			}     
-		}
-		fire_only_once = yes		
-	}	
-	
-	research_future_production_line = {
-		icon = generic_industry
-
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}
-		
-		
-		
-		
-		
-		remove_effect = { 
-			hidden_effect = { 
-				set_technology = { 
-					future_production_line = 1
-				} 
-			}     
-		}
-		fire_only_once = yes		
-	}	
-	
-	research_future_industry = {
-		icon = generic_industry
-
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}
-		
-		
-		
-		
-		
-		remove_effect = { 
-			hidden_effect = { 
-				set_technology = { 
-					future_industry = 1
-				} 
-			}     
-		}
-		fire_only_once = yes		
-	}
-
-	research_future_construction = {
-		icon = generic_industry
-
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}
-		
-		
-		
-		
-		
-		remove_effect = { 
-			hidden_effect = { 
-				set_technology = { 
-					future_construction = 1
-				} 
-			}     
-		}
-		fire_only_once = yes		
-	}
-
-	research_future_mining = {
-		icon = generic_industry
-
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}
-		
-		
-		
-		
-		
-		remove_effect = { 
-			hidden_effect = { 
-				set_technology = { 
-					future_mining = 1
-				} 
-			}     
-		}
-		fire_only_once = yes		
-	}	
-	
-	research_future_oil_factory = {
-		icon = generic_industry
-
-		available = {
-			is_ai = no
-		}
-
-		visible = {
-			always = yes
-		}
-		
-		
-		
-		
-		
-		remove_effect = { 
-			hidden_effect = { 
-				set_technology = { 
+					urban_operations_training = 1
+					
+					improved_bridging_methods = 1
+					
+					increased_squad_sizes = 1
+					
+					hold_until_relieved = 1
+					
+					advance_under_fire = 1
+					
+					island_hopping_campaigns = 1
+					jsead = 1
+					
+					
+					jamming_package_escorts = 1
+					
+					barcap_flights = 1
+					c4istar = 1
+					
+					forward_air_controllers = 1
+					aerial_gunship_support = 1
+					
+					t21st_century_modernization = 1
+					concentrated_aircraft_design = 1
+					weapons_school = 1
+					
+					expanded_combat_tactics = 1
+					
+					top_gun_and_red_flag = 1
+					
+					multi_mission_capabilities = 1
+					dispersed_aircraft_design = 1
+					dedicated_escort_fighters = 1
+					
+					standoff_strike_munitions = 1
+					extended_killbox_coordination = 1
+					
+					improved_gunship_ordinance = 1
+					
+					dynamic_strike_packages = 1
+					data_linked_close_air_support = 1
+					dedicated_escorts_dedicated_strikers = 1
+					precision_strike_packages = 1
+					
+					
+					
+					strategic_industry_targets = 1
+					
+					offensive_counter_air = 1
+					
+					
+					
+					total_air_superiority = 1
+					dead_missions = 1
+					
+					
+					escorted_bomber_flights = 1
+					
+					
+					
+					fighter_sweeps = 1
+					
+					
+					high_altitude_fighter_escorts = 1
+					strike_fighter_dominance = 1
+					
+					
+					close_strike_operations = 1
+					high_efficiency_fighter_flights = 1
+					bomber_upgrade_series = 1
+					
+					extended_maritime_patrols = 1
+					massed_alcm_strikes = 1
+					
+					
+					
+					alls_quiet_above = 1
+					carpet_bombing = 1
+					firebombing = 1
+					
+					deny_the_seas = 1
+					anti_shipping_operations = 1
+					hammer_round_the_clock = 1
+					defense_of_the_homeland = 1
+					reduced_supply_demands = 1
+					dedicated_air_force_manufacturing = 1
+					fighter_top_cover = 1
+					
+					simplified_aircraft_designs = 1
+					heroes_of_the_nation = 1
+					dedicated_industry_sam_coverage = 1
+					integrated_air_defense_network = 1
+					every_road_a_runway = 1
+					high_efficiency_scrambles = 1
+					close_our_skies = 1
+					high_speed_interceptor_designs = 1
+					
+					gci_management = 1
+					high_risk_interceptions = 1
+					hit_and_run_strikes = 1
+					
+					
+					naval_interdiction_missions = 1
+					strike_fighter_training = 1
+					close_support_strikes = 1
+					all_weather_fighters = 1
+					early_helicopter = 1
+					nsb_attack_helicopter_tech_1 = 1
+					nsb_attack_helicopter_tech_2 = 1
+					nsb_attack_helicopter_tech_3 = 1
+					nsb_attack_helicopter_tech_4 = 1
+					nsb_attack_helicopter_tech_5 = 1
+					attack_helicopter1 = 1
+					attack_helicopter2 = 1
+					attack_helicopter3 = 1
+					attack_helicopter4 = 1
+					attack_helicopter5 = 1
+					
+					transport_helicopter1 = 1
+					transport_helicopter2 = 1
+					transport_helicopter3 = 1
+					transport_helicopter4 = 1
+					transport_helicopter5 = 1
+					Anti_Air_0 = 1
+					SP_Anti_Air_0 = 1
+					AA_upgrade_1 = 1
+					Anti_Air_1 = 1
+					SP_Anti_Air_1 = 1
+					AA_upgrade_2 = 1
+					AA_upgrade_3 = 1
+					Anti_Air_2 = 1
+					SP_Anti_Air_2 = 1
+					Anti_Air_3 = 1
+					SP_Anti_Air_3 = 1
+					AA_upgrade_4 = 1
+					Anti_Air_4 = 1
+					SP_Anti_Air_4 = 1
+					Anti_tank_0 = 1
+					Heavy_Anti_tank_0 = 1
+					AT_upgrade_1 = 1
+					AT_upgrade_2 = 1
+					AT_upgrade_3 = 1
+					AT_upgrade_4 = 1
+					Anti_tank_1 = 1
+					Heavy_Anti_tank_1 = 1
+					Anti_tank_2 = 1
+					Heavy_Anti_tank_2 = 1
+					Anti_tank_3 = 1
+					Heavy_Anti_tank_3 = 1
+					Anti_tank_4 = 1
+					Heavy_Anti_tank_4 = 1
+					Early_APC = 1
+					fake_Cat_ARMOR = 1
+					MBT_1 = 1
+					MBT_2 = 1
+					MBT_3 = 1
+					MBT_4 = 1
+					MBT_5 = 1
+					MBT_7 = 1
+					MBT_8 = 1
+					APC_1 = 1
+					APC_2 = 1
+					APC_3 = 1
+					APC_4 = 1
+					APC_5 = 1
+					APC_6 = 1
+					APC_7 = 1
+					APC_8 = 1
+					IFV_1 = 1
+					IFV_2 = 1
+					IFV_3 = 1
+					IFV_4 = 1
+					IFV_5 = 1
+					IFV_6 = 1
+					IFV_7 = 1
+					IFV_8 = 1
+					Rec_tank_0 = 1
+					Rec_tank_1 = 1
+					Rec_tank_2 = 1
+					Rec_tank_3 = 1
+					Rec_tank_4 = 1
+					Rec_tank_5 = 1
+					util_vehicle_0 = 1
+					util_vehicle_1 = 1
+					util_vehicle_2 = 1
+					util_vehicle_3 = 1
+					util_vehicle_4 = 1
+					util_vehicle_5 = 1
+					util_vehicle_6 = 1
+					util_vehicle_7 = 1
+					fake_arty = 1
+					artillery_0 = 1
+					SP_arty_0 = 1
+					SP_R_arty_0 = 1
+					artillery_1 = 1
+					artillery_2 = 1
+					artillery_3 = 1
+					artillery_4 = 1
+					Arty_upgrade_1 = 1
+					Arty_upgrade_2 = 1
+					Arty_upgrade_3 = 1
+					Arty_upgrade_4 = 1
+					Arty_upgrade_5 = 1
+					SP_arty_1 = 1
+					SP_R_arty_1 = 1
+					SP_arty_2 = 1
+					SP_R_arty_2 = 1
+					SP_arty_3 = 1
+					SP_R_arty_3 = 1
+					SP_arty_4 = 1
+					SP_R_arty_4 = 1
+					early_airframe_designs = 1
+					gen_3_light = 1
+					gen_3_medium = 1
+					gen_3_large = 1
+					gen_4_light = 1
+					gen_4_medium = 1
+					gen_4_large = 1
+					gen_5_light = 1
+					gen_5_medium = 1
+					gen_5_large = 1
+					gen_6_light = 1
+					gen_6_medium = 1
+					gen_6_large = 1
+					avionics_1 = 1
+					avionics_2 = 1
+					avionics_3 = 1
+					awacs_1 = 1
+					awacs_2 = 1
+					awacs_3 = 1
+					drone_1 = 1
+					suicide_drone_1 = 1
+					drone_2 = 1
+					suicide_drone_2 = 1
+					drone_3 = 1
+					suicide_drone_3 = 1
+					drone_4 = 1
+					suicide_drone_4 = 1
+					flying_wing_design = 1
+					redundant_1 = 1
+					redundant_2 = 1
+					variable_wing_design = 1
+					delta_wing_design = 1
+					fwdswept_wing_design = 1
+					diamond_wing_design = 1
+					stealth_tech_1 = 1
+					stealth_tech_2 = 1
+					internal_weapons_1 = 1
+					internal_weapons_2 = 1
+					future_wingform_designs = 1
+					engines_2 = 1
+					refueling_1 = 1
+					refueling_2 = 1
+					nuclear_engines = 1
+					folder = 1
+					position = 1
+					engines_3 = 1
+					solar_engines_1 = 1
+					solar_engines_2 = 1
+					engines_4 = 1
+					engines_5 = 1
+					early_weapons = 1
+					air_weapons_1 = 1
+					air_weapons_2 = 1
+					air_weapons_3 = 1
+					air_weapons_4 = 1
+					countermeasures_1 = 1
+					countermeasures_2 = 1
+					countermeasures_3 = 1
+					countermeasures_4 = 1
+					naval_weapons_1 = 1
+					naval_weapons_2 = 1
+					naval_weapons_3 = 1
+					naval_weapons_4 = 1
+					special_mad_1 = 1
+					special_mad_2 = 1
+					special_mad_3 = 1
+					ag_weapons_1 = 1
+					ag_weapons_2 = 1
+					ag_weapons_3 = 1
+					ag_weapons_4 = 1
+					gunship_1 = 1
+					gunship_2 = 1
+					rapid_dragon = 1
+					folder = 1
+					position = 1
+					tgp_recon_1 = 1
+					tgp_recon_2 = 1
+					tgp_recon_3 = 1
+					early_bomber = 1
+					strategic_bomber1 = 1
+					strategic_bomber2 = 1
+					strategic_bomber3 = 1
+					strategic_bomber4 = 1
+					strategic_bomber5 = 1
+					strategic_bomber6 = 1
+					transport_plane1 = 1
+					transport_plane2 = 1
+					transport_plane3 = 1
+					transport_plane4 = 1
+					transport_plane5 = 1
+					transport_plane6 = 1
+					naval_plane1 = 1
+					naval_plane2 = 1
+					naval_plane3 = 1
+					naval_plane4 = 1
+					naval_plane5 = 1
+					naval_plane6 = 1
+					cas1 = 1
+					cas2 = 1
+					cas3 = 1
+					cas4 = 1
+					cas5 = 1
+					awacs_plane1 = 1
+					cv_awacs_plane1 = 1
+					awacs_plane2 = 1
+					cv_awacs_plane2 = 1
+					neural_networks_revival = 1
+					data_mining = 1
+					machine_learning = 1
+					sociable_machines = 1
+					early_ai_robotics = 1
+					humanoid_robot = 1
+					advanced_industrial_robotics = 1
+					smart_drones = 1
+					combat_service_support_company = 1
+					helicopter_combat_service_support = 1
+					fully_automated_drones = 1
+					combat_service_support_company = 1
+					helicopter_combat_service_support = 1
+					advanced_ai = 1
+					modern_deep_learning = 1
+					human_imitation_ai = 1
+					nanorobotics = 1
+					medical_nanorobots = 1
+					combat_service_support_company = 1
+					helicopter_combat_service_support = 1
+					basic_computing = 1
+					integrated_circuit = 1
+					computing1 = 1
+					decryption1 = 1
+					encryption1 = 1
+					microprocessors = 1
+					computing2 = 1
+					decryption2 = 1
+					encryption2 = 1
+					computing3 = 1
+					decryption3 = 1
+					encryption3 = 1
+					computing4 = 1
+					decryption4 = 1
+					encryption4 = 1
+					computing5 = 1
+					decryption5 = 1
+					encryption5 = 1
+					computing6 = 1
+					decryption6 = 1
+					encryption6 = 1
+					early_fighter = 1
+					AS_Fighter1 = 1
+					AS_Fighter2 = 1
+					AS_upgrade_1 = 1
+					
+					AS_Fighter3 = 1
+					
+					AS_Fighter4 = 1
+					AS_upgrade_2 = 1
+					
+					AS_Fighter5 = 1
+					
+					AS_Fighter6 = 1
+					AS_upgrade_3 = 1
+					
+					AS_Fighter7 = 1
+					MR_Fighter1 = 1
+					CV_MR_Fighter1 = 1
+					MR_Fighter2 = 1
+					CV_MR_Fighter2 = 1
+					MR_upgrade_1 = 1
+					
+					MR_Fighter3 = 1
+					
+					CV_MR_Fighter3 = 1
+					MR_Fighter4 = 1
+					CV_MR_Fighter4 = 1
+					MR_upgrade_2 = 1
+					
+					MR_Fighter5 = 1
+					
+					CV_MR_Fighter5 = 1
+					MR_Fighter6 = 1
+					CV_MR_Fighter6 = 1
+					MR_upgrade_3 = 1
+					
+					MR_Fighter7 = 1
+					CV_MR_Fighter7 = 1
+					Strike_fighter1 = 1
+					Strike_fighter2 = 1
+					Strike_upgrade_1 = 1
+					
+					Strike_fighter3 = 1
+					
+					Strike_fighter4 = 1
+					Strike_upgrade_2 = 1
+					
+					Strike_fighter5 = 1
+					
+					Strike_fighter6 = 1
+					Strike_upgrade_3 = 1
+					
+					Strike_fighter7 = 1
+					L_Strike_fighter1 = 1
+					CV_L_Strike_fighter1 = 1
+					L_Strike_fighter2 = 1
+					CV_L_Strike_fighter2 = 1
+					L_Strike_fighter3 = 1
+					CV_L_Strike_fighter3 = 1
+					L_Strike_fighter4 = 1
+					CV_L_Strike_fighter4 = 1
+					L_Strike_fighter5 = 1
+					CV_L_Strike_fighter5 = 1
+					Air_UAV1 = 1
+					Air_Kamikaze1 = 1
+					Air_UAV2 = 1
+					Air_Kamikaze2 = 1
+					Air_UAV3 = 1
+					Air_Kamikaze3 = 1
+					Air_UAV4 = 1
+					Air_Kamikaze4 = 1
+					industrial_electrospun_polymeric_nanofibers = 1
+					multiwalled_carbon_nanotubes = 1
+					modern_electrospinning = 1
+					inorganic_fibers_fabrication = 1
+					industrial_production_of_nanofibers = 1
+					nanofibers_in_medicine = 1
+					stereolitography = 1
+					early_3D_printers = 1
+					t3D_wax_printer = 1
+					large_scale_3D_printing = 1
+					commercial_nanomanufacturing = 1
+					modern_3D_printing = 1
+					centrifugal_spinning = 1
+					t3D_printed_nanofibers = 1
+					large_scale_nanocellulose_manufacturing = 1
+					nanocellulose_in_medicine = 1
+					combat_service_support_company = 1
+					helicopter_combat_service_support = 1
+					DNA_fingerprinting = 1
+					combat_service_support_company = 1
+					helicopter_combat_service_support = 1
+					modern_gmo = 1
+					gene_therapy = 1
+					combat_service_support_company = 1
+					helicopter_combat_service_support = 1
+					genetically_modified_crops = 1
+					gene_targeting_pesticides = 1
+					synthetic_life = 1
+					combat_service_support_company = 1
+					helicopter_combat_service_support = 1
+					safe_cloning = 1
+					combat_service_support_company = 1
+					helicopter_combat_service_support = 1
+					crispr_treatment = 1
+					combat_service_support_company = 1
+					helicopter_combat_service_support = 1
+					crispr_gene_edited_crops = 1
+					human_crispr_experiments = 1
+					genetically_modified_humans = 1
+					human_genome_project = 1
+					combat_service_support_company = 1
+					helicopter_combat_service_support = 1
+					crispr = 1
+					cas9_gene_editing = 1
+					combat_service_support_company = 1
+					helicopter_combat_service_support = 1
+					tracrrna = 1
+					combat_service_support_company = 1
+					helicopter_combat_service_support = 1
+					crispr_treatment_experimentation = 1
+					combat_service_support_company = 1
+					helicopter_combat_service_support = 1
 					fuel_silos = 1
-					synth_oil_experiments = 1
+					enable_building = 1
+					enable_building = 1
+					fuel_efficiency = 1
+					fuel_efficiency2 = 1
+					fuel_efficiency3 = 1
+					fuel_efficiency4 = 1
+					fuel_efficiency5 = 1
+					fuel_efficiency6 = 1
+					energy_efficiency = 1
+					energy_efficiency2 = 1
+					energy_efficiency3 = 1
+					energy_efficiency4 = 1
+					energy_efficiency5 = 1
+					energy_efficiency6 = 1
+					energy_efficiency7 = 1
+					energy_efficiency8 = 1
+					energy_efficiency9 = 1
 					fuel_refining = 1
-					future_oil_factory = 1
+					fuel_refining2 = 1
+					fuel_refining3 = 1
+					fuel_refining4 = 1
+					fuel_refining5 = 1
+					fuel_refining6 = 1
+					futuristic_oil_refining = 1
+					early_renewables = 1
+					renewables = 1
+					improved_renewables = 1
+					advanced_renewables = 1
+					modern_renewables = 1
+					improved_modern_renewables = 1
+					advanced_modern_renewables = 1
+					early_futuristic_renewables = 1
+					futuristic_renewables = 1
+					construction1 = 1
+					excavation1 = 1
+					construction2 = 1
+					excavation2 = 1
+					construction3 = 1
+					excavation3 = 1
+					construction4 = 1
+					excavation4 = 1
+					construction5 = 1
+					excavation5 = 1
+					construction6 = 1
+					excavation6 = 1
+					construction7 = 1
+					excavation7 = 1
+					construction8 = 1
+					excavation8 = 1
+					construction9 = 1
+					excavation9 = 1
+					integrated_transportation_system = 1
+					post_conventional_rail = 1
+					enable_building = 1
+					early_freight_locomotive = 1
+					early_high_speed_rail = 1
+					high_speed_rail = 1
+					modern_high_speed_rail = 1
+					freight_locomotive = 1
+					early_maglev_rail = 1
+					standardised_maglev_rail = 1
+					modern_freight_locomotive = 1
+					infantry_weapons = 1
+					infantry_modern_weapons1 = 1
+					infantry_weapons2 = 1
+					infantry_weapons3 = 1
+					infantry_weapons4 = 1
+					infantry_weapons5 = 1
+					infantry_weapons6 = 1
+					infantry_weapons7 = 1
+					combat_eng_equipment = 1
+					night_vision_1 = 1
+					night_vision_2 = 1
+					night_vision_3 = 1
+					night_vision_4 = 1
+					command_control_equipment = 1
+					command_control_equipment1 = 1
+					command_control_equipment2 = 1
+					command_control_equipment3 = 1
+					command_control_equipment4 = 1
+					command_control_equipment5 = 1
+					command_control_equipment6 = 1
+					land_Drone_equipment = 1
+					
+					land_Drone_equipment1 = 1
+					
+					land_Drone_equipment2 = 1
+					
+					land_Drone_equipment3 = 1
+					
+					land_Drone_equipment4 = 1
+					
+					land_Drone_equipment5 = 1
+					
+					body_armor_1980 = 1
+					
+					
+					
+					
+					body_armor_2000 = 1
+					
+					
+					
+					
+					body_armor_2010 = 1
+					
+					
+					
+					
+					body_armor_2030 = 1
+					
+					
+					
+					
+					camouflage = 1
+					camouflage2 = 1
+					camouflage3 = 1
+					camouflage4 = 1
+					camouflage5 = 1
+					HEZBOLLAH_BOOST = 1
+					
+					armor_Comp = 1
+					SP_AA_Battery = 1
+					ISIS_JIHAD = 1
+					
+					
+					
+					
+					
+					
+					
+					ISIS_JIHAD_HUMAN = 1
+					
+					
+					
+					
+					
+					
+					
+					support_weapons = 1
+					
+					squad_automatic_weapon = 1
+					
+					tandem_charge_warheads = 1
+					
+					support_weapons2 = 1
+					
+					support_weapons3 = 1
+					
+					support_weapons4 = 1
+					
+					support_weapons5 = 1
+					
+					
+					special_forces2 = 1
+					
+					special_forces3 = 1
+					
+					special_forces4 = 1
+					
+					special_forces5 = 1
+					
+					special_forces6 = 1
+					
+					modern_corvette_hull_1 = 1
+					modern_corvette_hull_2 = 1
+					modern_corvette_hull_3 = 1
+					modern_corvette_hull_4 = 1
+					modern_corvette_hull_5 = 1
+					modern_corvette_hull_6 = 1
+					modern_frigate_hull_1 = 1
+					modern_frigate_hull_2 = 1
+					modern_frigate_hull_3 = 1
+					modern_frigate_hull_4 = 1
+					modern_frigate_hull_5 = 1
+					modern_frigate_hull_6 = 1
+					modern_destroyer_hull_1 = 1
+					modern_destroyer_hull_2 = 1
+					modern_destroyer_hull_3 = 1
+					modern_destroyer_hull_4 = 1
+					modern_destroyer_hull_5 = 1
+					stealth_modern_destroyer_hull_1 = 1
+					stealth_modern_destroyer_hull_2 = 1
+					stealth_modern_destroyer_hull_3 = 1
+					modern_cruiser_hull_1 = 1
+					tech_modern_battleship_hull_1 = 1
+					modern_cruiser_hull_2 = 1
+					modern_cruiser_hull_3 = 1
+					modern_battleship_hull_2 = 1
+					modern_cruiser_hull_4 = 1
+					modern_cruiser_hull_5 = 1
+					modern_battleship_hull_3 = 1
+					aircraft_modern_carrier_engineering = 1
+					aircraft_heli_engineering_1 = 1
+					helicopter_operator_hull_1 = 1
+					aircraft_heli_engineering_2 = 1
+					helicopter_operator_hull_2 = 1
+					aircraft_heli_engineering_3 = 1
+					helicopter_operator_hull_3 = 1
+					helicopter_operator_hull_4 = 1
+					modern_carrier_hull_1 = 1
+					modern_carrier_hull_2 = 1
+					modern_carrier_hull_3 = 1
+					modern_carrier_hull_4 = 1
+					modern_carrier_hull_5 = 1
+					tech_submarine_engineering = 1
+					tech_submarine_engineering_1 = 1
+					tech_submarine_engineering_2 = 1
+					tech_submarine_engineering_3 = 1
+					tech_submarine_engineering_4 = 1
+					attack_submarine_hull_1 = 1
+					attack_submarine_hull_2 = 1
+					attack_submarine_hull_3 = 1
+					attack_submarine_hull_4 = 1
+					attack_submarine_hull_5 = 1
+					attack_submarine_hull_6 = 1
+					modern_missile_submarine_hull_1 = 1
+					modern_missile_submarine_hull_2 = 1
+					modern_missile_submarine_hull_3 = 1
+					modern_missile_submarine_hull_4 = 1
+					modern_missile_submarine_hull_5 = 1
+					modern_missile_submarine_hull_6 = 1
+					tech_naval_systems_engineering = 1
+					tech_power_systems = 1
+					tech_power_systems_1 = 1
+					tech_power_systems_2 = 1
+					tech_power_systems_3 = 1
+					tech_nuclear_power_systems = 1
+					tech_nuclear_power_systems_1 = 1
+					tech_nuclear_power_systems_2 = 1
+					tech_nuclear_power_systems_3 = 1
+					tech_combat_support_systems = 1
+					tech_fire_control = 1
+					tech_fire_control_1 = 1
+					tech_fire_control_2 = 1
+					tech_fire_control_3 = 1
+					tech_combat_radar = 1
+					tech_combat_radar_1 = 1
+					tech_combat_radar_2 = 1
+					tech_combat_radar_3 = 1
+					tech_combat_radar_4 = 1
+					tech_combat_radar_5 = 1
+					tech_combat_sonar = 1
+					tech_combat_sonar_1 = 1
+					tech_combat_sonar_2 = 1
+					tech_combat_sonar_3 = 1
+					tech_combat_sonar_4 = 1
+					tech_combat_sonar_5 = 1
+					tech_early_naval_weapon_systems = 1
+					on_research_complete_limit = 1
+					tech_naval_weapon_systems = 1
+					tech_light_guns = 1
+					tech_light_guns_1 = 1
+					tech_light_guns_2 = 1
+					tech_light_guns_3 = 1
+					tech_rail_guns = 1
+					tech_rail_guns_1 = 1
+					tech_rail_guns_2 = 1
+					tech_rail_guns_3 = 1
+					tech_127mm_guns = 1
+					tech_127mm_guns_1 = 1
+					tech_127mm_guns_2 = 1
+					tech_127mm_guns_3 = 1
+					tech_point_defense_system = 1
+					tech_point_defense_system_1 = 1
+					tech_point_defense_system_2 = 1
+					tech_point_defense_system_3 = 1
+					tech_point_defense_system_4 = 1
+					tech_point_defense_system_5 = 1
+					tech_point_defense_system_6 = 1
+					tech_missile_systems = 1
+					tech_turret_missiles_surface = 1
+					tech_turret_missiles_surface_1 = 1
+					tech_turret_missiles_surface_2 = 1
+					tech_turret_missiles_surface_3 = 1
+					tech_turret_missiles_surface_4 = 1
+					tech_turret_missiles_surface_5 = 1
+					tech_turret_missiles_aa = 1
+					tech_turret_missiles_aa_1 = 1
+					tech_turret_missiles_aa_2 = 1
+					tech_turret_missiles_aa_3 = 1
+					tech_turret_missiles_aa_4 = 1
+					tech_turret_missiles_aa_5 = 1
+					tech_vls_surface = 1
+					tech_vls_surface_1 = 1
+					tech_vls_surface_2 = 1
+					tech_vls_surface_3 = 1
+					tech_vls_surface_4 = 1
+					tech_vls_surface_5 = 1
+					tech_vls_aa = 1
+					tech_vls_aa_1 = 1
+					tech_vls_aa_2 = 1
+					tech_vls_aa_3 = 1
+					tech_vls_aa_4 = 1
+					tech_vls_aa_5 = 1
+					tech_torpedoes = 1
+					tech_torpedoes_1 = 1
+					tech_torpedoes_2 = 1
+					tech_torpedoes_3 = 1
+					tech_torpedoes_4 = 1
+					tech_torpedoes_5 = 1
+					tech_mtg_landing_craft = 1
+					tech_mtg_amphibious_assault_ship = 1
+					tech_mtg_air_cushioned_landing_craft = 1
+					tech_mtg_modern_landing_craft = 1
+					tech_mtg_specialized_protective_equipment = 1
+					tech_mtg_advanced_landing_craft = 1
+					tech_mtg_landing_craft_ai_systems = 1
+					tech_mtg_smart_landing_craft = 1
+					N_B_modern_cruiser_2 = 1
+					N_B_modern_cruiser_5 = 1
+					N_B_modern_cruiser_6 = 1
+					N_B_modern_cruiser_7 = 1
+					modern_cruiser_1 = 1
+					modern_cruiser_2 = 1
+					missile_modern_cruiser_1 = 1
+					missile_modern_cruiser_4 = 1
+					missile_modern_cruiser_5 = 1
+					missile_modern_cruiser_6 = 1
+					modern_destroyer_1 = 1
+					modern_destroyer_2 = 1
+					missile_modern_destroyer_1 = 1
+					missile_modern_destroyer_2 = 1
+					missile_modern_destroyer_3 = 1
+					missile_modern_destroyer_4 = 1
+					missile_modern_destroyer_5 = 1
+					missile_modern_destroyer_6 = 1
+					modern_frigate_1 = 1
+					modern_frigate_2 = 1
+					missile_modern_frigate_1 = 1
+					missile_modern_frigate_2 = 1
+					missile_modern_frigate_3 = 1
+					missile_modern_frigate_4 = 1
+					missile_modern_frigate_5 = 1
+					missile_modern_frigate_6 = 1
+					modern_corvette_1 = 1
+					modern_corvette_2 = 1
+					missile_modern_corvette_1 = 1
+					missile_modern_corvette_2 = 1
+					missile_modern_corvette_3 = 1
+					missile_modern_corvette_4 = 1
+					missile_modern_corvette_5 = 1
+					missile_modern_corvette_6 = 1
+					landing_craft = 1
+					amphibious_assault_ship = 1
+					landing_craft_air_cushioned = 1
+					modern_landing_craft = 1
+					specialized_protective_equipment = 1
+					advanced_landing_craft = 1
+					landing_craft_ai_systems = 1
+					smart_landing_craft = 1
+					submarine_1 = 1
+					attack_submarine_1 = 1
+					attack_submarine_2 = 1
+					attack_submarine_3 = 1
+					attack_submarine_4 = 1
+					attack_submarine_5 = 1
+					attack_submarine_6 = 1
+					attack_submarine_7 = 1
+					modern_missile_submarine_1 = 1
+					modern_missile_submarine_2 = 1
+					modern_missile_submarine_3 = 1
+					modern_missile_submarine_5 = 1
+					modern_missile_submarine_6 = 1
+					modern_missile_submarine_7 = 1
+					diesel_attack_submarine_1 = 1
+					diesel_attack_submarine_2 = 1
+					diesel_attack_submarine_3 = 1
+					diesel_attack_submarine_4 = 1
+					diesel_attack_submarine_5 = 1
+					diesel_attack_submarine_6 = 1
+					diesel_attack_submarine_7 = 1
+					Nuclear_modern_carrier_0 = 1
+					Nuclear_modern_carrier_1 = 1
+					Nuclear_modern_carrier_2 = 1
+					Nuclear_modern_carrier_3 = 1
+					Nuclear_modern_carrier_4 = 1
+					Nuclear_modern_carrier_5 = 1
+					modern_modern_carrier_0 = 1
+					modern_modern_carrier_1 = 1
+					modern_modern_carrier_2 = 1
+					modern_modern_carrier_3 = 1
+					modern_modern_carrier_4 = 1
+					modern_modern_carrier_5 = 1
+					modern_modern_carrier_6 = 1
+					LHA_0 = 1
+					LHA_1 = 1
+					LHA_2 = 1
+					LHA_3 = 1
+					LHA_4 = 1
+					LPD_0 = 1
+					LPD_1 = 1
+					LPD_2 = 1
+					LPD_3 = 1
+					LPD_4 = 1
+					nsb_Anti_Air_0 = 1
+					nsb_SP_Anti_Air_0 = 1
+					nsb_AA_upgrade_1 = 1
+					nsb_Anti_Air_1 = 1
+					nsb_SP_Anti_Air_1 = 1
+					nsb_AA_upgrade_2 = 1
+					nsb_Anti_Air_2 = 1
+					nsb_SP_Anti_Air_2 = 1
+					nsb_AA_upgrade_3 = 1
+					nsb_Anti_Air_3 = 1
+					nsb_SP_Anti_Air_3 = 1
+					nsb_AA_upgrade_4 = 1
+					nsb_Anti_Air_4 = 1
+					nsb_SP_Anti_Air_4 = 1
+					mbt_tech = 1
+					mbt_tech_1 = 1
+					mbt_tech_2 = 1
+					mbt_tech_3 = 1
+					mbt_tech_4 = 1
+					tank_components_tech = 1
+					tank_components_tech_2 = 1
+					tank_components_tech_3 = 1
+					tank_components_tech_4 = 1
+					tank_components_tech_5 = 1
+					era_tech = 1
+					era_tech_2 = 1
+					era_tech_3 = 1
+					era_tech_4 = 1
+					armor_tech = 1
+					armor_tech_2 = 1
+					armor_tech_3 = 1
+					armor_tech_4 = 1
+					diesel_engine_tech = 1
+					diesel_engine_tech_2 = 1
+					diesel_engine_tech_3 = 1
+					diesel_engine_tech_4 = 1
+					diesel_engine_tech_5 = 1
+					diesel_engine_tech_6 = 1
+					diesel_engine_tech_7 = 1
+					turbine_engine_tech = 1
+					turbine_engine_tech_2 = 1
+					turbine_engine_tech_3 = 1
+					turbine_engine_tech_4 = 1
+					turbine_engine_tech_5 = 1
+					turbine_engine_tech_6 = 1
+					electric_engine_tech_1 = 1
+					electric_engine_tech_2 = 1
+					electric_engine_tech_3 = 1
+					electric_engine_tech_4 = 1
+					small_medium_gun_tech = 1
+					small_medium_gun_tech_2 = 1
+					small_medium_gun_tech_3 = 1
+					small_medium_gun_tech_4 = 1
+					medium_gun_tech = 1
+					medium_gun_tech_2 = 1
+					medium_gun_tech_3 = 1
+					medium_gun_tech_4 = 1
+					large_gun_tech = 1
+					very_large_gun_tech = 1
+					large_gun_tech_2 = 1
+					large_gun_tech_3 = 1
+					very_large_gun_tech_2 = 1
+					very_large_gun_tech_3 = 1
+					afv_tech = 1
+					afv_tech_1 = 1
+					afv_tech_2 = 1
+					afv_tech_3 = 1
+					afv_tech_4 = 1
+					light_tank_tech = 1
+					light_tank_tech_1 = 1
+					light_tank_tech_2 = 1
+					light_tank_tech_3 = 1
+					light_tank_tech_4 = 1
+					small_autocannon_tech = 1
+					small_autocannon_tech_2 = 1
+					small_autocannon_tech_3 = 1
+					small_autocannon_tech_4 = 1
+					big_autocannon_tech = 1
+					big_autocannon_tech_2 = 1
+					big_autocannon_tech_3 = 1
+					big_autocannon_tech_4 = 1
+					assault_gun_tech = 1
+					assault_gun_tech_2 = 1
+					assault_gun_tech_3 = 1
+					assault_gun_tech_4 = 1
+					fake_arty = 1
+					nsb_artillery_0 = 1
+					nsb_artillery_1 = 1
+					nsb_artillery_2 = 1
+					nsb_artillery_3 = 1
+					nsb_artillery_4 = 1
+					nsb_Arty_upgrade_1 = 1
+					nsb_Arty_upgrade_2 = 1
+					nsb_Arty_upgrade_3 = 1
+					nsb_Arty_upgrade_4 = 1
+					nsb_Arty_upgrade_5 = 1
+					nsb_SP_arty_1 = 1
+					nsb_SP_arty_2 = 1
+					nsb_SP_arty_3 = 1
+					nsb_SP_arty_4 = 1
+					special_forces_airmobile = 1
+					armored_airmobile_corps = 1
+					Arm_Air_assault_Bat = 1
+					expanded_pilot_training = 1
+					open_air_assault_schools = 1
+					massed_assault_formations = 1
+					Arm_Air_assault_Bat = 1
+					coordinated_staging_areas = 1
+					Arm_Air_assault_Bat = 1
+					glamorized_air_assault = 1
+					slingloading_resuppy = 1
+					Arm_Air_assault_Bat = 1
+					mobilitas = 1
+					Arm_Air_assault_Bat = 1
+					mobile_protected_firepower = 1
+					internal_recruitment_drives = 1
+					improved_school_pipelines = 1
+					heavy_lift_helicopters = 1
+					Arm_Air_assault_Bat = 1
+					forward_air_traffic_control = 1
+					Arm_Air_assault_Bat = 1
+					call_for_fires = 1
+					air_assault_Arty_Battery = 1
+					internal_medevac_units = 1
+					helicopter_combat_service_support = 1
+					pilot_and_enlisted_bonuses = 1
+					forward_arm_repair_points = 1
+					
+					assembly_area_coordination = 1
+					Arm_Air_assault_Bat = 1
+					strike_fast_strike_hard = 1
+					Arm_Air_assault_Bat = 1
+					gunship_escorts = 1
+					hot_landing_zone_insertions = 1
+					command_jtac_teams = 1
+					
+					dispersed_jtac_teams = 1
+					
+					forward_staged_supply_lines = 1
+					
+					helicopter_gunship_interdiction = 1
+					
+					prioritized_gunship_crews = 1
+					escorted_medevac_flights = 1
+					helicopter_combat_service_support = 1
+					attack_helicopter_brigades = 1
+					attack_helo_bat = 1
+					transport_helicopter_defensive_weapons = 1
+					helicopter_supplied_fuel_points = 1
+					helicopter_combat_service_support = 1
+					gunship_close_support = 1
+					beans_and_bullets_by_helicopter = 1
+					helicopter_combat_service_support = 1
+					nap_of_the_earth_insertions = 1
+					airmobile_maintainers = 1
+					airmobile_engineering = 1
+					hunter_killer_helo_teams = 1
+					
+					mid_air_helicopter_refueling = 1
+					
+					airmobile_reconassiance_by_fire = 1
+					
+					fortunate_son = 1
+					precision_helicopter_flying = 1
+					external_fuel_tanks = 1
+					precision_firepower = 1
+					
+					rapid_unit_rotations = 1
+					fastroping_assault_operations = 1
+					rapid_asset_interdiction = 1
+					
+					extended_pilot_training = 1
+					critical_care_medevac = 1
+					helicopter_combat_service_support = 1
+					airmobile_leadership_courses = 1
+					combat_resupply_flights = 1
+					helicopter_combat_service_support = 1
+					expanded_light_fighter_bypass_operations = 1
+					
+					bad_weather_flight_training = 1
+					
+					cls_by_doctrine = 1
+					night_combat_insertions = 1
+					rapid_battery_emplacement = 1
+					air_assault_Arty_Battery = 1
+					dedicated_spotter_teams = 1
+					maintaining_momentum = 1
+					
+					infantry_squad_reconassiance = 1
+					
+					special_forces_airborne = 1
+					Mot_Air_Inf_Bat = 1
+					blot_out_the_sun = 1
+					increase_candidate_pools = 1
+					train_more_jumpers = 1
+					protected_transports = 1
+					tight_space_packing = 1
+					rapid_training_pipeline = 1
+					silk_rain = 1
+					aggressive_mindset = 1
+					Mot_Air_Inf_Bat = 1
+					airdropped_heavy_equipment = 1
+					we_need_more_airborne = 1
+					ground_tower_jump = 1
+					palitized_vehicles = 1
+					extra_commo_gear = 1
+					dedicated_paratrooper_transports = 1
+					advanced_medic_training = 1
+					combat_service_support_company = 1
+					helicopter_combat_service_support = 1
+					organized_and_numerous = 1
+					jump_with_what_you_need = 1
+					combat_reoganization = 1
+					flood_their_skies = 1
+					shock_from_the_sky = 1
+					shock_force_expansions = 1
+					light_mortar_barrages = 1
+					signals_intelligence = 1
+					dedicated_supply_teams = 1
+					extra_anti_tank_weapons = 1
+					fast_hard_training = 1
+					medical_evacuation_plans = 1
+					combat_service_support_company = 1
+					helicopter_combat_service_support = 1
+					combat_drops = 1
+					hardened_transports = 1
+					airdrop_logistical_supply = 1
+					more_weapons_more_ammo = 1
+					second_wave_jumpers = 1
+					difficult_terrain_exercises = 1
+					best_offence_is_good_defence = 1
+					
+					mass_drop_tactics = 1
+					
+					open_area_fighting = 1
+					fuel_conservation_techniques = 1
+					stealth_combat_insertions = 1
+					who_dares_wins = 1
+					elite_forces_elite_training = 1
+					combat_resupplies = 1
+					extensive_range_time = 1
+					combat_supply_recovery = 1
+					small_unit_tactics = 1
+					dedicated_saboteurs = 1
+					veteran_training_staff = 1
+					combat_paramedics = 1
+					combat_service_support_company = 1
+					helicopter_combat_service_support = 1
+					sere_training = 1
+					gureilla_fighting = 1
+					use_what_we_take = 1
+					combat_service_support_company = 1
+					helicopter_combat_service_support = 1
+					any_time_any_place_any_weather = 1
+					advanced_medical_care = 1
+					seize_the_initive = 1
+					urban_warfare_training = 1
+					rapid_replenishment_doctrine = 1
+					fight_with_what_you_have = 1
+					eyes_and_ears = 1
 				} 
-			}     
+			}
 		}
-		fire_only_once = yes			
-	}	
+		
+		fire_only_once = yes
+	}
 }

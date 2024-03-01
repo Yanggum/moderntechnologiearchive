@@ -4930,7 +4930,7 @@ equipments = {
 		lg_attack = 25
 
 		anti_air_attack = 138
-		modern_carrier_size = 60.00
+		carrier_size = 60.00
 
 		#ASW
 		sub_attack = 20
@@ -4975,7 +4975,7 @@ equipments = {
 		lg_attack = 26
 
 		anti_air_attack = 321.3
-		modern_carrier_size = 60
+		carrier_size = 60
 
 		#ASW
 		sub_attack = 20
@@ -5020,7 +5020,7 @@ equipments = {
 		lg_attack = 29.7
 
 		anti_air_attack = 403.2
-		modern_carrier_size = 60
+		carrier_size = 60
 
 		#ASW
 		sub_attack = 24
@@ -5063,7 +5063,7 @@ equipments = {
 		lg_armor_piercing = 24
 		lg_attack = 37.2
 		anti_air_attack = 557.6
-		modern_carrier_size = 60
+		carrier_size = 60
 
 		#ASW
 		sub_attack = 32
@@ -5107,7 +5107,7 @@ equipments = {
 		lg_armor_piercing = 24
 		lg_attack = 40.8
 		anti_air_attack = 682.5
-		modern_carrier_size = 60
+		carrier_size = 60
 
 		#ASW
 		sub_attack = 32
@@ -5151,7 +5151,7 @@ equipments = {
 		lg_armor_piercing = 24
 		lg_attack = 42
 		anti_air_attack = 792
-		modern_carrier_size = 60
+		carrier_size = 60
 
 		#ASW
 		sub_attack = 32
@@ -5194,7 +5194,7 @@ equipments = {
 		lg_armor_piercing = 24
 		lg_attack = 42
 		anti_air_attack = 800
-		modern_carrier_size = 60
+		carrier_size = 60
 
 		#ASW
 		sub_attack = 32
@@ -5237,7 +5237,7 @@ equipments = {
 		lg_armor_piercing = 0.00
 		lg_attack = 1.00
 		anti_air_attack = 9.63
-		modern_carrier_size = 10.00
+		carrier_size = 10.00
 
 		#ASW
 		sub_attack = 0.00
@@ -5288,7 +5288,7 @@ equipments = {
 		lg_armor_piercing = 0.00
 		lg_attack = 1.12
 		anti_air_attack = 11.56
-		modern_carrier_size = 20.00
+		carrier_size = 20.00
 
 		#ASW
 		sub_attack = 0.00
@@ -5338,7 +5338,7 @@ equipments = {
 		lg_armor_piercing = 0.00
 		lg_attack = 1.25
 		anti_air_attack = 13.87
-		modern_carrier_size = 30.00
+		carrier_size = 30.00
 
 		#ASW
 		sub_attack = 0.00
@@ -5388,7 +5388,7 @@ equipments = {
 		lg_armor_piercing = 0.00
 		lg_attack = 1.40
 		anti_air_attack = 16.64
-		modern_carrier_size = 50.00
+		carrier_size = 50.00
 
 		#ASW
 		sub_attack = 0.00
@@ -5439,7 +5439,7 @@ equipments = {
 		lg_armor_piercing = 0.00
 		lg_attack = 1.57
 		anti_air_attack = 19.97
-		modern_carrier_size = 60.00
+		carrier_size = 60.00
 
 		#ASW
 		sub_attack = 0.00
@@ -5490,7 +5490,7 @@ equipments = {
 		lg_armor_piercing = 0.00
 		lg_attack = 1.76
 		anti_air_attack = 23.96
-		modern_carrier_size = 70.00
+		carrier_size = 70.00
 
 		#ASW
 		sub_attack = 0.00
@@ -5540,7 +5540,7 @@ equipments = {
 		lg_armor_piercing = 0.00
 		lg_attack = 1.97
 		anti_air_attack = 28.76
-		modern_carrier_size = 70.00
+		carrier_size = 70.00
 
 		#ASW
 		sub_attack = 0.00
@@ -5588,7 +5588,7 @@ equipments = {
 		lg_armor_piercing = 0.00
 		lg_attack = 1.12
 		anti_air_attack = 11.56
-		modern_carrier_size = 7.00
+		carrier_size = 7.00
 
 		#ASW
 		sub_attack = 0.00
@@ -5636,7 +5636,7 @@ equipments = {
 		lg_armor_piercing = 0.00
 		lg_attack = 1.25
 		anti_air_attack = 13.87
-		modern_carrier_size = 10.00
+		carrier_size = 10.00
 
 		#ASW
 		sub_attack = 0.00
@@ -5683,7 +5683,7 @@ equipments = {
 		lg_armor_piercing = 0.00
 		lg_attack = 1.57
 		anti_air_attack = 19.97
-		modern_carrier_size = 17.00
+		carrier_size = 17.00
 
 		#ASW
 		sub_attack = 0.00
@@ -5732,7 +5732,7 @@ equipments = {
 		lg_armor_piercing = 0.00
 		lg_attack = 1.76
 		anti_air_attack = 23.96
-		modern_carrier_size = 20.00
+		carrier_size = 20.00
 
 		#ASW
 		sub_attack = 0.00
@@ -5781,7 +5781,7 @@ equipments = {
 		lg_armor_piercing = 0.00
 		lg_attack = 1.97
 		anti_air_attack = 28.76
-		modern_carrier_size = 37.00
+		carrier_size = 37.00
 
 		#ASW
 		sub_attack = 0.00
@@ -5838,7 +5838,7 @@ equipments = {
 		lg_attack = 1
 		#fire_range = 14
 		torpedo_attack = 0
-		modern_carrier_size = 0
+		carrier_size = 0
 
 		anti_air_attack = 8
 
@@ -5877,7 +5877,7 @@ equipments = {
 		lg_armor_piercing = 0.00
 		lg_attack = 1.12
 		anti_air_attack = 11.56
-		modern_carrier_size = 0
+		carrier_size = 0
 
 		#ASW
 		sub_attack = 0.00
@@ -5924,7 +5924,7 @@ equipments = {
 		lg_armor_piercing = 0.00
 		lg_attack = 1.25
 		anti_air_attack = 13.87
-		modern_carrier_size = 0
+		carrier_size = 0
 
 		#ASW
 		sub_attack = 0.00
@@ -5970,7 +5970,7 @@ equipments = {
 		lg_armor_piercing = 0.00
 		lg_attack = 1.57
 		anti_air_attack = 19.97
-		modern_carrier_size = 0
+		carrier_size = 0
 
 		#ASW
 		sub_attack = 0.00
@@ -6019,7 +6019,7 @@ equipments = {
 		lg_armor_piercing = 0.00
 		lg_attack = 1.76
 		anti_air_attack = 23.96
-		modern_carrier_size = 0
+		carrier_size = 0
 
 		#ASW
 		sub_attack = 0.00
@@ -6070,7 +6070,7 @@ equipments = {
 		lg_armor_piercing = 0.00
 		lg_attack = 1.97
 		anti_air_attack = 28.76
-		modern_carrier_size = 0
+		carrier_size = 0
 
 		#ASW
 		sub_attack = 0.00

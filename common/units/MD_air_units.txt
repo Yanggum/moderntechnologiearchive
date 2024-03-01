@@ -56,7 +56,7 @@ sub_units = {
 		need = { cv_small_modern_plane_airframe = 1 }
 		categories = { category_fighter }
 		land_air_wing_size = 10
-		modern_carrier_air_wing_size = 10
+		carrier_air_wing_size = 10
 	}
 	cv_light_cas = {
 		sprite = cas
@@ -66,7 +66,7 @@ sub_units = {
 		need = { cv_small_modern_plane_cas_airframe = 1 }
 		categories = { category_CAS }
 		land_air_wing_size = 10
-		modern_carrier_air_wing_size = 10
+		carrier_air_wing_size = 10
 	}
 	cv_light_nav_strike = {
 		sprite = nav_plane
@@ -76,7 +76,7 @@ sub_units = {
 		need = { cv_small_modern_plane_naval_bomber_airframe = 1 }
 		categories = { category_nav_plane }
 		land_air_wing_size = 10
-		modern_carrier_air_wing_size = 10
+		carrier_air_wing_size = 10
 	}
 	cv_light_strike = {
 		sprite = mr_fighter
@@ -86,7 +86,7 @@ sub_units = {
 		need = { cv_small_modern_plane_strike_airframe = 1 }
 		categories = { category_Strike_fighter }
 		land_air_wing_size = 10
-		modern_carrier_air_wing_size = 10
+		carrier_air_wing_size = 10
 	}
 	cv_drone = {
 		sprite = uav
@@ -96,7 +96,7 @@ sub_units = {
 		need = { cv_small_modern_plane_suicide_airframe = 1 }
 		categories = { category_Air_UAV }
 		land_air_wing_size = 10
-		modern_carrier_air_wing_size = 10
+		carrier_air_wing_size = 10
 	}
 	#Tactical Bomber = Multirole fighter
 	mr_fighter = {
@@ -157,7 +157,7 @@ sub_units = {
 		need = { cv_medium_modern_plane_airframe = 1 }
 		categories = { category_MR_fighter }
 		land_air_wing_size = 10
-		modern_carrier_air_wing_size = 10
+		carrier_air_wing_size = 10
 	}
 	#Medium modern_carrier Air Superiority Fighters
 	cv_as_fighter = {
@@ -168,7 +168,7 @@ sub_units = {
 		need = { cv_medium_modern_plane_fighter_airframe = 1 }
 		categories = { category_AS_fighter }
 		land_air_wing_size = 10
-		modern_carrier_air_wing_size = 10
+		carrier_air_wing_size = 10
 	}
 	#Medium modern_carrier CAS Fighters
 	cv_med_cas_fighter = {
@@ -179,7 +179,7 @@ sub_units = {
 		need = { cv_medium_modern_plane_cas_airframe = 1 }
 		categories = { category_CAS }
 		land_air_wing_size = 10
-		modern_carrier_air_wing_size = 10
+		carrier_air_wing_size = 10
 	}
 	#modern_carrier Maritime Patrol Aircraft
 	cv_nav_strike = {
@@ -190,7 +190,7 @@ sub_units = {
 		need = { cv_medium_modern_plane_maritime_patrol_airframe = 1 }
 		categories = { category_nav_plane }
 		land_air_wing_size = 10
-		modern_carrier_air_wing_size = 10
+		carrier_air_wing_size = 10
 	}
 	#modern_carrier Transport Aircraft
 	cv_med_transport = {
@@ -201,7 +201,7 @@ sub_units = {
 		need = { cv_medium_modern_plane_air_transport_airframe = 1 }
 		categories = { category_heavy_air }
 		land_air_wing_size = 10
-		modern_carrier_air_wing_size = 10
+		carrier_air_wing_size = 10
 	}
 	#modern_carrier AWACS
 	cv_med_awacs = {
@@ -212,7 +212,7 @@ sub_units = {
 		need = { cv_medium_modern_plane_scout_airframe = 1 }
 		categories = { category_heavy_air }
 		land_air_wing_size = 10
-		modern_carrier_air_wing_size = 10
+		carrier_air_wing_size = 10
 	}
 	#Strategic Bomber
 	bba_strat_bomber = {
